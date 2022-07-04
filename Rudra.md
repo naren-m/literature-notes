@@ -7,7 +7,7 @@ Ruk Dra -> Ruk draavayathi ithi Rudraha
 
 A flow of pain and suffering
 
-Ru Dra -> Ru Draavayathi ithi Rudraha 
+Ru Dra -> Ru Draavayathi ithi Rudraha
 
 Ru -> Knowledge
 Dra -> Flow

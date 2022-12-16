@@ -1,4 +1,4 @@
 # Max Muller
 
-Supposed to be the started or [[Aryan Invasion Theory]]
+Could have first coined [[Aryan Invasion Theory]]
 

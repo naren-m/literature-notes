@@ -19,7 +19,7 @@
 ## Sanskrit
 - [[Niruktha]] is Nighantu that explains the root words of Sanskrit
 - [[Astadhyayi]] Sanskrit grammer by [[Panini]]
-- [[Amarakosham]] by Amara
+- [[Amarakosham]] by [Amarasimha](https://en.wikipedia.org/wiki/Amarasimha)
 
 
 ## Mathematics

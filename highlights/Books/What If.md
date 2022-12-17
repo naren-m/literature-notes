@@ -11,4 +11,4 @@
 ### Highlights
 
 - spinning, but the atmosphere retained its velocity? —Andrew Brown ([Location 106](https://readwise.io/to_kindle?action=open&asin=B00IYUYF4A&location=106))
-    - **Tags:** #blue
+  - **Tags:** #blue

@@ -5,7 +5,9 @@
 ### Metadata
 
 - Author: Marco Massenzio
+
 - Full Title: How to Publish Your Own Python Package on PyPi
+
 - Category: #articles
 
 - URL: https://medium.com/p/a89e9522ce24

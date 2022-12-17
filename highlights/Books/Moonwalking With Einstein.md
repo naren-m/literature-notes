@@ -33,7 +33,7 @@
 - experts tend to require at least ten thousand hours of training to achieve their world-class status. (Location 750)
 - How to Be a Star at Work, Secrets of Modern Chess Strategy, Lore of Running, (Location 757)
 - They can overcome one of the brain’s most fundamental constraints: the magical number seven. (Location 777)
-    - **Note:** Whaat does it men?
+  - **Note:** Whaat does it men?
 - What separates merely good chess players from those who are world-class? (Location 894)
 - magical number seven? The (Location 919)
 - We don’t remember isolated facts; we remember things in context. (Location 920)
@@ -46,8 +46,8 @@
 - Motor skill learning takes place largely in the cerebellum, perceptual learning in the neocortex, habit learning in the basal ganglia. (Location 1134)
 - Indeed, most of who we are and how we think—the core material of our personalities—is bound up in implicit memories that are off-limits to the conscious brain. (Location 1135)
 - declarative memories, psychologists make a further distinction between semantic memories, or memories for facts and concepts, and episodic memories, or memories of the experiences of our own lives. (Location 1137)
-    - **Note:** Semantic memories for fcts
-      Episodic memory for experiences
+  - **Note:** Semantic memories for fcts
+    Episodic memory for experiences
 - Semantic memories are located outside of time (Location 1140)
 - both are critically dependent on the hippocampus and other structures within the medial temporal lobes. (Location 1142)
 - For some unknown reason, it’s the most recent memories that blur first in most amnesics, while distant memories retain their clarity. This phenomenon is known as Ribot’s Law, (Location 1145)
@@ -57,10 +57,10 @@
 - Sigmund Freud first noted the curious fact that older memories are often remembered as if captured by a third person holding a camera, whereas more recent events tend to be remembered in the first person, as if through one’s own eyes. (Location 1152)
 - over time, the brain naturally turns episodes into facts. (Location 1154)
 - well-supported hypothesis holds that our memories are nomadic. (Location 1155)
-    - **Note:** Memories fre not static 
-      they are nomadic , theyy dont hve one location ijnside the brainf they wANder 
-      Over time experiences trns formm into facts
-      initiial formation in hippocampus but later moved to neocortex
+  - **Note:** Memories fre not static
+    they are nomadic , theyy dont hve one location ijnside the brainf they wANder
+    Over time experiences trns formm into facts
+    initiial formation in hippocampus but later moved to neocortex
 - hippocampus is involved in their initial formation, their contents are ultimately held in long-term storage in the neocortex. (Location 1156)
 - neocortex is not fully developed until about the third or fourth year, (Location 1179)
 - most basic principle of all mnemonics: “elaborative encoding.” (Location 1234)
@@ -86,7 +86,7 @@
 - Strip away the emotions, the philosophizing, the neuroses, and the dreams, and our brains, in the most reductive sense, are fundamentally prediction and planning machines. (Location 1716)
 - And to work efficiently, they have to find order in the chaos of possible memories. (Location 1717)
 - The brain best remembers things that are repeated, rhythmic, rhyming, structured, and above all easily visualized. (Location 1767)
-    - **Note:** I can use this in my scripts to makes concepts stick in memory
+  - **Note:** I can use this in my scripts to makes concepts stick in memory
 - Words that rhyme are much more memorable than words that don’t; concrete nouns are easier to remember than abstract nouns; dynamic images are more memorable than static images; alliteration aids memory. (Location 1769)
 - The anonymous author of the Ad Herrenium suggests that the best method for remembering poetry ad verbum is to repeat a line two or three times before trying to see it as a series of images. (Location 1805)
 - “singularly simple-minded to believe that written words can do anything more than remind one of what one already knows.” (Location 1896)
@@ -96,7 +96,7 @@
 - The historian Ivan Illich has argued that this represented an invention of such magnitude that “it seems reasonable to speak of the pre- and post-index Middle Ages.” (Location 1989)
 - To our memory-bound predecessors, the goal of training one’s memory was not to become a “living book,” but rather a “living concordance,” a walking index of everything one had read, and all the information one had acquired. (Location 1994)
 - Titled Phoenix, it was translated into several languages and reprinted all across Europe. (Location 1998)
-    - **Note:** Try reding Phenix book
+  - **Note:** Try reding Phenix book
 - When the point of reading is, as it was for Peter of Ravenna, remembering, you approach a text very differently than most of us do today. (Location 2012)
 - “The First Steps Toward a History of Reading,” Robert Darnton describes a switch from “intensive” to “extensive” reading that occurred as books began to proliferate. (Location 2016)
 - “They had only a few books—the Bible, an almanac, a devotional work or two—and they read them over and over again, usually aloud and in groups, so that a narrow range of traditional literature became deeply impressed on their consciousness.” (Location 2018)
@@ -104,11 +104,11 @@
 - But in the sixteenth century, an Italian philosopher and alchemist named Giulio Camillo—known as “Divine Camillo” to his many admirers and “the Quack” to his many detractors—had the clever idea of making concrete what had for the previous two thousand years always been an ethereal idea. (Location 2043)
 - real wooden building. He imagined creating a “Theater of Memory” that would serve as a universal library containing all the knowledge of mankind. (Location 2046)
 - assessment—Camillo’s reputation was resurrected in the twentieth century thanks to the efforts of the historian Frances Yates, who helped reconstruct the theater’s blueprints in her book The Art of Memory, and the Italian literature professor Lina Bolzoni, who has helped explain how Camillo’s theater was more than just the work of a nut job, but actually the apotheosis of an entire era’s ideas about memory. (Location 2066)
-    - **Note:** The art of memory book
+  - **Note:** The art of memory book
 - “American Mnemotechny” and “How to Remember.” (Location 2095)
-    - **Note:** Book how to remember
-- Loisette’s 1886 book Physiological Memory: The Instantaneous Art of Never Forgetting selling for as little as $1.25 on the Internet is evidence of its once immense popularity. (Location 2099)
-    - **Note:** Book the er of never forgetting with the mnemonics
+  - **Note:** Book how to remember
+- Loisette’s 1886 book Physiological Memory: The Instantaneous Art of Never Forgetting selling for as little as \$1.25 on the Internet is evidence of its once immense popularity. (Location 2099)
+  - **Note:** Book the er of never forgetting with the mnemonics
 - Bell sees himself as the vanguard of a new movement that takes the externalization of memory to its logical extreme: a final escape from the biology of remembering. (Location 2145)
 - Bell in his book Total Recall: How the E-Memory Revolution Will Change Everything. (Location 2147)
 - Bell has kept a digital “surrogate memory” to supplement the one in his brain. It ensures that a record is kept of anything and everything that might be forgotten. (Location 2149)

@@ -24,7 +24,7 @@
 - The reason the Voyager craft were launched when they were (in August and September 1977) was that Jupiter, Saturn, Uranus, and Neptune were aligned in a way that happens only once every 175 years. This enabled the two Voyagers to use a “gravity assist” technique in which the craft were successively flung from one gassy giant to the next in a kind of cosmic version of “crack the whip.” (Location 409)
 - We won't get to the solar system's edge until we have passed through the Oort cloud, a vast celestial realm of drifting comets, and we won't reach the Oort cloud for another—I'm so sorry about this—ten thousand years. (Location 437)
 - Pluto is barely one-fifty-thousandth of the way. (Location 439)
-- As it is, even with the Hubble telescope, we can't see even into the Oort cloud, so we don't actually know that it is there. Its existence is probable but entirely hypothetical.*2 (Location 444)
+- As it is, even with the Hubble telescope, we can't see even into the Oort cloud, so we don't actually know that it is there. Its existence is probable but entirely hypothetical.\*2 (Location 444)
 - The basic unit of measure in the solar system is the Astronomical Unit, or AU, representing the distance from the Sun to the Earth. Pluto is about forty AUs from us, the heart of the Oort cloud about fifty thousand. (Location 448)
 - Our nearest neighbor in the cosmos, Proxima Centauri, which is part of the three-star cluster known as Alpha Centauri, is 4.3 light-years away, a sissy skip in galactic terms, but that is still a hundred million times farther than a trip to the Moon. To reach it by spaceship would take at least twenty-five thousand years, (Location 462)
 - The average distance between stars out there is 20 million million miles. (Location 467)

@@ -32,12 +32,12 @@
 - Excitement is the more practical synonym for happiness, and it is precisely what you should strive to chase. It is the cure-all. (Location 966)
 - When people suggest you follow your “passion” or your “bliss,” I propose that they are, in fact, referring to the same singular concept: excitement. (Location 967)
 - This brings us full circle. The question you should be asking isn’t, “What do I want?” or “What are my goals?” but “What would excite me?” (Location 968)
-    - **Tags:** #work, #career, #favorite
+  - **Tags:** #work, #career, #favorite
 - Perfection is not when there is no more to add, but no more to take away. —ANTOINE DE SAINT-EXUPÉRY, pioneer of international postal flight and author of Le Petit Prince (The Little Prince) (Location 1164)
 - It is vain to do with more what can be done with less. —WILLIAM OF OCCAM (1300–1350), originator of “Occam’s Razor” (Location 1167)
 - The intention of this chapter, and what you will experience if you follow the instructions, is an increase in personal productivity between 100 and 500%. The principles are the same for both employees and entrepreneurs, but the purpose of this increased productivity is completely different. (Location 1184)
 - First, the employee. The employee is increasing productivity to increase negotiating leverage for two simultaneous objectives: pay raises and a remote working arrangement. Recall that, as indicated in the first chapter of this book, the general process of joining the New Rich is D-E-A-L, in that order, but that employees intent on remaining employees for now need to implement the process as D-E-L-A. (Location 1187)
-    - **Tags:** #favorite
+  - **Tags:** #favorite
 - What you do is infinitely more important than how you do it. Efficiency is still important, but it is useless unless applied to the right things. (Location 1213)
 - What gets measured gets managed. —PETER DRUCKER, management theorist, author of 31 books, recipient of Presidential Medal of Freedom (Location 1217)
 - “Pareto’s Law” or the “Pareto Distribution,” in the last decade also popularly called the “80/20 Principle.” (Location 1224)
@@ -47,7 +47,7 @@
 - Since we have 8 hours to fill, we fill 8 hours. If we had 15, we would fill 15. If we have an emergency and need to suddenly leave work in 2 hours but have pending deadlines, we miraculously complete those assignments in 2 hours. It is all related to a law that was introduced to me by Ed Zschau in the spring of 2000. (Location 1315)
 - Parkinson’s Law dictates that a task will swell in (perceived) importance and complexity in relation to the time allotted for its completion. It (Location 1330)
 - This presents a very curious phenomenon. There are two synergistic approaches for increasing productivity that are inversions of each other: Limit tasks to the important to shorten work time (80/20). Shorten work time to limit tasks to the important (Parkinson’s Law). (Location 1334)
-    - **Tags:** #favorite
+  - **Tags:** #favorite
 - From 40 hours per week, he was down to 18 and producing four times the results. (Location 1366)
 - At least three times per day at scheduled times, he had to ask himself the following question: Am I being productive or just active? Charney captured the essence of this with less-abstract wording: Am I inventing things to do to avoid the important? He eliminated all of the activities he used as crutches and began to focus on demonstrating results instead of showing dedication. Dedication is often just meaningless work in disguise. Be ruthless and cut the fat. It is possible to have your cupcake and eat it, too. (Location 1369)
 - The key to having more time is doing less, and there are two paths to getting there, both of which should be used together: (1) Define a to-do list and (2) define a not-to-do list. (Location 1380)

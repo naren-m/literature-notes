@@ -5,7 +5,9 @@
 ### Metadata
 
 - Author: Section 13
+
 - Full Title: RFC 7950 - The YANG 1.1 Data Modeling Language
+
 - Category: #articles
 
 - URL: https://datatracker.ietf.org/doc/html/rfc7950#page-136

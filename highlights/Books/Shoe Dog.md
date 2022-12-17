@@ -24,7 +24,7 @@
 - Through their resilience, through their stoic acceptance of total defeat, and their heroic reconstruction of their nation, the Japanese had put the war cleanly behind them. ([Location 378](https://readwise.io/to_kindle?action=open&asin=B0176M1A44&location=378))
 - In college I’d read the analects of Confucius—The man who moves a mountain begins by carrying away small stones—and now I felt strongly that I’d never have a chance to move this particular mountain. ([Location 423](https://readwise.io/to_kindle?action=open&asin=B0176M1A44&location=423))
 - You are remembered, he said, prophetically, for the rules you break. ([Location 431](https://readwise.io/to_kindle?action=open&asin=B0176M1A44&location=431))
-    - **Note:** Macarthur
+  - **Note:** Macarthur
 - All is vanity, says the Bible. All is now, says Zen. All is dust, says the desert. ([Location 458](https://readwise.io/to_kindle?action=open&asin=B0176M1A44&location=458))
 - went to Venice, spent a few languorous days walking in the footsteps of Marco Polo, and stood I don’t know how long before the palazzo of Robert Browning. If you get simple beauty and naught else, you get about the best thing God invents. ([Location 482](https://readwise.io/to_kindle?action=open&asin=B0176M1A44&location=482))
 - Don’t tell people how to do things, tell them what to do and let them surprise you with their results. ([Location 489](https://readwise.io/to_kindle?action=open&asin=B0176M1A44&location=489))

@@ -11,11 +11,11 @@
 ### Highlights
 
 - Ragnarok, ([Location 38](https://readwise.io/to_kindle?action=open&asin=B01HQA6EOC&location=38))
-    - **Tags:** #blue
+  - **Tags:** #blue
 - In English, the gods have left their names in our days of the week. You can find Tyr the one-handed (Odin’s son), Odin, Thor, and Frigg, the queen of the gods, in, respectively, Tuesday, Wednesday, Thursday, and Friday. ([Location 46](https://readwise.io/to_kindle?action=open&asin=B01HQA6EOC&location=46))
-    - **Tags:** #blue
-    - **Note:** Interesting, find resources to back or validate this
+  - **Tags:** #blue
+  - **Note:** Interesting, find resources to back or validate this
 - Freya’s tears, for example, was a poetic way of saying “gold.” ([Location 57](https://readwise.io/to_kindle?action=open&asin=B01HQA6EOC&location=57))
-    - **Tags:** #blue
+  - **Tags:** #blue
 - Angrboda, Loki’s wife among the giants, ([Location 72](https://readwise.io/to_kindle?action=open&asin=B01HQA6EOC&location=72))
-    - **Tags:** #blue
+  - **Tags:** #blue

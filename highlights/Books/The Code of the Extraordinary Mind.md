@@ -11,6 +11,6 @@
 ### Highlights
 
 - extraordinary ([Location 103](https://readwise.io/to_kindle?action=open&asin=B0182SMOBE&location=103))
-    - **Tags:** #blue
+  - **Tags:** #blue
 - Losing My Virginity, ([Location 108](https://readwise.io/to_kindle?action=open&asin=B0182SMOBE&location=108))
-    - **Tags:** #blue
+  - **Tags:** #blue

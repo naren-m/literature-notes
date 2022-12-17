@@ -5,7 +5,9 @@
 ### Metadata
 
 - Author: Adam Geitgey
+
 - Full Title: Machine Learning Is Fun! Part 4: Modern Face Recognition With Deep Learning
+
 - Category: #articles
 
 - URL: https://medium.com/p/c3cffc121d78

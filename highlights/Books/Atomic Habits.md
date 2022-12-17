@@ -1,6 +1,6 @@
 # Atomic Habits
 
-![](https://img1.od-cdn.com/ImageType-100/1523-1/{D29CC053-29CE-4E90-9596-61DA1F2F555D}Img100.jpg)
+![](https://img1.od-cdn.com/ImageType-100/1523-1/%7BD29CC053-29CE-4E90-9596-61DA1F2F555D%7DImg100.jpg)
 
 ### Metadata
 
@@ -12,18 +12,18 @@
 
 - psychology background may recognize some of these terms from operant conditioning, which was first proposed as “stimulus, response, reward” by B. F. Skinner in the 1930s and has been popularized more recently as “cue, routine, reward” in The Power of Habit by Charles Duhigg. (Location 200)
 - Brailsford had been hired to put British Cycling on a new trajectory. What made him different from previous coaches was his relentless commitment to a strategy that he referred to as “the aggregation of marginal gains,” which was the philosophy of searching for a tiny margin of improvement in everything you do. (Location 232)
-    - **Note:** Aggregational margijnal change
+  - **Note:** Aggregational margijnal change
 - Brailsford said, “The whole principle came from the idea that if you broke down everything you could think of that goes into riding a bike, and then improve it by 1 percent, you will get a significant increase when you put them all together.” (Location 235)
-    - **Note:** One percen rule
+  - **Note:** One percen rule
 - Time magnifies the margin between success and failure. It will multiply whatever you feed it. Good habits make time your ally. Bad habits make time your enemy. (Location 317)
-    - **Note:** Compound effect over the ywrs you ger better if ykou improve by one percen dy
+  - **Note:** Compound effect over the ywrs you ger better if ykou improve by one percen dy
 - the most powerful outcomes are delayed. (Location 357)
-    - **Tags:** #favorite
+  - **Tags:** #favorite
 - Plateau of Latent Potential. (Location 363)
 - Two tectonic plates can grind against one another for millions of years, the tension slowly building all the while. Then, one day, they rub each other once again, in the same fashion they have for ages, but this time the tension is too great. An earthquake erupts. Change can take years—before it happens all at once. (Location 372)
 - “When nothing seems to help, I go and look at a stonecutter hammering away at his rock, perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that last blow that did it—but all that had gone before.” (Location 376)
 - Goals are about the results you want to achieve. Systems are about the processes that lead to those results. (Location 402)
-    - **Note:** Gols vs Systems
+  - **Note:** Gols vs Systems
 - of three-time Super Bowl winner Bill Walsh, “The score takes care of itself.” (Location 414)
 - Problem #1: Winners and losers have the same goals. (Location 420)
 - Problem #2: Achieving a goal is only a momentary change. (Location 429)
@@ -38,30 +38,30 @@
 - Outcomes are about what you get. Processes are about what you do. Identity is about what you believe. (Location 509)
 - The alternative is to build identity-based habits. With this approach, we start by focusing on who we wish to become. (Location 516)
 - It’s one thing to say I’m the type of person who wants this. It’s something very different to say I’m the type of person who is this. (Location 554)
-    - **Note:** Figurethe identityreate to self
+  - **Note:** Figurethe identityreate to self
 - The more you repeat a behavior, the more you reinforce the identity associated with that behavior. (Location 606)
 - In fact, the word identity was originally derived from the Latin words essentitas, which means being, and identidem, which means repeatedly. Your identity is literally your “repeated beingness.” (Location 607)
-    - **Note:** Idetiry is literally repeated beingness
+  - **Note:** Idetiry is literally repeated beingness
 - It is a simple two-step process: 1. Decide the type of person you want to be. 2. Prove it to yourself with small wins. (Location 649)
 - identity-based habits is our first introduction to another key theme in this book: feedback loops. Your habits shape your identity, and your identity shapes your habits. It’s a two-way (Location 669)
 - Chapter Summary There are three levels of change: outcome change, process change, and identity change. The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become. Your identity emerges out of your habits. Every action is a vote for the type of person you wish to become. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity. The real reason habits matter is not because they can get you better results (although they can do that), but because they can change your beliefs about yourself. (Location 689)
 - From his studies, Thorndike described the learning process by stating, “behaviors followed by satisfying consequences tend to be repeated and those that produce unpleasant consequences are less likely to be repeated.” (Location 718)
-    - **Note:** Cat exoperiet
+  - **Note:** Cat exoperiet
 - As behavioral scientist Jason Hreha writes, “Habits are, simply, reliable solutions to recurring problems in our environment.” (Location 739)
 - steps: cue, craving, response, and reward. * (Location 773)
 - Rewards are the end goal of every habit. The cue is about noticing the reward. The craving is about wanting the reward. The response is about obtaining the reward. (Location 803)
-    - **Note:** 4 stages of habit
+  - **Note:** 4 stages of habit
 - If a behavior is insufficient in any of the four stages, it will not become a habit. Eliminate the cue and your habit will never start. Reduce the craving and you won’t experience enough motivation to act. Make the behavior difficult and you won’t be able to do it. And if the reward fails to satisfy your desire, then you’ll have no reason to do it again in the future. (Location 815)
 - The brain is continually scanning the environment, predicting what will happen next, trying out different responses, and learning from the results. The entire process is completed in a split second, and we use it again and again without realizing everything that has been packed into the previous moment. (Location 830)
 - We can split these four steps into two phases: the problem phase and the solution phase. The problem phase includes the cue and the craving, and it is when you realize that something needs to change. The solution phase includes the response and the reward, and it is when you take action and achieve the change you desire. (Location 833)
-    - **Note:** Phase of four steps 
-      proble phsendsolution phse
+  - **Note:** Phase of four steps
+    proble phsendsolution phse
 - How to Create a Good Habit The 1st law (Cue): Make it obvious. The 2nd law (Craving): Make it attractive. The 3rd law (Response): Make it easy. The 4th law (Reward): Make it satisfying. (Location 878)
 - How to Break a Bad Habit Inversion of the 1st law (Cue): Make it invisible. Inversion of the 2nd law (Craving): Make it unattractive. Inversion of the 3rd law (Response): Make it difficult. Inversion of the 4th law (Reward): Make it unsatisfying. (Location 882)
 - Whenever you want to change your behavior, you can simply ask yourself: 1. How can I make it obvious? 2. How can I make it attractive? 3. How can I make it easy? 4. How can I make it satisfying? (Location 889)
-    - **Note:** Chnge in behvior for behvior chnge
+  - **Note:** Chnge in behvior for behvior chnge
 - Chapter Summary A habit is a behavior that has been repeated enough times to become automatic. The ultimate purpose of habits is to solve the problems of life with as little energy and effort as possible. Any habit can be broken down into a feedback loop that involves four steps: cue, craving, response, and reward. The Four Laws of Behavior Change are a simple set of rules we can use to build better habits. They are (1) make it obvious, (2) make it attractive, (3) make it easy, and (4) make it satisfying. (Location 899)
-    - **Tags:** #favorite, #habit
+  - **Tags:** #favorite, #habit
 - As the psychologist Carl Jung said, “Until you make the unconscious conscious, it will direct your life and you will call it fate.” (Location 971)
 - This process, known as Pointing-and-Calling, is a safety system designed to reduce mistakes. (Location 981)
 - Pointing-and-Calling reduces errors by up to 85 percent and cuts accidents by 30 percent. (Location 983)
@@ -69,7 +69,7 @@
 - Hearing your bad habits spoken aloud makes the consequences seem more real. (Location 1037)
 - The process of behavior change always starts with awareness. (Location 1042)
 - Chapter Summary With enough practice, your brain will pick up on the cues that predict certain outcomes without consciously thinking about it. Once our habits become automatic, we stop paying attention to what we are doing. The process of behavior change always starts with awareness. You need to be aware of your habits before you can change them. Pointing-and-Calling raises your level of awareness from a nonconscious habit to a more conscious level by verbalizing your actions. The Habits Scorecard is a simple exercise you can use to become more aware of your behavior. (Location 1044)
-- “During the next week, I will partake in at least 20 minutes of vigorous exercise on [DAY] at [TIME] in [PLACE].” (Location 1062)
+- “During the next week, I will partake in at least 20 minutes of vigorous exercise on \[DAY\] at \[TIME\] in \[PLACE\].” (Location 1062)
 - The sentence they filled out is what researchers refer to as an implementation intention, which is a plan you make beforehand about when and where to act. That is, how you intend to implement a particular habit. (Location 1066)
 - “When situation X arises, I will perform response Y.” (Location 1072)
 - The punch line is clear: people who make a specific plan for when and where they will perform a new habit are more likely to follow through. (Location 1081)
@@ -81,13 +81,13 @@
 - One of the best ways to build a new habit is to identify a current habit you already do each day and then stack your new behavior on top. This is called habit stacking. (Location 1139)
 - Habit stacking is a special form of an implementation intention. (Location 1141)
 - Habit stacking works best when the cue is highly specific and immediately actionable. (Location 1201)
-- Chapter Summary The 1st Law of Behavior Change is make it obvious. The two most common cues are time and location. Creating an implementation intention is a strategy you can use to pair a new habit with a specific time and location. The implementation intention formula is: I will [BEHAVIOR] at [TIME] in [LOCATION]. Habit stacking is a strategy you can use to pair a new habit with a current habit. The habit stacking formula is: After [CURRENT HABIT], I will [NEW HABIT]. (Location 1214)
+- Chapter Summary The 1st Law of Behavior Change is make it obvious. The two most common cues are time and location. Creating an implementation intention is a strategy you can use to pair a new habit with a specific time and location. The implementation intention formula is: I will \[BEHAVIOR\] at \[TIME\] in \[LOCATION\]. Habit stacking is a strategy you can use to pair a new habit with a current habit. The habit stacking formula is: After \[CURRENT HABIT\], I will \[NEW HABIT\]. (Location 1214)
 - Behavior is a function of the Person in their Environment, or B = f (P,E). (Location 1248)
 - In 1952, the economist Hawkins Stern described a phenomenon he called Suggestion Impulse Buying, which “is triggered when a shopper sees a product for the first time and visualizes a need for it.” (Location 1250)
 - The human body has about eleven million sensory receptors. Approximately ten million of those are dedicated to sight. Some experts estimate that half of the brain’s resources are used on (Location 1274)
-    - **Note:** Interesting liking sarvwnriynm nayanam prdhaanam
+  - **Note:** Interesting liking sarvwnriynm nayanam prdhaanam
 - In the early 1990s, the cleaning staff at Schiphol Airport in Amsterdam installed a small sticker that looked like a fly near the center of each urinal. Apparently, when men stepped up to the urinals, they aimed for what they thought was a bug. The stickers improved their aim and significantly reduced “spillage” around the urinals. Further analysis determined that the stickers cut bathroom cleaning costs by 8 percent per year. (Location 1297)
-    - **Note:** Interesting
+  - **Note:** Interesting
 - Chapter Summary Small changes in context can lead to large changes in behavior over time. Every habit is initiated by a cue. We are more likely to notice cues that stand out. Make the cues of good habits obvious in your environment. Gradually, your habits become associated not with a single trigger but with the entire context surrounding the behavior. The context becomes the cue. It is easier to build new habits in a new environment because you are not fighting against old cues. (Location 1388)
 - In other words, they spend less time in tempting situations. (Location 1426)
 - Watching television makes you feel sluggish, so you watch more television because you don’t have the energy to do anything else. (Location 1444)
@@ -96,14 +96,14 @@
 - Your brain has far more neural circuitry allocated for wanting rewards than for liking them. The wanting centers in the brain are large: the brain stem, the nucleus accumbens, the ventral tegmental area, the dorsal striatum, the amygdala, and portions of the prefrontal cortex. By comparison, the liking centers of the brain are much smaller. They (Location 1613)
 - Temptation bundling is one way to apply a psychology theory known as Premack’s Principle. Named after the work of professor David Premack, the principle states that “more probable behaviors will reinforce less probable behaviors.” (Location 1655)
 - Chapter Summary The 2nd Law of Behavior Change is make it attractive. The more attractive an opportunity is, the more likely it is to become habit-forming. Habits are a dopamine-driven feedback loop. When dopamine rises, so does our motivation to act. It is the anticipation of a reward—not the fulfillment of it—that gets us to take action. The greater the anticipation, the greater the dopamine spike. Temptation bundling is one way to make your habits more attractive. The strategy is to pair an action you want to do with an action you need to do. (Location 1676)
-    - **Tags:** #favorite
+  - **Tags:** #favorite
 - The Polgar sisters grew up in a culture that prioritized chess above all else—praised them for it, rewarded them for it. In their world, an obsession with chess was normal. (Location 1711)
 - French philosopher Michel de Montaigne wrote, “The customs and practices of life in society sweep us along.” Most of the time, going along with the group does not feel like a burden. (Location 1730)
 - We imitate the habits of three groups in particular: 1. The close. 2. The many. 3. The powerful. Each group offers an opportunity to leverage the 2nd Law of Behavior Change and make our habits more attractive. (Location 1736)
 - Chapter Summary The culture we live in determines which behaviors are attractive to us. We tend to adopt habits that are praised and approved of by our culture because we have a strong desire to fit in and belong to the tribe. We tend to imitate the habits of three social groups: the close (family and friends), the many (the tribe), and the powerful (those with status and prestige). One of the most effective things you can do to build better habits is to join a culture where (1) your desired behavior is the normal behavior and (2) you already have something in common with the group. The normal behavior of the tribe often overpowers the desired behavior of the individual. Most days, we’d rather be wrong with the crowd than be right by ourselves. If a behavior can get us approval, respect, and praise, we find it attractive. (Location 1848)
 - To summarize, the specific cravings you feel and habits you perform are really an attempt to address your fundamental underlying motives. (Location 1946)
 - I began to associate my pregame ritual with feeling competitive and focused. Even if I wasn’t motivated beforehand, by the time I was done with my ritual, I was in “game mode.” (Location 1996)
-- Chapter Summary The inversion of the 2nd Law of Behavior Change is make it unattractive. Every behavior has a surface level craving and a deeper underlying motive. Your habits are modern-day solutions to ancient desires. The cause of your habits is actually the prediction that precedes them. The prediction leads to a feeling. Highlight the benefits of avoiding a bad habit to make it seem unattractive. Habits are attractive when we associate them with positive feelings and unattractive when we associate them with negative feelings. Create a motivation ritual by doing something you enjoy immediately before a difficult habit. HOW TO CREATE A GOOD HABIT The 1st Law: Make It Obvious 1.1: Fill out the Habits Scorecard. Write down your current habits to become aware of them. 1.2: Use implementation intentions: “I will [BEHAVIOR] at [TIME] in [LOCATION].” 1.3: Use habit stacking: “After [CURRENT HABIT], I will [NEW HABIT].” 1.4: Design your environment. Make the cues of good habits obvious and visible. The 2nd Law: Make It Attractive 2.1: Use temptation bundling. Pair an action you want to do with an action you need to do. 2.2: Join a culture where your desired behavior is the normal behavior. 2.3: Create a motivation ritual. Do something you enjoy immediately before a difficult habit. The 3rd Law: Make It Easy The 4th Law: Make It Satisfying HOW TO BREAK A BAD HABIT Inversion of the 1st Law: Make It Invisible 1.5: Reduce exposure. Remove the cues of your bad habits from your environment. Inversion of the 2nd Law: Make It Unattractive 2.4: Reframe your mind-set. Highlight the benefits of avoiding your bad habits. Inversion of the 3rd Law: Make It Difficult Inversion of the 4th Law: Make It Unsatisfying You can download a printable version of this habits cheat sheet at: atomichabits.com/cheatsheet (Location 2009)
+- Chapter Summary The inversion of the 2nd Law of Behavior Change is make it unattractive. Every behavior has a surface level craving and a deeper underlying motive. Your habits are modern-day solutions to ancient desires. The cause of your habits is actually the prediction that precedes them. The prediction leads to a feeling. Highlight the benefits of avoiding a bad habit to make it seem unattractive. Habits are attractive when we associate them with positive feelings and unattractive when we associate them with negative feelings. Create a motivation ritual by doing something you enjoy immediately before a difficult habit. HOW TO CREATE A GOOD HABIT The 1st Law: Make It Obvious 1.1: Fill out the Habits Scorecard. Write down your current habits to become aware of them. 1.2: Use implementation intentions: “I will \[BEHAVIOR\] at \[TIME\] in \[LOCATION\].” 1.3: Use habit stacking: “After \[CURRENT HABIT\], I will \[NEW HABIT\].” 1.4: Design your environment. Make the cues of good habits obvious and visible. The 2nd Law: Make It Attractive 2.1: Use temptation bundling. Pair an action you want to do with an action you need to do. 2.2: Join a culture where your desired behavior is the normal behavior. 2.3: Create a motivation ritual. Do something you enjoy immediately before a difficult habit. The 3rd Law: Make It Easy The 4th Law: Make It Satisfying HOW TO BREAK A BAD HABIT Inversion of the 1st Law: Make It Invisible 1.5: Reduce exposure. Remove the cues of your bad habits from your environment. Inversion of the 2nd Law: Make It Unattractive 2.4: Reframe your mind-set. Highlight the benefits of avoiding your bad habits. Inversion of the 3rd Law: Make It Difficult Inversion of the 4th Law: Make It Unsatisfying You can download a printable version of this habits cheat sheet at: atomichabits.com/cheatsheet (Location 2009)
 - ON THE FIRST day of class, Jerry Uelsmann, a professor at the University of Florida, divided his film photography students into two groups. (Location 2033)
 - As Voltaire once wrote, “The best is the enemy of the good.” (Location 2049)
 - If you want to master a habit, the key is to start with repetition, not perfection. You don’t need to map out every feature of a new habit. You just need to practice it. This is the first takeaway of the 3rd Law: you just need to get your reps in. (Location 2069)
@@ -111,7 +111,7 @@
 - All habits follow a similar trajectory from effortful practice to automatic behavior, a process known as automaticity. (Location 2101)
 - Automaticity is the ability to perform a behavior without thinking about each step, which occurs when the nonconscious mind takes over. (Location 2102)
 - Chapter Summary The 3rd Law of Behavior Change is make it easy. The most effective form of learning is practice, not planning. Focus on taking action, not being in motion. Habit formation is the process by which a behavior becomes progressively more automatic through repetition. The amount of time you have been performing a habit is not as important as the number of times you have performed it. (Location 2129)
-- It is human nature to follow the Law of Least Effort, which states that when deciding between two similar options, people will naturally gravitate toward the option that requires the least amount of work.* (Location 2167)
+- It is human nature to follow the Law of Least Effort, which states that when deciding between two similar options, people will naturally gravitate toward the option that requires the least amount of work.\* (Location 2167)
 - This is precisely what electronics manufacturers in Japan began to do in the 1970s. In an article published in the New Yorker titled “Better All the Time,” James Suroweicki writes: “Japanese firms emphasized what came to be known as ‘lean production,’ relentlessly looking to remove waste of all kinds from the production process, down to redesigning workspaces, so workers didn’t have to waste time twisting and turning to reach their tools. The result was that Japanese factories were more efficient and Japanese products were more reliable than American ones. In 1974, service calls for American-made color televisions were five times as common as for Japanese televisions. By 1979, it took American workers three times as long to assemble their sets.” (Location 2215)
 - addition by subtraction. (Location 2223)
 - “When I walk into a room everything is in its right place,” Nuckols wrote. “Because I do this every day in every room, stuff always stays in good shape. . . . People think I work hard but I’m actually really lazy. I’m just proactively lazy. It gives you so much time back.” (Location 2258)
@@ -126,13 +126,13 @@
 - Victor Hugo and make your bad habits more difficult by creating what psychologists call a commitment device. (Location 2462)
 - A commitment device is a choice you make in the present that controls your actions in the future. (Location 2463)
 - Designed by fellow Dayton resident James Ritty, it was the first cash register. The machine automatically locked the cash and receipts inside after each transaction. (Location 2496)
-- Chapter Summary The inversion of the 3rd Law of Behavior Change is make it difficult. A commitment device is a choice you make in the present that locks in better behavior in the future. The ultimate way to lock in future behavior is to automate your habits. Onetime choices—like buying a better mattress or enrolling in an automatic savings plan—are single actions that automate your future habits and deliver increasing returns over time. Using technology to automate your habits is the most reliable and effective way to guarantee the right behavior. HOW TO CREATE A GOOD HABIT The 1st Law: Make It Obvious 1.1: Fill out the Habits Scorecard. Write down your current habits to become aware of them. 1.2: Use implementation intentions: “I will [BEHAVIOR] at [TIME] in [LOCATION].” 1.3: Use habit stacking: “After [CURRENT HABIT], I will [NEW HABIT].” 1.4: Design your environment. Make the cues of good habits obvious and visible. The 2nd Law: Make It Attractive 2.1: Use temptation bundling. Pair an action you want to do with an action you need to do. 2.2: Join a culture where your desired behavior is the normal behavior. 2.3: Create a motivation ritual. Do something you enjoy immediately before a difficult habit. The 3rd Law: Make It Easy 3.1: Reduce friction. Decrease the number of steps between you and your good habits. 3.2: Prime the environment. Prepare your environment to make future actions easier. 3.3: Master the decisive moment. Optimize the small choices that deliver outsized impact. 3.4: Use the Two-Minute Rule. Downscale your habits until they can be done in two minutes or less. 3.5: Automate your habits. Invest in technology and onetime purchases that lock in future behavior. The 4th Law: Make It Satisfying HOW TO BREAK A BAD HABIT Inversion of the 1st Law: Make It Invisible 1.5: Reduce exposure. Remove the cues of your bad habits from your environment. Inversion of the 2nd Law: Make It Unattractive 2.4: Reframe your mind-set. Highlight the benefits of avoiding your bad habits. Inversion of the 3rd Law: Make It Difficult 3.6: Increase friction. Increase the number of steps between you and your bad habits. 3.7: Use a commitment device. Restrict your future choices to the ones that benefit you. Inversion of the 4th Law: Make It Unsatisfying You can download a printable version of this habits cheat sheet at: atomichabits.com/cheatsheet THE 4TH LAW Make It Satisfying (Location 2570)
-    - **Note:** Read abot commitment device
+- Chapter Summary The inversion of the 3rd Law of Behavior Change is make it difficult. A commitment device is a choice you make in the present that locks in better behavior in the future. The ultimate way to lock in future behavior is to automate your habits. Onetime choices—like buying a better mattress or enrolling in an automatic savings plan—are single actions that automate your future habits and deliver increasing returns over time. Using technology to automate your habits is the most reliable and effective way to guarantee the right behavior. HOW TO CREATE A GOOD HABIT The 1st Law: Make It Obvious 1.1: Fill out the Habits Scorecard. Write down your current habits to become aware of them. 1.2: Use implementation intentions: “I will \[BEHAVIOR\] at \[TIME\] in \[LOCATION\].” 1.3: Use habit stacking: “After \[CURRENT HABIT\], I will \[NEW HABIT\].” 1.4: Design your environment. Make the cues of good habits obvious and visible. The 2nd Law: Make It Attractive 2.1: Use temptation bundling. Pair an action you want to do with an action you need to do. 2.2: Join a culture where your desired behavior is the normal behavior. 2.3: Create a motivation ritual. Do something you enjoy immediately before a difficult habit. The 3rd Law: Make It Easy 3.1: Reduce friction. Decrease the number of steps between you and your good habits. 3.2: Prime the environment. Prepare your environment to make future actions easier. 3.3: Master the decisive moment. Optimize the small choices that deliver outsized impact. 3.4: Use the Two-Minute Rule. Downscale your habits until they can be done in two minutes or less. 3.5: Automate your habits. Invest in technology and onetime purchases that lock in future behavior. The 4th Law: Make It Satisfying HOW TO BREAK A BAD HABIT Inversion of the 1st Law: Make It Invisible 1.5: Reduce exposure. Remove the cues of your bad habits from your environment. Inversion of the 2nd Law: Make It Unattractive 2.4: Reframe your mind-set. Highlight the benefits of avoiding your bad habits. Inversion of the 3rd Law: Make It Difficult 3.6: Increase friction. Increase the number of steps between you and your bad habits. 3.7: Use a commitment device. Restrict your future choices to the ones that benefit you. Inversion of the 4th Law: Make It Unsatisfying You can download a printable version of this habits cheat sheet at: atomichabits.com/cheatsheet THE 4TH LAW Make It Satisfying (Location 2570)
+  - **Note:** Read abot commitment device
 - Pleasure teaches your brain that a behavior is worth remembering and repeating. (Location 2643)
 - Change: What is rewarded is repeated. What is punished is avoided. You learn what to do in the future based on what you were rewarded for doing (or punished for doing) in the past. (Location 2662)
 - You live in what scientists call an immediate-return environment because your actions instantly deliver clear and immediate outcomes. (Location 2673)
 - delayed-return environment because you can work for years before your actions deliver the intended payoff. The human (Location 2678)
-- The distant future was less of a concern. And after thousands of generations in an immediate-return environment, our brains evolved to prefer quick payoffs to long- term ones. Behavioral economists refer to this tendency as time inconsistency. That is, the way your brain evaluates rewards is inconsistent across time.* You value the present more than the future. (Location 2692)
+- The distant future was less of a concern. And after thousands of generations in an immediate-return environment, our brains evolved to prefer quick payoffs to long- term ones. Behavioral economists refer to this tendency as time inconsistency. That is, the way your brain evaluates rewards is inconsistent across time.\* You value the present more than the future. (Location 2692)
 - As a general rule, the more immediate pleasure you get from an action, the more strongly you should question whether it aligns with your long-term goals. * (Location 2719)
 - The ending of any experience is vital because we tend to remember it more than other phases. (Location 2749)
 - The best approach is to use reinforcement, which refers to the process of using an immediate reward to increase the rate of a behavior. (Location 2750)
@@ -143,7 +143,7 @@
 - Paper Clip Strategy (Location 2807)
 - thirteen personal virtues. This list included goals like “Lose no time. Be always employed in something useful” and “Avoid trifling conversation.” At the end of each day, Franklin would open his booklet and record his progress. (Location 2821)
 - Comedian, he explains that his goal is simply to “never break the chain” of writing jokes every day. (Location 2824)
-    - **Note:** Seinfeld
+  - **Note:** Seinfeld
 - Benefit #1: Habit tracking is obvious. (Location 2832)
 - Benefit #2: Habit tracking is attractive. (Location 2844)
 - Benefit #3: Habit tracking is satisfying. (Location 2851)
@@ -163,20 +163,20 @@
 - and with the habit contract clarifying exactly what to do each day, Harris lost the weight (Location 3047)
 - Chapter Summary The inversion of the 4th Law of Behavior Change is make it unsatisfying. We are less likely to repeat a bad habit if it is painful or unsatisfying. An accountability partner can create an immediate cost to inaction. We care deeply about what others think of us, and we do not want others to have a lesser opinion of us. A habit contract can be used to add a social cost to any behavior. It makes the costs of violating your promises public and painful. Knowing that someone else is watching you can be a powerful motivator. (Location 3064)
 - 3.5: Automate your habits. Invest in technology and onetime purchases that lock in future behavior. (Location 3083)
-    - **Note:** How do i automate my habits?
+  - **Note:** How do i automate my habits?
 - Gabor Mate notes, “Genes can predispose, but they don’t predetermine.” (Location 3146)
 - “Big Five,” which breaks them down into five spectrums of behavior. 1. Openness to experience: from curious and inventive on one end to cautious and consistent on the other. 2. Conscientiousness: organized and efficient to easygoing and spontaneous. 3. Extroversion: outgoing and energetic to solitary and reserved (you likely know them as extroverts vs. introverts). 4. Agreeableness: friendly and compassionate to challenging and detached. 5. Neuroticism: anxious and sensitive to confident, calm, and stable. (Location 3164)
 - When a habit is easy, you are more likely to be successful. When you are successful, you are more likely to feel satisfied. (Location 3209)
 - if you continue to advance and improve, any area can become challenging. At some point, you need to make sure you’re playing the right game for your skillset. (Location 3211)
 - Thankfully, there is an effective way to manage this conundrum, and it is known as the explore/exploit trade-off. (Location 3215)
 - “What feels natural to me? When have I felt alive? When have I felt like the real me?” (Location 3247)
-    - **Note:** Try an answer these questions
+  - **Note:** Try an answer these questions
 - In summary, one of the best ways to ensure your habits remain satisfying over the long-run is to pick behaviors that align with your personality and skills. Work hard on the things that come easy. (Location 3291)
 - Chapter Summary The secret to maximizing your odds of success is to choose the right field of competition. Pick the right habit and progress is easy. Pick the wrong habit and life is a struggle. Genes cannot be easily changed, which means they provide a powerful advantage in favorable circumstances and a serious disadvantage in unfavorable circumstances. Habits are easier when they align with your natural abilities. Choose the habits that best suit you. Play a game that favors your strengths. If you can’t find a game that favors you, create one. Genes do not eliminate the need for hard work. They clarify it. They tell us what to work hard on. (Location 3293)
 - the way to maintain motivation and achieve peak levels of desire is to work on tasks of “just manageable difficulty.” The human brain loves a challenge, but only if it is within an optimal zone of difficulty. (Location 3331)
 - The Goldilocks Rule states that humans experience peak motivation when working on tasks that are right on the edge of their current abilities. Not too hard. Not too easy. Just right. (Location 3341)
 - They found that to achieve a state of flow, a task must be roughly 4 percent beyond your current ability. (Location 3357)
-    - **Note:** They = scientists
+  - **Note:** They = scientists
 - “At some point it comes down to who can handle the boredom of training every day, doing the same lifts over and over and over.” (Location 3371)
 - As Machiavelli noted, “Men desire novelty to such an extent that those who are doing well wish for a change as much as those who are doing badly.” (Location 3388)
 - Variable rewards won’t create a craving—that is, you can’t take (Location 3397)
@@ -198,6 +198,6 @@
 - Peace occurs when you don’t turn your observations into problems. (Location 3693)
 - Friedrich Nietzsche, the German philosopher and poet, famously wrote, “He who has a why to live for can bear almost any how.” (Location 3700)
 - Being curious is better than being smart. (Location 3704)
-    - **Tags:** #favorite
+  - **Tags:** #favorite
 - Satisfaction = Liking – Wanting This is the wisdom behind Seneca’s famous quote, “Being poor is not having too little, it is wanting more.” If (Location 3748)
 - Leo Babauta, Charles Duhigg, Nir Eyal, and BJ Fogg have each influenced my thoughts on habits in meaningful ways. (Location 3805)

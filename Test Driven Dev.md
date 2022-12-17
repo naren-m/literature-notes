@@ -1,3 +1,3 @@
 # Test Driven Dev
 
-TDD coined by \[\[Kent Beck\]\]
+TDD coined by [[Kent Beck]]

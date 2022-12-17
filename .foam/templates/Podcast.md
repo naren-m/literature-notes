@@ -2,8 +2,11 @@
 
 ## Details
 
-- Podcast :
-- Topic   :
-- Link    :
+- Podcast     :
+- Topic       :
+- Link        :
+- Host        :
+- Guest       :
+- Guest creds :
 
 ## Notes

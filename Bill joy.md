@@ -1,6 +1,6 @@
 # Bill joy
 
-## snippent from \[\[Outliers\]\]
+## snippent from [[Outliers]]
 
 - After graduating from Berkeley,  Bill Joy cofounded the Silicon Valley firm Sun Microsystems, which was one of the most critical players in the computer revolution. ([Location 399](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=399))
 - He is sometimes called the Edison of the Internet

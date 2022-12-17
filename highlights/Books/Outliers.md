@@ -10,13 +10,13 @@
 
 ### Highlights
 
-- Personal explanations of \[\[success\]\] don’t work. People don’t rise from nothing. We do owe something to parentage and patronage.
+- Personal explanations of [[success]] don’t work. People don’t rise from nothing. We do owe something to parentage and patronage.
   - ([Location 198](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=198))
 - Working in collaboration with a small group of programmers, Joy took on the task of rewriting UNIX, which was a software system developed by AT&T for mainframe computers.
   - ([Location 395](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=395))
-- And do you know who wrote much of the software that allows you to access the Internet? \[\[Bill Joy\]\].
+- And do you know who wrote much of the software that allows you to access the Internet? [[Bill Joy]].
   - ([Location 398](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=398))
-- After graduating from Berkeley,  \[\[Bill Joy\]\] cofounded the Silicon Valley firm Sun Microsystems, which was one of the most critical players in the computer revolution.
+- After graduating from Berkeley,  [[Bill Joy]] cofounded the Silicon Valley firm Sun Microsystems, which was one of the most critical players in the computer revolution.
   - ([Location 399](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=399))
 - ***Achievement is talent plus preparation***. The problem with this view is that the closer psychologists look at the careers of the gifted, the smaller the role innate talent seems to play and the bigger the role preparation seems to play.
   - ([Location 413](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=413))
@@ -30,11 +30,11 @@
   - ([Location 857](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=857))
 - The idea that IQ has a threshold, I realize, goes against our intuition.
   - ([Location 870](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=870))
-- \[\[Robert Oppenheimer\]\], the physicist who famously headed the American effort to develop the nuclear bomb during World War II.
+- [[Robert Oppenheimer]], the physicist who famously headed the American effort to develop the nuclear bomb during World War II.
   - ([Location 1047](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=1047))
-- The particular skill that allows you to talk your way out of a murder rap, or convince your professor to move you from the morning to the afternoon section, is what the psychologist \[\[Robert Sternberg\]\] calls “\[\[practical intelligence\]\].”
+- The particular skill that allows you to talk your way out of a murder rap, or convince your professor to move you from the morning to the afternoon section, is what the psychologist [[Robert Sternberg]] calls “[[practical intelligence]].”
   - ([Location 1090](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=1090))
-- To Sternberg, \[\[practical intelligence\]\] includes things like “knowing what to say to whom, knowing when to say it, and knowing how to say it for maximum effect.”
+- To Sternberg, [[practical intelligence]] includes things like “knowing what to say to whom, knowing when to say it, and knowing how to say it for maximum effect.”
   - ([Location 1091](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=1091))
 - There were only two parenting “philosophies,” and they divided almost perfectly along class lines. The wealthier parents raised their kids one way, and the poorer parents raised their kids another way.
   - ([Location 1109](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=1109))

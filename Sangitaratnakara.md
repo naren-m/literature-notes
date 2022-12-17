@@ -2,4 +2,4 @@
 
 Book on Music ?
 
-Book on \[\[Carnatic music\]\]
+Book on [[Carnatic music]]

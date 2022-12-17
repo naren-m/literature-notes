@@ -1,3 +1,4 @@
 # Astadhyayi
 
-Sanskrit Grammer by \[\[Panini\]\]
+Sanskrit Grammer by [[Panini]]
+

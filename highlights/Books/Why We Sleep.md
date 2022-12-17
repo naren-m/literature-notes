@@ -21,7 +21,7 @@
   - ([Location 125](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=125))
 - I should point out that you need not read this book in this progressive, four-part narrative arc. Each chapter can, for the most part, be read individually, and out of order, without losing too much of its significance. I therefore invite you to consume the book in whole or in part, buffet-style or in order, all according to your personal
   - ([Location 177](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=177))
-- powerful sculpting force of your twenty-four-hour rhythm, also known as your s\[\[circadian rhythm\]\]. Everyone generates a \[\[circadian rhythm\]\] (circa, meaning “around,” and dian, derivative of diam, meaning “day”).
+- powerful sculpting force of your twenty-four-hour rhythm, also known as your s[[circadian rhythm]]. Everyone generates a [[circadian rhythm]] (circa, meaning “around,” and dian, derivative of diam, meaning “day”).
   - ([Location 202](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=202))
 - De Mairan was intrigued by one plant in particular, called Mimosa pudica.
   - ([Location 215](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=215))
@@ -71,7 +71,7 @@
   - ([Location 817](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=817))
 - When it comes to information processing, think of the wake state principally as reception (experiencing and constantly learning the world around you), NREM sleep as reflection (storing and strengthening those raw ingredients of new facts and skills), and REM sleep as integration (interconnecting these raw ingredients with each other, with all past experiences, and, in doing so, building an ever more accurate model of how the world works, including innovative insights and problem-solving abilities).
   - ([Location 827](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=827))
-- Regress evolutionary time still further and we have discovered that the very simplest forms of unicellular organisms that survive for periods exceeding twenty-four hours, such as bacteria, have active and passive phases that correspond to the light-dark cycle of our planet. It is a pattern that we now believe to be the precursor of our own \[\[circadian rhythm\]\], and with it, wake and sleep.
+- Regress evolutionary time still further and we have discovered that the very simplest forms of unicellular organisms that survive for periods exceeding twenty-four hours, such as bacteria, have active and passive phases that correspond to the light-dark cycle of our planet. It is a pattern that we now believe to be the precursor of our own [[circadian rhythm]], and with it, wake and sleep.
   - ([Location 893](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=893))
 - Another remarkable difference in sleep across species is composition.
   - ([Location 943](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=943))
@@ -89,21 +89,21 @@
   - ([Location 1432](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1432))
 - In a separate series of studies, we have also observed that in young individuals who are at high risk of developing schizophrenia, and in teenagers and young adults with schizophrenia, there is a two- to threefold reduction in deep NREM sleep.XVII Furthermore, the electrical brainwaves of NREM sleep are not normal in their shape or number in the affected individuals. Faulty pruning of brain connections in schizophrenia caused by sleep abnormalities is now one of the most active and exciting areas of investigation in psychiatric illness.XVIII
   - ([Location 1451](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1451))
-- Adolescents face two other harmful challenges in their struggle to obtain sufficient sleep as their brains continue to develop. The first is a change in their \[\[circadian rhythm\]\]. The second is early school start times.
+- Adolescents face two other harmful challenges in their struggle to obtain sufficient sleep as their brains continue to develop. The first is a change in their [[circadian rhythm]]. The second is early school start times.
   - ([Location 1456](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1456))
-- I will address the harmful and life-threatening effects of the latter in a later chapter; however, the complications of early school start times are inextricably linked with the first issue—a shift in \[\[circadian rhythm\]\].
+- I will address the harmful and life-threatening effects of the latter in a later chapter; however, the complications of early school start times are inextricably linked with the first issue—a shift in [[circadian rhythm]].
   - ([Location 1457](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1457))
-- children need more sleep than their older siblings or parents, but also that the \[\[circadian rhythm\]\] of a young child runs on an earlier schedule.
+- children need more sleep than their older siblings or parents, but also that the [[circadian rhythm]] of a young child runs on an earlier schedule.
   - ([Location 1462](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1462))
 - During puberty, the timing of the suprachiasmatic nucleus is shifted progressively forward: a change that is common across all adolescents, irrespective of culture or geography.
   - ([Location 1464](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1464))
-- asking your teenage son or daughter to go to bed and fall asleep at ten p.m. is the circadian equivalent of asking you, their parent, to go to sleep at seven or eight p.m. No matter how loud you enunciate the order, no matter how much that teenager truly wishes to obey your instruction, and no matter what amount of willed effort is applied by either of the two parties, the \[\[circadian rhythm\]\] of a teenager will not be miraculously coaxed into a change.
+- asking your teenage son or daughter to go to bed and fall asleep at ten p.m. is the circadian equivalent of asking you, their parent, to go to sleep at seven or eight p.m. No matter how loud you enunciate the order, no matter how much that teenager truly wishes to obey your instruction, and no matter what amount of willed effort is applied by either of the two parties, the [[circadian rhythm]] of a teenager will not be miraculously coaxed into a change.
   - ([Location 1477](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1477))
 - Central to the goal of adolescent development is the transition from parental dependence to independence, all the while learning to navigate the complexities of peer-group relationships and interactions.
   - ([Location 1493](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1493))
-- One way in which Mother Nature has perhaps helped adolescents unbuckle themselves from their parents is to march their \[\[circadian rhythm\]\]s forward in time, past that of their adult mothers and fathers. This ingenious biological solution selectively shifts teenagers to a later phase when they can, for several hours, operate independently—and do so as a peer-group collective.
+- One way in which Mother Nature has perhaps helped adolescents unbuckle themselves from their parents is to march their [[circadian rhythm]]s forward in time, past that of their adult mothers and fathers. This ingenious biological solution selectively shifts teenagers to a later phase when they can, for several hours, operate independently—and do so as a peer-group collective.
   - ([Location 1494](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1494))
-- There is risk, of course. But the transition must happen. And the time of day when those independent adolescent wings unfold, and the first solo flights from the parental nest occur, is not a time of day at all, but rather a time of night, thanks to a forward-shifted \[\[circadian rhythm\]\].
+- There is risk, of course. But the transition must happen. And the time of day when those independent adolescent wings unfold, and the first solo flights from the parental nest occur, is not a time of day at all, but rather a time of night, thanks to a forward-shifted [[circadian rhythm]].
   - ([Location 1498](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1498))
 - There are additional scientific findings supporting the fact that older adults still need a full night of sleep, just like young adults,
   - ([Location 1510](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1510))

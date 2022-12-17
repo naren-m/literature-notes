@@ -1,6 +1,6 @@
 # success
 
-\[\[Outliers\]\] says success is not personal, we owe some part of it to parentage and patronage. i agree with that fact. We are previlaged to be born in a family that can afford for our education and we are hard working enought to get to a spot.
+[[Outliers]] says success is not personal, we owe some part of it to parentage and patronage. i agree with that fact. We are previlaged to be born in a family that can afford for our education and we are hard working enought to get to a spot.
 
 - ***Achievement is talent plus preparation***.
 

@@ -10,7 +10,7 @@
 
 ### Highlights
 
-- The three basic texts of Vedanta are the Upani\$ads, the Bhagavad-gita, and the Brahma-sutra. Together they are referred to as the prasthana-traya, triple canon of Vedanta. ([Location 17](https://readwise.io/to_kindle?action=open&asin=B00CGYK04Y&location=17))
+- The three basic texts of Vedanta are the Upani$ads, the Bhagavad-gita, and the Brahma-sutra. Together they are referred to as the prasthana-traya, triple canon of Vedanta. ([Location 17](https://readwise.io/to_kindle?action=open&asin=B00CGYK04Y&location=17))
   - **Tags:** #favorite
   - **Note:** 3 texts after vedanta.
     1 - upanishads
@@ -35,4 +35,4 @@
 - The compound implies birth, continuance, and ([Location 318](https://readwise.io/to_kindle?action=open&asin=B00CGYK04Y&location=318))
 - Had the six modifications listed by Yaska in the words, "It originates, exists, grows," etc. been accepted (here), ([Location 326](https://readwise.io/to_kindle?action=open&asin=B00CGYK04Y&location=326))
 - The realization of Brahman results from the firm conviction43 arising from the deliberation on the (Vedic) texts and their meanings'44 ([Location 334](https://readwise.io/to_kindle?action=open&asin=B00CGYK04Y&location=334))
-- Taittiriya Upani\$ad states, "Seek to know that from which all these beings take birth, that by which they live after being born, that towards which they proceed and into which they merge; that is Brahman" (Tai. ([Location 358](https://readwise.io/to_kindle?action=open&asin=B00CGYK04Y&location=358))
+- Taittiriya Upani$ad states, "Seek to know that from which all these beings take birth, that by which they live after being born, that towards which they proceed and into which they merge; that is Brahman" (Tai. ([Location 358](https://readwise.io/to_kindle?action=open&asin=B00CGYK04Y&location=358))

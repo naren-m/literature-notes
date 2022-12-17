@@ -107,7 +107,7 @@
   - **Note:** The art of memory book
 - “American Mnemotechny” and “How to Remember.” (Location 2095)
   - **Note:** Book how to remember
-- Loisette’s 1886 book Physiological Memory: The Instantaneous Art of Never Forgetting selling for as little as \$1.25 on the Internet is evidence of its once immense popularity. (Location 2099)
+- Loisette’s 1886 book Physiological Memory: The Instantaneous Art of Never Forgetting selling for as little as $1.25 on the Internet is evidence of its once immense popularity. (Location 2099)
   - **Note:** Book the er of never forgetting with the mnemonics
 - Bell sees himself as the vanguard of a new movement that takes the externalization of memory to its logical extreme: a final escape from the biology of remembering. (Location 2145)
 - Bell in his book Total Recall: How the E-Memory Revolution Will Change Everything. (Location 2147)

@@ -10,7 +10,7 @@ Cryptography supports these important security principles. Detials are in [[CIA 
 - [[Integrity]]
 - [[Availability]]
 
-Cryptography has varios applicaitons
+Cryptography has various applications
 
 - X.509 certificates
 - [[Token Authentication]]

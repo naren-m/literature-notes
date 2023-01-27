@@ -11,10 +11,8 @@
 ### Highlights
 
 - psychology background may recognize some of these terms from operant conditioning, which was first proposed as “stimulus, response, reward” by B. F. Skinner in the 1930s and has been popularized more recently as “cue, routine, reward” in The Power of Habit by Charles Duhigg. (Location 200)
-- Brailsford had been hired to put British Cycling on a new trajectory. What made him different from previous coaches was his relentless commitment to a strategy that he referred to as “the aggregation of marginal gains,” which was the philosophy of searching for a tiny margin of improvement in everything you do. (Location 232)
-  - **Note:** Aggregational margijnal change
-- Brailsford said, “The whole principle came from the idea that if you broke down everything you could think of that goes into riding a bike, and then improve it by 1 percent, you will get a significant increase when you put them all together.” (Location 235)
-  - **Note:** One percen rule
+- [[aggregation of marginal gains]]
+- [[One percent rule]]
 - Time magnifies the margin between success and failure. It will multiply whatever you feed it. Good habits make time your ally. Bad habits make time your enemy. (Location 317)
   - **Note:** Compound effect over the ywrs you ger better if ykou improve by one percen dy
 - the most powerful outcomes are delayed. (Location 357)

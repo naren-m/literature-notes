@@ -1,6 +1,6 @@
 # Atomic Habits
 
-![](https://img1.od-cdn.com/ImageType-100/1523-1/%7BD29CC053-29CE-4E90-9596-61DA1F2F555D%7DImg100.jpg)
+![Atomic Habits](https://img1.od-cdn.com/ImageType-100/1523-1/%7BD29CC053-29CE-4E90-9596-61DA1F2F555D%7DImg100.jpg)
 
 ### Metadata
 
@@ -12,9 +12,9 @@
 
 - psychology background may recognize some of these terms from operant conditioning, which was first proposed as “stimulus, response, reward” by B. F. Skinner in the 1930s and has been popularized more recently as “cue, routine, reward” in The Power of Habit by Charles Duhigg. (Location 200)
 - Brailsford had been hired to put British Cycling on a new trajectory. What made him different from previous coaches was his relentless commitment to a strategy that he referred to as “the aggregation of marginal gains,” which was the philosophy of searching for a tiny margin of improvement in everything you do. (Location 232)
-  - **Note:** Aggregational margijnal change
+  - **Note:** Aggregational marginal change
 - Brailsford said, “The whole principle came from the idea that if you broke down everything you could think of that goes into riding a bike, and then improve it by 1 percent, you will get a significant increase when you put them all together.” (Location 235)
-  - **Note:** One percen rule
+  - **Note:** [[One percent rule]]
 - Time magnifies the margin between success and failure. It will multiply whatever you feed it. Good habits make time your ally. Bad habits make time your enemy. (Location 317)
   - **Note:** Compound effect over the ywrs you ger better if ykou improve by one percen dy
 - the most powerful outcomes are delayed. (Location 357)
@@ -197,7 +197,9 @@
 - It is the idea of pleasure that we chase. (Location 3689)
 - Peace occurs when you don’t turn your observations into problems. (Location 3693)
 - Friedrich Nietzsche, the German philosopher and poet, famously wrote, “He who has a why to live for can bear almost any how.” (Location 3700)
+
 - Being curious is better than being smart. (Location 3704)
   - **Tags:** #favorite
+
 - Satisfaction = Liking – Wanting This is the wisdom behind Seneca’s famous quote, “Being poor is not having too little, it is wanting more.” If (Location 3748)
 - Leo Babauta, Charles Duhigg, Nir Eyal, and BJ Fogg have each influenced my thoughts on habits in meaningful ways. (Location 3805)

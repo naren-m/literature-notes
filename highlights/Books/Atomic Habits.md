@@ -15,6 +15,8 @@
   - **Note:** Aggregational marginal change
 - Brailsford said, “The whole principle came from the idea that if you broke down everything you could think of that goes into riding a bike, and then improve it by 1 percent, you will get a significant increase when you put them all together.” (Location 235)
   - **Note:** [[One percent rule]]
+- [[aggregation of marginal gains]]
+- [[One percent rule]]
 - Time magnifies the margin between success and failure. It will multiply whatever you feed it. Good habits make time your ally. Bad habits make time your enemy. (Location 317)
   - **Note:** Compound effect over the ywrs you ger better if ykou improve by one percen dy
 - the most powerful outcomes are delayed. (Location 357)

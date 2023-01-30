@@ -11,21 +11,55 @@
 ### Highlights
 
 - “Some people are great when things are going well, but they fall apart when things aren’t.” ([Location 166](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=166))
-- Why were the highly accomplished so dogged in their pursuits? For most, there was no realistic expectation of ever catching up to their ambitions. In their own eyes, they were never good enough. They were the opposite of complacent. And yet, in a very real sense, they were satisfied being unsatisfied. Each was chasing something of unparalleled interest and importance, and it was the chase—as much as the capture—that was gratifying. ([Location 171](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=171))
-  - **Note:** Ganame nee gamyamaithey brathukulone bata doruku
-- In sum, no matter the domain, the highly successful had a kind of ferocious determination that played out in two ways. First, these exemplars were unusually resilient and hardworking. Second, they knew in a very, very deep way what it was they wanted. They not only had determination, they had direction. ([Location 175](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=175))
+
+- Why were the highly accomplished so dogged in their pursuits?
+  - For most, there was no realistic expectation of ever catching up to their ambitions.
+  - In their own eyes, they were never good enough.
+  - They were the opposite of complacent.
+  - And yet, in a very real sense, they were satisfied being unsatisfied.
+  - Each was chasing something of unparalleled interest and importance, and it was the chase—as much as the capture—that was gratifying. ([Location 171](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=171))
+  - **Note:** Gnaname nee gamyamaithey brathukulone bata doruku
+  - **Tags:** #favorite #life #career
+
+- In sum, no matter the domain, the highly successful had a kind of ferocious determination that played out in two ways.
+  - First, these exemplars were unusually resilient and hardworking.
+  - Second, they knew in a very, very deep way what it was they wanted.
+  - They not only had determination, they had direction. ([Location 175](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=175))
+  - **Tags:** #career
+
 - It was this combination of passion and perseverance that made high achievers special. In a word, they had grit. ([Location 177](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=177))
+  - [[PersonalGrowth]]
+
 - After all, why shouldn’t the talented endure? Logically, the talented should stick around and try hard, because when they do, they do phenomenally well. ([Location 194](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=194))
-- I came to a fundamental insight that would guide my future work: Our potential is one thing. What we do with it is quite another. ([Location 261](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=261))
-- wrote Darwin. “For I have always maintained that, excepting fools, men did not differ much in intellect, only in zeal and hard work; and I still think this is an eminently important difference.” ([Location 347](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=347))
+  - [[PersonalGrowth]]
+
+- I came to a fundamental insight that would guide my future work:
+  - Our potential is one thing.
+  - What we do with it is quite another. ([Location 261](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=261))
+
 - Darwin was the first to explain diversity in plant and animal species as a consequence of natural selection. ([Location 349](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=349))
+
 - So it’s worth pausing to consider Darwin’s opinion on the determinants of achievement—that is, his belief that zeal and hard work are ultimately more important than intellectual ability. ([Location 351](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=351))
-- The normal response to being puzzled about something is to say,“I’ll think about this later,” and then, in effect, forget about it. With Darwin, one feels that he deliberately did not engage in this kind of semi-willful forgetting. He kept all the questions alive at the back of his mind, ready to be retrieved when a relevant bit of data presented itself. ([Location 363](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=363))
+
+- The normal response to being puzzled about something is to say,“I’ll think about this later,” and then, in effect, forget about it.
+  - With Darwin, one feels that he deliberately did not engage in this kind of semi-willful forgetting.
+  - He kept all the questions alive at the back of his mind, ready to be retrieved when a relevant bit of data presented itself.
+  - ([Location 363](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=363))
+  - **Tags** #work #life
+
 - Reflecting on the achievements and failures of close friends and colleagues, and how the quality of his own efforts varied on his good and bad days, James observed: Compared with what we ought to be, we are only half awake. Our fires are damped, our drafts are checked. We are making use of only a small part of our possible mental and physical resources. ([Location 369](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=369))
+
 - But these outer boundaries of where we will, eventually, stop improving are simply irrelevant for the vast majority of us: “The plain fact remains that men the world over possess amounts of resource, which only very exceptional individuals push to their extremes of use.” ([Location 376](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=376))
-- “What do we mean by talent?” the McKinsey authors ask in the book’s opening pages. Answering their own question: “In the most general sense, talent is the sum of a person’s abilities—his or her intrinsic gifts, skills, knowledge, experience, intelligence, judgment, attitude, character, and drive. It also includes his or her ability to learn and grow.” ([Location 428](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=428))
-- Enron employees prove that they were smarter than everyone else inadvertently contributed to a narcissistic culture, with an overrepresentation of employees who were both incredibly smug and driven by deep insecurity to keep showing off. It was a culture that encouraged short-term performance but discouraged long-term learning and growth. The same point comes through in the postmortem documentary on Enron called, appropriately enough, The Smartest Guys in the Room. ([Location 485](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=485))
+  - #notclear
+
+## Case studies
+
+### Enron - Energy company
+
+- Enron employees prove that they were smarter than everyone else inadvertently contributed to a narcissistic culture, with an overrepresentation of employees who were both incredibly smug and driven by deep insecurity to keep showing off. It was a culture that encouraged short-term performance but discouraged long-term learning and growth. The same point comes through in the postmortem documentary on Enron called, appropriately enough, [[The Smartest Guys in the Room]]. ([Location 485](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=485))
+
 - Enron’s CEO. Skilling developed a performance review system for Enron that consisted of grading employees annually and summarily firing the bottom 15 percent. In other words, no matter what your absolute level of performance, if you were weak, relative to others, you got fired. Inside Enron, this practice was known as “rank-and-yank.” Skilling considered it one of the most important strategies his company had. But ultimately, it may have contributed to a work environment that rewarded deception and discouraged integrity. ([Location 489](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=489))
+
 - But another conclusion is that the focus on talent distracts us from something that is at least as important, and that is effort. In the next chapter, I’ll argue that, as much as talent counts, effort counts twice. ([Location 539](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=539))
 - In other words, when we can’t easily see how experience and training got someone to a level of excellence that is so clearly beyond the norm, we default to labeling that person a “natural.” ([Location 568](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=568))
 - “Yes, but the main thing is that greatness is doable. Greatness is many, many individual feats, and each of them is doable.” ([Location 580](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=580))

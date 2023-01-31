@@ -13,3 +13,8 @@
   - Awareness comes before desire.
   - #happiness Happiness is simply the absence of desire.
   - #happiness As Caed Budris says, “Happiness is the space between one desire being fulfilled and a new desire forming.”
+
+- I often advise people to take on projects you're only 70% qualified for, but then learn like crazy to bridge that 30% #quote AndrewNG
+
+- “Science is not only a disciple of reason but also one of romance and passion.” – Stephen Hawking
+- Bruce Lee, which he hoped would serve as inspiration: “There are no limits. There are plateaus, but you must not stay there, you must go beyond them. If it kills you, it kills you.” (Location 2555) [[Moonwalking With Einstein]]

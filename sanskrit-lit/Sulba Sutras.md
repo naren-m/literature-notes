@@ -1,1 +1,6 @@
 # Sulba Sutras
+
+
+## Tags
+
+- #math

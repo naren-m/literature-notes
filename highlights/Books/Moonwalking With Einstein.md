@@ -1,8 +1,8 @@
 # Moonwalking With Einstein
 
-![](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-4.11327a2af05a.png)
+![M](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-4.11327a2af05a.png)
 
-### Metadata
+## Metadata
 
 - Author: Joshua Foer
 - Full Title: Moonwalking With Einstein
@@ -10,35 +10,29 @@
 
 ### Highlights
 
-- “What you have to understand is that even average memories are remarkably powerful if used properly,” (Location 154)
-- Alexander Technique). (Location 185)
-- Hermann Ebbinghaus first brought the study of memory into the laboratory in the 1870s. (Location 277)
-- Mnemonic systems like Simonides’ memory palace profoundly shaped the way people approached the world from the time of antiquity through the Middle Ages and the Renaissance. (Location 285)
-- Luria would go on to study S for the next thirty years, and would eventually write a book about him, The Mind of a Mnemonist: A Little Book About a Vast Memory, that has become one of the most enduring classics in the literature of abnormal psychology. (Location 328)
-- Somewhere in your mind there’s a trace from everything you’ve ever seen.” (Location 394)
-- “Everything we learn is permanently stored in the mind, although sometimes particular details are not accessible. With hypnosis, or other special techniques, these inaccessible details could eventually be recovered.” (Location 402)
-- 1970, a Harvard vision scientist named Charles Stromeyer III published a paper in Nature, (Location 431)
+[[memory]] [[practice]] [[quotes]] #books
+
 - “Indeed, one would be hard put to say which was more real for him: the world of imagination in which he lived, or the world of reality in which he was but a temporary guest,” (Location 469)
-- “Let’s say I’m going to the dentist ... I sit there and when the pain starts I feel it ... it’s a tiny, orange-red thread. I’m upset because I know that if this keeps up the thread will widen until it turns into a dense mass ... So I cut the thread, make it smaller and smaller, until it’s just a tiny point. And the pain disappears.” (Location 471)
-- By the time you get to the end of this sentence, your brain will have physically changed. (Location 488)
-- But how exactly a collection of cells could “contain” a memory remains among the deepest conundrums of neuroscience. (Location 491)
+
 - The brain makes sense up close and from far away. It’s the in-between—the stuff of thought and memory, the language of the brain—that remains a profound mystery. (Location 500)
+
 - S kept his memories rigidly organized by mapping them onto structures and places he already knew well. (Location 514)
-- Superior Memory, (Location 565)
+
 - ever met, he seemed to participate in life as if it were art, and to practice a studied, careful carefreeness. (Location 616)
+
 - It’s all about creating a vivid image in your mind that anchors your visual memory of the person’s face to a visual memory connected to the person’s name. (Location 643)
+
 - forgetfulness that psychologists have dubbed the “Baker/baker paradox.” (Location 650)
-- Anders Ericsson. (Location 725)
-- “Exceptional Memorizers: Made, Not Born.” (Location 726)
+
 - experts tend to require at least ten thousand hours of training to achieve their world-class status. (Location 750)
+
 - How to Be a Star at Work, Secrets of Modern Chess Strategy, Lore of Running, (Location 757)
+
 - They can overcome one of the brain’s most fundamental constraints: the magical number seven. (Location 777)
-  - **Note:** Whaat does it men?
+  - **Note:** Whaat does it men? #notclear
+
 - What separates merely good chess players from those who are world-class? (Location 894)
-- magical number seven? The (Location 919)
-- We don’t remember isolated facts; we remember things in context. (Location 920)
-- Monotony collapses time; novelty unfolds it. (Location 1074)
-- unmemorably into the next—and disappear. That’s why it’s (Location 1076)
+
 - Creating new memories stretches out psychological time, and lengthens our perception of our lives. (Location 1077)
 - William James first wrote about the curious warping and foreshortening of psychological time in his Principles of Psychology in 1890: “In (Location 1078)
 - Socrates thought the unexamined life was not worth living. (Location 1090)
@@ -92,23 +86,28 @@
 - “singularly simple-minded to believe that written words can do anything more than remind one of what one already knows.” (Location 1896)
 - Writing, for Socrates, could never be anything more than a cue for memory—a way of calling to mind information already in one’s head. (Location 1897)
 - As Thomas Aquinas put it, “Things are written down in material books to help the memory.” (Location 1912)
+
 - Our internal memories are associational, nonlinear. (Location 1983)
+
 - The historian Ivan Illich has argued that this represented an invention of such magnitude that “it seems reasonable to speak of the pre- and post-index Middle Ages.” (Location 1989)
+
 - To our memory-bound predecessors, the goal of training one’s memory was not to become a “living book,” but rather a “living concordance,” a walking index of everything one had read, and all the information one had acquired. (Location 1994)
-- Titled Phoenix, it was translated into several languages and reprinted all across Europe. (Location 1998)
-  - **Note:** Try reding Phenix book
+
 - When the point of reading is, as it was for Peter of Ravenna, remembering, you approach a text very differently than most of us do today. (Location 2012)
+
 - “The First Steps Toward a History of Reading,” Robert Darnton describes a switch from “intensive” to “extensive” reading that occurred as books began to proliferate. (Location 2016)
+
 - “They had only a few books—the Bible, an almanac, a devotional work or two—and they read them over and over again, usually aloud and in groups, so that a narrow range of traditional literature became deeply impressed on their consciousness.” (Location 2018)
+
 - around 1440, things began gradually to change. In the first century after Gutenberg, the number of books in existence increased fourteenfold. (Location 2020)
+
 - But in the sixteenth century, an Italian philosopher and alchemist named Giulio Camillo—known as “Divine Camillo” to his many admirers and “the Quack” to his many detractors—had the clever idea of making concrete what had for the previous two thousand years always been an ethereal idea. (Location 2043)
+
 - real wooden building. He imagined creating a “Theater of Memory” that would serve as a universal library containing all the knowledge of mankind. (Location 2046)
+
 - assessment—Camillo’s reputation was resurrected in the twentieth century thanks to the efforts of the historian Frances Yates, who helped reconstruct the theater’s blueprints in her book The Art of Memory, and the Italian literature professor Lina Bolzoni, who has helped explain how Camillo’s theater was more than just the work of a nut job, but actually the apotheosis of an entire era’s ideas about memory. (Location 2066)
   - **Note:** The art of memory book
-- “American Mnemotechny” and “How to Remember.” (Location 2095)
-  - **Note:** Book how to remember
-- Loisette’s 1886 book Physiological Memory: The Instantaneous Art of Never Forgetting selling for as little as $1.25 on the Internet is evidence of its once immense popularity. (Location 2099)
-  - **Note:** Book the er of never forgetting with the mnemonics
+
 - Bell sees himself as the vanguard of a new movement that takes the externalization of memory to its logical extreme: a final escape from the biology of remembering. (Location 2145)
 - Bell in his book Total Recall: How the E-Memory Revolution Will Change Everything. (Location 2147)
 - Bell has kept a digital “surrogate memory” to supplement the one in his brain. It ensures that a record is kept of anything and everything that might be forgotten. (Location 2149)
@@ -117,22 +116,15 @@
 - person/action/object (Location 2266)
 - What separates experts from the rest of us is that they tend to engage in a very directed, highly focused routine, which Ericsson has labeled “deliberate practice.” (Location 2333)
 - When you want to get good at something, how you spend your time practicing is far more important than the amount of time you spend. (Location 2341)
-- The best way to get out of the autonomous stage and off the OK plateau, Ericsson has found, is to actually practice failing. One way to do that is to put yourself in the mind of someone far more competent at the task you’re trying to master, and try to figure out how that person works (Location 2346)
-- The secret to improving at a skill is to retain some degree of conscious control over it while practicing—to force oneself to stay out of autopilot. (Location 2354)
-- Bruce Lee, which he hoped would serve as inspiration: “There are no limits. There are plateaus, but you must not stay there, you must go beyond them. If it kills you, it kills you.” (Location 2555)
-- In my own elementary and secondary education, at both public and private schools, I can recall being made to memorize (Location 2620)
-- Frances Yates published The Art of Memory, the first major modern academic work to delve into the rich history of mnemonics, Buzan returned to London to become the editor of Intelligence , the international journal of Mensa, the high-IQ society, which he had joined in college. (Location 2766)
-- “The realization that composing depended on a wellfurnished and securely available memory formed the basis of rhetorical education in antiquity,” writes Mary Carruthers. (Location 2801)
+
+- “The realization that composing depended on a wellfurnished and securely available memory formed the basis of rhetorical education in antiquity,” writes Mary Carruthers. (Location 2801) #notclear
+
 - Raemon Matthews. “I want thinkers, not just people who can repeat what I tell them,” (Location 2874)
-- world championships, to be honest. Those people can memorize a deck of cards in, like, thirty seconds. (Location 3562)
-- Rhetorica ad Herennium: So named after Gaius Herennius, the book’s patron. 94 “This book is our bible”: (Location 3791)
+
 - 6: HOW TO MEMORIZE A POEM 110 “ judgment, citizenship, and piety”: Carruthers, The Book of Memory, p. 11. 110 “worth a thousand in the stacks”: Draaisma, Metaphors of Memory, p. 38. 110 the principle language in which he wrote: Carruthers, The Book of Memory, p. (Location 3817)
+
 - 125 memorizing the Vedas with perfect fidelity: The Rigveda, the oldest of the Vedic texts, is over ten thousand verses long. (Location 3830)
-- before trying to see it as a series of images: Carruthers argues in a revised second edition of The Book of Memory that the memoria verborum has long been misunderstood by modern psychologists and scholars. It was not, in fact, an alternative to rote, verbatim memorization, she contends, and was never meant to be used for memorizing long stretches of text. (Location 3844)
-- Manguel, A. (1996). A history of reading. New York: Viking. Marcus, G. F. (2008). (Location 4072)
-- O’Brien, D. (2000). Learn to remember: practical techniques and exercises to improve your memory. San Francisco: Chronicle Books. (Location 4087)
-- Ramachandran, V. S., & Hubbard, E. M. (2003, May). Hearing Colors, Tasting Shapes. Scientific American, (Location 4097)
-- Shakuntala, D. (1977). Figuring: the joy of numbers. New York: Harper & Row. (Location 4111)
+
 - Journal of Verbal Learning and Verbal Behavior, 14, 506-522. Squire, L. R. (1987). Memory and brain. New York: Oxford University Press. (Location 4121)
 - American Literature, 53(2), 214-231. Wearing, D. (2005). Forever today: a memoir of love and amnesia. (Location 4141)
 - D. G. (1995). On the Acquistion of a Mnemonic Skill: Application of Skilled Memory Theory. Quarterly Journal of Experimental Psychology, (Location 4142)

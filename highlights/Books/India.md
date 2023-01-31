@@ -6,7 +6,7 @@
 
 - Author: F. Max Müller
 - Full Title: India
-- Category: 
+- Tags:  #india
 
 ### Highlights
 

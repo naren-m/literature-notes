@@ -17,7 +17,7 @@
   - **Note:** [[One percent rule]]
 - [[aggregation of marginal gains]]
 - [[One percent rule]]
-- Time magnifies the margin between success and failure. It will multiply whatever you feed it. Good habits make time your ally. Bad habits make time your enemy. (Location 317)
+- Time magnifies the margin between [[success]] and failure. It will multiply whatever you feed it. Good habits make time your ally. Bad habits make time your enemy. (Location 317)
   - **Note:** Compound effect over the ywrs you ger better if ykou improve by one percen dy
 - the most powerful outcomes are delayed. (Location 357)
   - **Tags:** #favorite

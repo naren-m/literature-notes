@@ -9,3 +9,10 @@
 - Poor policies
 - Self-signed certificates
 - Invalid certificates
+
+
+Categories of Vulnerabilities [[STRIDE]]
+
+## Tags
+
+- #security

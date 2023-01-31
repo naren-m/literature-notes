@@ -1,13 +1,17 @@
 # Why We Sleep
 
-![](https://images-na.ssl-images-amazon.com/images/I/51b36-UW0xL._SL200_.jpg)
+![img](https://images-na.ssl-images-amazon.com/images/I/51b36-UW0xL._SL200_.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Matthew Walker
 - Full Title: Why We Sleep
-- Category: #books
+- Category: 
 - Document Tags: #sleep
+
+## Tags
+
+- #parenting
 
 ### Highlights
 
@@ -93,11 +97,11 @@
   - ([Location 1456](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1456))
 - I will address the harmful and life-threatening effects of the latter in a later chapter; however, the complications of early school start times are inextricably linked with the first issue—a shift in [[circadian rhythm]].
   - ([Location 1457](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1457))
-- children need more sleep than their older siblings or parents, but also that the [[circadian rhythm]] of a young child runs on an earlier schedule.
+- children need more sleep than their older siblings or parents, but also that the [[circadian rhythm]] of a young child runs on an earlier schedule. #parenting
   - ([Location 1462](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1462))
 - During puberty, the timing of the suprachiasmatic nucleus is shifted progressively forward: a change that is common across all adolescents, irrespective of culture or geography.
   - ([Location 1464](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1464))
-- asking your teenage son or daughter to go to bed and fall asleep at ten p.m. is the circadian equivalent of asking you, their parent, to go to sleep at seven or eight p.m. No matter how loud you enunciate the order, no matter how much that teenager truly wishes to obey your instruction, and no matter what amount of willed effort is applied by either of the two parties, the [[circadian rhythm]] of a teenager will not be miraculously coaxed into a change.
+- asking your teenage son or daughter to go to bed and fall asleep at ten p.m. is the circadian equivalent of asking you, their parent, to go to sleep at seven or eight p.m. No matter how loud you enunciate the order, no matter how much that teenager truly wishes to obey your instruction, and no matter what amount of willed effort is applied by either of the two parties, the [[circadian rhythm]] of a teenager will not be miraculously coaxed into a change. 
   - ([Location 1477](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1477))
 - Central to the goal of adolescent development is the transition from parental dependence to independence, all the while learning to navigate the complexities of peer-group relationships and interactions.
   - ([Location 1493](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1493))

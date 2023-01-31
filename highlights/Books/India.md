@@ -1,12 +1,12 @@
 # India
 
-![](https://m.media-amazon.com/images/I/51HiJrwtsVL._SY160.jpg)
+![img](https://m.media-amazon.com/images/I/51HiJrwtsVL._SY160.jpg)
 
-### Metadata
+## Metadata
 
 - Author: F. Max Müller
 - Full Title: India
-- Category: #books
+- Tags:  #india
 
 ### Highlights
 

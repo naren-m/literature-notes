@@ -1,58 +1,36 @@
 # Outliers
 
-![](https://images-na.ssl-images-amazon.com/images/I/41kXEQoH9rL._SL200_.jpg)
+![img](https://images-na.ssl-images-amazon.com/images/I/41kXEQoH9rL._SL200_.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Malcolm Gladwell
 - Full Title: Outliers
-- Category: #books
+- Category: 
 
 ### Highlights
 
+Achievement = Talent + preperation
+
+- **[[Practice]] isn’t the thing you do once you’re good. It’s the thing you do that makes you good.**
+
 - Personal explanations of [[success]] don’t work. People don’t rise from nothing. We do owe something to parentage and patronage.
   - ([Location 198](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=198))
-- Working in collaboration with a small group of programmers, Joy took on the task of rewriting UNIX, which was a software system developed by AT&T for mainframe computers.
-  - ([Location 395](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=395))
-- And do you know who wrote much of the software that allows you to access the Internet? [[Bill Joy]].
-  - ([Location 398](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=398))
-- After graduating from Berkeley,  [[Bill Joy]] cofounded the Silicon Valley firm Sun Microsystems, which was one of the most critical players in the computer revolution.
-  - ([Location 399](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=399))
+
 - ***Achievement is talent plus preparation***. The problem with this view is that the closer psychologists look at the careers of the gifted, the smaller the role innate talent seems to play and the bigger the role preparation seems to play.
   - ([Location 413](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=413))
 - The striking thing about Ericsson’s study is that he and his colleagues couldn’t find any “naturals,” musicians who floated effortlessly to the top while practicing a fraction of the time their peers did. Nor could they find any “grinds,” people who worked harder than everyone else, yet just didn’t have what it takes to break the top ranks.
   - ([Location 429](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=429))
 - Their research suggests that once a musician has enough ability to get into a top music school, the thing that distinguishes one performer from another is how hard he or she works. That’s it. And what’s more, the people at the very top don’t work just harder or even much harder than everyone else. They work much, much harder.
   - ([Location 432](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=432))
-- **Practice isn’t the thing you do once you’re good. It’s the thing you do that makes you good.**
-  - ([Location 459](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=459))
+
 - Once someone has reached an IQ of somewhere around 120, having additional IQ points doesn’t seem to translate into any measurable real-world advantage.\*
   - ([Location 857](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=857))
+
 - The idea that IQ has a threshold, I realize, goes against our intuition.
   - ([Location 870](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=870))
-- [[Robert Oppenheimer]], the physicist who famously headed the American effort to develop the nuclear bomb during World War II.
-  - ([Location 1047](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=1047))
-- The particular skill that allows you to talk your way out of a murder rap, or convince your professor to move you from the morning to the afternoon section, is what the psychologist [[Robert Sternberg]] calls “[[practical intelligence]].”
-  - ([Location 1090](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=1090))
-- To Sternberg, [[practical intelligence]] includes things like “knowing what to say to whom, knowing when to say it, and knowing how to say it for maximum effect.”
-  - ([Location 1091](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=1091))
-- There were only two parenting “philosophies,” and they divided almost perfectly along class lines. The wealthier parents raised their kids one way, and the poorer parents raised their kids another way.
-  - ([Location 1109](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=1109))
-  - **Tags:** #parenting
-- The middle-class parents talked things through with their children, reasoning with them. They didn’t just issue commands. They expected their children to talk back to them, to negotiate, to question adults in positions of authority.
-  - ([Location 1121](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=1121))
-- If their children were doing poorly at school, the wealthier parents challenged their teachers. They intervened on behalf of their kids.
-  - ([Location 1123](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=1123))
-  - **Note:** Rich parents intervene in their kids life a lot
-- Lareau calls the middle-class parenting style “concerted cultivation.” It’s an attempt to actively “foster and assess a child’s talents, opinions and skills.”
-  - ([Location 1131](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=1131))
-  - **Note:** Broad philosophy of child upbringing
-- Poor parents tend to follow, by contrast, a strategy of “accomplishment of natural growth.” They see as their responsibility to care for their children but to let them grow and develop on their own.
-  - ([Location 1132](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=1132))
-- Lareau stresses that one style isn’t morally better than the other. The poorer children were, to her mind, often better behaved, less whiny, more creative in making use of their own time, and had a well-developed sense of independence. But in practical terms, concerted cultivation has enormous advantages. The heavily scheduled middle-class child is exposed to a constantly shifting set of experiences. She learns teamwork and how to cope in highly structured settings. She is taught how to interact comfortably with adults, and to speak up when she needs to. In Lareau’s words, the middle-class children learn a sense of “entitlement.”
-  - ([Location 1134](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=1134))
-- the working-class and poor children were characterized by “an emerging sense of distance, distrust, and constraint.” They didn’t know how to get their way, or how to “customize”—using Lareau’s wonderful term—whatever environment they were in, for their best purposes.
-  - ([Location 1143](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=1143))
+
+
 - Those three things—autonomy, complexity, and a connection between effort and reward—are, most people agree, the three qualities that work has to have if it is to be satisfying.
   - ([Location 1640](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=1640))
 - Hard work is a prison sentence only if it does not have meaning. Once it does, it becomes the kind of thing that makes you grab your wife around the waist and dance a jig.
@@ -89,15 +67,19 @@
   - ([Location 2385](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=2385))
 - “NO ONE WHO CAN RISE BEFORE DAWN THREE HUNDRED SIXTY DAYS A YEAR FAILS TO MAKE HIS FAMILY RICH.”
   - ([Location 2433](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=2433))
-- Take a look at the following list of numbers: 4, 8, 5, 3, 9, 7, 6. Read them out loud. Now look away and spend twenty seconds memorizing that sequence before saying them out loud again. If you speak English, you have about a 50 percent chance of remembering that sequence perfectly. If you’re Chinese, though, you’re almost certain to get it right every time. Why is that? Because as human beings we store digits in a memory loop that runs for about two seconds. We most easily memorize whatever we can say or read within that two-second span. And Chinese speakers get that list of numbers—4, 8, 5, 3, 9, 7, 6—right almost every time because, unlike English, their language allows them to fit all those seven numbers into two seconds. That example comes from Stanislas Dehaene’s book The Number Sense. As Dehaene explains: Chinese number words are remarkably brief. Most of them can be uttered in less than one-quarter of a second (for instance, 4 is “si” and 7 “qi”). Their English equivalents—“four,” “seven”—are longer: pronouncing them takes about one-third of a second. The memory gap between English and Chinese apparently is entirely due to this difference in length. In languages as diverse as Welsh, Arabic, Chinese, English and Hebrew, there is a reproducible correlation between the time required to pronounce numbers in a given language and the memory span of its speakers. In this domain, the prize for efficacy goes to the Cantonese dialect of Chinese, whose brevity grants residents of Hong Kong a rocketing memory span of about 10 digits.
+
+- Take a look at the following list of numbers: 4, 8, 5, 3, 9, 7, 6. Read them out loud. Now look away and spend twenty seconds memorizing that sequence before saying them out loud again. If you speak English, you have about a 50 percent chance of remembering that sequence perfectly. If you’re Chinese, though, you’re almost certain to get it right every time. Why is that? Because as human beings we store digits in a memory loop that runs for about two seconds. We most easily memorize whatever we can say or read within that two-second span. And Chinese speakers get that list of numbers—4, 8, 5, 3, 9, 7, 6—right almost every time because, unlike English, their language allows them to fit all those seven numbers into two seconds. That example comes from Stanislas Dehaene’s book The Number Sense. As Dehaene explains: Chinese number words are remarkably brief. Most of them can be uttered in less than one-quarter of a second (for instance, 4 is “si” and 7 “qi”). Their English equivalents—“four,” “seven”—are longer: pronouncing them takes about one-third of a second. The [[memory]] gap between English and Chinese apparently is entirely due to this difference in length. In languages as diverse as Welsh, Arabic, Chinese, English and Hebrew, there is a reproducible correlation between the time required to pronounce numbers in a given language and the memory span of its speakers. In this domain, the prize for efficacy goes to the Cantonese dialect of Chinese, whose brevity grants residents of Hong Kong a rocketing [[memory]] span of about 10 digits.
   - ([Location 2472](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=2472))
+
 - It turns out that there is also a big difference in how number-naming systems in Western and Asian languages are constructed. In English, we say fourteen, sixteen, seventeen, eighteen, and nineteen, so one might expect that we would also say oneteen, twoteen, threeteen, and fiveteen. But we don’t. We use a different form: eleven, twelve, thirteen, and fifteen. Similarly, we have forty and sixty, which sound like the words they are related to (four and six). But we also say fifty and thirty and twenty, which sort of sound like five and three and two, but not really. And, for that matter, for numbers above twenty, we put the “decade” first and the unit number second (twenty-one, twenty-two), whereas for the teens, we do it the other way around (fourteen, seventeen, eighteen). The number system in English is highly irregular. Not so in China, Japan, and Korea. They have a logical counting system. Eleven is ten-one. Twelve is ten-two. Twenty-four is two-tens-four and so on. That difference means that Asian children learn to count much faster than American children. Four-year-old Chinese children can count, on average, to forty. American children at that age can count only to fifteen, and most don’t reach forty until they’re five. By the age of five, in other words, American children are already a year behind their Asian counterparts in the most fundamental of math skills.
   - ([Location 2484](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=2484))
+
 - “The Asian system is transparent,” says Karen Fuson, a Northwestern University psychologist who has closely studied Asian-Western differences. “I think that it makes the whole attitude toward math different. Instead of being a rote learning thing, there’s a pattern I can figure out. There is an expectation that I can do this. There is an expectation that it’s sensible. For fractions, we say three-fifths. The Chinese is literally ‘out of five parts, take…
   - ([Location 2497](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=2497))
+
 - Asian children, by contrast, don’t feel nearly that same bafflement. They can hold more numbers in their heads and do calculations faster, and the way fractions are expressed in their languages corresponds exactly to the way a fraction actually is—and maybe that makes them a little more likely to enjoy math, and maybe because they enjoy math a little more, they try a little harder and take more math classes and are more willing to do their homework, and on and on, in a kind of virtuous circle. When it comes to math, in other words, Asians have a built-in advantage. But it’s an unusual kind of advantage. For years, students from China, South Korea, and Japan—and the children of recent immigrants who are from those countries—have substantially outperformed their Western counterparts at mathematics, and the typical assumption is that it has something to do with a kind of innate Asian proclivity for math.
   - ([Location 2504](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=2504))
-- The psychologist Richard Lynn has even gone so far as to propose an elaborate evolutionary theory involving the Himalayas, really cold weather, premodern hunting practices, brain size, and specialized vowel sounds to explain why Asians have higher IQs.† That’s how we think about math. We assume that being good at things like calculus and algebra is a simple function of how smart someone is. But the differences between the number systems in the East and the West suggest something very different—that being good at math may also be rooted in a group’s culture.
+- The psychologist Richard Lynn has even gone so far as to propose an elaborate evolutionary theory involving the Himalayas, really cold weather, premodern hunting [[practice]]s, brain size, and specialized vowel sounds to explain why Asians have higher IQs.† That’s how we think about math. We assume that being good at things like calculus and algebra is a simple function of how smart someone is. But the differences between the number systems in the East and the West suggest something very different—that being good at math may also be rooted in a group’s culture.
   - ([Location 2510](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=2510))
 - Cultural legacies matter, and once we’ve seen the surprising effects of such things as power distance and numbers that can be said in a quarter as opposed to a third of a second, it’s hard not to wonder how many other cultural legacies have an impact on our twenty-first-century intellectual tasks. What if coming from a culture shaped by the demands of growing rice also makes you better at math? Could the rice paddy make a difference in the classroom?
   - ([Location 2516](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=2516))
@@ -134,7 +116,7 @@
   - ([Location 2859](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=2859))
 - school experience, more than 80 percent of KIPP graduates will go on to college, in many cases being the first in their family to do so. How
   - ([Location 2906](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=2906))
-- Everything we have learned in Outliers says that success follows a predictable course. It is not the brightest who succeed. If it were, Chris Langan would be up there with Einstein. Nor is success simply the sum of the decisions and efforts we make on our own behalf. It is, rather, a gift. Outliers are those who have been given opportunities—and who have had the strength and presence of mind to seize them. For hockey and soccer players born in January, it’s a better shot at making the all-star team. For the Beatles, it was Hamburg. For Bill Gates, the lucky break was being born at the right time and getting the gift of a computer terminal in junior high. Joe Flom and the founders of Wachtell, Lipton, Rosen and Katz got multiple breaks. They were born at the right time with the right parents and the right ethnicity, which allowed them to practice takeover law for twenty years before the rest of the legal world caught on. And what Korean Air did, when it finally turned its operations around, was give its pilots the opportunity to escape the constraints of their cultural legacy.
+- Everything we have learned in Outliers says that success follows a predictable course. It is not the brightest who succeed. If it were, Chris Langan would be up there with Einstein. Nor is success simply the sum of the decisions and efforts we make on our own behalf. It is, rather, a gift. Outliers are those who have been given opportunities—and who have had the strength and presence of mind to seize them. For hockey and soccer players born in January, it’s a better shot at making the all-star team. For the Beatles, it was Hamburg. For Bill Gates, the lucky break was being born at the right time and getting the gift of a computer terminal in junior high. Joe Flom and the founders of Wachtell, Lipton, Rosen and Katz got multiple breaks. They were born at the right time with the right parents and the right ethnicity, which allowed them to [[practice]] takeover law for twenty years before the rest of the legal world caught on. And what Korean Air did, when it finally turned its operations around, was give its pilots the opportunity to escape the constraints of their cultural legacy.
   - ([Location 2908](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=2908))
 - The lesson here is very simple. But it is striking how often it is overlooked. We are so caught in the myths of the best and the brightest and the self-made that we think outliers spring naturally from the earth. We look at the young Bill Gates and marvel that our world allowed that thirteen-year-old to become a fabulously successful entrepreneur. But that’s the wrong lesson. Our world only allowed one thirteen-year-old unlimited access to a time-sharing terminal in 1968. If a million teenagers had been given the same opportunity, how many more Microsofts would we have today? To build a better world we need to replace the patchwork of lucky breaks and arbitrary advantages that today determine success—the fortunate birth dates and the happy accidents of history—with a society that provides opportunities for all. If Canada had a second hockey league for those children born in the last half of the year, it would today have twice as many adult hockey stars. Now multiply that sudden flowering of talent by every field and profession. The world could be so much richer than the world we have settled for.
   - ([Location 2915](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=2915))

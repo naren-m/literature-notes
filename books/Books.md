@@ -33,3 +33,21 @@
 ## Indian Archeology
 
 - [[Early Indians]]
+
+## Memory
+
+### Sugestions from [[Moonwalking With Einstein]]
+
+- The Mind of a Mnemonist: A Little Book About a Vast Memory that has become one of the most enduring classics in the literature of abnormal psychology
+- Shakuntala, D. (1977). Figuring: the joy of numbers. New York: Harper & Row. (Location 4111)
+- Ramachandran, V. S., & Hubbard, E. M. (2003, May). Hearing Colors, Tasting Shapes. Scientific American, (Location 4097)
+- O’Brien, D. (2000). Learn to remember: practical techniques and exercises to improve your memory. San Francisco: Chronicle Books. (Location 4087)
+- Manguel, A. (1996). A history of reading. New York: Viking. Marcus, G. F. (2008). (Location 4072)
+- Frances Yates published The Art of Memory, the first major modern academic work to delve into the rich history of mnemonics, Buzan returned to London to become the editor of Intelligence , the international journal of Mensa, the high-IQ society, which he had joined in college. (Location 2766)
+- Loisette’s 1886 book Physiological Memory: The Instantaneous Art of Never Forgetting selling for as little as $1.25 on the Internet is evidence of its once immense popularity. (Location 2099)
+- - “American Mnemotechny” and “How to Remember.” (Location 2095)
+- Titled Phoenix, it was translated into several languages and reprinted all across Europe. (Location 1998)
+
+
+### Excert from [[Why We Sleep]]
+That example comes from Stanislas Dehaene’s book The Number Sense

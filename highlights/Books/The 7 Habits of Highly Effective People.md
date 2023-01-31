@@ -1,12 +1,12 @@
 # The 7 Habits of Highly Effective People
 
-![](https://images-na.ssl-images-amazon.com/images/I/51fEYMhtHoL._SL200_.jpg)
+![img](https://images-na.ssl-images-amazon.com/images/I/51fEYMhtHoL._SL200_.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Stephen R. Covey
 - Full Title: The 7 Habits of Highly Effective People
-- Category: #books
+- Category: 
 
 ### Highlights
 

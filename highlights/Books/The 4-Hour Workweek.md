@@ -1,12 +1,12 @@
 # The 4-Hour Workweek
 
-![](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-5.25188386e520.png)
+![img](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-5.25188386e520.png)
 
-### Metadata
+## Metadata
 
 - Author: Timothy Ferriss
 - Full Title: The 4-Hour Workweek
-- Category: #books
+- Category: 
 
 ### Highlights
 

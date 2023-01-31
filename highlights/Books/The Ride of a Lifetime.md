@@ -1,18 +1,20 @@
 # The Ride of a Lifetime
 
-![](https://images-na.ssl-images-amazon.com/images/I/41gr0fllE9L._SL200_.jpg)
+![img](https://images-na.ssl-images-amazon.com/images/I/41gr0fllE9L._SL200_.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Robert Iger
 - Full Title: The Ride of a Lifetime
-- Category: #books
+- Category: 
 - Document Tags: #management
+
+A #memoir of #leadership and #success
 
 ### Highlights
 
 - And I tend to approach bad news as a problem that can be worked through and solved, something I have control over rather than something happening to me. ([Location 107](https://readwise.io/to_kindle?action=open&asin=B07PF6XTD8&location=107))
-  - **Tags:** #navigate-life, #favorite
+  - **Tags:** #life, #favorite
 - When the unexpected does happen, a kind of instinctive triage kicks in. You have to rely on your own internal “threat scale.” ([Location 110](https://readwise.io/to_kindle?action=open&asin=B07PF6XTD8&location=110))
 - Sometimes, even though you’re “in charge,” you need to be aware that in the moment you might have nothing to add, and so you don’t wade in. You trust your people to do their jobs and focus your energies on some other pressing issue. ([Location 113](https://readwise.io/to_kindle?action=open&asin=B07PF6XTD8&location=113))
 - these strike me as universal ideas: about fostering risk taking and creativity; about building a culture of trust; about fueling a deep and abiding curiosity in oneself and inspiring that in the people around you; about embracing change rather than living in denial of it; and about operating, always, with integrity and honesty in the world, even when that means facing things that are difficult to face. ([Location 236](https://readwise.io/to_kindle?action=open&asin=B07PF6XTD8&location=236))

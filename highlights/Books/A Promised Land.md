@@ -1,12 +1,12 @@
 # A Promised Land
 
-![](https://m.media-amazon.com/images/I/91D5xAOAVjL._SY160.jpg)
+![img](https://m.media-amazon.com/images/I/91D5xAOAVjL._SY160.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Barack Obama
 - Full Title: A Promised Land
-- Category: #books
+- Category: 
 
 ### Highlights
 

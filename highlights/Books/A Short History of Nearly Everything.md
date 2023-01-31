@@ -1,12 +1,12 @@
 # A Short History of Nearly Everything
 
-![](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-9.63dbe834380e.png)
+![img](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-9.63dbe834380e.png)
 
-### Metadata
+## Metadata
 
-- Author: Bill Bryson
+- Author: [[Bill Bryson]]
 - Full Title: A Short History of Nearly Everything
-- Category: #books
+- Category: 
 
 ### Highlights
 
@@ -18,10 +18,10 @@
 
 - Rees maintains that six numbers in particular govern our [[universe]], and that if any of these values were changed even very slightly things could not be as they are. For example, for the [[universe]] to exist as it does requires that hydrogen be converted to helium in a precise but comparatively stately manner—specifically, in a way that converts seven one-thousandths of its mass to energy. Lower that value very slightly—from 0.007 percent to 0.006 percent, say—and no transformation could take place: the [[universe]] would consist of hydrogen and nothing else. Raise the value very slightly—to 0.008 percent—and bonding would be so wildly prolific that the hydrogen would long since have been exhausted. In either case, with the slightest tweaking of the numbers the [[universe]] as we know and need it would not be here. (Location 293)
 
-- I should say that everything is just right so far. 
-    - In the long term, [[gravity]] may turn out to be a little too strong, and one day it may halt the expansion of the [[universe]] and bring it collapsing in upon itself, till it crushes itself down into another [[singularity]], possibly to start the whole process over again. 
-    - On the other hand it may be too weak and the [[universe]] will keep racing away forever until everything is so far apart that there is no chance of material interactions, so that the [[universe]] becomes a place that is inert and dead, but very roomy. 
-    - The third option is that [[gravity]] is just right—“[[critical density]]” is the cosmologists' term for it—and that it will hold the [[universe]] together at just the right dimensions to allow things to go on indefinitely. (Location 299)
+- I should say that everything is just right so far.
+  - In the long term, [[gravity]] may turn out to be a little too strong, and one day it may halt the expansion of the [[universe]] and bring it collapsing in upon itself, till it crushes itself down into another [[singularity]], possibly to start the whole process over again.
+  - On the other hand it may be too weak and the [[universe]] will keep racing away forever until everything is so far apart that there is no chance of material interactions, so that the [[universe]] becomes a place that is inert and dead, but very roomy.
+  - The third option is that [[gravity]] is just right—“[[critical density]]” is the cosmologists' term for it—and that it will hold the [[universe]] together at just the right dimensions to allow things to go on indefinitely. (Location 299)
 
 - and one day it may halt the expansion of the [[universe]] and bring it collapsing in upon itself, till it crushes (Location 300)
 

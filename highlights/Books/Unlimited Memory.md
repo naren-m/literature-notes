@@ -1,12 +1,12 @@
 # Unlimited Memory
 
-![](https://images-na.ssl-images-amazon.com/images/I/513g%2Bbu9OdL._SL200_.jpg)
+![img](https://images-na.ssl-images-amazon.com/images/I/513g%2Bbu9OdL._SL200_.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Kevin Horsley
 - Full Title: Unlimited Memory
-- Category: #books
+- Category: 
 
 ### Highlights
 

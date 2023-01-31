@@ -1,12 +1,12 @@
 # 150+ Screen-Free Activities for Kids
 
-![](https://images-na.ssl-images-amazon.com/images/I/61AuGV6bI9L._SL200_.jpg)
+![img](https://images-na.ssl-images-amazon.com/images/I/61AuGV6bI9L._SL200_.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Asia Citro
 - Full Title: 150+ Screen-Free Activities for Kids
-- Category: #books
+- Category: 
 
 ### Highlights
 

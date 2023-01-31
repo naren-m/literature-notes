@@ -16,3 +16,6 @@ Types of Patterns
 [[Decorator Pattern]]
 [[Adapter pattern]]
 
+## Tags
+
+- #programming #learning #investigate

@@ -1,12 +1,12 @@
 # Elon Musk
 
-![](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-9.63dbe834380e.png)
+![img](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-9.63dbe834380e.png)
 
-### Metadata
+## Metadata
 
 - Author: Ashlee Vance
 - Full Title: Elon Musk
-- Category: #books
+- Category: 
 
 ### Highlights
 

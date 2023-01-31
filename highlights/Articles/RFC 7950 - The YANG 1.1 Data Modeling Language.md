@@ -1,8 +1,8 @@
 # RFC 7950 - The YANG 1.1 Data Modeling Language
 
-![](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
+![img](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
-### Metadata
+## Metadata
 
 - Author: Section 13
 

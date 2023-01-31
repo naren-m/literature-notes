@@ -1,12 +1,12 @@
 # 12 Rules for Life
 
-![](https://images-na.ssl-images-amazon.com/images/I/41xrGjLlM0L._SL200_.jpg)
+![img](https://images-na.ssl-images-amazon.com/images/I/41xrGjLlM0L._SL200_.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Jordan B. Peterson, Norman Doidge (Forward), Ethan Van Sciver (Illustrator)
 - Full Title: 12 Rules for Life
-- Category: #books
+- Category: 
 
 ### Highlights
 

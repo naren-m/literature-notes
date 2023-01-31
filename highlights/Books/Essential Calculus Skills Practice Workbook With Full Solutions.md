@@ -1,12 +1,12 @@
 # Essential Calculus Skills Practice Workbook With Full Solutions
 
-![](https://m.media-amazon.com/images/I/71XMqAd+90L._SY160.jpg)
+![img](https://m.media-amazon.com/images/I/71XMqAd+90L._SY160.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Chris McMullen
 - Full Title: Essential Calculus Skills Practice Workbook With Full Solutions
-- Category: #books
+- Category: 
 
 ### Highlights
 

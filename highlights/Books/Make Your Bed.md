@@ -1,12 +1,12 @@
 # Make Your Bed
 
-![](https://images-na.ssl-images-amazon.com/images/I/51D8tEOmerL._SL200_.jpg)
+![img](https://images-na.ssl-images-amazon.com/images/I/51D8tEOmerL._SL200_.jpg)
 
-### Metadata
+## Metadata
 
 - Author: William H. McRaven
 - Full Title: Make Your Bed
-- Category: #books
+- Category: 
 
 ### Highlights
 

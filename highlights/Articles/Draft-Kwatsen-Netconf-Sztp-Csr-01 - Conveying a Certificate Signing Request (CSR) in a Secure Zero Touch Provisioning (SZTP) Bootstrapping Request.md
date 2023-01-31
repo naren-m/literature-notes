@@ -1,8 +1,8 @@
 # Draft-Kwatsen-Netconf-Sztp-Csr-01 - Conveying a Certificate Signing Request (CSR) in a Secure Zero Touch Provisioning (SZTP) Bootstrapping Request
 
-![](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
+![img](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
-### Metadata
+## Metadata
 
 - Author: tools.ietf.org
 

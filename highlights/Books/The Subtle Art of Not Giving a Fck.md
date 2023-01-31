@@ -1,12 +1,12 @@
 # The Subtle Art of Not Giving a F\*ck
 
-![](https://images-na.ssl-images-amazon.com/images/I/51mN3bY0JjL._SL200_.jpg)
+![img](https://images-na.ssl-images-amazon.com/images/I/51mN3bY0JjL._SL200_.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Mark Manson
 - Full Title: The Subtle Art of Not Giving a F\*ck
-- Category: #books
+- Category: 
 
 ### Highlights
 

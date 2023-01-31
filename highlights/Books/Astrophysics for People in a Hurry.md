@@ -1,12 +1,12 @@
 # Astrophysics for People in a Hurry
 
-![](https://images-na.ssl-images-amazon.com/images/I/51qdmr7snXL._SL200_.jpg)
+![img](https://images-na.ssl-images-amazon.com/images/I/51qdmr7snXL._SL200_.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Neil deGrasse Tyson
 - Full Title: Astrophysics for People in a Hurry
-- Category: #books
+- Category: 
 
 ### Highlights
 

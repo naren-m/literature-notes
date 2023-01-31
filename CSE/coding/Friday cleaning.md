@@ -12,3 +12,4 @@ quantifiable changes to the code base.
 
 - [[aggregation of marginal gains]]
 - [[One percent rule]]
+- #programming 

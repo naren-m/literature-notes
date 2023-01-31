@@ -16,7 +16,7 @@ The three kinds of tests that make it up
 Along with some rules of thumb around when to use each kind of test
 Let’s get started.
 
-![](literature-notes/assets/test%20pyramid.png)
+![img](literature-notes/assets/test%20pyramid.png)
 
 - [Article](http://www.agilenutshell.com/episodes/41-testing-pyramid)
 

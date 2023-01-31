@@ -1,12 +1,12 @@
 # No Rules Rules
 
-![](https://m.media-amazon.com/images/I/717Ef4yai2L._SY160.jpg)
+![img](https://m.media-amazon.com/images/I/717Ef4yai2L._SY160.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Reed Hastings, Erin Meyer
 - Full Title: No Rules Rules
-- Category: #books
+- Category: 
 
 ### Highlights
 

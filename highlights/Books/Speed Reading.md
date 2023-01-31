@@ -1,12 +1,12 @@
 # Speed Reading
 
-![](https://images-na.ssl-images-amazon.com/images/I/51BVkQBC13L._SL200_.jpg)
+![img](https://images-na.ssl-images-amazon.com/images/I/51BVkQBC13L._SL200_.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Kam Knight
 - Full Title: Speed Reading
-- Category: #books
+- Category: #book
 
 ### Highlights
 

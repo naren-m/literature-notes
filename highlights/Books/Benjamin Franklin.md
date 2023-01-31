@@ -1,12 +1,12 @@
 # Benjamin Franklin
 
-![](https://images-na.ssl-images-amazon.com/images/I/51e4pdrIVKL._SL200_.jpg)
+![img](https://images-na.ssl-images-amazon.com/images/I/51e4pdrIVKL._SL200_.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Walter Isaacson
 - Full Title: Benjamin Franklin
-- Category: #books
+- Category: #book
 
 ### Highlights
 

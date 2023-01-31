@@ -1,12 +1,12 @@
 # The Code of the Extraordinary Mind
 
-![](https://images-na.ssl-images-amazon.com/images/I/41N68GraMKL._SL200_.jpg)
+![img](https://images-na.ssl-images-amazon.com/images/I/41N68GraMKL._SL200_.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Vishen Lakhiani
 - Full Title: The Code of the Extraordinary Mind
-- Category: #books
+- Category: #book
 
 ### Highlights
 

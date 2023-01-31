@@ -2,11 +2,11 @@
 
 ![Atomic Habits](https://img1.od-cdn.com/ImageType-100/1523-1/%7BD29CC053-29CE-4E90-9596-61DA1F2F555D%7DImg100.jpg)
 
-### Metadata
+## Metadata
 
 - Author: James Clear
 - Full Title: Atomic Habits
-- Category: #books
+- Category: #book
 
 ### Highlights
 

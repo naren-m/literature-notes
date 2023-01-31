@@ -1,12 +1,12 @@
 # The Book of Joy
 
-![](https://images-na.ssl-images-amazon.com/images/I/51VaMOqmsjL._SL200_.jpg)
+![img](https://images-na.ssl-images-amazon.com/images/I/51VaMOqmsjL._SL200_.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Dalai Lama, Desmond Tutu, and Douglas Carlton Abrams
 - Full Title: The Book of Joy
-- Category: #books
+- Category: #book
 
 ### Highlights
 

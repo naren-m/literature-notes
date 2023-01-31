@@ -1,12 +1,12 @@
 # The Ride of a Lifetime
 
-![](https://images-na.ssl-images-amazon.com/images/I/41gr0fllE9L._SL200_.jpg)
+![img](https://images-na.ssl-images-amazon.com/images/I/41gr0fllE9L._SL200_.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Robert Iger
 - Full Title: The Ride of a Lifetime
-- Category: #books
+- Category: #book
 - Document Tags: #management
 
 ### Highlights

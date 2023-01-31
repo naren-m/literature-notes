@@ -1,12 +1,12 @@
 # Shoe Dog
 
-![](https://images-na.ssl-images-amazon.com/images/I/41k%2BWVPLwZL._SL200_.jpg)
+![img](https://images-na.ssl-images-amazon.com/images/I/41k%2BWVPLwZL._SL200_.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Phil Knight
 - Full Title: Shoe Dog
-- Category: #books
+- Category: #book
 
 ### Highlights
 

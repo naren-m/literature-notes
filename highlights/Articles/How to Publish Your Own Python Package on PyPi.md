@@ -1,8 +1,8 @@
 # How to Publish Your Own Python Package on PyPi
 
-![](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
+![img](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
-### Metadata
+## Metadata
 
 - Author: Marco Massenzio
 

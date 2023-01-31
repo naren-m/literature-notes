@@ -1,12 +1,12 @@
 # Outliers
 
-![](https://images-na.ssl-images-amazon.com/images/I/41kXEQoH9rL._SL200_.jpg)
+![img](https://images-na.ssl-images-amazon.com/images/I/41kXEQoH9rL._SL200_.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Malcolm Gladwell
 - Full Title: Outliers
-- Category: #books
+- Category: #book
 
 ### Highlights
 

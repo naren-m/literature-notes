@@ -1,12 +1,12 @@
 # Grit
 
-![](https://images-na.ssl-images-amazon.com/images/I/51WirY%2B1abL._SL200_.jpg)
+![img](https://images-na.ssl-images-amazon.com/images/I/51WirY%2B1abL._SL200_.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Angela Duckworth
 - Full Title: Grit
-- Category: #books
+- Category: #book
 
 ### Highlights
 

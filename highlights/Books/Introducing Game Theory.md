@@ -1,12 +1,12 @@
 # Introducing Game Theory
 
-![](https://images-na.ssl-images-amazon.com/images/I/51MjdLN9JlL._SL200_.jpg)
+![img](https://images-na.ssl-images-amazon.com/images/I/51MjdLN9JlL._SL200_.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Ivan Pastine, Tuvana Pastine
 - Full Title: Introducing Game Theory
-- Category: #books
+- Category: #book
 
 ### Highlights
 

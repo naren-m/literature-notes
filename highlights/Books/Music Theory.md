@@ -1,12 +1,12 @@
 # Music Theory
 
-![](https://images-na.ssl-images-amazon.com/images/I/51y2bj5OYvL._SL200_.jpg)
+![img](https://images-na.ssl-images-amazon.com/images/I/51y2bj5OYvL._SL200_.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Nicolas Carter
 - Full Title: Music Theory
-- Category: #books
+- Category: #book
 
 ### Highlights
 

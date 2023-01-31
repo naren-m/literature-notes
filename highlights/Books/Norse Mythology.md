@@ -1,12 +1,12 @@
 # Norse Mythology
 
-![](https://images-na.ssl-images-amazon.com/images/I/51XV9hsiwmL._SL200_.jpg)
+![img](https://images-na.ssl-images-amazon.com/images/I/51XV9hsiwmL._SL200_.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Neil Gaiman
 - Full Title: Norse Mythology
-- Category: #books
+- Category: #book
 
 ### Highlights
 

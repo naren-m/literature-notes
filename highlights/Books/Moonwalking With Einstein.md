@@ -6,11 +6,11 @@
 
 - Author: Joshua Foer
 - Full Title: Moonwalking With Einstein
-- Category: #books
+- Category: #book
 
 ### Highlights
 
-[[memory]] [[practice]] [[quotes]] #books
+[[memory]] [[practice]] [[quotes]] #book
 
 - “Indeed, one would be hard put to say which was more real for him: the world of imagination in which he lived, or the world of reality in which he was but a temporary guest,” (Location 469)
 

@@ -1,12 +1,12 @@
 # Brahma Sutra Bhasya
 
-![](https://m.media-amazon.com/images/I/41-tsGvyLZL._SY160.jpg)
+![img](https://m.media-amazon.com/images/I/41-tsGvyLZL._SY160.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Sankaracarya, Translated by Swami Gambhirananda
 - Full Title: Brahma Sutra Bhasya
-- Category: #books
+- Category: #book
 
 ### Highlights
 

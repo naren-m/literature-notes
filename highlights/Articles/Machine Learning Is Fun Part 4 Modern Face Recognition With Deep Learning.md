@@ -1,8 +1,8 @@
 # Machine Learning Is Fun! Part 4: Modern Face Recognition With Deep Learning
 
-![](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
+![img](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
-### Metadata
+## Metadata
 
 - Author: Adam Geitgey
 

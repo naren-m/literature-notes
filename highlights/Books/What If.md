@@ -1,12 +1,12 @@
 # What If?
 
-![](https://images-na.ssl-images-amazon.com/images/I/51PdzumjQFL._SL200_.jpg)
+![img](https://images-na.ssl-images-amazon.com/images/I/51PdzumjQFL._SL200_.jpg)
 
-### Metadata
+## Metadata
 
 - Author: Randall Munroe
 - Full Title: What If?
-- Category: #books
+- Category: #book
 
 ### Highlights
 

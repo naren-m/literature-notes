@@ -6,7 +6,7 @@
 
 - Author: Kevin Horsley
 - Full Title: Unlimited Memory
-- Category: #book
+- Category: 
 
 ### Highlights
 

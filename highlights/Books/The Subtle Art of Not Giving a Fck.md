@@ -6,7 +6,7 @@
 
 - Author: Mark Manson
 - Full Title: The Subtle Art of Not Giving a F\*ck
-- Category: #book
+- Category: 
 
 ### Highlights
 

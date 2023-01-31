@@ -6,7 +6,7 @@
 
 - Author: William H. McRaven
 - Full Title: Make Your Bed
-- Category: #book
+- Category: 
 
 ### Highlights
 

@@ -6,7 +6,7 @@
 
 - Author: Reed Hastings, Erin Meyer
 - Full Title: No Rules Rules
-- Category: #book
+- Category: 
 
 ### Highlights
 

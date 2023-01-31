@@ -6,7 +6,7 @@
 
 - Author: Dalai Lama, Desmond Tutu, and Douglas Carlton Abrams
 - Full Title: The Book of Joy
-- Category: #book
+- Category: 
 
 ### Highlights
 

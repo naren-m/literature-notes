@@ -6,8 +6,10 @@
 
 - Author: Robert Iger
 - Full Title: The Ride of a Lifetime
-- Category: #book
+- Category: 
 - Document Tags: #management
+
+A #memoir of #leadership and #success
 
 ### Highlights
 

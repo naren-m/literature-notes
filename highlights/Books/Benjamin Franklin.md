@@ -6,7 +6,7 @@
 
 - Author: Walter Isaacson
 - Full Title: Benjamin Franklin
-- Category: #book
+- Category: 
 
 ### Highlights
 

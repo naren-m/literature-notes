@@ -6,7 +6,7 @@
 
 - Author: Asia Citro
 - Full Title: 150+ Screen-Free Activities for Kids
-- Category: #book
+- Category: 
 
 ### Highlights
 

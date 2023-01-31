@@ -6,7 +6,7 @@
 
 - Author: Barack Obama
 - Full Title: A Promised Land
-- Category: #book
+- Category: 
 
 ### Highlights
 

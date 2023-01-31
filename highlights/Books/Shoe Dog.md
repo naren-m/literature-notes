@@ -6,7 +6,9 @@
 
 - Author: Phil Knight
 - Full Title: Shoe Dog
-- Category: #book
+- Category: 
+
+A #memoir by the Creator of Nike. #bussiness #life
 
 ### Highlights
 

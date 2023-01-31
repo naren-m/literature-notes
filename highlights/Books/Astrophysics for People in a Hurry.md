@@ -6,7 +6,7 @@
 
 - Author: Neil deGrasse Tyson
 - Full Title: Astrophysics for People in a Hurry
-- Category: #book
+- Category: 
 
 ### Highlights
 

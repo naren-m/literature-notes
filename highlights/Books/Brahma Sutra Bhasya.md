@@ -6,7 +6,7 @@
 
 - Author: Sankaracarya, Translated by Swami Gambhirananda
 - Full Title: Brahma Sutra Bhasya
-- Category: #book
+- Category: 
 
 ### Highlights
 

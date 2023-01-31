@@ -6,7 +6,7 @@
 
 - Author: [[Bill Bryson]]
 - Full Title: A Short History of Nearly Everything
-- Category: #book
+- Category: 
 
 ### Highlights
 

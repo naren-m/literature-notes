@@ -6,7 +6,7 @@
 
 - Author: Jordan B. Peterson, Norman Doidge (Forward), Ethan Van Sciver (Illustrator)
 - Full Title: 12 Rules for Life
-- Category: #book
+- Category: 
 
 ### Highlights
 

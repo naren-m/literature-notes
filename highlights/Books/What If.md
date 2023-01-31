@@ -6,9 +6,9 @@
 
 - Author: Randall Munroe
 - Full Title: What If?
-- Category: #book
+- Category: 
 
 ### Highlights
 
 - spinning, but the atmosphere retained its velocity? —Andrew Brown ([Location 106](https://readwise.io/to_kindle?action=open&asin=B00IYUYF4A&location=106))
-  - **Tags:** #book
+  - **Tags:** 

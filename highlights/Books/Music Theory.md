@@ -6,7 +6,9 @@
 
 - Author: Nicolas Carter
 - Full Title: Music Theory
-- Category: #book
+- Category: 
+
+[[Carnatic music]] [[prana]]
 
 ### Highlights
 

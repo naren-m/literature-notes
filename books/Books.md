@@ -47,3 +47,7 @@
 - Loisette’s 1886 book Physiological Memory: The Instantaneous Art of Never Forgetting selling for as little as $1.25 on the Internet is evidence of its once immense popularity. (Location 2099)
 - - “American Mnemotechny” and “How to Remember.” (Location 2095)
 - Titled Phoenix, it was translated into several languages and reprinted all across Europe. (Location 1998)
+
+
+### Excert from [[Why We Sleep]]
+That example comes from Stanislas Dehaene’s book The Number Sense

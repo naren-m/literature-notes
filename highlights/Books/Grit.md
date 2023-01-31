@@ -6,7 +6,7 @@
 
 - Author: Angela Duckworth
 - Full Title: Grit
-- Category: #book
+- Category: 
 
 ### Highlights
 
@@ -186,9 +186,9 @@
 - In his best-selling 1928 #parenting guide, Psychological Care of Infant and Child, Watson holds forth on how to raise a child “who loses himself in work and play, who quickly learns to overcome the small difficulties in his environment . . . and who finally enters manhood so bulwarked with stable work and emotional habits that no adversity can quite overwhelm him.” ([Location 2757](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2757))
 - On the continuum between supportive and demanding #parenting, proponents of this permissive “child-centered” approach fall to the left of center. ([Location 2769](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2769))
 - When it came time to raise their children, both Sherry and Grit very deliberately set out to provide the same challenges. “My goal was to teach them discipline,” Grit said, “and to go at things hard like I learned to do. You have to learn those things. They don’t just happen. It was important to me to teach the kids to finish what you begin.” ([Location 2821](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2821))
-  - **Note:** #Parenting
+  - **Note:** #parenting
 - In no uncertain terms, Steve and his siblings were made to understand that, whatever they signed up for, they had to see it through to the end. “We told them, you’ve got to go to all the practices. You can’t say, ‘Oh, I’m tired of this.’ Once you commit, you discipline yourself to do it. There’s going to be times you don’t want to go, but you’ve got to go.” Sounds strict, right? It was. But if you listen closely, you’ll discover that the Youngs were also tremendously supportive. ([Location 2824](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2824))
-  - **Note:** #Parenting
+  - **Note:** #parenting
 - But it’s a fine line between tough love and bullying, isn’t it? What’s the difference? “I knew the decision was mine,” Steve said. “And I knew my dad didn’t want me to be him. Number one, a parent needs to set a stage that proves to the child, ‘I’m not trying to just have you do what I say, control you, make you be like me, make you do what I did, ask you to make up for what I didn’t do.’ My dad showed me early that it wasn’t about him and what he needed. It truly was ‘I’m giving you all I got.’ “There was an underlying selflessness to the tough love,” Steve continued. “I think that’s vital. If any of the tough love is about the parent just trying to control you, well, kids smell it out. In every way possible, I knew my parents were saying, ‘We’re looking to see your success. We’ve left ourselves behind.’ ” ([Location 2856](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2856))
 - “Actually,” Alex said, “I think I’m allergic to spoiled children. Children must be loved and accepted, but then, without complications, they need to be taught: ‘No, you cannot hit your sister on the head with that stick. Yes, you must share. No, you don’t get to have everything you want when you want it.’ It’s no-nonsense #parenting.” ([Location 2891](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2891))
 - “To finish things, you have to put the work in. When I was younger, I’d meet many people who were writing stuff. They’d say to me, ‘Oh yeah, I am a writer as well but I’ve never finished anything.’ Well, in that case, you are not a writer. You are just somebody who sits down and writes things on a bit of paper. If you’ve got something to say, go ahead and say it and finish it.” ([Location 2901](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2901))

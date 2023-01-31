@@ -6,11 +6,11 @@
 
 - Author: Vishen Lakhiani
 - Full Title: The Code of the Extraordinary Mind
-- Category: #book
+- Category: 
 
 ### Highlights
 
 - extraordinary ([Location 103](https://readwise.io/to_kindle?action=open&asin=B0182SMOBE&location=103))
-  - **Tags:** #book
+  - **Tags:** 
 - Losing My Virginity, ([Location 108](https://readwise.io/to_kindle?action=open&asin=B0182SMOBE&location=108))
-  - **Tags:** #book
+  - **Tags:** 

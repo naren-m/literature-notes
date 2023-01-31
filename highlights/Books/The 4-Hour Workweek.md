@@ -6,7 +6,7 @@
 
 - Author: Timothy Ferriss
 - Full Title: The 4-Hour Workweek
-- Category: #book
+- Category: 
 
 ### Highlights
 

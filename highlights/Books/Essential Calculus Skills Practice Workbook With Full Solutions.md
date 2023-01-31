@@ -6,7 +6,7 @@
 
 - Author: Chris McMullen
 - Full Title: Essential Calculus Skills Practice Workbook With Full Solutions
-- Category: #book
+- Category: 
 
 ### Highlights
 

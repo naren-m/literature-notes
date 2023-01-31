@@ -6,7 +6,7 @@
 
 - Author: Ashlee Vance
 - Full Title: Elon Musk
-- Category: #book
+- Category: 
 
 ### Highlights
 

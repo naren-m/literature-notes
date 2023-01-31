@@ -6,7 +6,7 @@
 
 - Author: James Clear
 - Full Title: Atomic Habits
-- Category: #book
+- Category: 
 
 ### Highlights
 

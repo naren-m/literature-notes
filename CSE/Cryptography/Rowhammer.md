@@ -4,7 +4,7 @@ Row hammer (also written as rowhammer) is a security exploit that takes advantag
 
 This is an example of [[Side Channel Attack]]
 
-The row hammer effect has been used in some privilege escalation computer security exploits,[2][4][5][6] and network-based attacks are also theoretically possible.[7][8]
+The row hammer effect has been used in some [[privilege escalation]] computer security exploits,[2][4][5][6] and network-based attacks are also theoretically possible.[7][8]
 
 Different hardware-based techniques exist to prevent the row hammer effect from occurring, including required support in some processors and types of DRAM memory modules.[9][10]
 

@@ -10,7 +10,7 @@ https://en.wikipedia.org/wiki/Bill_Joy
 
 
 
-## snippent from [[Outliers]]
+## snippet from [[Outliers]]
 
 - After graduating from Berkeley,  Bill Joy cofounded the Silicon Valley firm Sun Microsystems, which was one of the most critical players in the computer revolution. ([Location 399](https://readwise.io/to_kindle?action=open&asin=B001ANYDAO&location=399)) - Achievement = Talent + preperation
 

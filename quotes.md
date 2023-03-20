@@ -18,3 +18,6 @@
 
 - “Science is not only a disciple of reason but also one of romance and passion.” – Stephen Hawking
 - Bruce Lee, which he hoped would serve as inspiration: “There are no limits. There are plateaus, but you must not stay there, you must go beyond them. If it kills you, it kills you.” (Location 2555) [[Moonwalking With Einstein]]
+
+- [[The Ride of a Lifetime]]
+  - And I tend to approach bad news as a problem that can be worked through and solved, something I have control over rather than something happening to me. #life #problems #favorite [[Robert Iger]]

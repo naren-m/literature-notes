@@ -6,8 +6,8 @@
 
 - Author: Matthew Walker
 - Full Title: Why We Sleep
-- Category: 
-- Document Tags: #sleep
+- Category: #productivity #sleep #habit
+- Document Tags: #sleep #investigate
 
 ## Tags
 
@@ -27,7 +27,7 @@
   - ([Location 177](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=177))
 - powerful sculpting force of your twenty-four-hour rhythm, also known as your s[[circadian rhythm]]. Everyone generates a [[circadian rhythm]] (circa, meaning “around,” and dian, derivative of diam, meaning “day”).
   - ([Location 202](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=202))
-- De Mairan was intrigued by one plant in particular, called Mimosa pudica.
+- De Mairan was intrigued by one plant in particular, called [[Mimosa pudica]].
   - ([Location 215](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=215))
 - pattern of prolonged wakefulness (about
   - ([Location 249](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=249))

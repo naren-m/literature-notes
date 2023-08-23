@@ -1,5 +1,6 @@
 # Sulba Sutras
 
+[[Sutra]]
 
 ## Tags
 

@@ -22,6 +22,10 @@
 - [[Astadhyayi]] Sanskrit grammer by [[Panini]]
 - [[Amarakosham]] by [Amarasimha](https://en.wikipedia.org/wiki/Amarasimha)
 
+### Physics
+
+- [[Vaiseshika Darshanam]] by Kaṇāda [[Kanaada]] maharshi
+
 ## Mathematics
 
 ## Computer Science
@@ -51,3 +55,28 @@
 
 ### Excert from [[Why We Sleep]]
 That example comes from Stanislas Dehaene’s book The Number Sense
+
+
+## Software Architechtrue
+
+[Desinging Data-Intensive applicaion](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/?_encoding=UTF8&pd_rd_w=N8TQA&content-id=amzn1.sym.bc5f3394-3b4c-4031-8ac0-18107ac75816&pf_rd_p=bc5f3394-3b4c-4031-8ac0-18107ac75816&pf_rd_r=JBHBPV1WYX4NRJ24NGE1&pd_rd_wg=3PaHU&pd_rd_r=c772b789-5894-4421-bb0b-fc6d99a60f9c&ref_=pd_gw_ci_mcx_mr_hp_atf_m)
+
+
+[Principles of Computer System Design: An Introduction](https://www.amazon.com/Principles-Computer-System-Design-Introduction/dp/0123749573/?_encoding=UTF8&pd_rd_w=N8TQA&content-id=amzn1.sym.bc5f3394-3b4c-4031-8ac0-18107ac75816&pf_rd_p=bc5f3394-3b4c-4031-8ac0-18107ac75816&pf_rd_r=JBHBPV1WYX4NRJ24NGE1&pd_rd_wg=3PaHU&pd_rd_r=c772b789-5894-4421-bb0b-fc6d99a60f9c&ref_=pd_gw_ci_mcx_mr_hp_atf_m)
+
+[Patterns, Principles, and Practices of Domain-Driven Design](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709/?_encoding=UTF8&pd_rd_w=N8TQA&content-id=amzn1.sym.bc5f3394-3b4c-4031-8ac0-18107ac75816&pf_rd_p=bc5f3394-3b4c-4031-8ac0-18107ac75816&pf_rd_r=JBHBPV1WYX4NRJ24NGE1&pd_rd_wg=3PaHU&pd_rd_r=c772b789-5894-4421-bb0b-fc6d99a60f9c&ref_=pd_gw_ci_mcx_mr_hp_atf_m)
+
+[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/ref=sr_1_3?crid=1HPWQNR1H9MCX&keywords=continous+delivery&qid=1686344904&s=books&sprefix=continous+delivery%2Cstripbooks%2C287&sr=1-3&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc)
+
+[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?crid=JT42B9AONYAF&keywords=domain+driven+design&qid=1686344937&s=books&sprefix=domain+driven+design%2Cstripbooks%2C287&sr=1-1)
+
+
+[Wardley Mapping, The Knowledge: Part One](https://www.amazon.com/Wardley-Mapping-Knowledge-Topographical-intelligence/dp/1913805182/ref=sr_1_7?crid=137T0UQ3UXX3X&keywords=wardley+mapping&qid=1686344965&s=books&sprefix=wardley+mappin%2Cstripbooks%2C317&sr=1-7)
+
+[Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/ref=sr_1_1?crid=2WXRKW79KRHYI&keywords=accelerate&qid=1686345025&s=books&sprefix=accelerate%2Cstripbooks%2C192&sr=1-1)
+
+[Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819/ref=sr_1_1?crid=DJ647CD873SY&keywords=team+topologies&qid=1686345264&s=books&sprefix=team+topologi%2Cstripbooks%2C377&sr=1-1)
+
+[Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012/ref=sr_1_1?crid=1OMWK8GE25GUD&keywords=creativit+inc&qid=1686345352&s=books&sprefix=creativit+inc%2Cstripbooks%2C262&sr=1-1)
+
+[The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise](https://www.amazon.com/Software-Architect-Elevator-Redefining-Architects/dp/1492077542/ref=sr_1_1?crid=17QVXO6DVO07A&keywords=the+software+architect+elevator&qid=1686345508&s=books&sprefix=the+software+architect+elevator%2Cstripbooks%2C263&sr=1-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc)

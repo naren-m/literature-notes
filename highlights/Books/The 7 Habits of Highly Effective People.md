@@ -6,7 +6,7 @@
 
 - Author: Stephen R. Covey
 - Full Title: The 7 Habits of Highly Effective People
-- Category: 
+- Category: Productivity, self help
 
 ### Highlights
 

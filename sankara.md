@@ -1,6 +1,6 @@
 # sankara
 
-Sam Karothis ithi shankarah
+Sam Karothi ithi shankarah
 
 ## Tags
 

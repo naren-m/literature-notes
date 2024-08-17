@@ -71,7 +71,7 @@ ubhayathā—in both ways, Guṇāḥ, attributes.
 
 कार्यविरोधि कर्म ॥ १.१.१४ ॥
 
-కార్యవిరోధి కర్మ  ॥ [1.1.14](https://www.wisdomlib.org/hinduism/book/vaisheshika-sutra-commentary/d/doc427567.html) ॥
+కార్యవిరోధి కర్మ ॥ [1.1.14](https://www.wisdomlib.org/hinduism/book/vaisheshika-sutra-commentary/d/doc427567.html) ॥
 
 kāryavirodhi karma || 1.1.14 ||
 

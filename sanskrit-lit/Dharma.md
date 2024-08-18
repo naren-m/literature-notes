@@ -1,6 +1,9 @@
 # Dharma
 
-Dhra iti, iti dharmaha
+
+- ధార యతి, ఇతి ధర్మ:
+- ధ్రియథేవ జనయరితి ధర్మ:
+
 
 One that sustains. What does it sustain? Balance in the creation.
 
@@ -10,4 +13,6 @@ Dharma - Righteousness in actions
 
 [[Hanuman Chalisa]]
 sankata te hanumāna chhudāvai।
-mana krama bachana dhyāna jo lāvai॥ 26 ॥
+mana krama vachana dhyāna jo lāvai॥ 26 ॥
+
+

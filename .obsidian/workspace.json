@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a962849cc451bf24",
+        "id": "071ee7d950a20826",
         "type": "tabs",
         "children": [
           {
-            "id": "61726d24d09c45ca",
+            "id": "fc58a3c589e358d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +127,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.canvas"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,6 +148,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61726d24d09c45ca",
-  "lastOpenFiles": []
+  "active": "fc58a3c589e358d3",
+  "lastOpenFiles": [
+    "sanskrit-lit/mathsya purana.md",
+    "Adapter pattern.md",
+    "aggregation of marginal gains.md",
+    "Behavioral Patterns.md",
+    "sanskrit-lit/Ayurvedam.md",
+    "sanskrit-lit/AyurvedicRemedies.md",
+    "sanskrit-lit/Atharvanaveda.md",
+    "sanskrit-lit/Agni.md",
+    "sanskrit-lit/Sangitaratnakara.md",
+    "sanskrit-lit/Nada.md",
+    "sanskrit-lit/Rudra.md",
+    "sanskrit-lit/Prana.md",
+    "sanskrit-lit/Niruktha.md",
+    "sanskrit-lit/karma.md",
+    "sanskrit-lit/Dharma.md",
+    "sanskrit-lit/Brihadesi.md",
+    "sanskrit-lit/Astadhyayi.md",
+    "sanskrit-lit/Amarakosham.md",
+    "sanskrit-lit/Akshara.md",
+    "books/Books.md",
+    "highlights/Articles/Draft-Kwatsen-Netconf-Sztp-Csr-01 - Conveying a Certificate Signing Request (CSR) in a Secure Zero Touch Provisioning (SZTP) Bootstrapping Request.md",
+    "Jeff Dean.md",
+    "daily-notes/gruthva.md",
+    "templates/Podcast.md",
+    "templates/general-meeting.md",
+    "templates/daily-note.md",
+    "Untitled.canvas"
+  ]
 }

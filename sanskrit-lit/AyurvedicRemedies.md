@@ -20,5 +20,8 @@ Add honey mix and take
 
 ## Reduce body temperature and create soothing effect to body
 
-- Mix milk and ghee and drink and consume
-- Mix yogurt and sugar and consume
+- Mix milk and ghee and drink
+- Mix yogurt and sugar
+
+#ayurveda
+#remedies

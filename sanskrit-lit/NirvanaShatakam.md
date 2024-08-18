@@ -11,7 +11,7 @@ I am not space, not earth, not fire, water or wind,
 I am the form of consciousness and bliss,
 I am the eternal Shiva...
 
-na cha [[prana]] sangyo na vai pancha [[vayu]]hu ([[PanchaVayu]])
+na cha [[prana]] sangyo na vai pancha [[Vayu]]hu ([[PanchaVayu]])
 na va sapta dhatur na va pancha koshah
 na vak pani-padam na chopastha payu
 chidananda rupah shivo'ham shivo'ham
@@ -55,7 +55,7 @@ I am not a relative, nor a friend, nor a teacher nor a student,
 I am the form of consciousness and bliss,
 I am the eternal Shiva...
 
-aham nir[[vikalpa]]o nirakara rupo
+aham nir[[Vikalpa]]o nirakara rupo
 vibhut vatcha sarvatra sarvendriyanam
 na cha sangatham naiva muktir na meyaha
 chidananda rupah [[shiva]]o'ham shivo'ham

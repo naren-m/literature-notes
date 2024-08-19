@@ -1,0 +1,3 @@
+# Ayurvedam
+
+[[AyurvedicRemedies]]

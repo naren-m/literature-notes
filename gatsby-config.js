@@ -7,7 +7,7 @@ module.exports = {
           // basePath defaults to `/`
           basePath: `/literature-notes`,
           rootNote: `/literature-notes/notes`,
-          contentPath: `/notes`,
+        //   contentPath: `/notes`,
         },
       },
     ],

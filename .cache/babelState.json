@@ -3,7 +3,11 @@
     "develop": {
       "plugins": [
         {
-          "name": "@sigmacomputing/babel-plugin-lodash",
+          "name": "babel-plugin-lodash",
+          "options": {}
+        },
+        {
+          "name": "/Users/narenmudivarthy/Projects/literature-notes/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
           "options": {}
         },
         {
@@ -38,7 +42,11 @@
     "develop-html": {
       "plugins": [
         {
-          "name": "@sigmacomputing/babel-plugin-lodash",
+          "name": "babel-plugin-lodash",
+          "options": {}
+        },
+        {
+          "name": "/Users/narenmudivarthy/Projects/literature-notes/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
           "options": {}
         },
         {
@@ -73,7 +81,11 @@
     "build-html": {
       "plugins": [
         {
-          "name": "@sigmacomputing/babel-plugin-lodash",
+          "name": "babel-plugin-lodash",
+          "options": {}
+        },
+        {
+          "name": "/Users/narenmudivarthy/Projects/literature-notes/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
           "options": {}
         },
         {
@@ -108,7 +120,11 @@
     "build-javascript": {
       "plugins": [
         {
-          "name": "@sigmacomputing/babel-plugin-lodash",
+          "name": "babel-plugin-lodash",
+          "options": {}
+        },
+        {
+          "name": "/Users/narenmudivarthy/Projects/literature-notes/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
           "options": {}
         },
         {
@@ -142,7 +158,7 @@
     }
   },
   "browserslist": [
-    ">0.25% and supports es6-module",
-    "not dead and supports es6-module"
+    ">0.25%",
+    "not dead"
   ]
 }

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>git | literature-notes</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="git" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="literature-notes" />
+<meta property="og:description" content="literature-notes" />
+<link rel="canonical" href="http://localhost:4000/notes/git.html" />
+<meta property="og:url" content="http://localhost:4000/notes/git.html" />
+<meta property="og:site_name" content="literature-notes" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="git" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"literature-notes","headline":"git","url":"http://localhost:4000/notes/git.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=b227b5edf8ac0ee1b1e0ee4602e5ba68e04a8bf1">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="http://localhost:4000/">literature-notes</a></h1>
+      
+
+      <h1 id="git">git</h1>
+
+<h2 id="git-commands">Git commands</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Action</th>
+      <th>command</th>
+      <th>details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>diff between branches</td>
+      <td>git diff {branch1}…{branch2}</td>
+      <td>Na</td>
+    </tr>
+    <tr>
+      <td>revert a committed and merged file</td>
+      <td>1. git checkout {their_branch} – {filename}</td>
+      <td>NA</td>
+    </tr>
+    <tr>
+      <td>——- continued  ———-</td>
+      <td>2. git restore –staged {filename}</td>
+      <td>NA</td>
+    </tr>
+    <tr>
+      <td>revert to prev commit, ignore any changes</td>
+      <td>git reset –hard HEAD</td>
+      <td>Head - Prev commit</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="references">References</h2>
+
+<h3 id="how-do-i-revert-a-git-repository-to-a-previous-commit">How do I revert a Git repository to a previous commit?</h3>
+
+<p><a href="https://stackoverflow.com/questions/4114095/how-do-i-revert-a-git-repository-to-a-previous-commit">How do I revert a Git repository to a previous commit</a></p>
+
+<h2 id="revert-a-committed-and-merged-file">revert a committed and merged file</h2>
+
+<p>Example:</p>
+
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="go">    git checkout gl/8000/main -- manageability/yang/framework/rpc/yang/Cisco-IOS-XR-ipv6-ping-act.yang
+    git restore --staged manageability/yang/framework/rpc/yang/Cisco-IOS-XR-ipv6-ping-act.yang
+</span></code></pre></div></div>
+
+<h2 id="using-submodules">Using submodules</h2>
+
+<p><a href="https://www.vogella.com/tutorials/GitSubmodules/article.html#:~:text=Git%20allows%20you%20to%20include,the%20parent%20repository's%20working%20directory.">How to create a git submodule</a></p>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Rfc1831 | literature-notes</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Rfc1831" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="literature-notes" />
+<meta property="og:description" content="literature-notes" />
+<link rel="canonical" href="http://localhost:4000/notes/highlights/Articles/Rfc1831.html" />
+<meta property="og:url" content="http://localhost:4000/notes/highlights/Articles/Rfc1831.html" />
+<meta property="og:site_name" content="literature-notes" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Rfc1831" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"literature-notes","headline":"Rfc1831","url":"http://localhost:4000/notes/highlights/Articles/Rfc1831.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=b227b5edf8ac0ee1b1e0ee4602e5ba68e04a8bf1">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="http://localhost:4000/">literature-notes</a></h1>
+      
+
+      <h1 id="rfc1831">Rfc1831</h1>
+
+<p><img src="https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png" alt="img" /></p>
+
+<h2 id="metadata">Metadata</h2>
+
+<ul>
+  <li>
+    <p>Author: datatracker.ietf.org</p>
+  </li>
+  <li>
+    <p>Full Title: Rfc1831(RPC: Remote Procedure Call Protocol Specification Version 2)</p>
+  </li>
+  <li>
+    <p>Category: #articles</p>
+  </li>
+  <li>
+    <p>URL: https://datatracker.ietf.org/doc/html/rfc1831</p>
+  </li>
+</ul>
+
+<h3 id="highlights">Highlights</h3>
+
+<ul>
+  <li>A network service is a collection of one or more remote programs</li>
+  <li>A remote program implements one or more remote procedures;
+    <ul>
+      <li>the procedures, their parameters, and results are documented in the specific program’s protocol specification</li>
+    </ul>
+  </li>
+  <li>The ONC RPC protocol is based on the remote procedure call model,
+which is similar to the local procedure call model. In the local
+case, the caller places arguments to a procedure in some well-
+specified location (such as a register window). It then transfers
+control to the procedure, and eventually regains control. At that
+point, the results of the procedure are extracted from the well-
+specified location, and the caller continues execution.</li>
+  <li>The remote procedure call model is similar. One thread of control
+logically winds through two processes: the caller’s process, and a
+server’s process. The caller process first sends a call message to
+the server process and waits (blocks) for a reply message. The call
+message includes the procedure’s parameters, and the reply message
+includes the procedure’s results. Once the reply message is
+received, the results of the procedure are extracted, and caller’s
+execution is resumed</li>
+  <li>
+    <ol>
+      <li>RPC PROTOCOL REQUIREMENTS
+The RPC protocol must provide for the following:
+(1) Unique specification of a procedure to be called.
+(2) Provisions for matching response messages to request messages.
+(3) Provisions for authenticating the caller to service and
+vice-versa.</li>
+    </ol>
+  </li>
+  <li>The RPC call message has three unsigned integer fields – remote
+program number, remote program version number, and remote procedure
+number – which uniquely identify the procedure to be called.</li>
+  <li>Therefore, the
+call message also has in it the RPC version number, which is always
+equal to two for the version of RPC described here.</li>
+</ul>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>

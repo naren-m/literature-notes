@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Rowhammer | literature-notes</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Rowhammer" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="literature-notes" />
+<meta property="og:description" content="literature-notes" />
+<link rel="canonical" href="http://localhost:4000/notes/CSE/Cryptography/Rowhammer.html" />
+<meta property="og:url" content="http://localhost:4000/notes/CSE/Cryptography/Rowhammer.html" />
+<meta property="og:site_name" content="literature-notes" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Rowhammer" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"literature-notes","headline":"Rowhammer","url":"http://localhost:4000/notes/CSE/Cryptography/Rowhammer.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=b227b5edf8ac0ee1b1e0ee4602e5ba68e04a8bf1">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="http://localhost:4000/">literature-notes</a></h1>
+      
+
+      <h1 id="rowhammer">Rowhammer</h1>
+
+<p>Row hammer (also written as rowhammer) is a security exploit that takes advantage of an unintended and undesirable side effect in dynamic random-access memory (DRAM) in which memory cells interact electrically between themselves by leaking their charges, possibly changing the contents of nearby memory rows that were not addressed in the original memory access. This circumvention of the isolation between DRAM memory cells results from the high cell density in modern DRAM, and can be triggered by specially crafted memory access patterns that rapidly activate the same memory rows numerous times.[1][2][3]</p>
+
+<p>This is an example of [[Side Channel Attack]]</p>
+
+<p>The row hammer effect has been used in some [[privilege escalation]] computer security exploits,[2][4][5][6] and network-based attacks are also theoretically possible.[7][8]</p>
+
+<p>Different hardware-based techniques exist to prevent the row hammer effect from occurring, including required support in some processors and types of DRAM memory modules.[9][10]</p>
+
+<p>ECC Memory should be used to prevent</p>
+
+<p>“Necessity is the mother of invention.” – Plato
+Rowhammer attacks are a perfect example of this adage. Adversaries are increasingly inventive in finding creative solutions to attack your systems and applications.
+In this attack, a program is executed repeatedly on a row of transistors on a memory chip. The row is hammered until electricity leaks into another row and flips some bits. The adversary can combine bit transformations for a larger purpose: to execute malicious code or otherwise attack the system.
+This behavior is more predictable with standard RAM. However, this attack has now been replicated with [[ECC memory]]. Surprise!</p>
+
+<p>Error Correcting Code Memory (ECC memory) is supposedly resilient to Rowhammer attacks. ECC memory detects bit tampering and amazingly corrects the change. This would seem to be an effective mitigation.
+ECC is used in sensitive systems, such as financial systems and IoT devices, because this sort of exploitation is especially troublesome.</p>
+
+<p>Here are the steps of a Rowhammer attack on ECC memory:</p>
+<ol>
+  <li>Rowhammer does templating to locate vulnerable bits. This is possible because ECC memory does not detect tampering of three consecutive bits.</li>
+  <li>Access time for unaltered bits versus tampered bits is different. In poker, this is called a tell. Based on this, you know where to hammer.</li>
+  <li>This is not a quick process. However, the process of templating is virtually undetectable. The adversary can map the attack for days, even weeks, before launching the Rowhammer attack.
+More detail on Rowhammer attacks on ECC:
+https://bit.ly/2U4EYTg</li>
+</ol>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>

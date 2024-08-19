@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Hash Algorithms | literature-notes</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Hash Algorithms" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="literature-notes" />
+<meta property="og:description" content="literature-notes" />
+<link rel="canonical" href="http://localhost:4000/notes/CSE/Cryptography/Hash%20Algorithms.html" />
+<meta property="og:url" content="http://localhost:4000/notes/CSE/Cryptography/Hash%20Algorithms.html" />
+<meta property="og:site_name" content="literature-notes" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Hash Algorithms" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"literature-notes","headline":"Hash Algorithms","url":"http://localhost:4000/notes/CSE/Cryptography/Hash%20Algorithms.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=b227b5edf8ac0ee1b1e0ee4602e5ba68e04a8bf1">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="http://localhost:4000/">literature-notes</a></h1>
+      
+
+      <h1 id="hash-algorithms">Hash Algorithms</h1>
+
+<p>A [[Hash Algorithms]] will convert variable length data into a fixed length encoded result, which is called a digest. Any change to the data, even a single bit, can cause a radically different digest being generated using the hash algorithm.
+Here are the attributes of a secure hash algorithm:</p>
+<ul>
+  <li>One way – must use brute force to reverse</li>
+  <li>Should be fast</li>
+  <li>Memory efficient</li>
+</ul>
+
+<h2 id="one-way">One-way:</h2>
+<p>as mentioned [[Hashing]] algorithms are one way.</p>
+
+<h2 id="collision-resistant">Collision resistant:</h2>
+<p>it is unlikely, if not impossible, for an attacker to uncover collision, where two inputs have the same hash.</p>
+
+<h2 id="performant">Performant</h2>
+<p>hashes must be highly performant. Slow hashes are hard to scale which is necessary for many use cases.</p>
+
+<p>[[Hashing]] algorithms are also referred to as ciphers, where block ciphers are the most common. There are various approaches to creating hashes:</p>
+<ul>
+  <li>Block cipher</li>
+  <li>Stream cipher</li>
+  <li>Keyed hash</li>
+</ul>
+
+<p>Hash Algorithms: SHA256(Good balance between compute and security), SHA512(more compute intense)
+At present, the most common hashing algorithm is SHA-256.</p>
+
+<p>SHA-256 is a member of the SHA 2 family of algorithms and creates a 256-bit digest.
+For example, SHA-384 and SHA-512 are also included in the SHA 2 family.
+Although more secure, there is a performance trade-off when using SHA-384 and SHA-512.
+SHA-3 is available but not widely used.</p>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>

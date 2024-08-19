@@ -4,5 +4,9 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "deploy": "gatsby build && gh-pages -d public"
   }
 }

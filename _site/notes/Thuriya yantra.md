@@ -1,0 +1,2 @@
+# Thuriya yantra
+

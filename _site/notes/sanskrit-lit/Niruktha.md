@@ -1,0 +1,3 @@
+# Niruktha
+
+Study of Etymology

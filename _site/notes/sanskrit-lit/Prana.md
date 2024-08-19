@@ -1,3 +1,0 @@
-# Prana
-
-What is Prana

@@ -1,4 +1,0 @@
-# Pythagorean Theorem
-
-
-#math

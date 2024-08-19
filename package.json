@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "gatsby": "^5.13.7"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }

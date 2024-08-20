@@ -1,3 +1,0 @@
-# YoutubeTrascript
-
-<https://youtubetranscript.com/>

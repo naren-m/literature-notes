@@ -1,4 +1,0 @@
-# gravity
-
-
-[[vaishshika sutra]]

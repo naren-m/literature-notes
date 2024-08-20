@@ -8,7 +8,7 @@ chidananda rupah shivo'ham shivo'ham
 Sankalpaathmika manas, Nischayathmika budhi:
 సంకల్పాత్మిక మనస్, నిశ్చయాత్మక బుద్ధి:
 
-Manassu Budhi
+Manassu Budhi chittam ahamkaram - Chathustayam (group of 4)
 
 I am not the mind, the intellect, the ego or the memory,
 I am not the ears, the skin, the nose or the eyes,

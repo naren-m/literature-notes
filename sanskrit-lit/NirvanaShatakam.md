@@ -8,6 +8,8 @@ chidananda rupah shivo'ham shivo'ham
 Sankalpaathmika manas, Nischayathmika budhi:
 సంకల్పాత్మిక మనస్, నిశ్చయాత్మక బుద్ధి:
 
+Manassu Budhi
+
 I am not the mind, the intellect, the ego or the memory,
 I am not the ears, the skin, the nose or the eyes,
 I am not space, not earth, not fire, water or wind,

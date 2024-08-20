@@ -9,6 +9,10 @@ Sankalpaathmika manas, Nischayathmika budhi:
 సంకల్పాత్మిక మనస్, నిశ్చయాత్మక బుద్ధి:
 
 Manassu Budhi chittam ahamkaram - Chathustayam (group of 4)
+Allochana undeedhi Manassu, nischyam budhi, Chesina panini gurthu pettukunedhi Chittam. Neenu chesanu ani gurhtu techukovadam ahamkaaram.
+Chitta sudhi - alochana undadhi.
+
+[[Garikapati_Narasimha_rao]] explanation on Chathustayam - https://www.facebook.com/srigarikipatinarasimharaoofficial/videos/%E0%B0%AE%E0%B0%A8%E0%B0%B8%E0%B1%81-%E0%B0%AC%E0%B1%81%E0%B0%A6%E0%B1%8D%E0%B0%A7%E0%B0%BF-%E0%B0%9A%E0%B0%BF%E0%B0%A4%E0%B1%8D%E0%B0%A4%E0%B0%82-%E0%B0%B5%E0%B1%80%E0%B0%9F%E0%B0%BF-%E0%B0%AE%E0%B0%A7%E0%B1%8D%E0%B0%AF-%E0%B0%A4%E0%B1%87%E0%B0%A1%E0%B0%BE-%E0%B0%8F%E0%B0%AE%E0%B0%BF%E0%B0%9F%E0%B1%8B-%E0%B0%9A%E0%B1%82%E0%B0%A1%E0%B0%82%E0%B0%A1%E0%B0%BF/245100914115291/
 
 I am not the mind, the intellect, the ego or the memory,
 I am not the ears, the skin, the nose or the eyes,

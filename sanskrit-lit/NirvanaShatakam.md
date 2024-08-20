@@ -5,6 +5,9 @@ na cha shrotravjihve na cha ghraana netre
 na cha vyoma bhumir na tejo na vaayuhu
 chidananda rupah shivo'ham shivo'ham
 
+Sankalpaathmika manas, Nischayathmika budhi:
+సంకల్పాత్మిక మనస్, నిశ్చయాత్మక బుద్ధి:
+
 I am not the mind, the intellect, the ego or the memory,
 I am not the ears, the skin, the nose or the eyes,
 I am not space, not earth, not fire, water or wind,

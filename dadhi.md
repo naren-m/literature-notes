@@ -17,7 +17,7 @@
 
 Curd is an appetizer and an aphrodisiac. It increases unctuousness and strength, is sour on digestion, hot in potency, is effective in treating vata disorders and is auspicious and nourishing. It is recommended in rhinitis, diarrhea, cold, irregular fevers, anorexia, dysuria and emaciation. [ Annapanavidhi Adhyaya 225-226]
 
-Generally, curd is prohibited in autumn, summer and spring seasons. It is also unwholesome in raktapitta (bleeding disorders) and disorders of kapha. [[[Annapanavidhi Adhyaya]] 227]
+Generally, curd is prohibited in autumn, summer and spring seasons. It is also unwholesome in raktapitta (bleeding disorders) and disorders of kapha. ([Annapanavidhi Adhyaya] 227)
 
 
 --- 

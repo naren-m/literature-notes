@@ -14,7 +14,7 @@ Add honey mix and take
 
 ## Consumption of curd
 
-- Do not eat curd after sunset
+- Do not eat [[curd]] ([[dadhi]]) after sunset
 - Do not cook curd
 - Do not mix curd and Cucumber
 

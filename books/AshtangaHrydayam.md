@@ -15,4 +15,7 @@
 ## Author details
 
 - [[AstangaSangraha]] is authored by [[Vaagbhata]]
-- 
+- AshtangaHrydayam is a summary of [[AstangaSangraha]]
+- Not sure of the author, two groups think that it is either [[Vaagbhata]] or [[Laghu_Vaagbhata]]
+
+## [[Suthrasthana]]

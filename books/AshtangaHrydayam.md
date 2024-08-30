@@ -7,7 +7,7 @@
 - Title   : AshtangaHrydayam
 - Author  : [[Vaagbhata]] or [[Laghu_Vaagbhata]]
 - Link    : https://esamhita.wordpress.com/ashtanga-hridayam/
-- Tags    : #ayurveda #charakasamhita #charaka
+- Tags    : #ayurveda 
 
 ## Notes
 
@@ -18,4 +18,6 @@
 - AshtangaHrydayam is a summary of [[AstangaSangraha]]
 - Not sure of the author, two groups think that it is either [[Vaagbhata]] or [[Laghu_Vaagbhata]]
 
-## [[Suthrasthana]]
+## Sthanas
+
+- [[Suthrasthana]]

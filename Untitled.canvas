@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"31f315d7a405bb47","x":-720,"y":-480,"width":400,"height":226,"type":"file","file":"video/assets/sangam_history_of_indian_science_kala_chakram.png"}
+		{"id":"31f315d7a405bb47","type":"file","file":"video/assets/sangam_history_of_indian_science_kala_chakram.png","x":-720,"y":-480,"width":400,"height":226}
 	],
 	"edges":[]
 }

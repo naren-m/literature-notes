@@ -1,1 +1,4 @@
 # VishuSahasranamam
+
+
+Pravachanam [[VishuSahasranamamByDusyanthSridhar]]

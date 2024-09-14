@@ -1,5 +1,7 @@
 # AMPL
 
+AMPL (A Mathematical Programming Language) for solving mathematical programming problems.
+
 - [[AMPL]]
   - Mathematical expressions
   - Specification of models, in human readable program.

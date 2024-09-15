@@ -3,7 +3,11 @@
 - [Document]<https://docs.google.com/document/d/1hk-x7aeTDUctepJ4j9_pJQNf8vJNS5GQhbhZySFA-dc/edit>
 - [chanting](https://youtu.be/aJc9mlwWx5k)
 
+https://www.arlingtoncenter.org/Sanskrit-English.pdf
+
 ## योगचित्तवृचत्तचनरोिः || १.२||
+
+యోగశ్చిత వృత్తి నిరోధ:
 
 - yogashchittavRttinirodhaH 1.2
 - Yogas [[chitta]] vruthi nirodha
@@ -11,11 +15,15 @@
 
 ## तदा द्रष्ुः स्वरूपेऽवस्थानम् || १.३ ||
 
+తదా ద్రష్టు: స్వరూపే అవస్థానం 
+
 - tadA draShTuH svarUpeavasthAnam 1.3
 - Tada drashtuhu swaroopena avasthanam
 - It is then, that one is established in the true sense of the seer, called self.
 
 ## वृचत्तसारूप्यचमतरत्र || १.४||
+
+వృత్తిసారూప్యం ఇతరత్రా 
 
 - vRttisArUpyamitaratra 1.4
 - Vruthi saaroopyam itharathra

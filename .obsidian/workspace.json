@@ -11,8 +11,12 @@
             "id": "aea9aaa10e44d410",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Uthrayana.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -27,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sanskrit-lit/NirvanaShatakam.md",
+                "file": "Uthrayana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sanskrit-lit/NirvanaShatakam.md",
+                "file": "Uthrayana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sanskrit-lit/NirvanaShatakam.md"
+                "file": "Uthrayana.md"
               }
             }
           }
@@ -154,12 +157,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcb89a3bd5ef1fca",
+  "active": "aea9aaa10e44d410",
   "lastOpenFiles": [
+    "sanskrit-lit/yoga_sutras/YogaSutras.md",
+    "highlights/Books/Music Theory.md",
+    "sanskrit-lit/NirvanaShatakam.md",
     "sanskrit-lit/VishuSahasranamamByDusyanthSridhar.md",
     "sanskrit-lit/VishuSahasranamam.md",
     "sanskrit-lit/Prana.md",
-    "sanskrit-lit/NirvanaShatakam.md",
     "Garikapati_Narasimha_rao.md",
     "highlights/Books/Moonwalking With Einstein.md",
     "books/Navneetakam.md",
@@ -182,8 +187,6 @@
     "sanskrit-lit/Nada.md",
     "sanskrit-lit/Rudra.md",
     "sanskrit-lit/Niruktha.md",
-    "sanskrit-lit/karma.md",
-    "sanskrit-lit/Dharma.md",
-    "sanskrit-lit/Brihadesi.md"
+    "sanskrit-lit/karma.md"
   ]
 }

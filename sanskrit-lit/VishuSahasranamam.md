@@ -5,7 +5,7 @@ Pravachanam [[VishuSahasranamamByDusyanthSridhar]]
 Chala - gets moved by devotees
 Achala - unmoved by enimies
 
-Individual names - <https://www.templepurohit.com/vishnu-sahasranamam-1008-names-of-lord-vishnu/>
+[Individual names](https://www.templepurohit.com/vishnu-sahasranamam-1008-names-of-lord-vishnu/)
 
 | S.No | Name                         | Meaning                                                                                       |
 | ---- | ---------------------------- | --------------------------------------------------------------------------------------------- |

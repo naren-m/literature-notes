@@ -551,8 +551,8 @@
 24:34 left to such step the puttis
 24:47 see after troposphere Stratosphere
 24:50 ionosphere and exosphere you will reach
-24:53 the atmospheric boundary till that why
-24:57 you will come along with you why you
+24:53 the atmospheric boundary till that vayu
+24:57 you will come along with you vayu you
 24:59 will push you upwards it will Propel you
 24:02 further after that
 24:10 then comes the concept of the clouds
@@ -724,7 +724,7 @@
 34:07 I don't remember sir that day we met at
 34:09 the other airport I think yes yes yes
 34:13 sir are you free no no I have to go to
-34:15 Zara no after Zara are you free why
+34:15 Zara no after Zara are you free vayu
 34:18 see in the mall they are keeping a nice
 34:21 shop of good books
 34:23 very age or books it seems I thought you

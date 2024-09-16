@@ -14,7 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "podcast/jyothisha_rajvedam_beerbiceps.md",
+                "file": "sanskrit-lit/VishuSahasranamamByDusyanthSridhar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1a6ac046813ba21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sanskrit-lit/VishuSahasranamam.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +44,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ebcbf3c881aa787c",
@@ -81,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#damstraachikitsa",
+                "query": "tag:#kayachikitsa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +111,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Suthrasthana.md",
+                "file": "sanskrit-lit/VishuSahasranamam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Suthrasthana.md",
+                "file": "sanskrit-lit/VishuSahasranamam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Suthrasthana.md"
+                "file": "sanskrit-lit/VishuSahasranamam.md"
               }
             }
           }
@@ -215,8 +227,14 @@
       }
     ]
   },
-  "active": "aea9aaa10e44d410",
+  "active": "e1a6ac046813ba21",
   "lastOpenFiles": [
+    "sanskrit-lit/VishuSahasranamamByDusyanthSridhar.md",
+    "sanskrit-lit/VishuSahasranamam.md",
+    "books/Suthrasthana.md",
+    "charaka_samhitha.md",
+    "podcast/jyothisha_rajvedam_beerbiceps.md",
+    "sanskrit-lit/NirvanaShatakam.md",
     "quotes.md",
     "CSE/design_patterns/design_patterns.md",
     "people/Brian Kernighan interview.md",
@@ -227,23 +245,17 @@
     "Statistics/Exponential Smoothing.md",
     "time series.md",
     "highlights/Articles/Draft-Kwatsen-Netconf-Sztp-Csr-01 - Conveying a Certificate Signing Request (CSR) in a Secure Zero Touch Provisioning (SZTP) Bootstrapping Request.md",
-    "sanskrit-lit/NirvanaShatakam.md",
     "Uthrayana.md",
     "sanskrit-lit/mathsya purana.md",
     "Dakshinayana.md",
-    "podcast/jyothisha_rajvedam_beerbiceps.md",
     "Thuriya yantra.md",
     "Utharayana_Dakshanayan.jpg",
     "sanskrit-lit/yoga_sutras/YogaSutras.md",
     "highlights/Books/Music Theory.md",
-    "sanskrit-lit/VishuSahasranamamByDusyanthSridhar.md",
-    "sanskrit-lit/VishuSahasranamam.md",
     "sanskrit-lit/Prana.md",
     "Garikapati_Narasimha_rao.md",
     "highlights/Books/Moonwalking With Einstein.md",
     "books/Navneetakam.md",
-    "AstangaSangraha.md",
-    "books/AshtangaHrydayam.md",
     "books/ashtangahrydayam/ayurvedavataranam.jpg",
     "books/ashtangahrydayam/8AspectsOfAyurveda.jpg",
     "Untitled.canvas"

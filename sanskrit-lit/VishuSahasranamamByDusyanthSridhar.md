@@ -1,8 +1,23 @@
 # VishuSahasranamamByDusyanthSridhar
 
+
+## Five important escerpts from Bharatam
+
+1. Vidura Neethi
+2. Yaksha Prashanas
+3. Bhagavath Geeta
+4. Sri [[VishuSahasranamam]]
+	5. Shat Prashni 
+		1. Kimekam daivatham loke Kimvapyekam parayanam Sthuvam thakkam kamarchantam prapnu yurmana bha shubham
+		2. Kodharma sarva dharmanaam Bhavathah paramo mathaka, kimjapan mutyathe Janthur janma samsaara bandhanaath. 
+		3. 
+5. 'Find-out'
+
 [Part 7/8 | Vishnu Sahasranama Vaibhavam | ENGLISH | Dushyanth Sridhar | The Six Questions & Answers](https://www.youtube.com/watch?v=C49xUHEHrHk)
 
-00:00:00 the blessings of bhumi Devi and mahalakshmi so she was called bhuma so he brought up this girl bhuma with so much of love and this girl of four or five years took up to cooking because her father was always engaged in austerity somebody had to cook so she started cooking one day an aged person in a few days from then he will die that kind of an aged person he walked towards the Hermitage of Mark and dear Maharishi and said markandeya I need to find a good braid markandey asked for your grandson no no
+[[VishuSahasranamam]]
+
+00:00:00 the blessings of bhumi Devi and mahalakshmi so she was called bhuma so he brought up this girl bhuma with so much of love and this girl of four or five years took up to cooking because her father was always engaged in austerity somebody had to cook so she started cooking one day an aged person in a few days from then he will die that kind of an aged person he walked towards the Hermitage of Mark and dear Maharishi and said markandeya I need to find a good braid markandeya asked for your grandson no no
 
 00:00:43 for me Mark India did not know what to reply to this old man he was one foot on the grave but he was worried that that man will end up cursing him so he said why have you approached me sir I heard that you have a little girl in your house so she's a little girl call her ask her whether she is in agreement to Marry Me Marry Me sir she she doesn't know what proportion of salt is to be added to food don't worry my doctor is also advised have less salt I will not have salt from now on call your daughter the daughter came
 

@@ -130,7 +130,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -194,8 +194,9 @@
       }
     ]
   },
-  "active": "e1c8748faf0abb92",
+  "active": "b0531f5156bc1bff",
   "lastOpenFiles": [
+    "CSE/design_patterns/DesigningDistributedSystems.md",
     "CSE/design_patterns/DesigningDistributedSystems.pdf",
     "people/Andrew Huberman.md",
     "highlights/Books/The 4-Hour Workweek.md",

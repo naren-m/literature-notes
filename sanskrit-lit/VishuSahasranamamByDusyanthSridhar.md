@@ -109,3 +109,6 @@
 00:44:06 you recite this particular lord's name he says next after this comes the answer to the fifth question what was the fifth question correct now the answer is he himself so whom should I do archana narayana whom should I do narayana whom should I do Japan who's the only one narayana who is the parama Dharma narayana so he says Kim Japan so here he says for that the answer is one who has got life Lotus like it's very good what does pundarika mean very good means White Lotus remember this it is not pink or red Lotus
 
 00:45:27 how do we know that from amarakosha what is Amara kosha
+
+
+[Part 8/8 | Vishnu Sahasranama Vaibhavam | ENGLISH | Dushyanth Sridhar | The Six Questions & Answers](https://www.youtube.com/watch?v=8aPjzSGfwZM)

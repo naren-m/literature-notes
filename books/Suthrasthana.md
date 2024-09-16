@@ -17,7 +17,7 @@ First chapter of [[AshtangaHrydayam]] talks about [[Ayurvedam]]
   - Best of them was [[Agnivesa]] and it became popular in the work.
 - Atreya wrote [[charaka_samhitha]]
 - Atreya dealt #kayachikitsa
-- Original text written by Agnivesa is [[charaka_samhitha]] and it is not in the original form. It has been redacted(re-edited) by [[Charaka]] muni. And went a second edition by Drodhbala (ద్రోధబల)
+- Original text written by Agnivesa is [[charaka_samhitha]] and it is not in the original form. It has been redacted(re-edited) by [[Charaka]] muni. And went a second edition by Drodhbala.  (ద్రోద్భల)
 
 
 ### Ashtanga [[Ayurvedam]]

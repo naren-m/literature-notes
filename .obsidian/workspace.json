@@ -12,40 +12,11 @@
             "id": "b11de467619cb901",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sanskrit-lit/VishuSahasranamamByDusyanthSridhar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1a6ac046813ba21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "highlights/Books/Grit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcb89a3bd5ef1fca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sanskrit-lit/NirvanaShatakam.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ebcbf3c881aa787c",
@@ -111,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -132,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "highlights/Books/Grit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "highlights/Books/Grit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "highlights/Books/Grit.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -228,20 +194,23 @@
       }
     ]
   },
-  "active": "e1a6ac046813ba21",
+  "active": "e1c8748faf0abb92",
   "lastOpenFiles": [
-    "sanskrit-lit/VishuSahasranamam.md",
-    "sanskrit-lit/NirvanaShatakam.md",
-    "sanskrit-lit/VishuSahasranamamByDusyanthSridhar.md",
+    "CSE/design_patterns/DesigningDistributedSystems.pdf",
+    "people/Andrew Huberman.md",
+    "highlights/Books/The 4-Hour Workweek.md",
+    "highlights/Books/Outliers.md",
     "books/Suthrasthana.md",
+    "quotes.md",
+    "sanskrit-lit/VishuSahasranamamByDusyanthSridhar.md",
+    "sanskrit-lit/NirvanaShatakam.md",
+    "highlights/Books/Grit.md",
+    "sanskrit-lit/VishuSahasranamam.md",
     "charaka_samhitha.md",
     "podcast/jyothisha_rajvedam_beerbiceps.md",
-    "quotes.md",
     "CSE/design_patterns/design_patterns.md",
     "people/Brian Kernighan interview.md",
     "AMPL.md",
-    "highlights/Books/The 4-Hour Workweek.md",
-    "highlights/Books/Outliers.md",
     "nidra.md",
     "Statistics/Exponential Smoothing.md",
     "time series.md",
@@ -254,9 +223,6 @@
     "sanskrit-lit/yoga_sutras/YogaSutras.md",
     "highlights/Books/Music Theory.md",
     "sanskrit-lit/Prana.md",
-    "Garikapati_Narasimha_rao.md",
-    "highlights/Books/Moonwalking With Einstein.md",
-    "books/Navneetakam.md",
     "books/ashtangahrydayam/ayurvedavataranam.jpg",
     "books/ashtangahrydayam/8AspectsOfAyurveda.jpg",
     "Untitled.canvas"

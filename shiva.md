@@ -4,6 +4,8 @@
 
 Shivam, Kalyanam, Vidhya thi Asthithi Shivah
 
+[[Rudra]]
+
 ## Tags
 
 [[sankara]]

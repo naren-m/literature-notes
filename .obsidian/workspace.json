@@ -4,38 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "8c97782925fefb8b",
+        "id": "3894b153c5cf7170",
         "type": "tabs",
-        "dimension": 56.97969543147208,
         "children": [
           {
-            "id": "b11de467619cb901",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "ebcbf3c881aa787c",
-        "type": "tabs",
-        "dimension": 43.02030456852792,
-        "children": [
-          {
-            "id": "aea9aaa10e44d410",
+            "id": "2d8eb34b093ec4bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/Suthrasthana.md",
+                "file": "books/Books.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "043cd0e5d90016e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSE/design_patterns/DesigningDistributedSystems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b5f4029963ad0a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/Ashoka.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -65,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#parenting",
+                "query": "tag:#india",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "people/Ashoka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "people/Ashoka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "people/Ashoka.md"
+              }
             }
           }
         ],
@@ -194,14 +208,19 @@
       }
     ]
   },
-  "active": "b0531f5156bc1bff",
+  "active": "0b5f4029963ad0a6",
   "lastOpenFiles": [
+    "How Sanskrit unlocks your spiritual growth.md",
+    "people/Ashoka.md",
+    "highlights/Books/The Ride of a Lifetime.md",
     "CSE/design_patterns/DesigningDistributedSystems.md",
     "CSE/design_patterns/DesigningDistributedSystems.pdf",
+    "books/Books.md",
+    "books/Suthrasthana.md",
+    "shiva.md",
     "people/Andrew Huberman.md",
     "highlights/Books/The 4-Hour Workweek.md",
     "highlights/Books/Outliers.md",
-    "books/Suthrasthana.md",
     "quotes.md",
     "sanskrit-lit/VishuSahasranamamByDusyanthSridhar.md",
     "sanskrit-lit/NirvanaShatakam.md",
@@ -218,12 +237,7 @@
     "highlights/Articles/Draft-Kwatsen-Netconf-Sztp-Csr-01 - Conveying a Certificate Signing Request (CSR) in a Secure Zero Touch Provisioning (SZTP) Bootstrapping Request.md",
     "Uthrayana.md",
     "sanskrit-lit/mathsya purana.md",
-    "Dakshinayana.md",
-    "Thuriya yantra.md",
     "Utharayana_Dakshanayan.jpg",
-    "sanskrit-lit/yoga_sutras/YogaSutras.md",
-    "highlights/Books/Music Theory.md",
-    "sanskrit-lit/Prana.md",
     "books/ashtangahrydayam/ayurvedavataranam.jpg",
     "books/ashtangahrydayam/8AspectsOfAyurveda.jpg",
     "Untitled.canvas"

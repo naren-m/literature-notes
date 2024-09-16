@@ -35,6 +35,7 @@
 - Extreme Programming Explained - by Kent Beck
 - The Mythical Man Month
 - Designing Data Intense Apps
+- [[DesigningDistributedSystems]]
 
 ## Indian Archeology
 

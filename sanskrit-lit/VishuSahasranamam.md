@@ -9,9 +9,8 @@ Achala - unmoved by enimies
 
 Individual names - https://www.templepurohit.com/vishnu-sahasranamam-1008-names-of-lord-vishnu/
 
-|          |                                  |                                                                                                   |
-| -------- | -------------------------------- | ------------------------------------------------------------------------------------------------- |
 | **S.No** | **Name**                         | **Meaning**                                                                                       |
+| -------- | -------------------------------- | ------------------------------------------------------------------------------------------------- |
 | **1**    | **Vishvam**                      | **He who is the universe, the virat-purusha**                                                     |
 | **2**    | **vishnuh**                      | **He who pervades everywhere**                                                                    |
 | **3**    | **vashatkaarah**                 | **He who is invoked for oblations**                                                               |

@@ -6,7 +6,7 @@
       {
         "id": "8c97782925fefb8b",
         "type": "tabs",
-        "dimension": 34.89847715736041,
+        "dimension": 56.97969543147208,
         "children": [
           {
             "id": "b11de467619cb901",
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sanskrit-lit/VishuSahasranamam.md",
+                "file": "highlights/Books/Grit.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
       {
         "id": "ebcbf3c881aa787c",
         "type": "tabs",
-        "dimension": 65.1015228426396,
+        "dimension": 43.02030456852792,
         "children": [
           {
             "id": "aea9aaa10e44d410",
@@ -94,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#kayachikitsa",
+                "query": "tag:#parenting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sanskrit-lit/VishuSahasranamam.md",
+                "file": "highlights/Books/Grit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sanskrit-lit/VishuSahasranamam.md",
+                "file": "highlights/Books/Grit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -171,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sanskrit-lit/VishuSahasranamam.md"
+                "file": "highlights/Books/Grit.md"
               }
             }
           }
@@ -229,12 +230,12 @@
   },
   "active": "e1a6ac046813ba21",
   "lastOpenFiles": [
-    "sanskrit-lit/VishuSahasranamamByDusyanthSridhar.md",
     "sanskrit-lit/VishuSahasranamam.md",
+    "sanskrit-lit/NirvanaShatakam.md",
+    "sanskrit-lit/VishuSahasranamamByDusyanthSridhar.md",
     "books/Suthrasthana.md",
     "charaka_samhitha.md",
     "podcast/jyothisha_rajvedam_beerbiceps.md",
-    "sanskrit-lit/NirvanaShatakam.md",
     "quotes.md",
     "CSE/design_patterns/design_patterns.md",
     "people/Brian Kernighan interview.md",

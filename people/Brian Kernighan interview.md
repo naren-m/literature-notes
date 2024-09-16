@@ -31,14 +31,14 @@ In 1972, Kernighan described memory management in strings using "hello" and "wor
 - [[AMPL]]
   - Mathematical expressions
   - Specification of models, in human readable program.
-  - The AMPL Book. #books #programming
+  - The AMPL Book. #book #programming
 - He also worked on [[GraphTheory]]
   - Under what conditions P=NP ? https://youtu.be/O9upVbGSBFo?t=4716
     - [[Jeff Dean]] either P is or or N is 1.
 - What is [[Computational complexity Theory]]
   - Tags: #theory #cse
 - His thesis is on [[GraphTheory]] Graph partition.
-- Book on AI thought process around 1960s [[Computers and Thought]] #books
+- Book on AI thought process around 1960s [[Computers and Thought]] #book
 
 ## Unix was not open source
 

@@ -34,5 +34,3 @@ First chapter of [[AshtangaHrydayam]] talks about [[Ayurvedam]]
 - #vrishachikitsa deals with treatment of diseases like impotence, sterility and making a man sexually stron by use of aphrodisiacs
 
 
-### 
-

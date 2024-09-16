@@ -7,7 +7,7 @@
 - Author: Timothy Ferriss
 - Full Title: The 4-Hour Workweek
 - Category: 
-
+#book 
 ### Highlights
 
 - Whenever you find yourself on the side of the majority, it is time to pause and reflect. —MARK TWAIN (Location 221)

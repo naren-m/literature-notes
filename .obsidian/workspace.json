@@ -6,14 +6,15 @@
       {
         "id": "8c97782925fefb8b",
         "type": "tabs",
+        "dimension": 34.89847715736041,
         "children": [
           {
-            "id": "aea9aaa10e44d410",
+            "id": "b11de467619cb901",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uthrayana.md",
+                "file": "podcast/jyothisha_rajvedam_beerbiceps.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,6 +33,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "ebcbf3c881aa787c",
+        "type": "tabs",
+        "dimension": 65.1015228426396,
+        "children": [
+          {
+            "id": "aea9aaa10e44d410",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/Suthrasthana.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -60,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#damstraachikitsa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,14 +119,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uthrayana.md",
+                "file": "books/Suthrasthana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -114,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uthrayana.md",
+                "file": "books/Suthrasthana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +148,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -137,11 +159,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uthrayana.md"
+                "file": "books/Suthrasthana.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -157,36 +180,72 @@
       "command-palette:Open command palette": false
     }
   },
+  "floating": {
+    "id": "a23167524ca57721",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6131777f50216181",
+        "type": "window",
+        "children": [
+          {
+            "id": "3e51a9573cae48e3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1fb721be4021169f",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Utharayana_Dakshanayan.jpg"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 992,
+        "y": 171,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "aea9aaa10e44d410",
   "lastOpenFiles": [
+    "quotes.md",
+    "CSE/design_patterns/design_patterns.md",
+    "people/Brian Kernighan interview.md",
+    "AMPL.md",
+    "highlights/Books/The 4-Hour Workweek.md",
+    "highlights/Books/Outliers.md",
+    "nidra.md",
+    "Statistics/Exponential Smoothing.md",
+    "time series.md",
+    "highlights/Articles/Draft-Kwatsen-Netconf-Sztp-Csr-01 - Conveying a Certificate Signing Request (CSR) in a Secure Zero Touch Provisioning (SZTP) Bootstrapping Request.md",
+    "sanskrit-lit/NirvanaShatakam.md",
+    "Uthrayana.md",
+    "sanskrit-lit/mathsya purana.md",
+    "Dakshinayana.md",
+    "podcast/jyothisha_rajvedam_beerbiceps.md",
+    "Thuriya yantra.md",
+    "Utharayana_Dakshanayan.jpg",
     "sanskrit-lit/yoga_sutras/YogaSutras.md",
     "highlights/Books/Music Theory.md",
-    "sanskrit-lit/NirvanaShatakam.md",
     "sanskrit-lit/VishuSahasranamamByDusyanthSridhar.md",
     "sanskrit-lit/VishuSahasranamam.md",
     "sanskrit-lit/Prana.md",
     "Garikapati_Narasimha_rao.md",
     "highlights/Books/Moonwalking With Einstein.md",
     "books/Navneetakam.md",
-    "AMPL.md",
     "AstangaSangraha.md",
     "books/AshtangaHrydayam.md",
-    "books/Suthrasthana.md",
     "books/ashtangahrydayam/ayurvedavataranam.jpg",
     "books/ashtangahrydayam/8AspectsOfAyurveda.jpg",
-    "Untitled.canvas",
-    "sanskrit-lit/mathsya purana.md",
-    "Adapter pattern.md",
-    "aggregation of marginal gains.md",
-    "Behavioral Patterns.md",
-    "sanskrit-lit/Ayurvedam.md",
-    "sanskrit-lit/AyurvedicRemedies.md",
-    "sanskrit-lit/Atharvanaveda.md",
-    "sanskrit-lit/Agni.md",
-    "sanskrit-lit/Sangitaratnakara.md",
-    "sanskrit-lit/Nada.md",
-    "sanskrit-lit/Rudra.md",
-    "sanskrit-lit/Niruktha.md",
-    "sanskrit-lit/karma.md"
+    "Untitled.canvas"
   ]
 }

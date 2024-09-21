@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/Books.md",
+                "file": "sanskrit-lit/Vaiseshika Darshanam.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,19 +32,29 @@
             }
           },
           {
+            "id": "84ee6c65888be599",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CSE/design_patterns/DesigningDistributedSystems.pdf"
+              }
+            }
+          },
+          {
             "id": "0b5f4029963ad0a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/Ashoka.md",
+                "file": "sanskrit-lit/tithi.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -112,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "people/Ashoka.md",
+                "file": "sanskrit-lit/tithi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "people/Ashoka.md",
+                "file": "sanskrit-lit/tithi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "people/Ashoka.md"
+                "file": "sanskrit-lit/tithi.md"
               }
             }
           }
@@ -210,12 +220,14 @@
   },
   "active": "0b5f4029963ad0a6",
   "lastOpenFiles": [
-    "How Sanskrit unlocks your spiritual growth.md",
     "people/Ashoka.md",
-    "highlights/Books/The Ride of a Lifetime.md",
-    "CSE/design_patterns/DesigningDistributedSystems.md",
     "CSE/design_patterns/DesigningDistributedSystems.pdf",
+    "CSE/design_patterns/DesigningDistributedSystems.md",
+    "sanskrit-lit/Vaiseshika Darshanam.md",
+    "sanskrit-lit/tithi.md",
     "books/Books.md",
+    "How Sanskrit unlocks your spiritual growth.md",
+    "highlights/Books/The Ride of a Lifetime.md",
     "books/Suthrasthana.md",
     "shiva.md",
     "people/Andrew Huberman.md",
@@ -234,9 +246,6 @@
     "nidra.md",
     "Statistics/Exponential Smoothing.md",
     "time series.md",
-    "highlights/Articles/Draft-Kwatsen-Netconf-Sztp-Csr-01 - Conveying a Certificate Signing Request (CSR) in a Secure Zero Touch Provisioning (SZTP) Bootstrapping Request.md",
-    "Uthrayana.md",
-    "sanskrit-lit/mathsya purana.md",
     "Utharayana_Dakshanayan.jpg",
     "books/ashtangahrydayam/ayurvedavataranam.jpg",
     "books/ashtangahrydayam/8AspectsOfAyurveda.jpg",

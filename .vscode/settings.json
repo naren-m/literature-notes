@@ -1,4 +1,7 @@
 {
     "gitdoc.enabled": true,
-    "makefile.configureOnOpen": false
+    "makefile.configureOnOpen": false,
+    "cSpell.words": [
+        "Ashoka"
+    ]
 }

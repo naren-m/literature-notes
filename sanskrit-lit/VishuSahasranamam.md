@@ -1017,3 +1017,4 @@ Achala - unmoved by enimies
 | 1006 | tantu-vardhanah              | One who sustains the continuity of the drive for the family                                   |
 | 1007 | indrakarmaa                  | One who always performs gloriously auspicious actions                                         |
 | 1008 | mahaakarmaa                  | One who accomplishes great acts                                                               |
+

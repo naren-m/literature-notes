@@ -183,48 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "a23167524ca57721",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6131777f50216181",
-        "type": "window",
-        "children": [
-          {
-            "id": "3e51a9573cae48e3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1fb721be4021169f",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Utharayana_Dakshanayan.jpg"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 992,
-        "y": 171,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "0b5f4029963ad0a6",
   "lastOpenFiles": [
+    "Utharayana_Dakshanayan.jpg",
+    "sanskrit-lit/tithi.md",
     "people/Ashoka.md",
     "CSE/design_patterns/DesigningDistributedSystems.pdf",
     "CSE/design_patterns/DesigningDistributedSystems.md",
     "sanskrit-lit/Vaiseshika Darshanam.md",
-    "sanskrit-lit/tithi.md",
     "books/Books.md",
     "How Sanskrit unlocks your spiritual growth.md",
     "highlights/Books/The Ride of a Lifetime.md",
@@ -246,7 +212,6 @@
     "nidra.md",
     "Statistics/Exponential Smoothing.md",
     "time series.md",
-    "Utharayana_Dakshanayan.jpg",
     "books/ashtangahrydayam/ayurvedavataranam.jpg",
     "books/ashtangahrydayam/8AspectsOfAyurveda.jpg",
     "Untitled.canvas"

@@ -1,8 +1,6 @@
 # tithi
 
-
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
 
 ## How to calculate
 
@@ -17,7 +15,7 @@ According to Vedic perspective, "Tithi" is very important, as the Universal Time
 2. Formula to calculate Tithi = (Lunar Longitude – Solar Longitude) / 12 = {287.858 - 333.364} = {Minus 45.506 + 360}/12 = 26.207.
 
 3. In the formula, to calculate Tithi add 360⁰ if (Lunar Longitude – Solar Longitude) is less than zero or possesses negative value = {Minus 45.506 + 360}/12 = 26.207.
-	1. How to find Lunar Longitude and Solar Longitude
+ 1. How to find Lunar Longitude and Solar Longitude
 
 5. The final Tithi comes by rounding off (higher value) with the actual calculated value having decimal value.
 
@@ -51,19 +49,14 @@ So, current (18th March 2023 at 3:30 PM) Tithi is calculated as Dwadashi (Dark h
 
 ![No alternative text description for this image](https://media.licdn.com/dms/image/v2/C4D22AQGaHO1-hCwbTQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1679137102005?e=1729728000&v=beta&t=JSOaGHyBj9e8zYttX5UwL5fnFmWdKRumtnKIE3qYcHE)
 
-
 ![No alternative text description for this image](https://media.licdn.com/dms/image/v2/C4D22AQHO851QjD6XaA/feedshare-shrink_1280/feedshare-shrink_1280/0/1679137101465?e=1729728000&v=beta&t=yRHa0fieZn_HOs3ukpHm32085khvRnZBack-uunyhx4)
-
-
 
 ![No alternative text description for this image](https://media.licdn.com/dms/image/v2/C4D22AQEdndSGy935EQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1679137101467?e=1729728000&v=beta&t=7OfHtUXydhA2qNxsVFL7IFOaSC7T93ofBHUMFzNjfmk)
 
-
 ![No alternative text description for this image](https://media.licdn.com/dms/image/v2/C4D22AQGvymr1cgiTPQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1679137101825?e=1729728000&v=beta&t=7u8g-MK71BLVKpORTbWNAUg2Dbd-7c_ywYS94tSmsnQ)
-
 
 ### Reference
 
 <https://www.linkedin.com/posts/shambhu-kumar-20b60812_what-is-tithi-and-how-it-is-calculated-activity-7042811472460099584-iZth/>
 
-https://horoanalysis.wordpress.com/2017/02/20/how-to-calculate-tithi-and-nakshatra-its-pada-manually-an-article-written-by-vishal-aksh/
+<https://horoanalysis.wordpress.com/2017/02/20/how-to-calculate-tithi-and-nakshatra-its-pada-manually-an-article-written-by-vishal-aksh/>

@@ -1,6 +1,6 @@
-# VishuSahasranamam
+# VishnuSahasranamam
 
-Pravachanam [[VishuSahasranamamByDusyanthSridhar]]
+Pravachanam [[VishnuSahasranamamByDusyanthSridhar]]
 
 Chala - gets moved by devotees
 Achala - unmoved by enimies

@@ -8,7 +8,8 @@ Aapasthamba[[Sutra]]s: maathethyekee, Matheethyeke
 - No one else is equivalent to Amma
 Shankarachaya Maathru panchakam. 
 
-tam adhbutham baalakam, 
+tam adhbutham baalakam ambhujekshanam chaturbhujam shanka gadharyudhayudham. 
+Srivatsa lakshmam, jalashobhi kousthubham peethambaram 
 
 Vyuthpathi - balakam. 
 

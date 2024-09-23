@@ -1,7 +1,6 @@
 # HowToSpeakLikeHanuma
 
-#hanuma #ramayanam
-
+Tags: #hanuma #ramayanam
 
 Rama speaks to Lakshamana after Hanuman has introduced himself to them in [Kishkinda kanda 3rd Saraga](https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=4&language=dv&field_sarga_value=3).
 He explain how Hanuma has spoke and how he had followed all of the rules of Nava vyakarana and vedas.

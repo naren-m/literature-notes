@@ -9,7 +9,7 @@ Aapasthamba[[Sutra]]s: maathethyekee, Matheethyeke
 Shankarachaya Maathru panchakam. 
 
 tam adhbutham baalakam ambhujekshanam chaturbhujam shanka gadharyudhayudham. 
-Srivatsa lakshmam, jalashobhi kousthubham peethambaram 
+Srivatsa lakshmam, jalashobhi kousthubham peethambaram.....
 
 Vyuthpathi - balakam. 
 

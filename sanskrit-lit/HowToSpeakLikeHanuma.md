@@ -5,7 +5,7 @@ Tags: #hanuma #ramayanam
 Rama speaks to Lakshamana after Hanuman has introduced himself to them in [Kishkinda kanda 3rd Saraga](https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=4&language=dv&field_sarga_value=3).
 He explain how Hanuma has spoke and how he had followed all of the rules of Nava vyakarana and vedas.
 
-> Note:  There is a numbering error between valmiki.iitk vs Ghorakpur
+> Note:  There is a numbering error between valmiki.iitk vs గీతా ప్రెస్ Ghorakpur
 
 एतच्छ्रुत्वा वचन्तस्य रामो लक्ष्मणमब्रवीत्।
 प्रहृष्टवदनश्श्रीमान्भ्रातरं पार्श्वतः स्थितम्4.3.25।।
@@ -109,18 +109,13 @@ His sentences are not too elaborate, not ambiguous, not dragging, not fast, rais
 సంస్కారక్రమసమ్పన్నామద్రుతామవిలమ్బితామ్.
 ఉచ్చారయతి కల్యాణీం వాచం హృదయహారిణీమ్4.3.32৷৷
 
-
 संस्कारक्रमसम्पन्नाम् refined, अद्रुताम् not too fast, अविलम्बिताम् not too slow, कल्याणीम् auspicious, हृदयहारिणीम् captivating the heart, वाचम् language, उच्चारयति speaks
 
 'His words are auspicious. They are refined. Neither fast nor slow, his utterances captivate the heart.
 
-1. సంస్కారసమ్పన్నామ్: వ్యాకరణనీయములను అనుసరించిన దోషరహితమైన భాషను సంస్కార సంపన్నము అని అంటారు 
-2. క్రమము (క్రమసమ్పన్నామ్): శబ్దోచ్ఛారములో శాస్త్రీయమైన పద్ధతిని 'క్రమము' అని అంటారు 
-3. అవిలమ్బితామ్: ఆగకుండా ధారలముగా మాట్లాడే "అవిళంభితము" అని అంటారు 
-
-
-
-
+1. సంస్కారసమ్పన్నామ్: వ్యాకరణనీయములను అనుసరించిన దోషరహితమైన భాషను సంస్కార సంపన్నము అని అంటారు
+2. క్రమము (క్రమసమ్పన్నామ్): శబ్దోచ్ఛారములో శాస్త్రీయమైన పద్ధతిని 'క్రమము' అని అంటారు
+3. అవిలమ్బితామ్: ఆగకుండా ధారలముగా మాట్లాడే "అవిళంభితము" అని అంటారు
 
 > Note: Refer to Page 263 in Git apress ghorakpur Telugu Valmiki ramayanam.
 ---

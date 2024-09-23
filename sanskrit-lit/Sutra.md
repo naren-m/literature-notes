@@ -1,30 +1,65 @@
 # Sutra
 
-[सु]>सुनोति त्रायते >{त्रै} इति सुत्रा> sunoti traayathe ithi sUtra =The one that protects/saves /preserves /cherishes /defends from damages the extract/essence / pressout/juice of Concepts elaborately explained in 500 /1000/2000 words in One /2/3 words is Sutram
+అల్పాక్షరం అసందిగ్ధం సారవద్విశ్వతోముఖం (సారవధ్ విశ్వతోముఖం) | ఆస్తో-భం అనవధం చ సూత్రం  సూత్రవిదో విధు:
 
 अल्पाक्षरमसंदिग्धं सारवद्विश्वतोमुखम् । अस्तो-भमनवद्यं च सूत्रं सूत्रविदो विदुः
 
-అల్పాక్షరం అసందిగ్ధం సారవద్విశ్వతోముఖం (సారవధ్ విశ్వతోముఖం) | ఆస్తో-భం అనవధం చ సూత్రం  సూత్రవిదో విధు:
+सुनोति त्रायते इति सुत्रा
 
-अल्पाक्षरम = Minimum letters
-असंदिग्धं = Unambiguous
-सारवद्विश्वतोमुखम् = Concise and Universal
-अस्तो-भम = Non Redundant
-अनवद्यं च = Without a flaw
+[सु]>सुनोति त्रायते >{त्रै} इति सुत्रा> sunoti traayathe ithi sUtra =
+
+The one that protects/saves /preserves /cherishes /defends from damages the extract/essence / pressout/juice of Concepts elaborately explained in 500 /1000/2000 words in One /2/3 words is Sutram
+
+## Sūtra - Definition and Characteristics
+
+Sūtra: A concise, pithy statement designed for clear and precise communication.
+
+- Found in various Indian philosophical texts, such as Mīmāṃsā-sūtras, Yoga-sūtras, Vaiśeṣika-sutras, Dharma-sūtras, and Gṛhya-sūtras.
+- Intended for easy memorization by students and expansion through commentary by scholars.
+
+### Key Characteristics of a Sūtra
+
+- अल्पाक्षरम (alpākṣaram) – Minimum letters
+  The Sūtra uses the fewest possible words to convey a profound meaning.
+
+- असंदिग्धं (asaṃdigdham) – Unambiguous
+  It is clear, leaving no room for confusion or ambiguity.
+
+- सारवद्विश्वतोमुखम् (sāravadviśvatomukham) – Concise and Universal
+  It is concise, carrying essential meaning and universally applicable.
+
+- अस्तो-भम (asto-bham) – Non-Redundant
+  The Sūtra is free from unnecessary repetition or redundancy.
+
+- अनवद्यं (anavadyam) – Without Flaw
+  It is flawless in its structure and message, free of any errors.
+
 सूत्रं सूत्रविदो विदुः = is called a Sutra
 
-[[Sulba Sutras]]
+---
 
-Sūtra (सूत्र) refers to one of the three principle styles found in Sanskrit literature.
-—Sūtra is a very terse form of writing in which there is no embellishment. The sentence consists of few words and no narrative, explanation or dilation. They were meant for easy memorization by students and depended upon the commentary given by learned scholars.
-
-The sūtras require extensive commentaries and because of their ambivalence can be interpreted in a number of different ways. To this category belong all the texts of the various schools of philosophy, Mīmāṃsa-sūtras, Yoga-sūtras, Vaiśeṣika-sutras, Dharma-sūtras, Gṛhya-sūtras etc.
-
-Sūtra (सूत्र).—A short pithy assertion laying down something in a scientific treatise; aphorism; the word is sometimes used in a collective sense in the singular, referring to the whole collection of Sutras or rules; cf. व्याकरणस्य सूत्रम् (vyākaraṇasya sūtram) M. Bh. on Ahnika 1. The term is defined as
-There are given generally six kinds of Sutras viz. संज्ञासूत्र, परिभाषासूत्र,विधिसूत्र, नियमसूत्र, प्रतिषेधसूत्र (saṃjñāsūtra, paribhāṣāsūtra, vidhisūtra, niyamasūtra, pratiṣedhasūtra) and अधिकारसूत्र (adhikārasūtra); cf. also
+## Six Types of Sūtras
 
 संज्ञा च परिभाषा च विधिर्नियम एव च प्रतिषेधोधि-कारश्च षड्विधम् सूत्रलक्षणम् ॥
-(saṃjñā ca paribhāṣā ca vidhirniyama eva ca pratiṣedhodhi-kāraśca ṣaḍvidham sūtralakṣaṇam ||) Com. on Kat. I. 1.2.
+saṃjñā ca paribhāṣā ca vidhirniyama eva ca pratiṣedhodhi-kāraśca ṣaḍvidham sūtralakṣaṇam ||
+
+1. संज्ञासूत्र (saṃjñā-sūtra) – Definitional Rules
+   - Define technical terms and concepts.
+
+2. परिभाषासूत्र (paribhāṣā-sūtra) – Interpretational Rules
+   - Provide principles for interpreting terms and doctrines.
+
+3. विधिसूत्र (vidhi-sūtra) – Prescriptive Rules
+   - Give instructions or injunctions on actions.
+
+4. नियमसूत्र (niyama-sūtra) – Restrictive Rules
+   - Specify limitations or conditions for certain actions.
+
+5. प्रतिषेधसूत्र (pratiṣedha-sūtra) – Prohibitory Rules
+   - State prohibitions on actions or thoughts.
+
+6. अधिकारसूत्र (adhikāra-sūtra) – Rules of Jurisdiction
+   - Define the scope or applicability of rules.
 
 ## Examples
 
@@ -33,33 +68,26 @@ There are given generally six kinds of Sutras viz. संज्ञासूत�
 - पातंजल योग सूत्र [[YogaSutras]]
 - नारद भक्ति सूत्र
 - [[VaishshikaSutra]]
+- [[NyayaSutra]]
+- [[Sulba Sutras]]
 
+---
+
+My original Notes
+
+The sūtras require extensive commentaries and because of their ambivalence can be interpreted in a number of different ways. To this category belong all the texts of the various schools of philosophy, Mīmāṃsa-sūtras, Yoga-sūtras, Vaiśeṣika-sutras, Dharma-sūtras, Gṛhya-sūtras etc.
+
+Sūtra (सूत्र).—A short pithy assertion laying down something in a scientific treatise; aphorism; the word is sometimes used in a collective sense in the singular, referring to the whole collection of Sutras or rules; cf. व्याकरणस्य सूत्रम् (vyākaraṇasya sūtram) M. Bh. on Ahnika 1. The term is defined as
+
+सुनोति त्रायते इति सुत्रा
 [सु]>सुनोति त्रायते >{त्रै} इति सुत्रा> sunoti traayathe ithi sUtra =The one that protects/saves /preserves /cherishes /defends from damages the extract/essence / pressout/juice of Concepts elaborately explained in 500 /1000/2000 words in One /2/3 words is Sutram
 
-Example -1> Brahma Sutram 1–1–11->श्रुतत्वाच्च।।1.1.11।।=Zruththvaachcha (One word Six letters in Sanskrit ) Very-Very-Very-Very-Very-Very-shortest meaning is > Sanathana Vedam is the Ultimate Authority for All Scriptures of Hindu Religion
+Example -1> Brahma Sutram 1–1–11->श्रुतत्वाच्च।।1.1.11।।=Zruththvaachcha (One word Six letters in Sanskrit ) Very-Very-Very-Very-Very-Very-shortest meaning is > Sanathana Ve
 
-Acharya Sarva Sri SANKARA /RAMANUJA/MADWA commentary for this ONE word of SIX letters MAY run in 500./1000 / 2000 words
+## Question
 
-It is NOT possible to reproduce the Sanskrit commentary (Bhashyam) and English translation as per Quora Language Policy / If any Quora user is Interested he /she MAY Read the Book (Cover page given =920 pages) given at the End of this Answer
+1. What are the other two principle styles found in Sanskrit literature?
 
-Your results for [su]sunoti
+## References
 
-सु>सुनोति>verb 5>[su]>sunoti>extract /essence
-
-सु>सुनोति>verb 5>[su]>sunoti>press out /juice
-
-Found 6 entries
-
-Your results for trAyate:
-
-त्रायते >{त्रै}>verb 1>trAyate >[trai]>protect
-
-त्रायते >{त्रै}>verb 1>trAyate >[trai]>Preserve
-
-त्रायते >{त्रै}>verb 1>trAyate >[trai]>cherish
-
-त्रायते >{त्रै}>verb 1>trAyate >[trai]>Save
-
-त्रायते >{त्रै}>verb 1>trAyate >[trai]>defend
-
-त्रायते >{त्रै}>verb 1>trAyate >[trai]>rescue from
+- [त्रायते Meaning from website](https://kosha.sanskrit.today/word/sa/%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A4%A4%E0%A5%87?q=%E0%A4%B8%E0%A5%81%E0%A4%A8%E0%A5%8B%E0%A4%A4%E0%A4%BF%20%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A4%A4%E0%A5%87%20%E0%A4%87%E0%A4%A4%E0%A4%BF%20%E0%A4%B8%E0%A5%81%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE&scope=kosha)

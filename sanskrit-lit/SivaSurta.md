@@ -11,3 +11,5 @@
 first part of [[Ashtadhyayi]]
 
 https://ashtadhyayi.com/shivasutra
+
+[Maheshwara Sutrani/Siva Sutra](https://sanskritwisdom.com/grammar/letters/maheshwari-sutrani/#google_vignette)

@@ -40,6 +40,8 @@ Having heard him, the Illustrious Rama cheerfully said to brother Lakshmana stan
 नानृग्वेदविनीतस्य नायजुर्वेद्धारिणः।
 नासामवेदविदुषश्शक्यमेवं विभाषितुम्4.3.28।।
 
+
+
 अनृग्वेदविदुषः not trained in Rigveda, एवम् in that way, भाषितुम् to talk, न शक्यम् not possible, अयजुर्वेद्धारिणः not a scholar in Yajurveda, न not, असामवेदविदुषः not a scholar in Samaveda, न not
 
 'Unless well-versed in Rigveda, Yajurveda and Samaveda, for sure, it is not possible for anyone to articulate so well.

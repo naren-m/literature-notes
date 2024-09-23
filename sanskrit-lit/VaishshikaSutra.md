@@ -1,4 +1,4 @@
-# vaishshika sutra
+# VaishshikaSutra
 
 संयोगाभावे गुरुत्वात् पतनम् ॥ ५.१.७ ॥
 

@@ -29,4 +29,4 @@ kārya-virodhi—whereof the effect is the opposite or contradictory; karma—ac
 
 ### References
 
-[[vaishshika sutra]] [[vaisheshika_sutras]] [[gravity]] 
+[[VaishshikaSutra]] [[vaisheshika_sutras]] [[gravity]] 

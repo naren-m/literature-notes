@@ -124,7 +124,7 @@ His sentences are not too elaborate, not ambiguous, not dragging, not fast, rais
 कस्य नाराध्यते चित्तमुद्यतासेररेरपि4.3.33।।
 
 అనయా చిత్రయా వాచా త్రిస్థానవ్యఞ్జనస్థయా.
-కస్య నారాధ్యతే చిత్తముద్యతాసేరరేరపి4.3.33৷৷
+కస్య నారాధ్యతే చిత్తముద్యతాసేరరేరపి 4.3.33৷৷
 
 त्रिस्थानव्यञ्जनस्थया delivered from the bottom of his chest, throat and head, चित्रया with a wonderful, अनया by this, वाचा by words, उद्यतासेः holding a sword, अरेरपि of even an enemy, कस्य whose, चित्तम् mind, नाराध्यते will not be pleased?
 

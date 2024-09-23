@@ -1,6 +1,5 @@
 # Budhi
 
-
 Sankalpathmika [[Manas]], Nischayathmika [[Budhi]]
 
-[[NirvanaShatakam]], [[HanumaStuthi]]
+[[NirvanaShatakam]], [[HanumaStuthi]], [[Hanuman Chalisa]]

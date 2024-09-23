@@ -16,4 +16,4 @@ The Shri Hanuman Chalisa was written by Saint Goswami [[Tulsidas]] ji Maharaj. T
 sankata te hanumāna chhudāvai।
 mana krama bachana dhyāna jo lāvai॥ 26 ॥
 
-[[Budhi]] hinathanu Janke, sumirav pavana kumar
+[[Budhi]] hinathanu Janke, sumirav pavana kumar|

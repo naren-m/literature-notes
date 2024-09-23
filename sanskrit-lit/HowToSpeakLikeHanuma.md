@@ -1,7 +1,7 @@
 # HowToSpeakLikeHanuma
 
 Rama speaks to Lakshamana after Hanuman has introduced himself to them in [Kishkinda kanda 3rd Saraga](https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=4&language=dv&field_sarga_value=3).
-He explain how Hanuma has spoke and how he had followed all of the 
+He explain how Hanuma has spoke and how he had followed all of the rules of Nava vyakarana and vedas.
 
 एतच्छ्रुत्वा वचन्तस्य रामो लक्ष्मणमब्रवीत्।
 प्रहृष्टवदनश्श्रीमान्भ्रातरं पार्श्वतः स्थितम्4.3.25।।
@@ -35,7 +35,7 @@ Having heard him, the Illustrious Rama cheerfully said to brother Lakshmana stan
 
 अनृग्वेदविदुषः not trained in Rigveda, एवम् in that way, भाषितुम् to talk, न शक्यम् not possible, अयजुर्वेद्धारिणः not a scholar in Yajurveda, न not, असामवेदविदुषः not a scholar in Samaveda, न not
 
-'Unless wellversed in Rigveda, Yajurveda and Samaveda, for sure, it is not possible for anyone to articulate so well.
+'Unless well-versed in Rigveda, Yajurveda and Samaveda, for sure, it is not possible for anyone to articulate so well.
 
 ---
 

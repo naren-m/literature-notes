@@ -65,7 +65,7 @@ Achala - unmoved by enimies
 | 54   | sthaviro                     | The ancient, motionless one                                                                   |
 | 55   | agraahyah                    | He who is not perceived sensually                                                             |
 | 56   | shaashvatah                  | He who always remains the same                                                                |
-| 57   | krishno                      | He whose complexion is dark                                                                   |
+| 57   | krishno[[krishna]]           | He whose complexion is dark                                                                   |
 | 58   | lohitaakshah                 | Red-eyed                                                                                      |
 | 59   | pratardanah                  | The Supreme destruction                                                                       |
 | 60   | prabhootas                   | Ever-full                                                                                     |
@@ -559,7 +559,7 @@ Achala - unmoved by enimies
 | 548  | vedhaah                      | Creator of the universe                                                                       |
 | 549  | svaangah                     | One with well-proportioned limbs                                                              |
 | 550  | ajitah                       | Vanquished by none                                                                            |
-| 551  | krishnah                     | Dark-complexioned                                                                             |
+| 551  | krishnah [[krishna]]         | Dark-complexioned                                                                             |
 | 552  | dridhah                      | The firm                                                                                      |
 | 553  | sankarshanochyutah           | He who absorbs the whole creation into His nature and never falls away from that nature       |
 | 554  | varunah                      | One who sets on the horizon (Sun)                                                             |

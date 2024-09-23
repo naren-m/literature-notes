@@ -85,6 +85,11 @@ No fault can be found in his face, eyes, forehead, between the eyebrows or any o
 6. అర్థము తెలియక నుడివెడుదుడు 
 7. పీలమొయిన కంటముగలవాడు 
 
+ఈ ఆరుగురును పాఠకాధములు 
+
+> Note: Read translation for (28-31) in Kishkinda kaanda Sarga 3, 31 sloka in Ghorakpur ramayanam
+
+
 ---
 
 अविस्तरमसन्दिग्धमविलम्बितमद्रुतम्।

@@ -1,5 +1,7 @@
 # krishna
 
+He whose complexion is dark, Dark-complexioned.
+
 
 
 ## Reference

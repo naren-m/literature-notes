@@ -5,10 +5,10 @@ na cha shrotravjihve na cha ghraana netre
 na cha vyoma bhumir na tejo na vaayuhu
 chidananda rupah shivo'ham shivo'ham
 
-Sankalpaathmika [[Manas]], Nischayathmika budhi:
+Sankalpaathmika [[Manas]], Nischayathmika [[budhi]]:
 సంకల్పాత్మిక మనస్, నిశ్చయాత్మక బుద్ధి:
 
-Manassu Budhi chittam ahamkaram - Chathustayam (group of 4)
+[[Manas]]su [[Budhi]] chittam ahamkaram - Chathustayam (group of 4)
 Allochana undeedhi Manassu, nischyam budhi, Chesina panini gurthu pettukunedhi Chittam. Neenu chesanu ani gurhtu techukovadam ahamkaaram.
 Chitta sudhi - alochana undadhi.
 

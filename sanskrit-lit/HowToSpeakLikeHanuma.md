@@ -106,6 +106,9 @@ His sentences are not too elaborate, not ambiguous, not dragging, not fast, rais
 संस्कारक्रमसम्पन्नामद्रुतामविलम्बिताम्।
 उच्चारयति कल्याणीं वाचं हृदयहारिणीम्4.3.32।।
 
+సంస్కారక్రమసమ్పన్నామద్రుతామవిలమ్బితామ్.
+ఉచ్చారయతి కల్యాణీం వాచం హృదయహారిణీమ్4.3.32৷৷
+
 संस्कारक्रमसम्पन्नाम् refined, अद्रुताम् not too fast, अविलम्बिताम् not too slow, कल्याणीम् auspicious, हृदयहारिणीम् captivating the heart, वाचम् language, उच्चारयति speaks
 
 'His words are auspicious. They are refined. Neither fast nor slow, his utterances captivate the heart.

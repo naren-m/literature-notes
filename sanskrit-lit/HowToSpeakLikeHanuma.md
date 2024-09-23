@@ -28,6 +28,9 @@ Having heard him, the Illustrious Rama cheerfully said to brother Lakshmana stan
 तमभ्यभाष सौमित्रे सुग्रीवसचिवं कपिम्।
 वाक्यज्ञं मधुरैर्वाक्यैस्स्नेहयुक्तमरिन्दम।।4.3.27।।
 
+తమభ్యభాష సౌమిత్రే సుగ్రీవాసచివం మహాత్మాన:
+వాక్యజ్ఞం మధురైర్వక్యై: శక్యమేవం ప్రభాషితుమ్
+
 सौमित्रे O Saumitri, वाक्यज्ञम् knows how to talk, स्नेहयुक्तम् in a friendly way, अरिन्दमम् conqueror of enemies, सुग्रीवसचिवम् Sugriva's minister, तं कपिम् this monkey, मधुरैः pleasant, वाक्यैः words, अभिभाषस्व reply well .
 
 'O Saumitri, conqueror of enemies this monkey, Sugriva's minister, is skilled in friendly communication. Reply to him in words gentle and sweet.

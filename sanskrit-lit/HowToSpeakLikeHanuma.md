@@ -53,7 +53,7 @@ Having heard him, the Illustrious Rama cheerfully said to brother Lakshmana stan
 बहु व्याहरताऽनेन न किञ्चिदपशब्दितम् 4.3.29।।
 
 నూనం వ్యాకరణం కృత్స్నమనేన బహుధా శ్రుతమ్.
-బహు వ్యాహరతానేన న కిఞ్చిదపశబ్దితమ్ 4.3.29৷৷
+బహు వ్యాహరతాఽనేన న కించిదపశబ్దితమ్ 4.3.29৷৷
 
 नूनम् surely, अनेन by him, कृत्स्नम् entire, व्याकरणम् grammar, बहुधा in many ways, श्रुतम् studied, बहु much, व्याहरता spoken, अनेन by him, किञ्चित् even a little, अपशब्दितम् wrong pronunciation
 
@@ -63,6 +63,9 @@ Having heard him, the Illustrious Rama cheerfully said to brother Lakshmana stan
 
 न मुखे नेत्रयोर्वापि ललाटे च भ्रुवोस्तथा।
 अन्येष्वपि च गात्रेषु दोषस्संविदितः क्वचित्4.3.30।।
+
+న ముఖే నేత్రయోర్వాపి లలాటే చ భ్రువోస్తథా.
+అన్యేష్వపి చ గాత్రేషు దోషస్సంవిదితః క్వచిత్4.3.30৷৷
 
 मुखे in his face, नेत्रयोर्वापि in the eyes or, ललाटे on the forehead, तथा likewise, भ्रुवो between the eyebrows, अन्येष्वपि च or anywhere, गात्रेषु parts of body, क्वचित् even a little, दोषः fault, न संविदितः not found
 

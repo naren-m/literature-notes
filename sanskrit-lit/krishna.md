@@ -10,6 +10,8 @@ Shankarachaya Maathru panchakam.
 
 tam adhbutham baalakam, 
 
+Vyuthpathi - balakam. 
+
 ## Reference
 
 - [[literature-notes/VishnuSahasranamamByDusyanthSridhar]]

@@ -4,6 +4,12 @@ He whose complexion is dark, Dark-complexioned.
 
 JagathGuru, Jagath[[acharya]]
 
+Aapasthamba[[Sutra]]s: maathethyekee, Matheethyeke
+- No one else is equivalent to Amma
+
+
+
+
 ## Reference
 
 - [[literature-notes/VishnuSahasranamamByDusyanthSridhar]]

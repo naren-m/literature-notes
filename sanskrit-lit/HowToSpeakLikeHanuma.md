@@ -241,63 +241,6 @@ One of the key qualities of a Sutra is that it must not leave room for doubt or 
 
 Hanuman’s speech is clear, leaving no room for misunderstanding, just like a well-crafted Sutra. His communication is precise and to the point, ensuring that the listener can grasp the meaning without confusion.
 
----
-
-## 3. **Sāravad (सारवद) – Concise and Meaningful**
-
-A Sutra must contain the essence of the topic it addresses. It must be rich in meaning despite its brevity. Hanuman’s speech was described by Rama as:
-
-> "His words are auspicious and refined" (Kishkinda Kanda 3.32).
-
-Hanuman’s words were not just simple or brief, but also carried deep meaning and significance, reflecting the richness of his understanding. His speech was filled with substance, much like a Sutra that contains the essence of complex ideas in a few words.
-
----
-
-## 4. **Viśvatomukham (विश्वतोमुखम्) – Universal**
-
-A Sutra must be universally applicable, addressing the topic from all angles. Hanuman's introduction was not just for a single context but applicable to all forms of good communication. His speech was praised for:
-
-> "Raised in the chest, from the throat, in a medium tone" (Kishkinda Kanda 3.31).
-
-This suggests that Hanuman’s speech had a universal appeal, being well-balanced in tone, rhythm, and delivery, suitable for any audience. His eloquence was not specific to a particular situation but reflected principles of effective communication universally.
-
----
-
-## 5. **Asto-bham (अस्तोभम्) – Non-Redundant**
-
-One key characteristic of a Sutra is that it must not contain any redundancy. Rama describes Hanuman’s speech as:
-
-> "Not dragging, not fast" (Kishkinda Kanda 3.31).
-
-This indicates that Hanuman avoided repetition or unnecessary verbosity, speaking in a way that was efficient yet impactful. His speech was direct, free of superfluous elements, much like the non-redundant nature of a Sutra.
-
----
-
-## 6. **Anavadyam (अनवद्यम्) – Without Flaws**
-
-A Sutra must be flawless, with no errors in structure or meaning. Rama emphasizes Hanuman’s flawless delivery:
-
-> "No fault can be found in his face, eyes, forehead, or any other part of his body" (Kishkinda Kanda 3.30).
-
-This reflects not only Hanuman’s mastery of verbal communication but also his perfect control over non-verbal cues. Just as a Sutra should be free of flaws in its wording and intent, Hanuman’s speech was free of any fault, whether in content or delivery.
-
----
-
-## 7. **Types of Sutras and Their Relevance**
-
-The traditional classification of Sutras includes:
-
-1. **Saṃjñā Sutra** (definitional rules)
-2. **Paribhāṣā Sutra** (interpretational rules)
-3. **Vidhi Sutra** (prescriptive rules)
-4. **Niyama Sutra** (restrictive rules)
-5. **Pratiṣedha Sutra** (prohibitory rules)
-6. **Adhikara Sutra** (rules of jurisdiction)
-
-While Hanuman’s speech may not fit exactly into these categories, it can be viewed through the lens of some of these principles. For instance, his speech could be seen as adhering to **Vidhi Sutra** principles, offering clear prescriptions on how communication should be conducted—precisely, unambiguously, and with depth.
-
----
-
 ## Conclusion: Hanuman’s Speech as a Sutra in Action
 
 Hanuman’s speech to Rama exemplifies many of the qualities that define a Sutra. His communication was concise, unambiguous, meaningful, and flawless, embodying the essence of effective and impactful speech. The parallels between his communication style and the Sutra formulation underscore the timeless value of brevity, precision, and clarity in language.

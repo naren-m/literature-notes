@@ -1,4 +1,4 @@
-# Astadhyayi
+# Ashtadhyayi
 
 Sanskrit Grammer by [[Panini]]
 

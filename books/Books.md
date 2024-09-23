@@ -19,7 +19,7 @@
 ## Sanskrit
 
 - [[Niruktha]] is Nighantu that explains the root words of Sanskrit
-- [[Astadhyayi]] Sanskrit grammer by [[Panini]]
+- [[Ashtadhyayi]] Sanskrit grammer by [[Panini]]
 - [[Amarakosham]] by [Amarasimha](https://en.wikipedia.org/wiki/Amarasimha)
 - [[Shabdha Manjari]] heard in [Open heart with RH with Sirivennela Sita rama sastry](https://youtu.be/uB1oGzhr3ao?t=786)
 - [[Dhatu Manjari]] heard in [Open heart with RH with Sirivennela Sita rama sastry](https://youtu.be/uB1oGzhr3ao?t=786)

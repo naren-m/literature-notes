@@ -145,7 +145,7 @@ His sentences are not too elaborate, not ambiguous, not dragging, not fast, rais
 
 In the Kishkinda Kanda of the Ramayana, Hanuman’s introduction to Rama and Lakshmana is a significant moment, demonstrating his mastery of language, communication, and knowledge. Rama’s reaction to Hanuman’s speech serves as a lesson on effective communication, drawing upon the depth of the Vedas and the principles of Nava Vyakarana (nine forms of grammar).
 
-## 1. **The Power of Introduction**  
+## 1. The Power of Introduction
 
 When Hanuman introduces himself in Kishkinda Kanda 3rd Sarga, Rama immediately notes the finesse in Hanuman’s words. His face lights up, as seen in the following verse:
 
@@ -153,7 +153,7 @@ When Hanuman introduces himself in Kishkinda Kanda 3rd Sarga, Rama immediately n
 
 This reaction indicates that Hanuman’s introduction was not just informative but also inspiring, delivered with poise and clarity. Rama’s cheerful demeanor reflects the positive impact that a well-structured introduction can have, especially when it follows the rules of good communication.
 
-## 2. **Adherence to Tradition and Knowledge**
+## 2. Adherence to Tradition and Knowledge
 
 Rama recognizes Hanuman’s depth of knowledge, noting that no one could speak as he does without mastery of the Vedas:
 
@@ -161,7 +161,7 @@ Rama recognizes Hanuman’s depth of knowledge, noting that no one could speak a
 
 This emphasizes that true eloquence stems from a deep understanding of language and tradition. Hanuman's speech reflects the wisdom derived from ancient scriptures, making him a credible and respected speaker.
 
-## 3. **Mastery of Grammar**  
+## 3. Mastery of Grammar
 
 Rama continues to appreciate Hanuman’s command over grammar, stating:
 
@@ -169,7 +169,7 @@ Rama continues to appreciate Hanuman’s command over grammar, stating:
 
 This demonstrates that precision in speech is crucial. Hanuman had studied grammar in its entirety, which allowed him to convey his message without any errors, ensuring clarity and respect from his audience.
 
-## 4. **Perfect Delivery**  
+## 4. Perfect Delivery
 
 Hanuman’s speech is not just about what he says but how he says it. Rama describes the absence of any flaw in Hanuman’s body language, tone, and manner of speaking:
 
@@ -177,7 +177,7 @@ Hanuman’s speech is not just about what he says but how he says it. Rama descr
 
 This highlights the importance of non-verbal cues in communication. A speaker’s physical presence and delivery can either enhance or detract from their message. Hanuman’s flawless posture and controlled gestures further elevate his eloquence.
 
-## 5. **Balanced and Effective Speech**
+## 5. Balanced and Effective Speech
 
 Rama goes on to praise Hanuman’s moderation in speech:
 
@@ -185,7 +185,7 @@ Rama goes on to praise Hanuman’s moderation in speech:
 
 This is a masterclass in pacing and tone. Effective communication requires balance — avoiding unnecessary elaboration, maintaining clarity, and using a moderate pace and tone. Hanuman’s speech achieves all of this, making it both pleasant and impactful.
 
-## 6. **Refined Language and Heartfelt Communication**
+## 6. Refined Language and Heartfelt Communication
 
 Further emphasizing Hanuman’s skill, Rama mentions the refinement in his speech:
 
@@ -193,7 +193,7 @@ Further emphasizing Hanuman’s skill, Rama mentions the refinement in his speec
 
 Refinement comes from a deep understanding of the subject matter and an awareness of the audience. Hanuman’s speech, refined and cultured, was captivating, drawing attention to the importance of tailoring one’s language to the context and audience.
 
-## 7. **The Power of Three-Point Articulation**
+## 7. The Power of Three-Point Articulation
 
 Rama finally notes the richness of Hanuman’s voice, which emanated from the three key sources of articulation:
 
@@ -201,7 +201,7 @@ Rama finally notes the richness of Hanuman’s voice, which emanated from the th
 
 This illustrates how effective articulation involves the entire body — the heart (emotional depth), throat (voice projection), and mind (intellect). Hanuman’s speech touched all these aspects, leaving a lasting impression.
 
-## 8. **Conclusion: The Ideal Messenger**
+## 8. Conclusion: The Ideal Messenger
 
 Rama concludes by reflecting on how valuable a messenger like Hanuman would be for any king:
 

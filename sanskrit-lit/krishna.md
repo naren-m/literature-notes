@@ -6,7 +6,7 @@ JagathGuru, Jagath[[acharya]]
 
 Aapasthamba[[Sutra]]s: maathethyekee, Matheethyeke
 - No one else is equivalent to Amma
-
+Shankarachaya Maathru panchakam. 
 
 
 

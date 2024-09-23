@@ -2,7 +2,7 @@
 
 He whose complexion is dark, Dark-complexioned.
 
-
+JagathGuru, Jagath[[acharya]]
 
 ## Reference
 

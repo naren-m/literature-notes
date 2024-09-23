@@ -89,11 +89,15 @@ No fault can be found in his face, eyes, forehead, between the eyebrows or any o
 
 > Note: Read translation for (28-31) in Kishkinda kaanda Sarga 3, 31 sloka in Ghorakpur ramayanam
 
-
 ---
 
 अविस्तरमसन्दिग्धमविलम्बितमद्रुतम्।
 उरस्थं कण्ठगं वाक्यं वर्तते मध्यमे स्वरे4.3.31।।
+
+అవిస్తరమసన్దిగ్ధమవిలమ్బితమద్రుతమ్.
+ఉరస్థం కణ్ఠగం వాక్యం వర్తతే మధ్యమే స్వరే 4.3.31৷৷
+
+వాక్యమ్ sentences, అవిస్తరమ్ not too elaborate, అసన్దిగ్ధమ్ not ambiguous, అవిలమ్భితమ్ not dragging, అద్రుతమ్ not fast, ఉరస్థమ్ raised in his chest, కణ్ఠగమ్ from the throat, మధ్యమే medium, స్వరే tone
 
 वाक्यम् sentences, अविस्तरम् not too elaborate, असन्दिग्धम् not ambiguous, अविलम्भितम् not dragging, अद्रुतम् not fast, उरस्थम् raised in his chest, कण्ठगम् from the throat, मध्यमे medium, स्वरे tone
 

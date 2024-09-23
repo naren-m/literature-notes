@@ -13,21 +13,25 @@ Having heard him, the Illustrious Rama cheerfully said to brother Lakshmana stan
 ---
 
 सचिवोऽयं कपीन्द्रस्य सुग्रीवस्य महात्मनः।
-
 तमेव काङ्क्षमाणस्य ममान्तिकमुपागतः4.3.26।।
 
 
 कपीन्द्रस्य of the lord of monkeys, महात्मनः of great self, सुग्रीवस्य Sugriva's, सचिवः minister, अयम् this, तमेव him only, काङ्क्षमाणस्य as I wish to see, मम to me, समीपम् near by, इह here, आगतः has come
 
 'Here is minister to Sugriva, the great chief of monkeys whom I wish to see.
-तमभ्यभाष सौमित्रे सुग्रीवसचिवं कपिम्।
 
+---
+
+तमभ्यभाष सौमित्रे सुग्रीवसचिवं कपिम्।
 वाक्यज्ञं मधुरैर्वाक्यैस्स्नेहयुक्तमरिन्दम।।4.3.27।।
 
 
 सौमित्रे O Saumitri, वाक्यज्ञम् knows how to talk, स्नेहयुक्तम् in a friendly way, अरिन्दमम् conqueror of enemies, सुग्रीवसचिवम् Sugriva's minister, तं कपिम् this monkey, मधुरैः pleasant, वाक्यैः words, अभिभाषस्व reply well .
 
 'O Saumitri, conqueror of enemies this monkey, Sugriva's minister, is skilled in friendly communication. Reply to him in words gentle and sweet.
+
+---
+
 नानृग्वेदविनीतस्य नायजुर्वेद्धारिणः।
 
 नासामवेदविदुषश्शक्यमेवं विभाषितुम्4.3.28।।

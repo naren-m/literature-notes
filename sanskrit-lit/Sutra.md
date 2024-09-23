@@ -74,17 +74,6 @@ saṃjñā ca paribhāṣā ca vidhirniyama eva ca pratiṣedhodhi-kāraśca ṣ
 
 ---
 
-My original Notes
-
-The sūtras require extensive commentaries and because of their ambivalence can be interpreted in a number of different ways. To this category belong all the texts of the various schools of philosophy, Mīmāṃsa-sūtras, Yoga-sūtras, Vaiśeṣika-sutras, Dharma-sūtras, Gṛhya-sūtras etc.
-
-Sūtra (सूत्र).—A short pithy assertion laying down something in a scientific treatise; aphorism; the word is sometimes used in a collective sense in the singular, referring to the whole collection of Sutras or rules; cf. व्याकरणस्य सूत्रम् (vyākaraṇasya sūtram) M. Bh. on Ahnika 1. The term is defined as
-
-सुनोति त्रायते इति सुत्रा
-[सु]>सुनोति त्रायते >{त्रै} इति सुत्रा> sunoti traayathe ithi sUtra =The one that protects/saves /preserves /cherishes /defends from damages the extract/essence / pressout/juice of Concepts elaborately explained in 500 /1000/2000 words in One /2/3 words is Sutram
-
-Example -1> Brahma Sutram 1–1–11->श्रुतत्वाच्च।।1.1.11।।=Zruththvaachcha (One word Six letters in Sanskrit ) Very-Very-Very-Very-Very-Very-shortest meaning is > Sanathana Ve
-
 ## Question
 
 1. What are the other two principle styles found in Sanskrit literature?

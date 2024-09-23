@@ -75,7 +75,7 @@ No fault can be found in his face, eyes, forehead, between the eyebrows or any o
 
 దోష: -> 
 
-గీతీ 
+గీతీ శీఘ్రీ శిర:కంపీ, తథా లిఖితపాఠక: । అనర్థజ్ఞోఽల్పకంఠశ్చ్అ , షడీతే పాఠకాధమా: ।।
 
 ---
 

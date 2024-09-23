@@ -114,7 +114,12 @@ His sentences are not too elaborate, not ambiguous, not dragging, not fast, rais
 
 'His words are auspicious. They are refined. Neither fast nor slow, his utterances captivate the heart.
 
-సంస్కారక్రమసమ్పన్నామ్
+1. సంస్కారసమ్పన్నామ్: వ్యాకరణనీయములను అనుసరించిన దోషరహితమైన భాషను సంస్కార సంపన్నము అని అంటారు 
+2. క్రమము (క్రమసమ్పన్నామ్): శబ్దోచ్ఛారములో శాస్త్రీయమైన పద్ధతిని 'క్రమము' అని అంటారు 
+3. అవిలమ్బితామ్: ఆగకుండా ధారలముగా మాట్లాడే "అవిళంభితము" అని అంటారు 
+
+
+
 
 
 > Note: Refer to Page 263 in Git apress ghorakpur Telugu Valmiki ramayanam.

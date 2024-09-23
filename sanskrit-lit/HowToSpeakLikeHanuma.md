@@ -67,25 +67,23 @@ Having heard him, the Illustrious Rama cheerfully said to brother Lakshmana stan
 న ముఖే నేత్రయోర్వాపి లలాటే చ భ్రువోస్తథా.
 అన్యేష్వపి చ గాత్రేషు దోష: సంవిదితః క్వచిత్4.3.30৷৷
 
-
-
 मुखे in his face, नेत्रयोर्वापि in the eyes or, ललाटे on the forehead, तथा likewise, भ्रुवो between the eyebrows, अन्येष्वपि च or anywhere, गात्रेषु parts of body, क्वचित् even a little, दोषः fault, न संविदितः not found
 
 No fault can be found in his face, eyes, forehead, between the eyebrows or any other part of his body (during his expression).
 
-దోష: -> 
+దోష: ->
 
 గీతీ శీఘ్రీ శిర:కంపీ, తథా లిఖితపాఠక: । అనర్థజ్ఞోఽల్పకంఠశ్చ్అ , షడీతే పాఠకాధమా: ।।
 
 1. మాటల్డేటప్పుడు రాగాలు తీసేవాడు,
-2. వేగముగా భాషించువాడు 
-3. తలను కదిలించివాడు 
-4. వ్రాసిన దానిని చూసి చదువుతాడు 
-5. కంఠస్థము చేసిన దానిని అప్పగించినట్లు మాట్లాడేవాడు 
-6. అర్థము తెలియక నుడివెడుదుడు 
-7. పీలమొయిన కంటముగలవాడు 
+2. వేగముగా భాషించువాడు
+3. తలను కదిలించివాడు
+4. వ్రాసిన దానిని చూసి చదువుతాడు
+5. కంఠస్థము చేసిన దానిని అప్పగించినట్లు మాట్లాడేవాడు
+6. అర్థము తెలియక నుడివెడుదుడు
+7. పీలమొయిన కంటముగలవాడు
 
-ఈ ఆరుగురును పాఠకాధములు 
+ఈ ఆరుగురును పాఠకాధములు
 
 > Note: Read translation for (28-31) in Kishkinda kaanda Sarga 3, 31 sloka in Ghorakpur ramayanam
 
@@ -97,7 +95,7 @@ No fault can be found in his face, eyes, forehead, between the eyebrows or any o
 అవిస్తరమసన్దిగ్ధమవిలమ్బితమద్రుతమ్.
 ఉరస్థం కణ్ఠగం వాక్యం వర్తతే మధ్యమే స్వరే 4.3.31৷৷
 
-వాక్యమ్ sentences, అవిస్తరమ్ not too elaborate, అసన్దిగ్ధమ్ not ambiguous, అవిలమ్భితమ్ not dragging, అద్రుతమ్ not fast, ఉరస్థమ్ raised in his chest, కణ్ఠగమ్ from the throat, మధ్యమే medium, స్వరే tone
+వాక్యమ్ sentences, అవిస్తరమ్ not too elaborate, అసన్దిగ్ధమ్ (One of the quality of a [[Sutra]]) not ambiguous, అవిలమ్భితమ్ not dragging, అద్రుతమ్ not fast, ఉరస్థమ్ raised in his chest, కణ్ఠగమ్ from the throat, మధ్యమే medium, స్వరే tone
 
 वाक्यम् sentences, अविस्तरम् not too elaborate, असन्दिग्धम् not ambiguous, अविलम्भितम् not dragging, अद्रुतम् not fast, उरस्थम् raised in his chest, कण्ठगम् from the throat, मध्यमे medium, स्वरे tone
 

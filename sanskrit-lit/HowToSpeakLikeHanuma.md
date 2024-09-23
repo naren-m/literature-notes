@@ -65,11 +65,17 @@ Having heard him, the Illustrious Rama cheerfully said to brother Lakshmana stan
 अन्येष्वपि च गात्रेषु दोषस्संविदितः क्वचित्4.3.30।।
 
 న ముఖే నేత్రయోర్వాపి లలాటే చ భ్రువోస్తథా.
-అన్యేష్వపి చ గాత్రేషు దోషస్సంవిదితః క్వచిత్4.3.30৷৷
+అన్యేష్వపి చ గాత్రేషు దోష: సంవిదితః క్వచిత్4.3.30৷৷
+
+
 
 मुखे in his face, नेत्रयोर्वापि in the eyes or, ललाटे on the forehead, तथा likewise, भ्रुवो between the eyebrows, अन्येष्वपि च or anywhere, गात्रेषु parts of body, क्वचित् even a little, दोषः fault, न संविदितः not found
 
 No fault can be found in his face, eyes, forehead, between the eyebrows or any other part of his body (during his expression).
+
+దోష: -> 
+
+గీతీ 
 
 ---
 

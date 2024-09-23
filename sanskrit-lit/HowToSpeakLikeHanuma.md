@@ -83,6 +83,7 @@ No fault can be found in his face, eyes, forehead, between the eyebrows or any o
 4. వ్రాసిన దానిని చూసి చదువుతాడు 
 5. కంఠస్థము చేసిన దానిని అప్పగించినట్లు మాట్లాడేవాడు 
 6. అర్థము తెలియక నుడివెడుదుడు 
+7. పీలమొయిన కంటముగలవాడు 
 
 ---
 

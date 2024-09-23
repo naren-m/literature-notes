@@ -109,10 +109,15 @@ His sentences are not too elaborate, not ambiguous, not dragging, not fast, rais
 సంస్కారక్రమసమ్పన్నామద్రుతామవిలమ్బితామ్.
 ఉచ్చారయతి కల్యాణీం వాచం హృదయహారిణీమ్4.3.32৷৷
 
+
 संस्कारक्रमसम्पन्नाम् refined, अद्रुताम् not too fast, अविलम्बिताम् not too slow, कल्याणीम् auspicious, हृदयहारिणीम् captivating the heart, वाचम् language, उच्चारयति speaks
 
 'His words are auspicious. They are refined. Neither fast nor slow, his utterances captivate the heart.
 
+సంస్కారక్రమసమ్పన్నామ్
+
+
+> Note: Refer to Page 263 in Git apress ghorakpur Telugu Valmiki ramayanam.
 ---
 
 अनया चित्रया वाचा त्रिस्थानव्यञ्जनस्थया।

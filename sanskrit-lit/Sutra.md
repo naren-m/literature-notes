@@ -8,7 +8,7 @@
 असंदिग्धं = Unambiguous
 सारवद्विश्वतोमुखम् = Concise and Universal
 अस्तो-भम = Non Redundant
-अनवद्यं च = Without a fla
+अनवद्यं च = Without a flaw
 सूत्रं सूत्रविदो विदुः = is called a Sutra
 
 [[Sulba Sutras]]

@@ -40,7 +40,8 @@ Having heard him, the Illustrious Rama cheerfully said to brother Lakshmana stan
 नानृग्वेदविनीतस्य नायजुर्वेद्धारिणः।
 नासामवेदविदुषश्शक्यमेवं विभाषितुम्4.3.28।।
 
-
+నాఽనృగ్వేదవినీతస్య నాఽయజుర్వేద్ధారిణః.
+నాఽసామవేదవిదుష: శ్శక్యమేవం ప్రభాషితుమ్ 4.3.28৷৷
 
 अनृग्वेदविदुषः not trained in Rigveda, एवम् in that way, भाषितुम् to talk, न शक्यम् not possible, अयजुर्वेद्धारिणः not a scholar in Yajurveda, न not, असामवेदविदुषः not a scholar in Samaveda, न not
 
@@ -49,7 +50,10 @@ Having heard him, the Illustrious Rama cheerfully said to brother Lakshmana stan
 ---
 
 नूनं व्याकरणं कृत्स्नमनेन बहुधा श्रुतम्।
-बहु व्याहरताऽनेन न किञ्चिदपशब्दितम्4.3.29।।
+बहु व्याहरताऽनेन न किञ्चिदपशब्दितम् 4.3.29।।
+
+నూనం వ్యాకరణం కృత్స్నమనేన బహుధా శ్రుతమ్.
+బహు వ్యాహరతానేన న కిఞ్చిదపశబ్దితమ్ 4.3.29৷৷
 
 नूनम् surely, अनेन by him, कृत्स्नम् entire, व्याकरणम् grammar, बहुधा in many ways, श्रुतम् studied, बहु much, व्याहरता spoken, अनेन by him, किञ्चित् even a little, अपशब्दितम् wrong pronunciation
 

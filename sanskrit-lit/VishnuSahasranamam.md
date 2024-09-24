@@ -754,8 +754,8 @@ Achala - unmoved by enemies
 | 743  | vishama                      | Unequalled                                                                                    |
 | 744  | shoonyah                     | The void                                                                                      |
 | 745  | ghritaaseeh                  | One who has no need for good wishes                                                           |
-| 746  | achalah                      | Non-moving                                                                                    |
-| 747  | chalah                       | Moving                                                                                        |
+| 746  | achalah                      | Non-moving. unmoved by enemies                                                                |
+| 747  | chalah                       | gets moved by devotees                                                                        |
 | 748  | amaanee                      | Without false vanity                                                                          |
 | 749  | maanadah                     | One who causes, by His maya, false identification with the body                               |
 | 750  | maanyah                      | One who is to be honoured                                                                     |

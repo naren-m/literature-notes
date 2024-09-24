@@ -5,13 +5,14 @@ He whose complexion is dark, Dark-complexioned.
 JagathGuru, Jagath[[acharya]]
 
 Aapasthamba[[Sutra]]s: maathethyekee, Matheethyeke
-- No one else is equivalent to Amma
-Shankarachaya Maathru panchakam. 
 
-tam adhbutham baalakam ambhujekshanam chaturbhujam shanka gadharyudhayudham. 
+- No one else is equivalent to Amma
+Shankarachaya Maathru panchakam.
+
+tam adhbutham baalakam ambhujekshanam chaturbhujam shanka gadharyudhayudham.
 Srivatsa lakshmam, jalashobhi kousthubham peethambaram.....
 
-Vyuthpathi - balakam. 
+Vyuthpathi - balakam.
 
 ## Reference
 

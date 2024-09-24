@@ -3,7 +3,7 @@
 Pravachanam [[literature-notes/VishnuSahasranamamByDusyanthSridhar]]
 
 Chala - gets moved by devotees
-Achala - unmoved by enimies
+Achala - unmoved by enemies
 
 [Individual names](https://www.templepurohit.com/vishnu-sahasranamam-1008-names-of-lord-vishnu/)
 
@@ -754,7 +754,7 @@ Achala - unmoved by enimies
 | 743  | vishama                      | Unequalled                                                                                    |
 | 744  | shoonyah                     | The void                                                                                      |
 | 745  | ghritaaseeh                  | One who has no need for good wishes                                                           |
-| 746  | acalah                       | Non-moving                                                                                    |
+| 746  | achalah                      | Non-moving                                                                                    |
 | 747  | chalah                       | Moving                                                                                        |
 | 748  | amaanee                      | Without false vanity                                                                          |
 | 749  | maanadah                     | One who causes, by His maya, false identification with the body                               |

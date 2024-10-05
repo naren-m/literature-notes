@@ -1,5 +1,5 @@
 # Testing Principles
-- ## Principles
+- ## WPrinciples #card
 	- 1. ALWAYS write code that you can test.
 	- 2. Prioritize Readability over clever or concise code
 	- 3. ALWAYS prioritize writing "Clean Code" over completing the task FAST

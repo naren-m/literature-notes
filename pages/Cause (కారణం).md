@@ -1,0 +1,2 @@
+- In #vedanta there are 3 kinds of kaaranas
+	-

@@ -2,7 +2,7 @@
 
 Nåda = [[Prana]] + [[Agni]] (Anala)
 
-Defined in [[Sangitaratnakara]] 1.3.6
+Defined in [[Sangitaratnakaram]] 1.3.6
 
 [[Brihadesi]] also defines what Nada is
 

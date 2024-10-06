@@ -1,12 +1,13 @@
 # VishnuSahasranamam
 
-Pravachanam [[VishnuSahasranamamByDusyanthSridhar]]
+#Pravachanam [[VishnuSahasranamamByDusyanthSridhar]]
 
 Chala - gets moved by devotees
 Achala - unmoved by enemies
 
 [Individual names](https://www.templepurohit.com/vishnu-sahasranamam-1008-names-of-lord-vishnu/)
 
+[[Shatprashni]]
 
 ## First 100 names
 

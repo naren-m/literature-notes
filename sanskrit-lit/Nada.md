@@ -1,12 +1,11 @@
 # Nada
 
 Nåda = [[Prana]] + [[Agni]] (Anala)
-
-Defined in [[Sangitaratnakaram]] 1.3.6
-
-[[Brihadesi]] also defines what Nada is
-
-Nåda is not [[Sound]].
+	- Defined in [[Sangitaratnakaram]] 1.3.6
+	  
+	  [[Brihadesi]] also defines what Nada is
+	  
+	  Nåda is not [[Sound]].
 -
 - Nada is of two types.
 	- Ahata

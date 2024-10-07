@@ -15,5 +15,5 @@
 		- Jnyana bhagam
 			- Veedanta or Upanishad
 				-
-	- Vedanta Sutra]]s or  ]m {{youtube-timestamp 780}}
+	- Vedanta [[Sutra]]s or [[Brahma Sutra]] {{youtube-timestamp 780}}
 	- Essense of the upanishads

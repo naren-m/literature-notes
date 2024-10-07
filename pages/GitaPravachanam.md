@@ -14,4 +14,4 @@
 		- Aaranyakam
 		- Samhita
 	- Jnyana bhagam
-		- Veedanta Upanishad
+		- Veedanta or Upanishad

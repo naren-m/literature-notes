@@ -2,8 +2,8 @@
 -
 - ## King among secrets #gita
 - {{video https://www.youtube.com/watch?v=Cs7_AUG5COI}}
--
-- Kaivalyam {{youtube-timestamp 425}} - Kevala gyanama ithi kaivalyam
+- {{youtube-timestamp 1051}}
+- Kaivalyam {{youtube-timestamp 425}} - Kevala gyanama ithi kaivalyam #vyuthpathi
 - Maslos hieroricy {{youtube-timestamp 531}}
 - Prasthana trayam - 3 highly considerate {{youtube-timestamp 809}}
 	- {{youtube-timestamp 565}} Upanishad Upa nishadeethi, ithi upanishad #vyuthpathi

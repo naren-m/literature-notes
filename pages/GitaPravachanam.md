@@ -42,6 +42,7 @@
 				- Parama purshasya
 				- Jnaaninam visesham
 				- Bhakthi roopa upanasasya
+			- Abhyasam {{youtube-timestamp 2503}}
 			-
 	- 3rd Shatkam
 		- Clears doubts from first two Shatkams

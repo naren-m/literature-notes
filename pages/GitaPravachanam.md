@@ -5,6 +5,11 @@
 -
 - Kaivalyam {{youtube-timestamp 425}} - Kevala gyanama ithi kaivalyam
 - Maslos hieroricy {{youtube-timestamp 531}}
+- 3 highly considerate
 - {{youtube-timestamp 565}} Upanishad Upa nishadeethi, ithi upanishad
 	- Veedanta
+- Karma
+	- Bramhanam
+	- Aaranyakam
+	- Samhita
 -

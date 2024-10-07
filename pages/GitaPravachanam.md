@@ -39,7 +39,9 @@
 			- Kshemam
 			- Krishna talks about Swaroopam {{youtube-timestamp 2300}}
 				- Swaroopam - Nature, your own
-				-
+				- Parama purshasya
+				- Jnaaninam visesham
+				- Bhakthi roopa upanasasya
 			-
 	- 3rd Shatkam
 		- Clears doubts from first two Shatkams

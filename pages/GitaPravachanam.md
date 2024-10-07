@@ -22,12 +22,11 @@
 	- 2nd Shatkam
 		- Bhakthi Yogam [[Oct 7th, 2024]] 15:28
 			- Upasana, Upasaka bhedha nibandhanath viseshapa pratipaditha {{youtube-timestamp 2136}}
-			- {{youtube-timestamp 2175}}
-			-
-			- Prama: Quintessencial knowledge
-			- Pramanam: Grandham that give prama {{youtube-timestamp 2175}}
-			- Prameyam: Object of your knowledge {{youtube-timestamp 2190}}
-			- Pramatha: Who understands the Preameyam through pramanam
+			- 4 Key words to understand {{youtube-timestamp 2175}}
+				- Prama: Quintessencial knowledge
+				- Pramanam: Grandham that give prama {{youtube-timestamp 2175}}
+				- Prameyam: Object of your knowledge {{youtube-timestamp 2190}}
+				- Pramatha: Who understands the Prameyam through pramanam {{youtube-timestamp 2196}}
 			-
 			-
 		- 9th chapter - {{youtube-timestamp 1794}} Yoga kshemam vahamyamam

@@ -20,7 +20,7 @@
 	- Pradhama Shatkam
 		- karma, jnyana yogam
 	- 2nd Shatkam
-		- Bhakthi Yogam   15:28
+		- Bhakthi Yogam [[Oct 7th, 2024]] 15:28
 		- 9th chapter - {{youtube-timestamp 1794}} Yoga kshemam vahamyamam
 			- Yogam - Bhrashtaishvaryam, Received something that you have Never expected to you in life.
 				- He who received mateis called `artha`` {{youtube-timestamp 1920}}

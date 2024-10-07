@@ -12,7 +12,6 @@ STRIDE is an acronym and the categorization of vulnerabilities. It useful in dec
 	- [[Denial of Service]]: prevent correct access to data or services.
 		- Compromise of [[Availability]].
 	- [[Elevation of Privilege]]: unauthorized upgrade in privilege.
-		- Compromise of authorization.
-		  
-		  These [[Security Vulnerabilities]] effect the core principles of [[Cryptography]], the [[CIA Triad]]
+		- Compromise of [[authorization]] .
+- These [[Security Vulnerabilities]] effect the core principles of [[Cryptography]], the [[CIA Triad]]
 - #security

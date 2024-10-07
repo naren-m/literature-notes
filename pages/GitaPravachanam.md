@@ -2,5 +2,6 @@
 -
 - {{video https://www.youtube.com/watch?v=Cs7_AUG5COI}}
 -
-- Kaivalyam
+- Kaivalyam {{youtube-timestamp 425}} - Kevala gyanama ithi kaivalyam
+-
 -

@@ -1,8 +1,8 @@
 - #pravachanam #DusyanthSridhar
 -
-- ## King of
+- ## King among secrets #gita
 - {{video https://www.youtube.com/watch?v=Cs7_AUG5COI}}
 -
 - Kaivalyam {{youtube-timestamp 425}} - Kevala gyanama ithi kaivalyam
 - Maslos hieroricy {{youtube-timestamp 531}}
--
+- {{youtube-timestamp 565}} Upanishad Upa nishadeethi, ithi

@@ -22,7 +22,8 @@
 	- 2nd Shatkam
 		- Bhakthi Yogam
 		- 9th chapter - {{youtube-timestamp 1794}} Yoga kshemam vahamyamam
-			- Yogam - Bhrashtaishvaryam, Received something that you have Never expected to you in lif
+			- Yogam - Bhrashtaishvaryam, Received something that you have Never expected to you in life.
+			- Kshemam -
 			-
 	- 3rd Shatkam
 		- Clears doubts from first two Shatkams

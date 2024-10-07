@@ -23,7 +23,9 @@
 		- Bhakthi Yogam
 		- 9th chapter - {{youtube-timestamp 1794}} Yoga kshemam vahamyamam
 			- Yogam - Bhrashtaishvaryam, Received something that you have Never expected to you in life.
-				- He who received mateis called artha {{youtube-timestamp 1920}}
+				- He who received mateis called `artha`` {{youtube-timestamp 1920}}
+					- Artha Arthi {{youtube-timestamp 1951}}
+					- Jignashi {{youtube-timestamp 1966}} Kevalam (alone) Kevala J
 				-
 				-
 				-

@@ -27,9 +27,7 @@
 					- Artha Arthi {{youtube-timestamp 1951}}
 					- Jignashu {{youtube-timestamp 1966}} Kevalam (alone) Kevala Jnanam {{youtube-timestamp 2001}}
 					- Jnyani Desiring god {{youtube-timestamp 2030}}
-			-
-				-
-			- Kshemam -
+			- Kshemam
 			-
 	- 3rd Shatkam
 		- Clears doubts from first two Shatkams

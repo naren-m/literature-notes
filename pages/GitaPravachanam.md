@@ -28,7 +28,7 @@
 				- Prameyam: Object of your knowledge {{youtube-timestamp 2190}}
 				- Pramatha: Who understands the Prameyam through pramanam {{youtube-timestamp 2196}}
 			- Example: {{youtube-timestamp 2220}}
-				-
+			- Rupam, Swaroopam
 		- 9th chapter - {{youtube-timestamp 1794}} Yoga kshemam vahamyamam
 			- Yogam - Bhrashtaishvaryam, Received something that you have Never expected to you in life.
 				- He who received mateis called `artha`` {{youtube-timestamp 1920}}

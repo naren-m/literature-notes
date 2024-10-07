@@ -6,7 +6,7 @@
 - Kaivalyam {{youtube-timestamp 425}} - Kevala gyanama ithi kaivalyam
 - Maslos hieroricy {{youtube-timestamp 531}}
 - Prasthana trayam - 3 highly considerate {{youtube-timestamp 809}}
-	- {{youtube-timestamp 565}} Upanishad Upa nishadeethi, ithi upanishad
+	- {{youtube-timestamp 565}} Upanishad Upa nishadeethi, ithi upanishad #vyuthpathi
 		- Every Veda is divided into two parts
 			- Karma bhagam
 				- Bramhanam

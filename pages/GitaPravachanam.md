@@ -27,7 +27,7 @@
 			- Prama: Quintessencial knowledge
 			- Pramanam: Grandham that give prama {{youtube-timestamp 2175}}
 			- Prameyam: Object of your knowledge {{youtube-timestamp 2190}}
-			- Pramatha: Who understands the
+			- Pramatha: Who understands the Preameyam through pramanam
 			-
 			-
 		- 9th chapter - {{youtube-timestamp 1794}} Yoga kshemam vahamyamam

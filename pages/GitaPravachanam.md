@@ -8,8 +8,10 @@
 - 3 highly considerate
 - {{youtube-timestamp 565}} Upanishad Upa nishadeethi, ithi upanishad
 	- Veedanta
-- Karma
-	- Bramhanam
-	- Aaranyakam
-	- Samhita
--
+- Every Veda is divided into two parts
+	- Karma bhagam
+		- Bramhanam
+		- Aaranyakam
+		- Samhita
+	- Jnyana bhagam
+		- Veedanta Upanishad

@@ -1,6 +1,4 @@
-# STRIDE
-
-STRIDE is an acronym and the categorization of vulnerabilities. It useful in deciding, based on the categorization, the best practices of how to defend or mitigate against current or future problems.
+- STRIDE is an acronym and the categorization of vulnerabilities. It useful in deciding, based on the categorization, the best practices of how to defend or mitigate against current or future problems.
 	- [[Spoofing]]: theft of user credentials.
 		- Compromise of [[Authentication]]
 	- [[Tampering]]: unauthorized data modification.

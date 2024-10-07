@@ -23,9 +23,12 @@
 		- Bhakthi Yogam [[Oct 7th, 2024]] 15:28
 			- Upasana, Upasaka bhedha nibandhanath viseshapa pratipaditha {{youtube-timestamp 2136}}
 			- {{youtube-timestamp 2175}}
-			- Prameyam: Whom you
+			-
 			- Prama: Quintessencial knowledge
-			- Pramanam: Grandham that give param
+			- Pramanam: Grandham that give prama {{youtube-timestamp 2175}}
+			- Prameyam: Object of your knowledge {{youtube-timestamp 2190}}
+			- Pramatha: Who understands the
+			-
 			-
 		- 9th chapter - {{youtube-timestamp 1794}} Yoga kshemam vahamyamam
 			- Yogam - Bhrashtaishvaryam, Received something that you have Never expected to you in life.

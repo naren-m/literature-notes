@@ -16,7 +16,7 @@
 				- Veedanta or Upanishad
 	- Vedanta [[Sutra]]s or [[Brahma Sutra]] {{youtube-timestamp 780}}
 	- Essense of the upanishads [[Bhagavadgita]]
-- {{youtube-timestamp 1513}} Gita will be divided into Shatkams
+- {{youtube-timestamp 1513}} Gita will be divided into 3 Shatkams
 	- Pradhama Shatkam
 		- karma, jnyana yogam
 	- 2nd Shatkam

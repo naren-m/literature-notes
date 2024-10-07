@@ -1,5 +1,4 @@
 - STRIDE(acronym) is categorization of vulnerabilities.
-	- Useful in deciding, based on the categorization, the best practices of how to defend or mitigate against current or future problems.
 	- [[Spoofing]]: theft of user credentials.
 		- Compromise of [[Authentication]]
 	- [[Tampering]]: unauthorized data modification.
@@ -13,4 +12,5 @@
 	- [[Elevation of Privilege]]: unauthorized upgrade in privilege.
 		- Compromise of [[authorization]] .
 - These [[Security Vulnerabilities]] effect the core principles of [[Cryptography]], the [[CIA Triad]]
+- Useful in deciding, based on the categorization, the best practices of how to defend or mitigate against current or future problems.
 - #security

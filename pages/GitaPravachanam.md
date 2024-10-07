@@ -28,7 +28,8 @@
 				- Prameyam: Object of your knowledge {{youtube-timestamp 2190}}
 				- Pramatha: Who understands the Prameyam through pramanam {{youtube-timestamp 2196}}
 			- Example: {{youtube-timestamp 2220}}
-			- Rupam, Swaroopam
+			-
+			-
 		- 9th chapter - {{youtube-timestamp 1794}} Yoga kshemam vahamyamam
 			- Yogam - Bhrashtaishvaryam, Received something that you have Never expected to you in life.
 				- He who received mateis called `artha`` {{youtube-timestamp 1920}}
@@ -36,6 +37,8 @@
 					- Jignashu {{youtube-timestamp 1966}} Kevalam (alone) Kevala Jnanam {{youtube-timestamp 2001}}
 					- Jnyani Desiring god {{youtube-timestamp 2030}}
 			- Kshemam
+			- Rupam, Swaroopam {{youtube-timestamp 2300}}
+			-
 	- 3rd Shatkam
 		- Clears doubts from first two Shatkams
 	-

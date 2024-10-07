@@ -16,3 +16,7 @@
 				- Veedanta or Upanishad
 	- Vedanta [[Sutra]]s or [[Brahma Sutra]] {{youtube-timestamp 780}}
 	- Essense of the upanishads [[Bhagavadgita]]
+- {{youtube-timestamp 1513}} Shatkams
+	- Pradhama Shatkam
+		- karma jnyana
+	-

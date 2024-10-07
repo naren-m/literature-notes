@@ -6,12 +6,14 @@
 - Kaivalyam {{youtube-timestamp 425}} - Kevala gyanama ithi kaivalyam
 - Maslos hieroricy {{youtube-timestamp 531}}
 - 3 highly considerate
-- Every Veda is divided into two parts
-	- Karma bhagam
-		- Bramhanam
-		- Aaranyakam
-		- Samhita
-	- Jnyana bhagam
-		- Veedanta or Upanishad
-			- {{youtube-timestamp 565}} Upanishad Upa nishadeethi, ithi upanishad
-	- Vedanta Sutra Bramha Sutr[[Sutra]]m
+- {{youtube-timestamp 565}} Upanishad Upa nishadeethi, ithi upanishad
+	- Every Veda is divided into two parts
+		- Karma bhagam
+			- Bramhanam
+			- Aaranyakam
+			- Samhita
+		- Jnyana bhagam
+			- Veedanta or Upanishad
+				-
+	- Vedanta Sutra]]s or  ]m {{youtube-timestamp 780}}
+	- Essense of the upanishads

@@ -37,7 +37,8 @@
 					- Jignashu {{youtube-timestamp 1966}} Kevalam (alone) Kevala Jnanam {{youtube-timestamp 2001}}
 					- Jnyani Desiring god {{youtube-timestamp 2030}}
 			- Kshemam
-			- Rupam, Swaroopam {{youtube-timestamp 2300}}
+			- Krishna talks about Swaroopam {{youtube-timestamp 2300}}
+				- Swaroopam - Nature
 			-
 	- 3rd Shatkam
 		- Clears doubts from first two Shatkams

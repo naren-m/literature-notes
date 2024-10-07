@@ -11,6 +11,7 @@
 		- Compromise of [[Availability]].
 	- [[Elevation of Privilege]]: unauthorized upgrade in privilege.
 		- Compromise of [[authorization]] .
-- These [[Security Vulnerabilities]] effect the core principles of [[Cryptography]], the [[CIA Triad]]
-- Useful in deciding, based on the categorization, the best practices of how to defend or mitigate against current or future problems.
-- #security
+-
+- Notes:
+	- These [[Security Vulnerabilities]] effect the core principles of [[Cryptography]], the [[CIA Triad]]
+	- Useful in deciding, based on the categorization, the best practices of how to defend or mitigate against current or future problems.

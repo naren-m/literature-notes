@@ -21,8 +21,8 @@
 		- karma, jnyana yogam
 	- 2nd Shatkam
 		- Bhakthi Yogam
-		- 9th chapter -
+		- 9th chapter - {{youtube-timestamp 1794}} Yoga
 	- 3rd Shatkam
 		- Clears doubts from first two Shatkams
-		-
+	-
 		-

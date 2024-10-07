@@ -18,5 +18,10 @@
 	- Essense of the upanishads [[Bhagavadgita]]
 - {{youtube-timestamp 1513}} Shatkams
 	- Pradhama Shatkam
-		- karma jnyana
-	-
+		- karma, jnyana yogam
+	- 2nd Shatkam
+		- Bhakthi Yogam
+	- 3rd Shatkam
+		- Clears doubts from first two Shatkams
+		-
+		-

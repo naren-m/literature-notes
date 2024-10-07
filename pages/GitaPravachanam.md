@@ -25,7 +25,8 @@
 			- Yogam - Bhrashtaishvaryam, Received something that you have Never expected to you in life.
 				- He who received mateis called `artha`` {{youtube-timestamp 1920}}
 					- Artha Arthi {{youtube-timestamp 1951}}
-					- Jignashi {{youtube-timestamp 1966}} Kevalam (alone) Kevala J
+					- Jignashu {{youtube-timestamp 1966}} Kevalam (alone) Kevala Jnanam {{youtube-timestamp 2001}}
+					- Jnyani Desiring god {{youtube-timestamp 2030}}
 				-
 				-
 				-

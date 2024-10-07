@@ -21,7 +21,9 @@
 		- karma, jnyana yogam
 	- 2nd Shatkam
 		- Bhakthi Yogam
-		- 9th chapter - {{youtube-timestamp 1794}} Yoga
+		- 9th chapter - {{youtube-timestamp 1794}} Yoga kshemam vahamyamam
+			- Yogam - Bhrashtaishvaryamm  Never expected and happened to you
+			-
 	- 3rd Shatkam
 		- Clears doubts from first two Shatkams
 	-

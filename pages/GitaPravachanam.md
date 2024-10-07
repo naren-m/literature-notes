@@ -38,7 +38,7 @@
 					- Jnyani Desiring god {{youtube-timestamp 2030}}
 			- Kshemam
 			- Krishna talks about Swaroopam {{youtube-timestamp 2300}}
-				- Swaroopam - Nature
+				- Swaroopam - Nature, your own
 			-
 	- 3rd Shatkam
 		- Clears doubts from first two Shatkams

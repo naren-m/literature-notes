@@ -3,17 +3,18 @@
 Cryptography is the science of keeping secrets, where hashing and encryption are primary components.
 
 Cryptography is the process of encrypting and protecting data so that only the person who has the right secret key can decrypt it. Quantum cryptography is different from traditional cryptographic systems in that it relies on physics, rather than mathematics, as the key aspect of its security model.
-- Cryptography supports these important security principles. Detials are in [[CIA Triad]]
-- [[Confidentiality]]
-- [[Integrity]]
-- [[Availability]]
-  
-  Cryptography has various applications
-- X.509 certificates
-- [[Token Authentication]]
-- Secure boot
-- Blockchain Security
-- Root of trust
+- Cryptography supports these important security principles. Detials are in
+- [[CIA Triad]]
+	- [[Confidentiality]]
+	- [[Integrity]]
+	- [[Availability]]
+	-
+- Cryptography has various applications
+	- X.509 certificates
+	- [[Token Authentication]]
+	- Secure boot
+	- Blockchain Security
+	- Root of trust
 - ## Some of Security Attacks
 - [[Zero Day Attack]]
 - [[Side Channel Attack]]

@@ -5,4 +5,6 @@
 -
 - Kaivalyam {{youtube-timestamp 425}} - Kevala gyanama ithi kaivalyam
 - Maslos hieroricy {{youtube-timestamp 531}}
-- {{youtube-timestamp 565}} Upanishad Upa nishadeethi, ithi
+- {{youtube-timestamp 565}} Upanishad Upa nishadeethi, ithi upanishad
+	- Veedanta
+-

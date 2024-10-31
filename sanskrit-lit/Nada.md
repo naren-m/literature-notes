@@ -1,6 +1,6 @@
 # Nada
 - నకారం ప్రాణనామనం డకారమణలంవిధు:
--
+- జాత: ప్రాణాగ్ని
 - Nåda = [[Prana]] + [[Agni]] (Anala)
   
   Defined in [[Sangitaratnakara]] 1.3.6

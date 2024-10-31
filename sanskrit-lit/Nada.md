@@ -7,6 +7,9 @@
 - సో అ యాంప్రకాశ తే పిండేతసమాత్పిండో అభిధేయతే 1.2.3
 -
 - praanaanala samyogamu valana
+- nabhi hruth kamala naasadula yandhu.
+-
+- [[tyagaraja]]
 -
 -
 - Nåda = [[Prana]] + [[Agni]] (Anala)

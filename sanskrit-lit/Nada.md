@@ -1,6 +1,9 @@
 # Nada
 - నకారం ప్రాణనామనం డకారమణలంవిధు:
-- జాత: ప్రాణాగ్ని సంయోగా త్తేననాదో అభిధీయతే
+- జాత: ప్రాణాగ్ని సంయోగా త్తేననాదో అభిధీయతే 1.3.6
+-
+-
+-
 -
 -
 - Nåda = [[Prana]] + [[Agni]] (Anala)
@@ -13,9 +16,9 @@
   
   Nada is of two types.
 	- Ahata and
-- Anahata Nadas (Non Vibratary sound is this right ?)
-  
-  There are called Paribhashika Padas of Sangita Shastras.
+	- Anahata Nadas (Non Vibratary sound is this right ?)
+-
+- There are called Paribhashika Padas of Sangita Shastras.
   
   Tyagaraja Krithis have good usage of the phylosophy of [[Carnatic music]]
   

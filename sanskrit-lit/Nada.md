@@ -9,7 +9,7 @@
 - praanaanala samyogamu valana
 - nabhi hruth kamala naasadula yandhu.
 -
-- [[tyagaraja]]
+- [[tyagaraja swamy]]
 -
 -
 - Nåda = [[Prana]] + [[Agni]] (Anala)

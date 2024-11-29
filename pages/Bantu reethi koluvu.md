@@ -13,7 +13,7 @@
 	- రామ నామ మను వర ఖడ్గ మివి |
 	- రాజిల్లు నయ్య త్యాగరాజుని కే || (బంటు)
 -
-- EnglishbanTu reeti kOlu (Raagam: hamsanaadam) (Taalam: aadi)
+- English: banTu reeti kOlu (Raagam: hamsanaadam) (Taalam: aadi)
 	- pallavi
 		- banTu reeti kOlu viyavaiyya raama | (banTu)
 	- anupallavi

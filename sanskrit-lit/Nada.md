@@ -1,6 +1,7 @@
 # Nada
-
-Nåda = [[Prana]] + [[Agni]] (Anala)
+	-
+	- Nåda = [[Prana]] + [[Agni]] (Anala)
+	-
 	- నకారం ప్రాణనామనం డకారమణలంవిధు: | జాత: ప్రాణాగ్ని సంయోగా త్తేననాదో అభిధీయతే || 1.3.6
 	- Defined in [[Sangitaratnakaram]] 1.3.6
 	- [[Brihadesi]] also defines what Nada is

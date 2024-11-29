@@ -5,7 +5,6 @@
 	- Defined in [[Sangitaratnakaram]] 1.3.6
 	- [[Brihadesi]] also defines what Nada is
 -
--
 - ## Types of Nada
 	- అహాతోనాహతశ్చేతి  ద్విధానాదోనిగద్యతే | సో అ యాంప్రకాశ తే పిండేతసమాత్పిండో అభిధేయతే || 1.2.3
 	- ఆహ

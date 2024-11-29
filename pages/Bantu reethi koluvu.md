@@ -13,14 +13,13 @@
 	- రామ నామ మను వర ఖడ్గ మివి |
 	- రాజిల్లు నయ్య త్యాగరాజుని కే || (బంటు)
 -
-- banTu reeti kOlu (Raagam: hamsanaadam) (Taalam: aadi)
-- pallavi
-	- banTu reeti kOlu viyavaiyya raama | (banTu)
-- anupallavi
-	- tuNTa viNTi vaani modalaina madaa- | dula goTTi nela goola jEyu nija || (banTu)
--
-- caraNam
-	- rOmaanca manu ghana kancukamu |
-	- raama bhaktuDanu mudra biLLayu ||
-	- raama naama manu vara khaDga mivi |
-	- raajillu naiyya tyaagaraajuni kE || (bunTu)
+- EnglishbanTu reeti kOlu (Raagam: hamsanaadam) (Taalam: aadi)
+	- pallavi
+		- banTu reeti kOlu viyavaiyya raama | (banTu)
+	- anupallavi
+		- tuNTa viNTi vaani modalaina madaa- | dula goTTi nela goola jEyu nija || (banTu)
+	- caraNam
+		- rOmaanca manu ghana kancukamu |
+		- raama bhaktuDanu mudra biLLayu ||
+		- raama naama manu vara khaDga mivi |
+		- raajillu naiyya tyaagaraajuni kE || (bunTu)

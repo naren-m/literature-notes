@@ -8,6 +8,7 @@
 -
 - ## Types of Nada
 	- అహాతోనాహతశ్చేతి  ద్విధానాదోనిగద్యతే | సో అ యాంప్రకాశ తే పిండేతసమాత్పిండో అభిధేయతే || 1.2.3
+	- ఆహ
 	- Ahata
 	- Anahata Nadas (Non Vibratary sound is this right ?)
 	- There are called Paribhashika Padas of Sangita Shastras.

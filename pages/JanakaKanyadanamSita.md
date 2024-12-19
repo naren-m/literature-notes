@@ -5,7 +5,7 @@
 	- प्रतीच्छ चैनां भद्रं ते पाणिं गृह्णीष्व पाणिना।।1.73.27।।
 -
 - इयं
-	- Representing para devi. When Tath comes closer
+	- Representing para devi. When Tath (తత్) comes closer
 - सीता मम सुता
 	- My daughter, Janaka taking soo much pride on calling Sita mata his own (mama)
 	- mama - the feeling or the sense of me and mine (mamakaaram)

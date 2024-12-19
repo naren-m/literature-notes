@@ -8,5 +8,6 @@
 	- Representing para devi. When Tath comes closer
 - सीता मम सुता
 	- My daughter, Janaka taking soo much pride on calling Sita mata his own (mama)
-	- mama - the feeling or the sense of
+	- mama - the feeling or the sense of me and mine (mamakaaram)
+		- Opossite is nama: not me or not mine (namaskaaram)
 - सहधर्मचरी तव।

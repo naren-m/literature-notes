@@ -4,4 +4,6 @@
 - Marry my daughter and this will bring Bhadram to you
 - इयं
 	- Representing para devi. When Tath comes closer
-- सीता मम सुता सहधर्मचरी तव।
+- सीता मम सुता
+	- My daughter, Janaka taking soo much pride on calling Sita mata his own (mama)
+- सहधर्मचरी तव।

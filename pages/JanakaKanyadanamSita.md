@@ -1,0 +1,7 @@
+- #ramayanam
+- इयं सीता मम सुता सहधर्मचरी तव।
+- प्रतीच्छ चैनां भद्रं ते पाणिं गृह्णीष्व पाणिना।।1.73.27।।
+- Marry my daughter and this will bring Bhadram to you
+- इयं
+	- Representing para devi. When Tath comes closer
+- सीता मम सुता सहधर्मचरी तव।

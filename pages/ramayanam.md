@@ -1,3 +1,3 @@
 ## Balakanda
-	- SitaRama kalyanam
+	- SitaKalyanam
 		- #JanakaKanyadanamSita

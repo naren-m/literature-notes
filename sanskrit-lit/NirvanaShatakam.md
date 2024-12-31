@@ -1,3 +1,6 @@
+- First recitation or
+-
+- vivekam - vich dhatu, that devid
 - Said to [govinda bhagavathpadulu](https://youtu.be/C9XlxIzbvZ4?t=2186)
 - # NirvanaShatakam
 	-

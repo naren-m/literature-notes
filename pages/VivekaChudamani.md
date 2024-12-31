@@ -1,2 +1,3 @@
+- [[AdiShankaraCharya]]
 - VivekaChudamani - Peaks of logic
 - vivekam - vich dhatu, that divides [[VivekaChudamani]]

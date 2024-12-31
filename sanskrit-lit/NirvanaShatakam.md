@@ -1,5 +1,7 @@
 - First recitation or
 -
+- [Van](https://youtu.be/C9XlxIzbvZ4?t=2523) - vaani, veena, veenu, - Sound
+	- Nirvana - Goying beyond physical
 -
 - Said to [govinda bhagavathpadulu](https://youtu.be/C9XlxIzbvZ4?t=2186)
 - # NirvanaShatakam

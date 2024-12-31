@@ -1,4 +1,4 @@
-- First recitation/writing of
+- First recitation/writing of [[AdiShankaraCharya]]
 -
 - [Van](https://youtu.be/C9XlxIzbvZ4?t=2523) - vaani, veena, veenu, - Sound, Physical, Bhoutikam
 	- Nirvana - Going beyond physicality

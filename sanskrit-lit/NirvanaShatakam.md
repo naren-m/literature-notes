@@ -6,8 +6,6 @@
 - Said to [govinda bhagavathpadulu](https://youtu.be/C9XlxIzbvZ4?t=2186)
 - # NirvanaShatakam
 	-
-	-
-	-
 	- mano buddhi [[ahankara]] [[chitta]]ni naaham
 	  na cha shrotravjihve na cha ghraana netre
 	  na cha vyoma bhumir na tejo na vaayuhu

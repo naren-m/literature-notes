@@ -1,6 +1,6 @@
 - First recitation or
 -
-- [Van](https://youtu.be/C9XlxIzbvZ4?t=2523) - vaani, veena, veenu, - Sound
+- [Van](https://youtu.be/C9XlxIzbvZ4?t=2523) - vaani, veena, veenu, - Sound, Physical, Bhoutic
 	- Nirvana - Going beyond physicality
 -
 - Said to [govinda bhagavathpadulu](https://youtu.be/C9XlxIzbvZ4?t=2186)

@@ -1,6 +1,6 @@
 - First recitation or
 -
-- vivekam - vich dhatu, that divides (VivekaChudamani)
+- vivekam - vich dhatu, that divides [[VivekaChudamani]]
 - Said to [govinda bhagavathpadulu](https://youtu.be/C9XlxIzbvZ4?t=2186)
 - # NirvanaShatakam
 	-

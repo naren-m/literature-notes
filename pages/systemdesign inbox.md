@@ -1,2 +1,3 @@
 - {{video https://www.youtube.com/watch?v=641_goNZGog}}
 -
+- [Hired In Tech](https://www.hiredintech.com/system-design/)

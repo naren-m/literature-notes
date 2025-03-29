@@ -1,6 +1,6 @@
 - [Makahali Charitram Youtube video](https://www.youtube.com/watch?v=6hl-eOkRVYY)
 	- # tactiq.io free youtube transcript
-	- Transkr - Mahakali Charitram
+	- Transcript - Mahakali Charitram
 	  collapsed:: true
 		- # https://www.youtube.com/watch/6hl-eOkRVYY
 		  

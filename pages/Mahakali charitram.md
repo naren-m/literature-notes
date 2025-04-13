@@ -1,2 +1,1 @@
 - [Makahali Charitram Youtube video](https://www.youtube.com/watch?v=6hl-eOkRVYY)
-	- # tactiq.io free youtube transcrip

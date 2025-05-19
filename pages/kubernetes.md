@@ -1,0 +1,3 @@
+- Setting up kuberenetes in homelab
+	- https://cavecafe.medium.com/setup-homelab-kubernetes-cluster-cfc3acd4dca5
+-

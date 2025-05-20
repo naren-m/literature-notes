@@ -1,3 +1,4 @@
 - Setting up kuberenetes in homelab
 	- https://cavecafe.medium.com/setup-homelab-kubernetes-cluster-cfc3acd4dca5
--
+- Usefule for multi node setup
+	- https://phoenixnap.com/kb/install-kubernetes-on-ubuntu

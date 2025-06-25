@@ -1,0 +1,29 @@
+---
+layout: "default"
+title: "index"
+word_count: 29
+created: "2025-06-25T14:36:45.426166"
+modified: "2025-06-25T14:36:45.426166"
+breadcrumbs:
+  - title: "Home"
+    url: "/"
+  - title: "Docs"
+    url: "/topics/docs//"
+  - title: "Journals"
+    url: "/topics/docs/journals//"
+  - title: "2025_01_16"
+    url: "/topics/docs/journals/2025_01_16//"
+---
+---
+layout: "default"
+title: "2025_01_16"
+word_count: 0
+created: "2025-06-25T11:38:54.120501"
+modified: "2025-06-25T11:38:54.120501"
+breadcrumbs:
+  - title: "Home"
+    url: "/"
+  - title: "Journals"
+    url: "/topics/journals//"
+---
+-

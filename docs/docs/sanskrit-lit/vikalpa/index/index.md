@@ -1,0 +1,68 @@
+---
+layout: "default"
+title: "Vikalpa"
+word_count: 127
+created: "2025-06-25T14:36:45.464456"
+modified: "2025-06-25T14:36:45.464456"
+backlinks:
+  - title: "NirvanaShatakam"
+    url: "sanskrit-lit/nirvanashatakam/"
+  - title: "YogaSutras"
+    url: "sanskrit-lit/yoga_sutras/yogasutras/"
+  - title: "NirvanaShatakam"
+    url: "logseq/bak/sanskrit-lit/nirvanashatakam/2024-10-07t02_35_45773zdesktop/"
+  - title: "NirvanaShatakam"
+    url: "logseq/bak/sanskrit-lit/nirvanashatakam/2025-06-25t18_36_37459zdesktop/"
+  - title: "NirvanaShatakam"
+    url: "logseq/bak/sanskrit-lit/nirvanashatakam/2024-10-30t05_35_20691zdesktop/"
+  - title: "YogaSutras"
+    url: "logseq/bak/sanskrit-lit/yoga_sutras/yogasutras/2025-06-25t18_36_37670zdesktop/"
+  - title: "YogaSutras"
+    url: "logseq/bak/sanskrit-lit/yoga_sutras/yogasutras/2024-10-30t05_35_20698zdesktop/"
+  - title: "YogaSutras"
+    url: "logseq/bak/sanskrit-lit/yoga_sutras/yogasutras/2024-10-07t02_35_45867zdesktop/"
+  - title: "YogaSutras"
+    url: "logseq/bak/sanskrit-lit/yoga_sutras/yogasutras/2024-10-06t02_05_43642zdesktop/"
+breadcrumbs:
+  - title: "Home"
+    url: "/"
+  - title: "Docs"
+    url: "/topics/docs//"
+  - title: "Sanskrit Lit"
+    url: "/topics/docs/sanskrit-lit//"
+  - title: "Vikalpa"
+    url: "/topics/docs/sanskrit-lit/vikalpa//"
+---
+---
+layout: "default"
+title: "Vikalpa"
+word_count: 1
+created: "2024-11-28T18:24:53.215142"
+modified: "2024-11-28T18:24:53.215142"
+backlinks:
+  - title: "NirvanaShatakam"
+    url: "sanskrit-lit/nirvanashatakam/"
+  - title: "YogaSutras"
+    url: "sanskrit-lit/yoga_sutras/yogasutras/"
+  - title: "NirvanaShatakam"
+    url: "logseq/bak/sanskrit-lit/nirvanashatakam/2024-10-07t02_35_45773zdesktop/"
+  - title: "NirvanaShatakam"
+    url: "logseq/bak/sanskrit-lit/nirvanashatakam/2025-06-25t18_36_37459zdesktop/"
+  - title: "NirvanaShatakam"
+    url: "logseq/bak/sanskrit-lit/nirvanashatakam/2024-10-30t05_35_20691zdesktop/"
+  - title: "YogaSutras"
+    url: "logseq/bak/sanskrit-lit/yoga_sutras/yogasutras/2025-06-25t18_36_37670zdesktop/"
+  - title: "YogaSutras"
+    url: "logseq/bak/sanskrit-lit/yoga_sutras/yogasutras/2024-10-30t05_35_20698zdesktop/"
+  - title: "YogaSutras"
+    url: "logseq/bak/sanskrit-lit/yoga_sutras/yogasutras/2024-10-07t02_35_45867zdesktop/"
+  - title: "YogaSutras"
+    url: "logseq/bak/sanskrit-lit/yoga_sutras/yogasutras/2024-10-06t02_05_43642zdesktop/"
+breadcrumbs:
+  - title: "Home"
+    url: "/"
+  - title: "Sanskrit Lit"
+    url: "/topics/sanskrit-lit//"
+---
+# Vikalpa
+

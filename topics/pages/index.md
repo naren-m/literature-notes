@@ -12,7 +12,7 @@ breadcrumbs:
 <div class="note-grid">
 
 <div class="note-card">
-    <h3><a href="pages/sitakalyanam/">SitaKalyanam</a></h3>
+    <h3><a href="pages/sitakalyanam/">SitaKalyanam</a></h3>
     <div class="note-meta">
         1 words
         • Tags: #JanakaKanyadanamSita
@@ -89,9 +89,9 @@ breadcrumbs:
     <div class="note-excerpt">- pravachanam DusyanthSridhar
 -
 -  King among secrets gita
-- {{video https://www.youtube.com/watch?v=Cs7_AUG5COI}}
-- {{youtube-timestamp 1051}}
-- Kaivalyam {{youtube-timestamp 425}} - Kevala gyan...</div>
+- ``{{video https://www.youtube.com/watch?v=Cs7_AUG5CO`I}}`
+- ``{{youtube-timestamp 105`1}}`
+- Kaivalyam ``{{youtube-timestamp 42`5}}` - Kevala gyan...</div>
 </div>
 
 <div class="note-card">
@@ -195,7 +195,7 @@ breadcrumbs:
         39 words
         
     </div>
-    <div class="note-excerpt">- {{video https://www.youtube.com/watch?v=641_goNZGog}}
+    <div class="note-excerpt">- ``{{video https://www.youtube.com/watch?v=641_goNZGo`g}}`
 -
 - Hired In Techhttps://www.hiredintech.com/system-design/
 - System design Primerhttps://github.com/naren-m/system-design-primer

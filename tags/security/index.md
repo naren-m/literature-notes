@@ -24,7 +24,7 @@ CIA Triad is a reference to confidentiality, integrity, and availability, which 
 
 Each is a category of security:
 -  Confidentiality
-	- {{embed...</div>
+	- `{{embed...</div>
 </div>
 
 <div class="note-card">
@@ -400,4 +400,4 @@ Notes tagged with security 8 total
 
 <div cl...</div>
 </div>
-</div>
+</div>`

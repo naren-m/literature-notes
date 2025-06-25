@@ -46,8 +46,8 @@ backlinks:
 -
 - #Brailsford
 - Aggregation of marginal gains
-	- {{embed [aggregation of marginal gains](logseq/bak/aggregation-of-marginal-gains/2024-10-05t08_51_53362zdesktop/)}}
+	- ``{{embed [aggregation of marginal gains](logseq/bak/aggregation-of-marginal-gains/2024-10-05t08_51_53362zdesktop/`)}}`
 -
 - Divide and improve
 	- Make everything as small as possible and improve that stupidly small thing.
-	- {{embed [Aggregational marginal change](pages/aggregational-marginal-change/)}}
+	- ``{{embed [Aggregational marginal change](pages/aggregational-marginal-change/`)}}`

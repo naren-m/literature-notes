@@ -45,8 +45,8 @@ breadcrumbs:
 -
 - ### Highlights
 	- psychology background may recognize some of these terms from operant conditioning, which was first proposed as “stimulus, response, reward” by B. F. Skinner in the 1930s and has been popularized more recently as “cue, routine, reward” in The Power of Habit by Charles Duhigg. (Location 200)
-	- {{embed [Aggregational marginal change](pages/aggregational-marginal-change/)}}
-	- {{embed [aggregation of marginal gains](logseq/bak/aggregation-of-marginal-gains/2024-10-05t08_51_53362zdesktop/)}}
+	- ``{{embed [Aggregational marginal change](pages/aggregational-marginal-change/`)}}`
+	- ``{{embed [aggregation of marginal gains](logseq/bak/aggregation-of-marginal-gains/2024-10-05t08_51_53362zdesktop/`)}}`
 	-
 	-
 - Brailsford said, “The whole principle came from the idea that if you broke down everything you could think of that goes into riding a bike, and then improve it by 1 percent, you will get a significant increase when you put them all together.” (Location 235)

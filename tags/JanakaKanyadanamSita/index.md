@@ -12,7 +12,7 @@ Notes tagged with **#JanakaKanyadanamSita** (8 total)
 <div class="note-grid">
 
 <div class="note-card">
-    <h3><a href="pages/sitakalyanam/">SitaKalyanam</a></h3>
+    <h3><a href="pages/sitakalyanam/">SitaKalyanam</a></h3>
     <div class="note-meta">
         1 words
         
@@ -88,7 +88,7 @@ breadcrumbs:
     </div>
     <div class="note-excerpt">---
 layout: "default"
-title: "SitaKalyanam"
+title: "SitaKalyanam"
 tags:
   - JanakaKanyadanamSita
 word_count: 1

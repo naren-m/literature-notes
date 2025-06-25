@@ -36,7 +36,7 @@ CIA Triad is a reference to [confidentiality](docs/cse/cryptography/confidential
 
 Each is a category of security:
 - ## Confidentiality
-	- {{embed ((67046651-45a7-4880-9369-6c5895d3b254))}}
+	- ``{{embed ((67046651-45a7-4880-9369-6c5895d3b254)`)}}`
 - ## Integrity
   
   Integrity is about trust. Knowing whether data is reliable is essential in preventing attacks.

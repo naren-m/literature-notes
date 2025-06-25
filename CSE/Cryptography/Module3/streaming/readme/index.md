@@ -274,9 +274,9 @@ a custom license:
 
 ```yaml
 license:
-  header: This file is part of {{ .appName }}.
+  header: This file is part of `{{ .appName` }}.
   text: |
-    {{ .copyright }}
+    `{{ .copyright` }}
 
     This is my license. There are many like it, but this one is mine.
     My license is my best friend. It is my life. I must master it as I must

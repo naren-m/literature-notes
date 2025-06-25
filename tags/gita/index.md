@@ -20,9 +20,9 @@ Notes tagged with **#gita** (7 total)
     <div class="note-excerpt">- pravachanam DusyanthSridhar
 -
 -  King among secrets gita
-- {{video https://www.youtube.com/watch?v=Cs7_AUG5COI}}
-- {{youtube-timestamp 1051}}
-- Kaivalyam {{youtube-timestamp 425}} - Kevala gyan...</div>
+- ``{{video https://www.youtube.com/watch?v=Cs7_AUG5CO`I}}`
+- ``{{youtube-timestamp 105`1}}`
+- Kaivalyam ``{{youtube-timestamp 42`5}}` - Kevala gyan...</div>
 </div>
 
 <div class="note-card">

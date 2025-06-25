@@ -1,6 +1,6 @@
 ---
 layout: "default"
-title: "The Subtle Art of Not Giving a F\*ck"
+title: "The Subtle Art of Not Giving a F*ck"
 word_count: 113
 created: "2024-11-28T18:24:53.205964"
 modified: "2024-11-28T18:24:53.205964"

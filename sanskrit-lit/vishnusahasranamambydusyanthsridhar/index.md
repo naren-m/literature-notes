@@ -38,7 +38,7 @@ Tag: #DusyanthSridhar
   
   [VishnuSahasranamam](logseq/bak/sanskrit-lit/vishnusahasranamam/2024-10-05t06_44_11150zdesktop/)
 -
-- {{video https://www.youtube.com/watch?v=C49xUHEHrHk}}
+- ``{{video https://www.youtube.com/watch?v=C49xUHEHrH`k}}`
 -
 -
 - ### Transcript 7th part out of 8

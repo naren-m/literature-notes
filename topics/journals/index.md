@@ -48,7 +48,7 @@ breadcrumbs:
         8 words
         
     </div>
-    <div class="note-excerpt">- {{video https://www.youtube.com/watch?v=641_goNZGog}}
+    <div class="note-excerpt">- ``{{video https://www.youtube.com/watch?v=641_goNZGo`g}}`
 -</div>
 </div>
 

@@ -8,8 +8,8 @@
 -
 - #Brailsford
 - Aggregation of marginal gains
-	- {{embed [[aggregation of marginal gains]]}}
+	- ``{{embed [[aggregation of marginal gains]`]}}`
 -
 - Divide and improve
 	- Make everything as small as possible and improve that stupidly small thing.
-	- {{embed [[Aggregational marginal change]]}}
+	- ``{{embed [[Aggregational marginal change]`]}}`

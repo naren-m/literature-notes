@@ -33,7 +33,7 @@ backlinks:
     url: "logseq/bak/sanskrit-lit/vayu/2025-06-25t18_36_37464zdesktop/"
 ---
 # PanchaVayu
-	- {{embed ((6701f3ab-198a-4f8f-9240-8bc4c764868a))}}
+	- ``{{embed ((6701f3ab-198a-4f8f-9240-8bc4c764868a)`)}}`
 		-
 - 1. Prana- [Vayu](logseq/bak/sanskrit-lit/vayu/2025-06-25t18_36_37464zdesktop/)
 - 2. Apana-Vayu

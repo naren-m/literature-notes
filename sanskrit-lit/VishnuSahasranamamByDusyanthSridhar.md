@@ -15,7 +15,7 @@ Tag: #DusyanthSridhar
   
   [[VishnuSahasranamam]]
 -
-- {{video https://www.youtube.com/watch?v=C49xUHEHrHk}}
+- ``{{video https://www.youtube.com/watch?v=C49xUHEHrH`k}}`
 -
 -
 - ### Transcript 7th part out of 8

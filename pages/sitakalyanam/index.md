@@ -1,6 +1,6 @@
 ---
 layout: "default"
-title: "SitaKalyanam"
+title: "SitaKalyanam"
 tags:
   - JanakaKanyadanamSita
 word_count: 1

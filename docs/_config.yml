@@ -1,19 +1,25 @@
 # Jekyll configuration for Literature Notes
-title: Literature Notes
-description: A comprehensive knowledge management system
-baseurl: 
-url: 
+title: "Literature Notes"
+description: "A comprehensive knowledge management system"
+baseurl: ""
+url: ""
 theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+
 markdown: kramdown
 highlighter: rouge
+
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+
 exclude:
-  - *.py
-  - *.db
-  - requirements.txt
-  - zettel
+  - "*.py"
+  - "*.db"
+  - "requirements.txt"
+  - "zettel"
+  - "*.sh"
+  - "knowledge_graph.html"

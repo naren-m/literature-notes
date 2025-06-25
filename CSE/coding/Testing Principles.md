@@ -1,5 +1,5 @@
 # Testing Principles
-- ## Principles
+- ## Code writing Principles #card
 	- 1. ALWAYS write code that you can test.
 	- 2. Prioritize Readability over clever or concise code
 	- 3. ALWAYS prioritize writing "Clean Code" over completing the task FAST
@@ -13,7 +13,7 @@
 -
 - ### To Achieve:
 	- 1. Code base which is
-		- 1. Readable
+		- 1. Readable:
 		- 2. Easy to Change/Extend
 		- 3. Maintainable
 		- 4. Modular

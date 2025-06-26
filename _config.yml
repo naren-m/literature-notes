@@ -1,24 +1,16 @@
-# Jekyll configuration for Literature Notes
+# Minimal Jekyll configuration for GitHub Pages custom domain compatibility
 title: "Literature Notes"
 description: "A comprehensive knowledge management system"
 baseurl: ""
-url: "" # Update this with your custom domain if needed
+url: ""
 
-# Use the minima theme - don't use both theme and remote_theme
-theme: minima
-
-# Only use GitHub Pages whitelisted plugins
+# GitHub Pages safe configuration - no themes, minimal plugins
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-seo-tag
 
 markdown: kramdown
 highlighter: rouge
-
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
 
 exclude:
   - "*.py"

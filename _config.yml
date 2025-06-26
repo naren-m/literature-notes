@@ -3,6 +3,8 @@ title: "Literature Notes"
 description: "A comprehensive knowledge management system"
 baseurl: ""
 url: "" # Update this with your custom domain if needed
+
+# Use the minima theme - don't use both theme and remote_theme
 theme: minima
 
 # Only use GitHub Pages whitelisted plugins
@@ -17,10 +19,6 @@ highlighter: rouge
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
-# GitHub Pages compatibility
-remote_theme: jekyll/minima
-github_pages_compatible: true
 
 exclude:
   - "*.py"

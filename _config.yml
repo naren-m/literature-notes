@@ -15,6 +15,18 @@ markdown: kramdown
 highlighter: rouge
 safe: true
 
+# Enable serving of all file types
+defaults:
+  - scope:
+      path: "**/*.md"
+    values:
+      layout: null
+      sitemap: false
+
+# Include markdown files to be served
+include:
+  - "**/*.md"
+
 exclude:
   - "*.py"
   - "*.db"
@@ -34,3 +46,7 @@ exclude:
   - "vendor/cache/"
   - "vendor/gems/"
   - "vendor/ruby/"
+
+# Enable serving of markdown files
+keep_files:
+  - "**/*.md"

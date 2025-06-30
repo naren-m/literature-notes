@@ -31,6 +31,11 @@ Welcome to my digital knowledge garden - a collection of interconnected notes on
 </div>
 
 <div class="note-card">
+    <h3><a href="api-search/">🧠 Smart Search</a></h3>
+    <div class="note-excerpt">Intelligent search with natural language queries and AI-powered insights.</div>
+</div>
+
+<div class="note-card">
     <h3><a href="graph/">🕸️ Knowledge Graph</a></h3>
     <div class="note-excerpt">Visualize connections between ideas.</div>
 </div>

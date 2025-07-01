@@ -1,0 +1,91 @@
+{
+  "database": {
+    "path": "/app/data/zettelkasten.db",
+    "backup_enabled": true,
+    "backup_interval": "24h"
+  },
+  "smart_query": {
+    "max_results": 50,
+    "concept_expansion": true,
+    "similarity_threshold": 0.7,
+    "temporal_patterns": {
+      "recent": "30d",
+      "this_week": "7d",
+      "this_month": "30d",
+      "this_year": "365d"
+    },
+    "concept_bridges": {
+      "philosophy": ["vedanta", "sanskrit", "consciousness", "dharma", "karma"],
+      "computer_science": ["programming", "cryptography", "algorithms", "security"],
+      "wellness": ["ayurveda", "yoga", "meditation", "health", "pancha_vayu"],
+      "leadership": ["management", "success", "productivity", "habits"],
+      "learning": ["memory", "study", "knowledge", "understanding"]
+    }
+  },
+  "knowledge_synthesis": {
+    "daily_synthesis": {
+      "enabled": true,
+      "max_groups": 10,
+      "min_group_size": 2,
+      "max_insights": 5,
+      "max_suggestions": 3
+    },
+    "domain_analysis": {
+      "max_notes": 20,
+      "min_word_count": 10,
+      "extract_concepts": true
+    },
+    "cross_domain": {
+      "max_bridge_notes": 10,
+      "similarity_threshold": 0.5
+    }
+  },
+  "logseq_integration": {
+    "enabled": true,
+    "sync_interval": "1h",
+    "create_journal_entries": true,
+    "update_knowledge_graph": true,
+    "custom_queries": true,
+    "plugin_enabled": false
+  },
+  "web_interface": {
+    "port": 8080,
+    "host": "0.0.0.0",
+    "static_files": true,
+    "search_suggestions": true,
+    "graph_visualization": true
+  },
+  "api": {
+    "port": 8081,
+    "cors_enabled": true,
+    "rate_limiting": {
+      "enabled": true,
+      "requests_per_minute": 60
+    },
+    "authentication": {
+      "enabled": false,
+      "api_key_required": false
+    }
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "/app/logs/integration.log",
+    "max_size": "10MB",
+    "backup_count": 5,
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  },
+  "performance": {
+    "cache_enabled": true,
+    "cache_ttl": 3600,
+    "async_processing": true,
+    "background_sync": true
+  },
+  "features": {
+    "smart_queries": true,
+    "knowledge_synthesis": true,
+    "logseq_integration": true,
+    "graph_visualization": true,
+    "daily_insights": true,
+    "cross_domain_analysis": true
+  }
+}

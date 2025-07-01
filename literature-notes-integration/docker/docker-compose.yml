@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  literature-notes:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: literature-notes-integration
+    ports:
+      - "8083:8083"  # API Server
+      - "4000:4000"  # Web Interface
+    volumes:
+      - ../data:/app/data
+      - ../zettelkasten.db:/app/data/zettelkasten.db:ro
+    environment:
+      - API_PORT=8083
+      - WEB_PORT=4000
+      - NOTES_DB_PATH=/app/data/zettelkasten.db
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8083/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    networks:
+      - literature-notes-network
+
+networks:
+  literature-notes-network:
+    driver: bridge

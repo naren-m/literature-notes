@@ -1,0 +1,42 @@
+# Literature Notes Integration Dependencies
+
+# Core dependencies
+flask==2.3.3
+requests==2.31.0
+python-dateutil==2.8.2
+schedule==1.2.0
+
+# Data processing
+pandas==2.0.3
+numpy==1.24.3
+scipy==1.11.1
+
+# Text processing
+nltk==3.8.1
+textblob==0.17.1
+
+# Web framework
+fastapi==0.103.1
+uvicorn==0.23.2
+jinja2==3.1.2
+
+# Development and testing
+pytest==7.4.0
+pytest-cov==4.1.0
+black==23.7.0
+flake8==6.0.0
+
+# Logging and monitoring
+loguru==0.7.0
+
+# Configuration
+pyyaml==6.0.1
+python-dotenv==1.0.0
+
+# Optional: For advanced NLP features
+# transformers==4.33.2
+# torch==2.0.1
+
+# Optional: For graph visualization
+# networkx==3.1
+# plotly==5.15.0

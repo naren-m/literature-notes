@@ -1,0 +1,16 @@
+{
+  "name": "logseq-literature-notes-extension",
+  "version": "1.0.0",
+  "description": "LogSeq extension to integrate with Literature Notes system",
+  "main": "index.js",
+  "logseq": {
+    "id": "literature-notes-integration",
+    "title": "Literature Notes Integration",
+    "icon": "📚"
+  },
+  "keywords": ["logseq-plugin", "literature-notes", "zettelkasten", "smart-search"],
+  "author": "Literature Notes System",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}

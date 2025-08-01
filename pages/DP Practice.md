@@ -1,5 +1,6 @@
 ## Mastery plan
 	- # Dynamic Programming Mastery Plan
+	- [Leetcode DP]()https://leetcode.com/studyplan/dynamic-programming/)
 	- ## Phase 1: Foundation Building (Week 1-2)
 		- ### Core Concepts to Master
 		- **Overlapping Subproblems**: Understanding when problems can be broken into smaller, repeated subproblems

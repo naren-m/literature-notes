@@ -87,6 +87,7 @@
 			- Practice interview-style coding (45 min time limit)
 			- Review and optimize previous solutions
 	- ## Problem-Solving Framework
+	  collapsed:: true
 		- ### Before Coding
 		  collapsed:: true
 			- **Identify if it's a DP problem**
@@ -148,15 +149,14 @@
 	- Remember: DP mastery comes from pattern recognition. The more problems you solve, the faster you'll recognize which pattern applies to new problems.
 - ## Resources
 	- # Comprehensive LeetCode Dynamic Programming Problem List by Patterns and Difficulty
-	  
-	  Based on extensive research across multiple sources, I've compiled a comprehensive list of Dynamic Programming problems on LeetCode organized by patterns and difficulty levels. This resource is designed to help you systematically master DP through focused practice in each pattern category.
+		- Based on extensive research across multiple sources, I've compiled a comprehensive list of Dynamic Programming problems on LeetCode organized by patterns and difficulty levels. This resource is designed to help you systematically master DP through focused practice in each pattern category.
 	- ## Linear DP / 1D DP Pattern
 	- ### **Easy Level**
-	- **70. Climbing Stairs** - Count distinct ways to reach top
-	- **746. Min Cost Climbing Stairs** - Minimum cost to reach top
-	- **509. Fibonacci Number** - Calculate nth Fibonacci number
-	- **338. Counting Bits** - Count 1s in binary representation
-	- **392. Is Subsequence** - Check if s is subsequence of t
+		- **70. Climbing Stairs** - Count distinct ways to reach top
+		- **746. Min Cost Climbing Stairs** - Minimum cost to reach top
+		- **509. Fibonacci Number** - Calculate nth Fibonacci number
+		- **338. Counting Bits** - Count 1s in binary representation
+		- **392. Is Subsequence** - Check if s is subsequence of t
 	- ### **Medium Level**
 	- **198. House Robber** - Rob houses without alerting police
 	- **213. House Robber II** - Houses arranged in circle

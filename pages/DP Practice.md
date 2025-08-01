@@ -11,32 +11,29 @@
 			- Read through LeetCode's DP explore section introduction
 			- Practice identifying DP problems vs other algorithmic approaches
 		- ### Initial Problems (Start Here)
-		- **Fibonacci Sequence Variations:**
-			- Climbing Stairs (LC 70) - Start with recursive solution, then memoize, then tabulate
-			- Min Cost Climbing Stairs (LC 746)
-			- House Robber (LC 198)
-		-
-		- **Practice Routine:**
-			- Solve each problem 3 ways: brute force recursive → memoized → tabulated
-			- Write out the recurrence relation before coding
-			- Draw the recursion tree for small examples
+			- **Fibonacci Sequence Variations:**
+				- Climbing Stairs (LC 70) - Start with recursive solution, then memoize, then tabulate
+				- Min Cost Climbing Stairs (LC 746)
+				- House Robber (LC 198)
+			- **Practice Routine:**
+				- Solve each problem 3 ways: brute force recursive → memoized → tabulated
+				- Write out the recurrence relation before coding
+				- Draw the recursion tree for small examples
 	- ## Phase 2: Pattern Recognition (Week 3-4)
 		- ### 1D DP Problems
-		  
-		  **Linear DP (building from previous states):**
-		- House Robber II (LC 213)
-		- Maximum Subarray (LC 53)
-		- Maximum Product Subarray (LC 152)
-		- Longest Increasing Subsequence (LC 300)
-		- Word Break (LC 139)
-		  
-		  **Decision DP (include/exclude patterns):**
-		- Partition Equal Subset Sum (LC 416)
-		- Target Sum (LC 494)
+			- **Linear DP (building from previous states):**
+				- House Robber II (LC 213)
+				- Maximum Subarray (LC 53)
+				- Maximum Product Subarray (LC 152)
+				- Longest Increasing Subsequence (LC 300)
+				- Word Break (LC 139)
+			- **Decision DP (include/exclude patterns):**
+				- Partition Equal Subset Sum (LC 416)
+				- Target Sum (LC 494)
 		- ### Key Skills to Develop
-		- Identifying the state transition
-		- Recognizing when to use 1D vs 2D arrays
-		- Understanding space optimization techniques
+			- Identifying the state transition
+			- Recognizing when to use 1D vs 2D arrays
+			- Understanding space optimization techniques
 	- ## Phase 3: 2D DP Mastery (Week 5-6)
 		- ### Grid/Matrix Problems
 		- Unique Paths (LC 62)

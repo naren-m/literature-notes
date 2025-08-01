@@ -129,23 +129,22 @@
 	- **Week 8:** Solve a hard DP problem independently
 	- **Week 10:** Complete a mock interview with DP questions successfully
 	- ## Additional Tips
-	- ### When Stuck
-	- Draw out small examples manually
-	- Look for patterns in the manual solutions
-	- Think about what information you need to make optimal decisions
-	- Consider what you've computed that you can reuse
-	- ### Space Optimization Tricks
-	- Rolling arrays for problems that only need previous row/column
-	- Using variables instead of arrays when only tracking a few previous states
-	- In-place modification when the input can be modified
-	- ### Common Mistakes to Avoid
-	- Not clearly defining what each DP state represents
-	- Forgetting base cases
-	- Off-by-one errors in array indexing
-	- Not considering all possible transitions
-	- Overcomplicating the state definition
-	  
-	  Remember: DP mastery comes from pattern recognition. The more problems you solve, the faster you'll recognize which pattern applies to new problems.
+		- ### When Stuck
+			- Draw out small examples manually
+			- Look for patterns in the manual solutions
+			- Think about what information you need to make optimal decisions
+			- Consider what you've computed that you can reuse
+		- ### Space Optimization Tricks
+			- Rolling arrays for problems that only need previous row/column
+			- Using variables instead of arrays when only tracking a few previous states
+			- In-place modification when the input can be modified
+		- ### Common Mistakes to Avoid
+			- Not clearly defining what each DP state represents
+			- Forgetting base cases
+			- Off-by-one errors in array indexing
+			- Not considering all possible transitions
+			- Overcomplicating the state definition
+	- Remember: DP mastery comes from pattern recognition. The more problems you solve, the faster you'll recognize which pattern applies to new problems.
 - ## Resources
 	- # Comprehensive LeetCode Dynamic Programming Problem List by Patterns and Difficulty
 	  

@@ -52,7 +52,7 @@
 			- ### Interval DP
 				- Longest Palindromic Subsequence (LC 516)
 				- Palindromic Substrings (LC 647)
-		- ## Phase 4: Advanced Patterns (Week 7-8) / [[Sep 15th, 2025]]
+		- ## Phase 4: Advanced Patterns (Week 7-8)  [[Sep 15th, 2025]]
 		  collapsed:: true
 			- ### Knapsack Variations
 				- 0/1 Knapsack (not on LC, but crucial to understand)
@@ -66,7 +66,7 @@
 			- ### Tree DP
 				- House Robber III (LC 337)
 				- Binary Tree Maximum Path Sum (LC 124)
-		- ## Phase 5: Expert Level (Week 9-10)
+		- ## Phase 5: Expert Level (Week 9-10) [[Sep 29th, 2025]]
 		  collapsed:: true
 			- ### Complex State DP
 				- Burst Balloons (LC 312)

@@ -1,26 +1,26 @@
 ## Mastery plan
 	- # Dynamic Programming Mastery Plan
 	- ## Phase 1: Foundation Building (Week 1-2)
-	- ### Core Concepts to Master
-	- **Overlapping Subproblems**: Understanding when problems can be broken into smaller, repeated subproblems
-	- **Optimal Substructure**: How optimal solutions contain optimal solutions to subproblems
-	- **Memoization vs Tabulation**: Top-down vs bottom-up approaches
-	- **State Definition**: How to identify and represent the "state" in DP problems
-	- ### Learning Resources
-	- Watch "Dynamic Programming" videos on YouTube (Abdul Bari's channel is excellent)
-	- Read through LeetCode's DP explore section introduction
-	- Practice identifying DP problems vs other algorithmic approaches
-	- ### Initial Problems (Start Here)
-	  
-	  **Fibonacci Sequence Variations:**
-	- Climbing Stairs (LC 70) - Start with recursive solution, then memoize, then tabulate
-	- Min Cost Climbing Stairs (LC 746)
-	- House Robber (LC 198)
-	  
-	  **Practice Routine:**
-	- Solve each problem 3 ways: brute force recursive → memoized → tabulated
-	- Write out the recurrence relation before coding
-	- Draw the recursion tree for small examples
+		- ### Core Concepts to Master
+		- **Overlapping Subproblems**: Understanding when problems can be broken into smaller, repeated subproblems
+		- **Optimal Substructure**: How optimal solutions contain optimal solutions to subproblems
+		- **Memoization vs Tabulation**: Top-down vs bottom-up approaches
+		- **State Definition**: How to identify and represent the "state" in DP problems
+		- ### Learning Resources
+		- Watch "Dynamic Programming" videos on YouTube (Abdul Bari's channel is excellent)
+		- Read through LeetCode's DP explore section introduction
+		- Practice identifying DP problems vs other algorithmic approaches
+		- ### Initial Problems (Start Here)
+		  
+		  **Fibonacci Sequence Variations:**
+		- Climbing Stairs (LC 70) - Start with recursive solution, then memoize, then tabulate
+		- Min Cost Climbing Stairs (LC 746)
+		- House Robber (LC 198)
+		  
+		  **Practice Routine:**
+		- Solve each problem 3 ways: brute force recursive → memoized → tabulated
+		- Write out the recurrence relation before coding
+		- Draw the recursion tree for small examples
 	- ## Phase 2: Pattern Recognition (Week 3-4)
 	- ### 1D DP Problems
 	  
@@ -74,75 +74,81 @@
 	- Traveling Salesman Problem variations
 	- Shortest Path Visiting All Nodes (LC 847)
 	- ## Daily Practice Strategy
-	- ### Week 1-2 (30 min/day)
-	- 1 problem per day
-	- Focus on understanding the pattern
-	- Rewrite solutions from memory the next day
-	- ### Week 3-4 (45 min/day)
-	- 1-2 problems per day
-	- Start timing yourself (aim for 15-20 min per medium problem)
-	- Practice explaining your approach out loud
-	- ### Week 5-8 (1 hour/day)
-	- 2-3 problems per day (mix of review and new)
-	- Participate in LeetCode weekly contests
-	- Start optimizing space complexity
-	- ### Week 9-10 (1 hour/day)
-	- Focus on hard problems
-	- Practice interview-style coding (45 min time limit)
-	- Review and optimize previous solutions
+		- ### Week 1-2 (30 min/day)
+			- 1 problem per day
+			- Focus on understanding the pattern
+			- Rewrite solutions from memory the next day
+		- ### Week 3-4 (45 min/day)
+			- 1-2 problems per day
+			- Start timing yourself (aim for 15-20 min per medium problem)
+			- Practice explaining your approach out loud
+		- ### Week 5-8 (1 hour/day)
+			- 2-3 problems per day (mix of review and new)
+			- Participate in LeetCode weekly contests
+			- Start optimizing space complexity
+		- ### Week 9-10 (1 hour/day)
+			- Focus on hard problems
+			- Practice interview-style coding (45 min time limit)
+			- Review and optimize previous solutions
 	- ## Problem-Solving Framework
-	- ### Before Coding
-	- **Identify if it's a DP problem**
-		- Are there overlapping subproblems?
-		- Can you break it into smaller versions of the same problem?
-		- Are you optimizing something (min/max/count)?
-	- **Define the state**
-		- What parameters uniquely identify a subproblem?
-		- What does `dp[i]` or `dp[i][j]` represent?
-	- **Find the recurrence relation**
-		- How does the current state relate to previous states?
-		- What are the base cases?
-	- **Determine the order of computation**
-		- Bottom-up or top-down?
-		- What's the dependency graph?
-	- ### While Coding
-		- Start with a recursive solution
-		- Add memoization
-		- Convert to tabulation if needed
-		- Optimize space if possible
-	- ### After Coding
-		- Test with edge cases
-		- Analyze time and space complexity
-		- See if you can optimize further
-		- Understand why this approach works
-	- ## Milestone Checkpoints
-		- **End of Week 2:** Can solve easy DP problems in under 10 minutes
-		  **End of Week 4:** Recognize DP patterns immediately and solve medium problems in 15-20 minutes
-		  **End of Week 6:** Comfortable with 2D DP and string problems
-		  **End of Week 8:** Can tackle most LC medium DP problems confidently
-		  **End of Week 10:** Ready for DP problems in technical interviews
-	- ## Success Metrics
-		- **Week 2:** Solve 3 consecutive easy DP problems without hints
-		- **Week 4:** Achieve 80%+ success rate on medium DP problems
-		- **Week 6:** Explain DP solutions clearly to others
-		- **Week 8:** Solve a hard DP problem independently
-		- **Week 10:** Complete a mock interview with DP questions successfully
-	- ## Additional Tips
-		- ### When Stuck
-			- Draw out small examples manually
-			- Look for patterns in the manual solutions
-			- Think about what information you need to make optimal decisions
-			- Consider what you've computed that you can reuse
-		- ### Space Optimization Tricks
-			- Rolling arrays for problems that only need previous row/column
-			- Using variables instead of arrays when only tracking a few previous states
-			- In-place modification when the input can be modified
-		- ### Common Mistakes to Avoid
-			- Not clearly defining what each DP state represents
-			- Forgetting base cases
-			- Off-by-one errors in array indexing
-			- Not considering all possible transitions
-			- Overcomplicating the state definition
+		- ### Before Coding
+		  collapsed:: true
+			- **Identify if it's a DP problem**
+				- Are there overlapping subproblems?
+				- Can you break it into smaller versions of the same problem?
+				- Are you optimizing something (min/max/count)?
+			- **Define the state**
+				- What parameters uniquely identify a subproblem?
+				- What does `dp[i]` or `dp[i][j]` represent?
+			- **Find the recurrence relation**
+				- How does the current state relate to previous states?
+				- What are the base cases?
+			- **Determine the order of computation**
+				- Bottom-up or top-down?
+				- What's the dependency graph?
+		- ### While Coding
+		  collapsed:: true
+			- Start with a recursive solution
+			- Add memoization
+			- Convert to tabulation if needed
+			- Optimize space if possible
+		- ### After Coding
+		  collapsed:: true
+			- Test with edge cases
+			- Analyze time and space complexity
+			- See if you can optimize further
+			- Understand why this approach works
+		- ## Milestone Checkpoints
+		  collapsed:: true
+			- **End of Week 2:** Can solve easy DP problems in under 10 minutes
+			  **End of Week 4:** Recognize DP patterns immediately and solve medium problems in 15-20 minutes
+			  **End of Week 6:** Comfortable with 2D DP and string problems
+			  **End of Week 8:** Can tackle most LC medium DP problems confidently
+			  **End of Week 10:** Ready for DP problems in technical interviews
+		- ## Success Metrics
+		  collapsed:: true
+			- **Week 2:** Solve 3 consecutive easy DP problems without hints
+			- **Week 4:** Achieve 80%+ success rate on medium DP problems
+			- **Week 6:** Explain DP solutions clearly to others
+			- **Week 8:** Solve a hard DP problem independently
+			- **Week 10:** Complete a mock interview with DP questions successfully
+		- ## Additional Tips
+		  collapsed:: true
+			- ### When Stuck
+				- Draw out small examples manually
+				- Look for patterns in the manual solutions
+				- Think about what information you need to make optimal decisions
+				- Consider what you've computed that you can reuse
+			- ### Space Optimization Tricks
+				- Rolling arrays for problems that only need previous row/column
+				- Using variables instead of arrays when only tracking a few previous states
+				- In-place modification when the input can be modified
+			- ### Common Mistakes to Avoid
+				- Not clearly defining what each DP state represents
+				- Forgetting base cases
+				- Off-by-one errors in array indexing
+				- Not considering all possible transitions
+				- Overcomplicating the state definition
 	- Remember: DP mastery comes from pattern recognition. The more problems you solve, the faster you'll recognize which pattern applies to new problems.
 - ## Resources
 	- # Comprehensive LeetCode Dynamic Programming Problem List by Patterns and Difficulty

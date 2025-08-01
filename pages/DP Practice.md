@@ -8,7 +8,7 @@
 			- **Memoization vs Tabulation**: Top-down vs bottom-up approaches
 			- **State Definition**: How to identify and represent the "state" in DP problems
 		- ### Learning Resources
-			- Watch "Dynamic Programming" videos on YouTube (Abdul Bari's channel is excellent)
+			- Watch "Dynamic Programming" videos on YouTube ([Abdul Bari's channel](https://www.youtube.com/watch?v=5dRGRueKU3M) is excellent)
 			- Read through LeetCode's DP explore section introduction
 			- Practice identifying DP problems vs other algorithmic approaches
 		- ### Initial Problems (Start Here)

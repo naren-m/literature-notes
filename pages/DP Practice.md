@@ -1,10 +1,7 @@
-- /t
--
-- ## Mastery plan
-  collapsed:: true
+## Mastery plan
 	- ## Dynamic Programming Mastery Plan
 		- [Leetcode DP](https://leetcode.com/studyplan/dynamic-programming/)
-		- ## Phase 1: Foundation Building (Week 1-2)
+		- ## Phase 1: Foundation Building (Week 1-2) [[Aug 4th, 2025]]
 		  collapsed:: true
 			- ### Core Concepts to Master
 				- **Overlapping Subproblems**: Understanding when problems can be broken into smaller, repeated subproblems
@@ -24,7 +21,7 @@
 					- Solve each problem 3 ways: brute force recursive → memoized → tabulated
 					- Write out the recurrence relation before coding
 					- Draw the recursion tree for small examples
-		- ## Phase 2: Pattern Recognition (Week 3-4)
+		- ## Phase 2: Pattern Recognition (Week 3-4) [[Aug 18th, 2025]]
 		  collapsed:: true
 			- ### 1D DP Problems
 				- **Linear DP (building from previous states):**
@@ -40,7 +37,7 @@
 				- Identifying the state transition
 				- Recognizing when to use 1D vs 2D arrays
 				- Understanding space optimization techniques
-		- ## Phase 3: 2D DP Mastery (Week 5-6)
+		- ## Phase 3: 2D DP Mastery (Week 5-6) [[Sep 1st, 2025]]
 		  collapsed:: true
 			- ### Grid/Matrix Problems
 				- Unique Paths (LC 62)
@@ -55,7 +52,7 @@
 			- ### Interval DP
 				- Longest Palindromic Subsequence (LC 516)
 				- Palindromic Substrings (LC 647)
-		- ## Phase 4: Advanced Patterns (Week 7-8)
+		- ## Phase 4: Advanced Patterns (Week 7-8) / [[Sep 15th, 2025]]
 		  collapsed:: true
 			- ### Knapsack Variations
 				- 0/1 Knapsack (not on LC, but crucial to understand)

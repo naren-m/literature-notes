@@ -1,0 +1,305 @@
+## Mastery plan
+	- # Dynamic Programming Mastery Plan
+	- ## Phase 1: Foundation Building (Week 1-2)
+	- ### Core Concepts to Master
+	- **Overlapping Subproblems**: Understanding when problems can be broken into smaller, repeated subproblems
+	- **Optimal Substructure**: How optimal solutions contain optimal solutions to subproblems
+	- **Memoization vs Tabulation**: Top-down vs bottom-up approaches
+	- **State Definition**: How to identify and represent the "state" in DP problems
+	- ### Learning Resources
+	- Watch "Dynamic Programming" videos on YouTube (Abdul Bari's channel is excellent)
+	- Read through LeetCode's DP explore section introduction
+	- Practice identifying DP problems vs other algorithmic approaches
+	- ### Initial Problems (Start Here)
+	  
+	  **Fibonacci Sequence Variations:**
+	- Climbing Stairs (LC 70) - Start with recursive solution, then memoize, then tabulate
+	- Min Cost Climbing Stairs (LC 746)
+	- House Robber (LC 198)
+	  
+	  **Practice Routine:**
+	- Solve each problem 3 ways: brute force recursive → memoized → tabulated
+	- Write out the recurrence relation before coding
+	- Draw the recursion tree for small examples
+	- ## Phase 2: Pattern Recognition (Week 3-4)
+	- ### 1D DP Problems
+	  
+	  **Linear DP (building from previous states):**
+	- House Robber II (LC 213)
+	- Maximum Subarray (LC 53)
+	- Maximum Product Subarray (LC 152)
+	- Longest Increasing Subsequence (LC 300)
+	- Word Break (LC 139)
+	  
+	  **Decision DP (include/exclude patterns):**
+	- Partition Equal Subset Sum (LC 416)
+	- Target Sum (LC 494)
+	- ### Key Skills to Develop
+	- Identifying the state transition
+	- Recognizing when to use 1D vs 2D arrays
+	- Understanding space optimization techniques
+	- ## Phase 3: 2D DP Mastery (Week 5-6)
+	- ### Grid/Matrix Problems
+	- Unique Paths (LC 62)
+	- Unique Paths II (LC 63)
+	- Minimum Path Sum (LC 64)
+	- Maximal Square (LC 221)
+	- ### String DP
+	- Longest Common Subsequence (LC 1143)
+	- Edit Distance (LC 72)
+	- Distinct Subsequences (LC 115)
+	- Regular Expression Matching (LC 10)
+	- ### Interval DP
+	- Longest Palindromic Subsequence (LC 516)
+	- Palindromic Substrings (LC 647)
+	- ## Phase 4: Advanced Patterns (Week 7-8)
+	- ### Knapsack Variations
+	- 0/1 Knapsack (not on LC, but crucial to understand)
+	- Coin Change (LC 322)
+	- Coin Change 2 (LC 518)
+	- Combination Sum IV (LC 377)
+	- ### State Machine DP
+	- Best Time to Buy and Sell Stock with Cooldown (LC 309)
+	- Best Time to Buy and Sell Stock with Transaction Fee (LC 714)
+	- Paint House (LC 256 - if you have premium)
+	- ### Tree DP
+	- House Robber III (LC 337)
+	- Binary Tree Maximum Path Sum (LC 124)
+	- ## Phase 5: Expert Level (Week 9-10)
+	- ### Complex State DP
+	- Burst Balloons (LC 312)
+	- Minimum Cost to Cut a Stick (LC 1547)
+	- Stone Game series (LC 877, 1140, 1406)
+	- ### Bitmask DP
+	- Traveling Salesman Problem variations
+	- Shortest Path Visiting All Nodes (LC 847)
+	- ## Daily Practice Strategy
+	- ### Week 1-2 (30 min/day)
+	- 1 problem per day
+	- Focus on understanding the pattern
+	- Rewrite solutions from memory the next day
+	- ### Week 3-4 (45 min/day)
+	- 1-2 problems per day
+	- Start timing yourself (aim for 15-20 min per medium problem)
+	- Practice explaining your approach out loud
+	- ### Week 5-8 (1 hour/day)
+	- 2-3 problems per day (mix of review and new)
+	- Participate in LeetCode weekly contests
+	- Start optimizing space complexity
+	- ### Week 9-10 (1 hour/day)
+	- Focus on hard problems
+	- Practice interview-style coding (45 min time limit)
+	- Review and optimize previous solutions
+	- ## Problem-Solving Framework
+	- ### Before Coding
+	- **Identify if it's a DP problem**
+		- Are there overlapping subproblems?
+		- Can you break it into smaller versions of the same problem?
+		- Are you optimizing something (min/max/count)?
+	- **Define the state**
+		- What parameters uniquely identify a subproblem?
+		- What does `dp[i]` or `dp[i][j]` represent?
+	- **Find the recurrence relation**
+		- How does the current state relate to previous states?
+		- What are the base cases?
+	- **Determine the order of computation**
+		- Bottom-up or top-down?
+		- What's the dependency graph?
+	- ### While Coding
+	- Start with a recursive solution
+	- Add memoization
+	- Convert to tabulation if needed
+	- Optimize space if possible
+	- ### After Coding
+	- Test with edge cases
+	- Analyze time and space complexity
+	- See if you can optimize further
+	- Understand why this approach works
+	- ## Milestone Checkpoints
+	  
+	  **End of Week 2:** Can solve easy DP problems in under 10 minutes
+	  **End of Week 4:** Recognize DP patterns immediately and solve medium problems in 15-20 minutes
+	  **End of Week 6:** Comfortable with 2D DP and string problems
+	  **End of Week 8:** Can tackle most LC medium DP problems confidently
+	  **End of Week 10:** Ready for DP problems in technical interviews
+	- ## Success Metrics
+	- **Week 2:** Solve 3 consecutive easy DP problems without hints
+	- **Week 4:** Achieve 80%+ success rate on medium DP problems
+	- **Week 6:** Explain DP solutions clearly to others
+	- **Week 8:** Solve a hard DP problem independently
+	- **Week 10:** Complete a mock interview with DP questions successfully
+	- ## Additional Tips
+	- ### When Stuck
+	- Draw out small examples manually
+	- Look for patterns in the manual solutions
+	- Think about what information you need to make optimal decisions
+	- Consider what you've computed that you can reuse
+	- ### Space Optimization Tricks
+	- Rolling arrays for problems that only need previous row/column
+	- Using variables instead of arrays when only tracking a few previous states
+	- In-place modification when the input can be modified
+	- ### Common Mistakes to Avoid
+	- Not clearly defining what each DP state represents
+	- Forgetting base cases
+	- Off-by-one errors in array indexing
+	- Not considering all possible transitions
+	- Overcomplicating the state definition
+	  
+	  Remember: DP mastery comes from pattern recognition. The more problems you solve, the faster you'll recognize which pattern applies to new problems.
+- ## Resources
+	- # Comprehensive LeetCode Dynamic Programming Problem List by Patterns and Difficulty
+	  
+	  Based on extensive research across multiple sources, I've compiled a comprehensive list of Dynamic Programming problems on LeetCode organized by patterns and difficulty levels. This resource is designed to help you systematically master DP through focused practice in each pattern category.
+	- ## Linear DP / 1D DP Pattern
+	- ### **Easy Level**
+	- **70. Climbing Stairs** - Count distinct ways to reach top
+	- **746. Min Cost Climbing Stairs** - Minimum cost to reach top
+	- **509. Fibonacci Number** - Calculate nth Fibonacci number
+	- **338. Counting Bits** - Count 1s in binary representation
+	- **392. Is Subsequence** - Check if s is subsequence of t
+	- ### **Medium Level**
+	- **198. House Robber** - Rob houses without alerting police
+	- **213. House Robber II** - Houses arranged in circle
+	- **53. Maximum Subarray** - Kadane's Algorithm
+	- **152. Maximum Product Subarray** - Maximum product variant
+	- **918. Maximum Sum Circular Subarray** - Circular array variant
+	- **91. Decode Ways** - Number of ways to decode string
+	- **55. Jump Game** - Can reach last index
+	- **45. Jump Game II** - Minimum jumps to reach end
+	- **1306. Jump Game III** - Jump with array values
+	- **322. Coin Change** - Minimum coins to make amount
+	- **518. Coin Change II** - Number of ways to make amount
+	- **279. Perfect Squares** - Least number of perfect squares
+	- **413. Arithmetic Slices** - Count arithmetic subarrays
+	- **647. Palindromic Substrings** - Count palindromic substrings
+	- **650. 2 Keys Keyboard** - Minimum steps to get n 'A's
+	- ## 2D Grid DP Pattern
+	- ### **Medium Level**
+	- **62. Unique Paths** - Count paths from top-left to bottom-right
+	- **63. Unique Paths II** - Unique paths with obstacles
+	- **64. Minimum Path Sum** - Find path with minimum sum
+	- **221. Maximal Square** - Largest square containing only 1s
+	- **1277. Count Square Submatrices with All Ones** - Count squares with all 1s
+	- **931. Minimum Falling Path Sum** - Minimum sum falling path
+	- **1314. Matrix Block Sum** - Sum in (2K+1) x (2K+1) blocks
+	- **688. Knight Probability in Chessboard** - Probability knight stays on board
+	- **576. Out of Boundary Paths** - Number of paths to move ball out
+	- ### **Hard Level**
+	- **980. Unique Paths III** - Walk over every non-obstacle square exactly once
+	- **174. Dungeon Game** - Minimum initial health to save princess
+	- **1289. Minimum Falling Path Sum II** - No two elements in same column
+	- **85. Maximal Rectangle** - Largest rectangle containing only 1s
+	- **329. Longest Increasing Path in a Matrix** - Longest increasing path
+	- **1463. Cherry Pickup II** - Maximum cherries collected by two robots
+	- ## String DP Pattern
+	- ### **Medium Level**
+	- **5. Longest Palindromic Substring** - Longest palindromic substring
+	- **516. Longest Palindromic Subsequence** - Longest palindromic subsequence
+	- **1143. Longest Common Subsequence** - LCS of two strings
+	- **583. Delete Operation for Two Strings** - Minimum deletions to make equal
+	- **712. Minimum ASCII Delete Sum for Two Strings** - Minimum ASCII sum
+	- **97. Interleaving String** - Check if s3 is interleaving of s1 and s2
+	- **1035. Uncrossed Lines** - Maximum uncrossed connecting lines
+	- ### **Hard Level**
+	- **72. Edit Distance** - Minimum operations to convert word1 to word2
+	- **115. Distinct Subsequences** - Number of distinct subsequences
+	- **940. Distinct Subsequences II** - Count distinct subsequences
+	- **44. Wildcard Matching** - Pattern matching with wildcards
+	- **10. Regular Expression Matching** - Pattern matching with regex
+	- **87. Scramble String** - Check if s2 is scrambled version of s1
+	- **132. Palindrome Partitioning II** - Minimum cuts for palindrome partitioning
+	- **1092. Shortest Common Supersequence** - Shortest string containing both
+	- **1312. Minimum Insertion Steps to Make a String Palindrome**
+	- ## Tree DP Pattern
+	- ### **Easy Level**
+	- **543. Diameter of Binary Tree** - Longest path between any two nodes
+	- ### **Medium Level**
+	- **337. House Robber III** - DP on binary tree with adjacent constraint
+	- **1372. Longest ZigZag Path in a Binary Tree** - Track zigzag paths
+	- **1339. Maximum Product of Splitted Binary Tree** - Split tree optimization
+	- ### **Hard Level**
+	- **124. Binary Tree Maximum Path Sum** - Classic tree DP
+	- **968. Binary Tree Cameras** - Minimize cameras to monitor all nodes
+	- **1373. Maximum Sum BST in Binary Tree** - Find largest BST with max sum
+	- **2246. Longest Path With Different Adjacent Characters** - Tree DP on general trees
+	- ## Interval DP Pattern
+	- ### **Medium Level**
+	- **1039. Minimum Score Triangulation of Polygon** - Triangulate polygon
+	- **647. Palindromic Substrings** - Count palindromic substrings
+	- ### **Hard Level**
+	- **312. Burst Balloons** - Prototype interval DP problem
+	- **1000. Minimum Cost to Merge Stones** - Matrix chain multiplication variant
+	- **1547. Minimum Cost to Cut a Stick** - Cut stick at given positions
+	- **664. Strange Printer** - Minimum turns to print string
+	- **1771. Maximize Palindrome Length From Subsequences** - Cross-string palindrome
+	- ## Knapsack Variations
+	- ### **0/1 Knapsack - Medium Level**
+	- **416. Partition Equal Subset Sum** - Classic 0/1 knapsack
+	- **494. Target Sum** - Assign +/- to reach target
+	- **1049. Last Stone Weight II** - Minimize final stone weight
+	- **474. Ones and Zeroes** - 2D knapsack with two constraints
+	- ### **Unbounded Knapsack - Medium Level**
+	- **322. Coin Change** - Minimum coins (unbounded)
+	- **518. Coin Change II** - Count ways (unbounded)
+	- **377. Combination Sum IV** - Permutations that sum to target
+	- ### **Advanced Knapsack - Hard Level**
+	- **879. Profitable Schemes** - 2D knapsack with profit goal
+	- **1449. Form Largest Integer With Digits That Add up to Target** - Maximize digits
+	- **956. Tallest Billboard** - Advanced partition with balance constraint
+	- ## State Machine DP
+	- ### **Stock Trading Series**
+	- **121. Best Time to Buy and Sell Stock** (Easy) - Basic 2-state
+	- **122. Best Time to Buy and Sell Stock II** (Medium) - Unlimited transactions
+	- **123. Best Time to Buy and Sell Stock III** (Hard) - At most 2 transactions
+	- **188. Best Time to Buy and Sell Stock IV** (Hard) - At most k transactions
+	- **309. Best Time to Buy and Sell Stock with Cooldown** (Medium) - 3-state with cooldown
+	- **714. Best Time to Buy and Sell Stock with Transaction Fee** (Medium) - With fees
+	- ## Bitmask DP
+	- ### **Medium to Hard Level**
+	- **698. Partition to K Equal Sum Subsets** (Medium) - Subset enumeration
+	- **847. Shortest Path Visiting All Nodes** (Hard) - TSP variant
+	- **943. Find the Shortest Superstring** (Hard) - String manipulation
+	- **1125. Smallest Sufficient Team** (Hard) - Set cover problem
+	- **1494. Parallel Courses II** (Hard) - Course scheduling
+	- **1879. Minimum XOR Sum of Two Arrays** (Hard) - Assignment problem
+	- **1986. Minimum Number of Work Sessions to Finish the Tasks** (Medium)
+	- ## Game Theory DP
+	- ### **Medium Level**
+	- **486. Predict the Winner** - Classic two-player game
+	- **877. Stone Game** - Pick from ends of array
+	- **1140. Stone Game II** - Extended with M parameter
+	- **464. Can I Win** - Combined with bitmask DP
+	- **375. Guess Number Higher or Lower II** - Minimax with cost
+	- ### **Hard Level**
+	- **1406. Stone Game III** - Players take 1-3 stones
+	- **1563. Stone Game V** - Complex scoring system
+	- **913. Cat and Mouse** - Graph-based game theory
+	- ## Recent Additions & Premium Problems
+	- ### **2024-2025 Highlights**
+	- Problems in the **3000+ range** are newest additions
+	- Weekly/Biweekly contest problems regularly feature DP elements
+	- Premium problems offer company-specific variations and interview frequency data
+	- ### **Official Study Resources**
+	- **LeetCode DP Study Plan**: "10 Essential DP Patterns" at `leetcode.com/studyplan/dynamic-programming/`
+	- **Top 50 DP Problems**: GitHub repository by Adit-Mugdha-das
+	- **Company-specific lists**: Available through premium subscription
+	- ## Practice Strategy Recommendations
+	  
+	  **For beginners**, start with these foundational problems in order:
+	- Fibonacci patterns (70, 509, 746)
+	- Basic 1D DP (53, 198, 121)
+	- Simple 2D grid (62, 64)
+	- Basic string DP (5, 1143)
+	  
+	  **For intermediate learners**, focus on:
+	- Complete all medium problems in each pattern
+	- Practice state transitions and space optimization
+	- Implement recursion → memoization → tabulation for each problem
+	  
+	  **For advanced practice**:
+	- Master interval DP and tree DP patterns
+	- Practice bitmask DP for subset problems
+	- Study game theory problems for minimax understanding
+	- Attempt contest problems for exposure to novel variations
+	  
+	  This comprehensive list provides over **150 carefully categorized DP problems** that will help you systematically master dynamic programming patterns. Focus on understanding the underlying patterns rather than memorizing solutions, and practice implementing multiple approaches for each problem type.

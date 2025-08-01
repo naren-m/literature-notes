@@ -1,6 +1,8 @@
-## Mastery plan
+- /t
+-
+- ## Mastery plan
+  collapsed:: true
 	- ## Dynamic Programming Mastery Plan
-	  collapsed:: true
 		- [Leetcode DP](https://leetcode.com/studyplan/dynamic-programming/)
 		- ## Phase 1: Foundation Building (Week 1-2)
 		  collapsed:: true
@@ -122,39 +124,40 @@
 			- Analyze time and space complexity
 			- See if you can optimize further
 			- Understand why this approach works
-		- ## Milestone Checkpoints
-		  collapsed:: true
-			- **End of Week 2:** Can solve easy DP problems in under 10 minutes
-			  **End of Week 4:** Recognize DP patterns immediately and solve medium problems in 15-20 minutes
-			  **End of Week 6:** Comfortable with 2D DP and string problems
-			  **End of Week 8:** Can tackle most LC medium DP problems confidently
-			  **End of Week 10:** Ready for DP problems in technical interviews
-		- ## Success Metrics
-		  collapsed:: true
-			- **Week 2:** Solve 3 consecutive easy DP problems without hints
-			- **Week 4:** Achieve 80%+ success rate on medium DP problems
-			- **Week 6:** Explain DP solutions clearly to others
-			- **Week 8:** Solve a hard DP problem independently
-			- **Week 10:** Complete a mock interview with DP questions successfully
-		- ## Additional Tips
-		  collapsed:: true
-			- ### When Stuck
-				- Draw out small examples manually
-				- Look for patterns in the manual solutions
-				- Think about what information you need to make optimal decisions
-				- Consider what you've computed that you can reuse
-			- ### Space Optimization Tricks
-				- Rolling arrays for problems that only need previous row/column
-				- Using variables instead of arrays when only tracking a few previous states
-				- In-place modification when the input can be modified
-			- ### Common Mistakes to Avoid
-				- Not clearly defining what each DP state represents
-				- Forgetting base cases
-				- Off-by-one errors in array indexing
-				- Not considering all possible transitions
-				- Overcomplicating the state definition
-	- Remember: DP mastery comes from pattern recognition. The more problems you solve, the faster you'll recognize which pattern applies to new problems.
+	- ## Milestone Checkpoints
+	  collapsed:: true
+		- **End of Week 2:** Can solve easy DP problems in under 10 minutes
+		  **End of Week 4:** Recognize DP patterns immediately and solve medium problems in 15-20 minutes
+		  **End of Week 6:** Comfortable with 2D DP and string problems
+		  **End of Week 8:** Can tackle most LC medium DP problems confidently
+		  **End of Week 10:** Ready for DP problems in technical interviews
+	- ## Success Metrics
+	  collapsed:: true
+		- **Week 2:** Solve 3 consecutive easy DP problems without hints
+		- **Week 4:** Achieve 80%+ success rate on medium DP problems
+		- **Week 6:** Explain DP solutions clearly to others
+		- **Week 8:** Solve a hard DP problem independently
+		- **Week 10:** Complete a mock interview with DP questions successfully
+	- ## Additional Tips
+	  collapsed:: true
+		- ### When Stuck
+			- Draw out small examples manually
+			- Look for patterns in the manual solutions
+			- Think about what information you need to make optimal decisions
+			- Consider what you've computed that you can reuse
+		- ### Space Optimization Tricks
+			- Rolling arrays for problems that only need previous row/column
+			- Using variables instead of arrays when only tracking a few previous states
+			- In-place modification when the input can be modified
+		- ### Common Mistakes to Avoid
+			- Not clearly defining what each DP state represents
+			- Forgetting base cases
+			- Off-by-one errors in array indexing
+			- Not considering all possible transitions
+			- Overcomplicating the state definition
+		- Remember: DP mastery comes from pattern recognition. The more problems you solve, the faster you'll recognize which pattern applies to new problems.
 - ## Resources
+  collapsed:: true
 	- # Comprehensive LeetCode Dynamic Programming Problem List by Patterns and Difficulty
 		- Based on extensive research across multiple sources, I've compiled a comprehensive list of Dynamic Programming problems on LeetCode organized by patterns and difficulty levels. This resource is designed to help you systematically master DP through focused practice in each pattern category.
 	- ## Linear DP / 1D DP Pattern

@@ -50,17 +50,17 @@
 			- Palindromic Substrings (LC 647)
 	- ## Phase 4: Advanced Patterns (Week 7-8)
 		- ### Knapsack Variations
-		- 0/1 Knapsack (not on LC, but crucial to understand)
-		- Coin Change (LC 322)
-		- Coin Change 2 (LC 518)
-		- Combination Sum IV (LC 377)
+			- 0/1 Knapsack (not on LC, but crucial to understand)
+			- Coin Change (LC 322)
+			- Coin Change 2 (LC 518)
+			- Combination Sum IV (LC 377)
 		- ### State Machine DP
-		- Best Time to Buy and Sell Stock with Cooldown (LC 309)
-		- Best Time to Buy and Sell Stock with Transaction Fee (LC 714)
-		- Paint House (LC 256 - if you have premium)
+			- Best Time to Buy and Sell Stock with Cooldown (LC 309)
+			- Best Time to Buy and Sell Stock with Transaction Fee (LC 714)
+			- Paint House (LC 256 - if you have premium)
 		- ### Tree DP
-		- House Robber III (LC 337)
-		- Binary Tree Maximum Path Sum (LC 124)
+			- House Robber III (LC 337)
+			- Binary Tree Maximum Path Sum (LC 124)
 	- ## Phase 5: Expert Level (Week 9-10)
 		- ### Complex State DP
 		- Burst Balloons (LC 312)

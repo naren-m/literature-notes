@@ -106,28 +106,27 @@
 		- Bottom-up or top-down?
 		- What's the dependency graph?
 	- ### While Coding
-	- Start with a recursive solution
-	- Add memoization
-	- Convert to tabulation if needed
-	- Optimize space if possible
+		- Start with a recursive solution
+		- Add memoization
+		- Convert to tabulation if needed
+		- Optimize space if possible
 	- ### After Coding
-	- Test with edge cases
-	- Analyze time and space complexity
-	- See if you can optimize further
-	- Understand why this approach works
+		- Test with edge cases
+		- Analyze time and space complexity
+		- See if you can optimize further
+		- Understand why this approach works
 	- ## Milestone Checkpoints
-	  
-	  **End of Week 2:** Can solve easy DP problems in under 10 minutes
-	  **End of Week 4:** Recognize DP patterns immediately and solve medium problems in 15-20 minutes
-	  **End of Week 6:** Comfortable with 2D DP and string problems
-	  **End of Week 8:** Can tackle most LC medium DP problems confidently
-	  **End of Week 10:** Ready for DP problems in technical interviews
+		- **End of Week 2:** Can solve easy DP problems in under 10 minutes
+		  **End of Week 4:** Recognize DP patterns immediately and solve medium problems in 15-20 minutes
+		  **End of Week 6:** Comfortable with 2D DP and string problems
+		  **End of Week 8:** Can tackle most LC medium DP problems confidently
+		  **End of Week 10:** Ready for DP problems in technical interviews
 	- ## Success Metrics
-	- **Week 2:** Solve 3 consecutive easy DP problems without hints
-	- **Week 4:** Achieve 80%+ success rate on medium DP problems
-	- **Week 6:** Explain DP solutions clearly to others
-	- **Week 8:** Solve a hard DP problem independently
-	- **Week 10:** Complete a mock interview with DP questions successfully
+		- **Week 2:** Solve 3 consecutive easy DP problems without hints
+		- **Week 4:** Achieve 80%+ success rate on medium DP problems
+		- **Week 6:** Explain DP solutions clearly to others
+		- **Week 8:** Solve a hard DP problem independently
+		- **Week 10:** Complete a mock interview with DP questions successfully
 	- ## Additional Tips
 		- ### When Stuck
 			- Draw out small examples manually

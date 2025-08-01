@@ -1,5 +1,6 @@
 ## Mastery plan
-	- # Dynamic Programming Mastery Plan
+	- ## Dynamic Programming Mastery Plan
+	  collapsed:: true
 		- [Leetcode DP](https://leetcode.com/studyplan/dynamic-programming/)
 		- ## Phase 1: Foundation Building (Week 1-2)
 		  collapsed:: true

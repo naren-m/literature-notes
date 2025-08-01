@@ -1,12 +1,12 @@
 ## Mastery plan
 	- # Dynamic Programming Mastery Plan
-	- [Leetcode DP]()https://leetcode.com/studyplan/dynamic-programming/)
+	- [Leetcode DP](https://leetcode.com/studyplan/dynamic-programming/)
 	- ## Phase 1: Foundation Building (Week 1-2)
 		- ### Core Concepts to Master
-		- **Overlapping Subproblems**: Understanding when problems can be broken into smaller, repeated subproblems
-		- **Optimal Substructure**: How optimal solutions contain optimal solutions to subproblems
-		- **Memoization vs Tabulation**: Top-down vs bottom-up approaches
-		- **State Definition**: How to identify and represent the "state" in DP problems
+			- **Overlapping Subproblems**: Understanding when problems can be broken into smaller, repeated subproblems
+			- **Optimal Substructure**: How optimal solutions contain optimal solutions to subproblems
+			- **Memoization vs Tabulation**: Top-down vs bottom-up approaches
+			- **State Definition**: How to identify and represent the "state" in DP problems
 		- ### Learning Resources
 			- Watch "Dynamic Programming" videos on YouTube (Abdul Bari's channel is excellent)
 			- Read through LeetCode's DP explore section introduction

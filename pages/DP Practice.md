@@ -36,18 +36,18 @@
 			- Understanding space optimization techniques
 	- ## Phase 3: 2D DP Mastery (Week 5-6)
 		- ### Grid/Matrix Problems
-		- Unique Paths (LC 62)
-		- Unique Paths II (LC 63)
-		- Minimum Path Sum (LC 64)
-		- Maximal Square (LC 221)
+			- Unique Paths (LC 62)
+			- Unique Paths II (LC 63)
+			- Minimum Path Sum (LC 64)
+			- Maximal Square (LC 221)
 		- ### String DP
-		- Longest Common Subsequence (LC 1143)
-		- Edit Distance (LC 72)
-		- Distinct Subsequences (LC 115)
-		- Regular Expression Matching (LC 10)
+			- Longest Common Subsequence (LC 1143)
+			- Edit Distance (LC 72)
+			- Distinct Subsequences (LC 115)
+			- Regular Expression Matching (LC 10)
 		- ### Interval DP
-		- Longest Palindromic Subsequence (LC 516)
-		- Palindromic Substrings (LC 647)
+			- Longest Palindromic Subsequence (LC 516)
+			- Palindromic Substrings (LC 647)
 	- ## Phase 4: Advanced Patterns (Week 7-8)
 		- ### Knapsack Variations
 		- 0/1 Knapsack (not on LC, but crucial to understand)

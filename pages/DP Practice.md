@@ -63,12 +63,12 @@
 			- Binary Tree Maximum Path Sum (LC 124)
 	- ## Phase 5: Expert Level (Week 9-10)
 		- ### Complex State DP
-		- Burst Balloons (LC 312)
-		- Minimum Cost to Cut a Stick (LC 1547)
-		- Stone Game series (LC 877, 1140, 1406)
+			- Burst Balloons (LC 312)
+			- Minimum Cost to Cut a Stick (LC 1547)
+			- Stone Game series (LC 877, 1140, 1406)
 		- ### Bitmask DP
-		- Traveling Salesman Problem variations
-		- Shortest Path Visiting All Nodes (LC 847)
+			- Traveling Salesman Problem variations
+			- Shortest Path Visiting All Nodes (LC 847)
 	- ## Daily Practice Strategy
 		- ### Week 1-2 (30 min/day)
 			- 1 problem per day

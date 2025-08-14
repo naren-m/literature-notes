@@ -1,3 +1,0 @@
-# Sound
-
-What is sound?

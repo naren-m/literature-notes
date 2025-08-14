@@ -1,5 +1,12 @@
 # Testing Principles
 - ## Code writing Principles #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2025-08-15T07:00:00.000Z
+  card-last-reviewed:: 2025-08-14T15:23:41.639Z
+  card-last-score:: 1
+  collapsed:: true
 	- 1. ALWAYS write code that you can test.
 	- 2. Prioritize Readability over clever or concise code
 	- 3. ALWAYS prioritize writing "Clean Code" over completing the task FAST

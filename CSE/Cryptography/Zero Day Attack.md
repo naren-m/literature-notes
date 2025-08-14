@@ -15,9 +15,7 @@ For example, they could take the form of missing
 - URL redirects
 - bugs
 - or problems with password security.
-
-This makes zero day vulnerabilities difficult to proactively find—which in some ways is good news, because it also means hackers will have a hard time finding them. But it also means it’s difficult to guard against these vulnerabilities effectively.
-
-
-## References
-[What is a zero-day exploit?](https://www.trellix.com/en-us/security-awareness/cybersecurity/what-is-a-zero-day-exploit.html)
+  
+  This makes zero day vulnerabilities difficult to proactively find—which in some ways is good news, because it also means hackers will have a hard time finding them. But it also means it’s difficult to guard against these vulnerabilities effectively.
+- ## References
+  [What is a zero-day exploit?](https://www.trellix.com/en-us/security-awareness/cybersecurity/what-is-a-zero-day-exploit.html)

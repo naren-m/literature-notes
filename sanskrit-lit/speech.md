@@ -1,6 +1,6 @@
 # speech
 -
-- Para.          -  Supress and dont think ? This is wrong para is out of the world.
+- Para.          -  Supress and dont think ? This is wrong,  para is out of the world.
 - Pasyanthi. - See it in mind
 - Madhyama - Think of it in mind
 - vaikhari      - Speak out loud

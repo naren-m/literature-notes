@@ -1,5 +1,11 @@
 # speech
 -
+- Para
+- Pasyanthi
+- Madhyama -
+- vaikhari      - Speak out loud
+-
+-
 - Para, pasyanthi, madhyama, Vaikhari
 	- [[tyagaraja swamy]] had sung this
 		- nabhi hruth kamala naasadula yandhu.

@@ -1,0 +1,4 @@
+- 3 kinds of debate
+	- Jalpam
+	- Vitandam
+	- Vaadam

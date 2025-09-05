@@ -1,0 +1,2511 @@
+{
+  "stats": {
+    "total_notes": 191,
+    "total_existing_links": 336,
+    "notes_with_missing_links": 105
+  },
+  "missing_links": {
+    "video/sangam_history_of_indian_science.md": [
+      {
+        "target": "highlights/Books/India.md",
+        "target_name": "India",
+        "reason": "Mentions 'India' 221 time(s) but not linked",
+        "strength": 2210
+      },
+      {
+        "target": "sanskrit-lit/Rudra.md",
+        "target_name": "Rudra",
+        "reason": "Mentions 'Rudra' 6 time(s) but not linked",
+        "strength": 60
+      },
+      {
+        "target": "books/Books.md",
+        "target_name": "Books",
+        "reason": "Mentions 'Books' 4 time(s) but not linked",
+        "strength": 40
+      },
+      {
+        "target": "sanskrit-lit/Sutra.md",
+        "target_name": "Sutra",
+        "reason": "Mentions 'Sutra' 4 time(s) but not linked",
+        "strength": 40
+      },
+      {
+        "target": "podcast/jyothisha_rajvedam_beerbiceps.md",
+        "target_name": "jyothisha_rajvedam_beerbiceps",
+        "reason": "Related via concepts: veda, sanskrit, karma",
+        "strength": 40
+      }
+    ],
+    "Security/Security Vulnerabilities.md": [
+      {
+        "target": "CSE/Cryptography/Hashing.md",
+        "target_name": "Hashing",
+        "reason": "Related via concepts: security, algorithm, key",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/Hash Algorithms.md",
+        "target_name": "Hash Algorithms",
+        "reason": "Related via concepts: security, algorithm, key",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/Encryption.md",
+        "target_name": "Encryption",
+        "reason": "Related via concepts: algorithm, key, cryptograph",
+        "strength": 15
+      },
+      {
+        "target": "people/Brian Kernighan interview.md",
+        "target_name": "Brian Kernighan interview",
+        "reason": "Related via concepts: security, algorithm, key",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/Hash Algorithms.md",
+        "target_name": "Hash Algorithms",
+        "reason": "Related via concepts: security, algorithm, key",
+        "strength": 15
+      }
+    ],
+    "daily-notes/gruthva.md": [
+      {
+        "target": "sanskrit-lit/karma.md",
+        "target_name": "karma",
+        "reason": "Mentions 'karma' 6 time(s) but not linked",
+        "strength": 60
+      },
+      {
+        "target": "sanskrit-lit/Sutra.md",
+        "target_name": "Sutra",
+        "reason": "Mentions 'Sutra' 6 time(s) but not linked",
+        "strength": 60
+      },
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: karma, sutra",
+        "strength": 10
+      },
+      {
+        "target": "pages/GitaPravachanam.md",
+        "target_name": "GitaPravachanam",
+        "reason": "Related via concepts: karma, sutra",
+        "strength": 10
+      },
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: karma, sutra",
+        "strength": 10
+      }
+    ],
+    "daily-notes/2024-10-04.md": [
+      {
+        "target": "sanskrit-lit/test.md",
+        "target_name": "test",
+        "reason": "Mentions 'test' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "books/Suthrasthana.md": [
+      {
+        "target": "sanskrit-lit/Agni.md",
+        "target_name": "Agni",
+        "reason": "Mentions 'Agni' 3 time(s) but not linked",
+        "strength": 30
+      },
+      {
+        "target": "sanskrit-lit/VishnuSahasranamam.md",
+        "target_name": "VishnuSahasranamam",
+        "reason": "Related via concepts: veda, agni, vata",
+        "strength": 15
+      },
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: veda, agni, vata",
+        "strength": 15
+      },
+      {
+        "target": "podcast/jyothisha_rajvedam_beerbiceps.md",
+        "target_name": "jyothisha_rajvedam_beerbiceps",
+        "reason": "Related via concepts: veda, agni, vata",
+        "strength": 15
+      },
+      {
+        "target": "podcast/India Before Invasions - Explained By Sandeep Balakrishna.md",
+        "target_name": "India Before Invasions - Explained By Sandeep Balakrishna",
+        "reason": "Related via concepts: veda, vata, ayurveda",
+        "strength": 15
+      }
+    ],
+    "books/Navneetakam.md": [
+      {
+        "target": "highlights/Books/India.md",
+        "target_name": "India",
+        "reason": "Mentions 'India' 5 time(s) but not linked",
+        "strength": 50
+      },
+      {
+        "target": "sanskrit-lit/krishna.md",
+        "target_name": "krishna",
+        "reason": "Mentions 'krishna' 4 time(s) but not linked",
+        "strength": 40
+      },
+      {
+        "target": "books/AshtangaHrydayam.md",
+        "target_name": "AshtangaHrydayam",
+        "reason": "Related via concepts: veda, ayurveda",
+        "strength": 10
+      },
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: india, veda",
+        "strength": 10
+      },
+      {
+        "target": "podcast/jyothisha_rajvedam_beerbiceps.md",
+        "target_name": "jyothisha_rajvedam_beerbiceps",
+        "reason": "Related via concepts: india, veda",
+        "strength": 10
+      }
+    ],
+    "books/AshtangaHrydayam.md": [
+      {
+        "target": "sanskrit-lit/AyurvedicRemedies.md",
+        "target_name": "AyurvedicRemedies",
+        "reason": "Related via concepts: veda, ayurveda",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/Ayurvedam.md",
+        "target_name": "Ayurvedam",
+        "reason": "Related via concepts: veda, ayurveda",
+        "strength": 10
+      },
+      {
+        "target": "podcast/India Before Invasions - Explained By Sandeep Balakrishna.md",
+        "target_name": "India Before Invasions - Explained By Sandeep Balakrishna",
+        "reason": "Related via concepts: veda, ayurveda",
+        "strength": 10
+      },
+      {
+        "target": "books/Navneetakam.md",
+        "target_name": "Navneetakam",
+        "reason": "Related via concepts: veda, ayurveda",
+        "strength": 10
+      },
+      {
+        "target": "pages/GitaPravachanam.md",
+        "target_name": "GitaPravachanam",
+        "reason": "Related via concepts: samhita, veda",
+        "strength": 10
+      }
+    ],
+    "books/RanveerShow-Indain Archaeologist.md": [
+      {
+        "target": "highlights/Books/India.md",
+        "target_name": "India",
+        "reason": "Mentions 'India' 7 time(s) but not linked",
+        "strength": 70
+      }
+    ],
+    "books/Books.md": [
+      {
+        "target": "highlights/Books/India.md",
+        "target_name": "India",
+        "reason": "Mentions 'India' 7 time(s) but not linked",
+        "strength": 70
+      },
+      {
+        "target": "sanskrit-lit/krishna.md",
+        "target_name": "krishna",
+        "reason": "Mentions 'krishna' 2 time(s) but not linked",
+        "strength": 20
+      },
+      {
+        "target": "highlights/Books/India.md",
+        "target_name": "India",
+        "reason": "Related via concepts: india, key, sanskrit",
+        "strength": 15
+      },
+      {
+        "target": "sanskrit-lit/Sutra.md",
+        "target_name": "Sutra",
+        "reason": "Related via concepts: india, key, sanskrit",
+        "strength": 15
+      },
+      {
+        "target": "podcast/jyothisha_rajvedam_beerbiceps.md",
+        "target_name": "jyothisha_rajvedam_beerbiceps",
+        "reason": "Related via concepts: india, key, sanskrit",
+        "strength": 15
+      }
+    ],
+    "math/Bhuja koti karani nyayam.md": [
+      {
+        "target": "sanskrit-lit/Sutra.md",
+        "target_name": "Sutra",
+        "reason": "Mentions 'Sutra' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "people/Brian Kernighan interview.md": [
+      {
+        "target": "books/Books.md",
+        "target_name": "Books",
+        "reason": "Mentions 'Books' 7 time(s) but not linked",
+        "strength": 70
+      },
+      {
+        "target": "sanskrit-lit/test.md",
+        "target_name": "test",
+        "reason": "Mentions 'test' 6 time(s) but not linked",
+        "strength": 60
+      },
+      {
+        "target": "Security/Security Vulnerabilities.md",
+        "target_name": "Security Vulnerabilities",
+        "reason": "Related via concepts: security, algorithm, key",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/Hashing.md",
+        "target_name": "Hashing",
+        "reason": "Related via concepts: security, algorithm, key",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/Hash Algorithms.md",
+        "target_name": "Hash Algorithms",
+        "reason": "Related via concepts: security, algorithm, key",
+        "strength": 15
+      }
+    ],
+    "people/Marthanda Varma.md": [
+      {
+        "target": "highlights/Books/India.md",
+        "target_name": "India",
+        "reason": "Mentions 'India' 3 time(s) but not linked",
+        "strength": 30
+      }
+    ],
+    "people/Ashoka.md": [
+      {
+        "target": "highlights/Books/India.md",
+        "target_name": "India",
+        "reason": "Mentions 'India' 2 time(s) but not linked",
+        "strength": 20
+      }
+    ],
+    "podcast/India Before Invasions - Explained By Sandeep Balakrishna.md": [
+      {
+        "target": "highlights/Books/India.md",
+        "target_name": "India",
+        "reason": "Mentions 'India' 14 time(s) but not linked",
+        "strength": 140
+      },
+      {
+        "target": "sanskrit-lit/Nada.md",
+        "target_name": "Nada",
+        "reason": "Mentions 'Nada' 2 time(s) but not linked",
+        "strength": 20
+      },
+      {
+        "target": "sanskrit-lit/VishnuSahasranamam.md",
+        "target_name": "VishnuSahasranamam",
+        "reason": "Related via concepts: dharma, veda, vata",
+        "strength": 20
+      },
+      {
+        "target": "podcast/jyothisha_rajvedam_beerbiceps.md",
+        "target_name": "jyothisha_rajvedam_beerbiceps",
+        "reason": "Related via concepts: india, veda, vata",
+        "strength": 20
+      },
+      {
+        "target": "podcast/jyothisha_rajvedam_beerbiceps.md",
+        "target_name": "jyothisha_rajvedam_beerbiceps",
+        "reason": "Related via concepts: india, veda, vata",
+        "strength": 20
+      }
+    ],
+    "podcast/jyothisha_rajvedam_beerbiceps.md": [
+      {
+        "target": "highlights/Books/India.md",
+        "target_name": "India",
+        "reason": "Mentions 'India' 113 time(s) but not linked",
+        "strength": 1130
+      },
+      {
+        "target": "sanskrit-lit/Agni.md",
+        "target_name": "Agni",
+        "reason": "Mentions 'Agni' 7 time(s) but not linked",
+        "strength": 70
+      },
+      {
+        "target": "sanskrit-lit/eye.md",
+        "target_name": "eye",
+        "reason": "Mentions 'eye' 6 time(s) but not linked",
+        "strength": 60
+      },
+      {
+        "target": "books/Books.md",
+        "target_name": "Books",
+        "reason": "Mentions 'Books' 4 time(s) but not linked",
+        "strength": 40
+      },
+      {
+        "target": "sanskrit-lit/test.md",
+        "target_name": "test",
+        "reason": "Mentions 'test' 4 time(s) but not linked",
+        "strength": 40
+      }
+    ],
+    "pages/ramayanam.md": [
+      {
+        "target": "pages/JanakaKanyadanamSita.md",
+        "target_name": "JanakaKanyadanamSita",
+        "reason": "Mentions 'JanakaKanyadanamSita' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "pages/SitaKalyanam.md",
+        "target_name": "SitaKalyanam",
+        "reason": "Mentions 'SitaKalyanam' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "pages/JanakaKanyadanamSita.md": [
+      {
+        "target": "pages/ramayanam.md",
+        "target_name": "ramayanam",
+        "reason": "Mentions 'ramayanam' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/Dharma.md",
+        "target_name": "Dharma",
+        "reason": "Mentions 'Dharma' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "pages/VivekaChudamani.md": [
+      {
+        "target": "sanskrit-lit/acharya.md",
+        "target_name": "acharya",
+        "reason": "Mentions 'acharya' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "pages/GitaPravachanam.md": [
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: veda, sutra, karma",
+        "strength": 25
+      },
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: veda, sutra, karma",
+        "strength": 25
+      },
+      {
+        "target": "sanskrit-lit/VishnuSahasranamam.md",
+        "target_name": "VishnuSahasranamam",
+        "reason": "Related via concepts: veda, karma, yoga",
+        "strength": 25
+      },
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: veda, sutra, karma",
+        "strength": 25
+      },
+      {
+        "target": "sanskrit-lit/VishnuSahasranamam.md",
+        "target_name": "VishnuSahasranamam",
+        "reason": "Related via concepts: veda, karma, yoga",
+        "strength": 25
+      }
+    ],
+    "pages/\bSitaKalyanam.md": [
+      {
+        "target": "pages/JanakaKanyadanamSita.md",
+        "target_name": "JanakaKanyadanamSita",
+        "reason": "Mentions 'JanakaKanyadanamSita' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "pages/Cause (\u0c15\u0c3e\u0c30\u0c23\u0c02).md": [
+      {
+        "target": "sanskrit-lit/VishnuSahasranamam.md",
+        "target_name": "VishnuSahasranamam",
+        "reason": "Related via concepts: veda, vedanta",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/VishnuSahasranamamByDusyanthSridhar.md",
+        "target_name": "VishnuSahasranamamByDusyanthSridhar",
+        "reason": "Related via concepts: veda, vedanta",
+        "strength": 10
+      },
+      {
+        "target": "highlights/Books/Brahma Sutra Bhasya.md",
+        "target_name": "Brahma Sutra Bhasya",
+        "reason": "Related via concepts: veda, vedanta",
+        "strength": 10
+      },
+      {
+        "target": "pages/GitaPravachanam.md",
+        "target_name": "GitaPravachanam",
+        "reason": "Related via concepts: veda, vedanta",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/VishnuSahasranamam.md",
+        "target_name": "VishnuSahasranamam",
+        "reason": "Related via concepts: veda, vedanta",
+        "strength": 10
+      }
+    ],
+    "sanskrit-lit/Hanuman Chalisa.md": [
+      {
+        "target": "highlights/Books/Grit.md",
+        "target_name": "Grit",
+        "reason": "Mentions 'Grit' 2 time(s) but not linked",
+        "strength": 20
+      },
+      {
+        "target": "sanskrit-lit/karma.md",
+        "target_name": "karma",
+        "reason": "Mentions 'karma' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "sanskrit-lit/Sutra.md": [
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: india, yoga, sanskrit",
+        "strength": 20
+      },
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: india, yoga, sanskrit",
+        "strength": 20
+      },
+      {
+        "target": "podcast/jyothisha_rajvedam_beerbiceps.md",
+        "target_name": "jyothisha_rajvedam_beerbiceps",
+        "reason": "Related via concepts: india, yoga, key",
+        "strength": 20
+      },
+      {
+        "target": "highlights/Books/India.md",
+        "target_name": "India",
+        "reason": "Related via concepts: india, dharma, key",
+        "strength": 20
+      },
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: india, yoga, sanskrit",
+        "strength": 20
+      }
+    ],
+    "sanskrit-lit/Ayurvedam.md": [
+      {
+        "target": "books/Suthrasthana.md",
+        "target_name": "Suthrasthana",
+        "reason": "Related via concepts: veda, charaka, ayurveda",
+        "strength": 15
+      },
+      {
+        "target": "books/Suthrasthana.md",
+        "target_name": "Suthrasthana",
+        "reason": "Related via concepts: veda, charaka, ayurveda",
+        "strength": 15
+      },
+      {
+        "target": "books/Suthrasthana.md",
+        "target_name": "Suthrasthana",
+        "reason": "Related via concepts: veda, charaka, ayurveda",
+        "strength": 15
+      },
+      {
+        "target": "books/AshtangaHrydayam.md",
+        "target_name": "AshtangaHrydayam",
+        "reason": "Related via concepts: veda, ayurveda",
+        "strength": 10
+      },
+      {
+        "target": "podcast/India Before Invasions - Explained By Sandeep Balakrishna.md",
+        "target_name": "India Before Invasions - Explained By Sandeep Balakrishna",
+        "reason": "Related via concepts: veda, ayurveda",
+        "strength": 10
+      }
+    ],
+    "sanskrit-lit/VishnuSahasranamamByDusyanthSridhar.md": [
+      {
+        "target": "sanskrit-lit/Dharma.md",
+        "target_name": "Dharma",
+        "reason": "Mentions 'Dharma' 13 time(s) but not linked",
+        "strength": 130
+      },
+      {
+        "target": "sanskrit-lit/krishna.md",
+        "target_name": "krishna",
+        "reason": "Mentions 'krishna' 7 time(s) but not linked",
+        "strength": 70
+      },
+      {
+        "target": "sanskrit-lit/acharya.md",
+        "target_name": "acharya",
+        "reason": "Mentions 'acharya' 7 time(s) but not linked",
+        "strength": 70
+      },
+      {
+        "target": "sanskrit-lit/eye.md",
+        "target_name": "eye",
+        "reason": "Mentions 'eye' 6 time(s) but not linked",
+        "strength": 60
+      },
+      {
+        "target": "sanskrit-lit/karma.md",
+        "target_name": "karma",
+        "reason": "Mentions 'karma' 3 time(s) but not linked",
+        "strength": 30
+      }
+    ],
+    "sanskrit-lit/NyayaSutra.md": [
+      {
+        "target": "sanskrit-lit/Sutra.md",
+        "target_name": "Sutra",
+        "reason": "Mentions 'Sutra' 2 time(s) but not linked",
+        "strength": 20
+      }
+    ],
+    "sanskrit-lit/kavi.md": [
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: veda, vata, sanskrit",
+        "strength": 15
+      },
+      {
+        "target": "podcast/jyothisha_rajvedam_beerbiceps.md",
+        "target_name": "jyothisha_rajvedam_beerbiceps",
+        "reason": "Related via concepts: veda, vata, sanskrit",
+        "strength": 15
+      },
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: veda, vata, sanskrit",
+        "strength": 15
+      },
+      {
+        "target": "podcast/jyothisha_rajvedam_beerbiceps.md",
+        "target_name": "jyothisha_rajvedam_beerbiceps",
+        "reason": "Related via concepts: veda, vata, sanskrit",
+        "strength": 15
+      },
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: veda, vata, sanskrit",
+        "strength": 15
+      }
+    ],
+    "sanskrit-lit/HowToSpeakLikeHanuma.md": [
+      {
+        "target": "sanskrit-lit/speech.md",
+        "target_name": "speech",
+        "reason": "Mentions 'speech' 22 time(s) but not linked",
+        "strength": 220
+      },
+      {
+        "target": "sanskrit-lit/eye.md",
+        "target_name": "eye",
+        "reason": "Mentions 'eye' 6 time(s) but not linked",
+        "strength": 60
+      },
+      {
+        "target": "pages/ramayanam.md",
+        "target_name": "ramayanam",
+        "reason": "Mentions 'ramayanam' 3 time(s) but not linked",
+        "strength": 30
+      },
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: india, veda, sutra",
+        "strength": 15
+      },
+      {
+        "target": "pages/GitaPravachanam.md",
+        "target_name": "GitaPravachanam",
+        "reason": "Related via concepts: veda, key, sutra",
+        "strength": 15
+      }
+    ],
+    "sanskrit-lit/SivaSurta.md": [
+      {
+        "target": "sanskrit-lit/Sutra.md",
+        "target_name": "Sutra",
+        "reason": "Mentions 'Sutra' 4 time(s) but not linked",
+        "strength": 40
+      },
+      {
+        "target": "sanskrit-lit/Sutra.md",
+        "target_name": "Sutra",
+        "reason": "Related via concepts: sanskrit, sutra",
+        "strength": 10
+      },
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: sanskrit, sutra",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/yoga_sutras/YogaSutras.md",
+        "target_name": "YogaSutras",
+        "reason": "Related via concepts: sanskrit, sutra",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/Sutra.md",
+        "target_name": "Sutra",
+        "reason": "Related via concepts: sanskrit, sutra",
+        "strength": 10
+      }
+    ],
+    "sanskrit-lit/VaishshikaSutra.md": [
+      {
+        "target": "sanskrit-lit/Sutra.md",
+        "target_name": "Sutra",
+        "reason": "Mentions 'Sutra' 11 time(s) but not linked",
+        "strength": 110
+      },
+      {
+        "target": "sanskrit-lit/karma.md",
+        "target_name": "karma",
+        "reason": "Mentions 'karma' 6 time(s) but not linked",
+        "strength": 60
+      },
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: karma, india, sutra",
+        "strength": 15
+      },
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: karma, india, sutra",
+        "strength": 15
+      },
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: karma, india, sutra",
+        "strength": 15
+      }
+    ],
+    "sanskrit-lit/Vaiseshika Darshanam.md": [
+      {
+        "target": "highlights/Books/India.md",
+        "target_name": "India",
+        "reason": "Mentions 'India' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "highlights/Books/India.md",
+        "target_name": "India",
+        "reason": "Related via concepts: india, sanskrit",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/Sutra.md",
+        "target_name": "Sutra",
+        "reason": "Related via concepts: india, sanskrit",
+        "strength": 10
+      },
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: india, sanskrit",
+        "strength": 10
+      },
+      {
+        "target": "books/Books.md",
+        "target_name": "Books",
+        "reason": "Related via concepts: india, sanskrit",
+        "strength": 10
+      }
+    ],
+    "sanskrit-lit/Amarakosham.md": [
+      {
+        "target": "sanskrit-lit/Ashtadhyayi.md",
+        "target_name": "Ashtadhyayi",
+        "reason": "Mentions 'Ashtadhyayi' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "sanskrit-lit/speech.md": [
+      {
+        "target": "sanskrit-lit/Prana.md",
+        "target_name": "Prana",
+        "reason": "Mentions 'Prana' 2 time(s) but not linked",
+        "strength": 20
+      },
+      {
+        "target": "sanskrit-lit/Vayu.md",
+        "target_name": "Vayu",
+        "reason": "Related via concepts: prana, sanskrit",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/Vayu.md",
+        "target_name": "Vayu",
+        "reason": "Related via concepts: prana, sanskrit",
+        "strength": 10
+      }
+    ],
+    "sanskrit-lit/Ashtadhyayi.md": [
+      {
+        "target": "sanskrit-lit/Sutra.md",
+        "target_name": "Sutra",
+        "reason": "Mentions 'Sutra' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/Sutra.md",
+        "target_name": "Sutra",
+        "reason": "Related via concepts: sanskrit, sutra",
+        "strength": 10
+      },
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: sanskrit, sutra",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/yoga_sutras/YogaSutras.md",
+        "target_name": "YogaSutras",
+        "reason": "Related via concepts: sanskrit, sutra",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/SivaSurta.md",
+        "target_name": "SivaSurta",
+        "reason": "Related via concepts: sanskrit, sutra",
+        "strength": 10
+      }
+    ],
+    "sanskrit-lit/krishna.md": [
+      {
+        "target": "sanskrit-lit/VishnuSahasranamamByDusyanthSridhar.md",
+        "target_name": "VishnuSahasranamamByDusyanthSridhar",
+        "reason": "Mentions 'VishnuSahasranamamByDusyanthSridhar' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "sanskrit-lit/Dharma.md": [
+      {
+        "target": "sanskrit-lit/speech.md",
+        "target_name": "speech",
+        "reason": "Mentions 'speech' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/VishnuSahasranamam.md",
+        "target_name": "VishnuSahasranamam",
+        "reason": "Related via concepts: karma, dharma",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/VishnuSahasranamamByDusyanthSridhar.md",
+        "target_name": "VishnuSahasranamamByDusyanthSridhar",
+        "reason": "Related via concepts: karma, dharma",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/VishnuSahasranamam.md",
+        "target_name": "VishnuSahasranamam",
+        "reason": "Related via concepts: karma, dharma",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/VishnuSahasranamamByDusyanthSridhar.md",
+        "target_name": "VishnuSahasranamamByDusyanthSridhar",
+        "reason": "Related via concepts: karma, dharma",
+        "strength": 10
+      }
+    ],
+    "sanskrit-lit/acharya.md": [
+      {
+        "target": "sanskrit-lit/krishna.md",
+        "target_name": "krishna",
+        "reason": "Mentions 'krishna' 2 time(s) but not linked",
+        "strength": 20
+      }
+    ],
+    "sanskrit-lit/VishnuSahasranamam.md": [
+      {
+        "target": "sanskrit-lit/Dharma.md",
+        "target_name": "Dharma",
+        "reason": "Mentions 'Dharma' 23 time(s) but not linked",
+        "strength": 230
+      },
+      {
+        "target": "sanskrit-lit/eye.md",
+        "target_name": "eye",
+        "reason": "Mentions 'eye' 14 time(s) but not linked",
+        "strength": 140
+      },
+      {
+        "target": "sanskrit-lit/karma.md",
+        "target_name": "karma",
+        "reason": "Mentions 'karma' 9 time(s) but not linked",
+        "strength": 90
+      },
+      {
+        "target": "sanskrit-lit/test.md",
+        "target_name": "test",
+        "reason": "Mentions 'test' 9 time(s) but not linked",
+        "strength": 90
+      },
+      {
+        "target": "sanskrit-lit/Prana.md",
+        "target_name": "Prana",
+        "reason": "Mentions 'Prana' 6 time(s) but not linked",
+        "strength": 60
+      }
+    ],
+    "sanskrit-lit/Nada.md": [
+      {
+        "target": "sanskrit-lit/VishnuSahasranamam.md",
+        "target_name": "VishnuSahasranamam",
+        "reason": "Related via concepts: hash, yoga, agni",
+        "strength": 20
+      },
+      {
+        "target": "sanskrit-lit/VishnuSahasranamam.md",
+        "target_name": "VishnuSahasranamam",
+        "reason": "Related via concepts: hash, yoga, agni",
+        "strength": 20
+      },
+      {
+        "target": "sanskrit-lit/VishnuSahasranamam.md",
+        "target_name": "VishnuSahasranamam",
+        "reason": "Related via concepts: hash, yoga, agni",
+        "strength": 20
+      },
+      {
+        "target": "sanskrit-lit/VishnuSahasranamam.md",
+        "target_name": "VishnuSahasranamam",
+        "reason": "Related via concepts: hash, yoga, agni",
+        "strength": 20
+      },
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: yoga, agni",
+        "strength": 10
+      }
+    ],
+    "sanskrit-lit/Vayu.md": [
+      {
+        "target": "sanskrit-lit/Prana.md",
+        "target_name": "Prana",
+        "reason": "Mentions 'Prana' 2 time(s) but not linked",
+        "strength": 20
+      },
+      {
+        "target": "sanskrit-lit/Sutra.md",
+        "target_name": "Sutra",
+        "reason": "Related via concepts: yoga, sanskrit",
+        "strength": 10
+      },
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: yoga, sanskrit",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/VishnuSahasranamam.md",
+        "target_name": "VishnuSahasranamam",
+        "reason": "Related via concepts: yoga, prana",
+        "strength": 10
+      },
+      {
+        "target": "podcast/jyothisha_rajvedam_beerbiceps.md",
+        "target_name": "jyothisha_rajvedam_beerbiceps",
+        "reason": "Related via concepts: yoga, sanskrit",
+        "strength": 10
+      }
+    ],
+    "sanskrit-lit/NirvanaShatakam.md": [
+      {
+        "target": "people/Panini.md",
+        "target_name": "Panini",
+        "reason": "Mentions 'Panini' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/Prana.md",
+        "target_name": "Prana",
+        "reason": "Mentions 'Prana' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/speech.md",
+        "target_name": "speech",
+        "reason": "Mentions 'speech' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/acharya.md",
+        "target_name": "acharya",
+        "reason": "Mentions 'acharya' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/eye.md",
+        "target_name": "eye",
+        "reason": "Mentions 'eye' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "sanskrit-lit/tithi.md": [
+      {
+        "target": "sanskrit-lit/krishna.md",
+        "target_name": "krishna",
+        "reason": "Mentions 'krishna' 4 time(s) but not linked",
+        "strength": 40
+      }
+    ],
+    "sanskrit-lit/AyurvedicRemedies.md": [
+      {
+        "target": "books/AshtangaHrydayam.md",
+        "target_name": "AshtangaHrydayam",
+        "reason": "Related via concepts: veda, ayurveda",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/Ayurvedam.md",
+        "target_name": "Ayurvedam",
+        "reason": "Related via concepts: veda, ayurveda",
+        "strength": 10
+      },
+      {
+        "target": "podcast/India Before Invasions - Explained By Sandeep Balakrishna.md",
+        "target_name": "India Before Invasions - Explained By Sandeep Balakrishna",
+        "reason": "Related via concepts: veda, ayurveda",
+        "strength": 10
+      },
+      {
+        "target": "books/Navneetakam.md",
+        "target_name": "Navneetakam",
+        "reason": "Related via concepts: veda, ayurveda",
+        "strength": 10
+      },
+      {
+        "target": "books/Suthrasthana.md",
+        "target_name": "Suthrasthana",
+        "reason": "Related via concepts: veda, ayurveda",
+        "strength": 10
+      }
+    ],
+    "CSE/Cryptography/Cryptography.md": [
+      {
+        "target": "CSE/Cryptography/Hash Algorithms.md",
+        "target_name": "Hash Algorithms",
+        "reason": "Related via concepts: security, attack, cipher",
+        "strength": 25
+      },
+      {
+        "target": "CSE/Cryptography/Hash Algorithms.md",
+        "target_name": "Hash Algorithms",
+        "reason": "Related via concepts: security, attack, cipher",
+        "strength": 25
+      },
+      {
+        "target": "CSE/Cryptography/Hash Algorithms.md",
+        "target_name": "Hash Algorithms",
+        "reason": "Related via concepts: security, attack, cipher",
+        "strength": 25
+      },
+      {
+        "target": "CSE/Cryptography/Hash Algorithms.md",
+        "target_name": "Hash Algorithms",
+        "reason": "Related via concepts: security, attack, cipher",
+        "strength": 25
+      },
+      {
+        "target": "CSE/Cryptography/Hash Algorithms.md",
+        "target_name": "Hash Algorithms",
+        "reason": "Related via concepts: security, attack, cipher",
+        "strength": 25
+      }
+    ],
+    "CSE/Cryptography/Cold Boot.md": [
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: attack, side channel, cold boot",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: attack, side channel, cold boot",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: attack, side channel, cold boot",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/Side Channel Attack.md",
+        "target_name": "Side Channel Attack",
+        "reason": "Mentions 'Side Channel Attack' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Rowhammer.md",
+        "target_name": "Rowhammer",
+        "reason": "Related via concepts: attack, side channel",
+        "strength": 10
+      }
+    ],
+    "CSE/Cryptography/Hash Algorithms.md": [
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: security, attack, cipher",
+        "strength": 25
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: security, attack, cipher",
+        "strength": 25
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: security, attack, cipher",
+        "strength": 25
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: security, attack, cipher",
+        "strength": 25
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: security, attack, cipher",
+        "strength": 25
+      }
+    ],
+    "CSE/Cryptography/Data Sensitivity.md": [
+      {
+        "target": "CSE/Cryptography/Information Disclosure.md",
+        "target_name": "Information Disclosure",
+        "reason": "Mentions 'Information Disclosure' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Rowhammer.md",
+        "target_name": "Rowhammer",
+        "reason": "Related via concepts: security, attack",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: security, attack",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Zero-Trust.md",
+        "target_name": "Zero-Trust",
+        "reason": "Related via concepts: security, attack",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/LOJAX.md",
+        "target_name": "LOJAX",
+        "reason": "Related via concepts: security, attack",
+        "strength": 10
+      }
+    ],
+    "CSE/Cryptography/Integrity.md": [
+      {
+        "target": "highlights/Books/Grit.md",
+        "target_name": "Grit",
+        "reason": "Mentions 'Grit' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "CSE/Cryptography/Hashing.md": [
+      {
+        "target": "CSE/Cryptography/CIA Triad.md",
+        "target_name": "CIA Triad",
+        "reason": "Related via concepts: security, algorithm, hash",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Digital signatures.md",
+        "target_name": "Digital signatures",
+        "reason": "Related via concepts: integrity, tampering, hash",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: security, integrity, hash",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: security, integrity, hash",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/CIA Triad.md",
+        "target_name": "CIA Triad",
+        "reason": "Related via concepts: security, algorithm, hash",
+        "strength": 20
+      }
+    ],
+    "CSE/Cryptography/Zero-Trust.md": [
+      {
+        "target": "Security/Authentication.md",
+        "target_name": "Authentication",
+        "reason": "Mentions 'Authentication' 6 time(s) but not linked",
+        "strength": 60
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: security, attack, authentication",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: security, attack, authentication",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: security, attack, authentication",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/Strong Authentication.md",
+        "target_name": "Strong Authentication",
+        "reason": "Mentions 'Strong Authentication' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "CSE/Cryptography/Block Cipher.md": [
+      {
+        "target": "CSE/Cryptography/Hash Algorithms.md",
+        "target_name": "Hash Algorithms",
+        "reason": "Related via concepts: algorithm, hash, cipher",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/Hash Algorithms.md",
+        "target_name": "Hash Algorithms",
+        "reason": "Related via concepts: algorithm, hash, cipher",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/Hash Algorithms.md",
+        "target_name": "Hash Algorithms",
+        "reason": "Related via concepts: algorithm, hash, cipher",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/HMAC.md",
+        "target_name": "HMAC",
+        "reason": "Related via concepts: algorithm, hash",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Encryption.md",
+        "target_name": "Encryption",
+        "reason": "Related via concepts: algorithm, cipher",
+        "strength": 10
+      }
+    ],
+    "CSE/Cryptography/Confidentiality.md": [
+      {
+        "target": "CSE/Cryptography/Side Channel Attack.md",
+        "target_name": "Side Channel Attack",
+        "reason": "Related via concepts: encryption, cryptograph",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/STRIDE.md",
+        "target_name": "STRIDE",
+        "reason": "Related via concepts: confidentiality, cryptograph",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Side Channel Attack.md",
+        "target_name": "Side Channel Attack",
+        "reason": "Related via concepts: encryption, cryptograph",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/CIA Triad.md",
+        "target_name": "CIA Triad",
+        "reason": "Related via concepts: encryption, confidentiality",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Digital signatures.md",
+        "target_name": "Digital signatures",
+        "reason": "Related via concepts: encryption, confidentiality",
+        "strength": 10
+      }
+    ],
+    "CSE/Cryptography/Repudiation.md": [
+      {
+        "target": "CSE/Cryptography/Zero Day Attack.md",
+        "target_name": "Zero Day Attack",
+        "reason": "Related via concepts: security, attack, vulnerability",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/Zero Day Attack.md",
+        "target_name": "Zero Day Attack",
+        "reason": "Related via concepts: security, attack, vulnerability",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/Zero Day Attack.md",
+        "target_name": "Zero Day Attack",
+        "reason": "Related via concepts: security, attack, vulnerability",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/Spoofing.md",
+        "target_name": "Spoofing",
+        "reason": "Mentions 'Spoofing' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Rowhammer.md",
+        "target_name": "Rowhammer",
+        "reason": "Related via concepts: security, attack",
+        "strength": 10
+      }
+    ],
+    "CSE/Cryptography/Tampering.md": [
+      {
+        "target": "highlights/Books/Grit.md",
+        "target_name": "Grit",
+        "reason": "Mentions 'Grit' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Hashing.md",
+        "target_name": "Hashing",
+        "reason": "Related via concepts: integrity, tampering",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/STRIDE.md",
+        "target_name": "STRIDE",
+        "reason": "Related via concepts: integrity, tampering",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Digital signatures.md",
+        "target_name": "Digital signatures",
+        "reason": "Related via concepts: integrity, tampering",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Hashing.md",
+        "target_name": "Hashing",
+        "reason": "Related via concepts: integrity, tampering",
+        "strength": 10
+      }
+    ],
+    "CSE/Cryptography/STRIDE.md": [
+      {
+        "target": "CSE/Cryptography/Digital signatures.md",
+        "target_name": "Digital signatures",
+        "reason": "Related via concepts: integrity, spoofing, confidentiality",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Digital signatures.md",
+        "target_name": "Digital signatures",
+        "reason": "Related via concepts: integrity, spoofing, confidentiality",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Digital signatures.md",
+        "target_name": "Digital signatures",
+        "reason": "Related via concepts: integrity, spoofing, confidentiality",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Digital signatures.md",
+        "target_name": "Digital signatures",
+        "reason": "Related via concepts: integrity, spoofing, confidentiality",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Hashing.md",
+        "target_name": "Hashing",
+        "reason": "Related via concepts: security, tampering, integrity",
+        "strength": 15
+      }
+    ],
+    "CSE/Cryptography/Digital signatures.md": [
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: integrity, signature, key",
+        "strength": 30
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: integrity, signature, key",
+        "strength": 30
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: integrity, signature, key",
+        "strength": 30
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: integrity, signature, key",
+        "strength": 30
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: integrity, signature, key",
+        "strength": 30
+      }
+    ],
+    "CSE/Cryptography/HMAC.md": [
+      {
+        "target": "CSE/Cryptography/Hashing.md",
+        "target_name": "Hashing",
+        "reason": "Mentions 'Hashing' 5 time(s) but not linked",
+        "strength": 50
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: hash, key, authentication",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: hash, key, authentication",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: hash, key, authentication",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: hash, key, authentication",
+        "strength": 20
+      }
+    ],
+    "CSE/Cryptography/Initialization Vector.md": [
+      {
+        "target": "CSE/Cryptography/Encryption.md",
+        "target_name": "Encryption",
+        "reason": "Mentions 'Encryption' 2 time(s) but not linked",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Zero Day Attack.md",
+        "target_name": "Zero Day Attack",
+        "reason": "Related via concepts: security, algorithm, encryption",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/CIA Triad.md",
+        "target_name": "CIA Triad",
+        "reason": "Related via concepts: security, algorithm, encryption",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/Zero Day Attack.md",
+        "target_name": "Zero Day Attack",
+        "reason": "Related via concepts: security, algorithm, encryption",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/CIA Triad.md",
+        "target_name": "CIA Triad",
+        "reason": "Related via concepts: security, algorithm, encryption",
+        "strength": 15
+      }
+    ],
+    "CSE/Cryptography/Token Authentication.md": [
+      {
+        "target": "CSE/Cryptography/Strong Authentication.md",
+        "target_name": "Strong Authentication",
+        "reason": "Related authentication concepts",
+        "strength": 15
+      },
+      {
+        "target": "Security/Authentication.md",
+        "target_name": "Authentication",
+        "reason": "Mentions 'Authentication' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Digital signatures.md",
+        "target_name": "Digital signatures",
+        "reason": "Mentions 'Digital signatures' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Fingerprint.md",
+        "target_name": "Fingerprint",
+        "reason": "Related via concepts: signature, authentication",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/STRIDE.md",
+        "target_name": "STRIDE",
+        "reason": "Related via concepts: authentication, cryptograph",
+        "strength": 10
+      }
+    ],
+    "CSE/Cryptography/Spoofing.md": [
+      {
+        "target": "CSE/Cryptography/Token Authentication.md",
+        "target_name": "Token Authentication",
+        "reason": "Spoofing attacks authentication",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/Strong Authentication.md",
+        "target_name": "Strong Authentication",
+        "reason": "Spoofing attacks authentication",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/STRIDE.md",
+        "target_name": "STRIDE",
+        "reason": "Related via concepts: spoofing, authentication",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/STRIDE.md",
+        "target_name": "STRIDE",
+        "reason": "Related via concepts: spoofing, authentication",
+        "strength": 10
+      }
+    ],
+    "CSE/Cryptography/Checksum.md": [
+      {
+        "target": "highlights/Books/Grit.md",
+        "target_name": "Grit",
+        "reason": "Mentions 'Grit' 4 time(s) but not linked",
+        "strength": 40
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: security, hash, integrity",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/Hash Algorithms.md",
+        "target_name": "Hash Algorithms",
+        "reason": "Related via concepts: security, hash, sha-256",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/CIA Triad.md",
+        "target_name": "CIA Triad",
+        "reason": "Related via concepts: security, hash, integrity",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: security, hash, integrity",
+        "strength": 15
+      }
+    ],
+    "CSE/Cryptography/Message Authentication Code.md": [
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: integrity, hash, key",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: integrity, hash, key",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: integrity, hash, key",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: integrity, hash, key",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Fingerprint.md",
+        "target_name": "Fingerprint",
+        "reason": "Related via concepts: hash, key, authentication",
+        "strength": 15
+      }
+    ],
+    "CSE/Cryptography/Encryption.md": [
+      {
+        "target": "CSE/Cryptography/CIA Triad.md",
+        "target_name": "CIA Triad",
+        "reason": "Related via concepts: signature, algorithm, encryption",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/CIA Triad.md",
+        "target_name": "CIA Triad",
+        "reason": "Related via concepts: signature, algorithm, encryption",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/CIA Triad.md",
+        "target_name": "CIA Triad",
+        "reason": "Related via concepts: signature, algorithm, encryption",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/CIA Triad.md",
+        "target_name": "CIA Triad",
+        "reason": "Related via concepts: signature, algorithm, encryption",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Side Channel Attack.md",
+        "target_name": "Side Channel Attack",
+        "reason": "Related via concepts: algorithm, encryption, cryptograph",
+        "strength": 15
+      }
+    ],
+    "CSE/Cryptography/CIA Triad.md": [
+      {
+        "target": "CSE/Cryptography/Integrity.md",
+        "target_name": "Integrity",
+        "reason": "Mentions 'Integrity' 4 time(s) but not linked",
+        "strength": 40
+      },
+      {
+        "target": "CSE/Cryptography/Availability.md",
+        "target_name": "Availability",
+        "reason": "Mentions 'Availability' 4 time(s) but not linked",
+        "strength": 40
+      },
+      {
+        "target": "highlights/Books/Grit.md",
+        "target_name": "Grit",
+        "reason": "Mentions 'Grit' 4 time(s) but not linked",
+        "strength": 40
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: security, integrity, attack",
+        "strength": 35
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: security, integrity, attack",
+        "strength": 35
+      }
+    ],
+    "CSE/Cryptography/ECC memory.md": [
+      {
+        "target": "CSE/Cryptography/Tampering.md",
+        "target_name": "Tampering",
+        "reason": "Mentions 'Tampering' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: attack, rowhammer",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Side Channel Attack.md",
+        "target_name": "Side Channel Attack",
+        "reason": "Related via concepts: attack, rowhammer",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: attack, rowhammer",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Side Channel Attack.md",
+        "target_name": "Side Channel Attack",
+        "reason": "Related via concepts: attack, rowhammer",
+        "strength": 10
+      }
+    ],
+    "CSE/Cryptography/Data encryption.md": [
+      {
+        "target": "CSE/Cryptography/Encryption.md",
+        "target_name": "Encryption",
+        "reason": "Mentions 'Encryption' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "CSE/Cryptography/Multifernet.md": [
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Mentions 'Cryptography' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "CSE/Cryptography/DLL Preloading Attack.md": [
+      {
+        "target": "CSE/Cryptography/Zero Day Attack.md",
+        "target_name": "Zero Day Attack",
+        "reason": "Related via concepts: attack, vulnerability",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Repudiation.md",
+        "target_name": "Repudiation",
+        "reason": "Related via concepts: attack, vulnerability",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Zero Day Attack.md",
+        "target_name": "Zero Day Attack",
+        "reason": "Related via concepts: attack, vulnerability",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Repudiation.md",
+        "target_name": "Repudiation",
+        "reason": "Related via concepts: attack, vulnerability",
+        "strength": 10
+      }
+    ],
+    "CSE/Cryptography/Zero Day Attack.md": [
+      {
+        "target": "CSE/Cryptography/CIA Triad.md",
+        "target_name": "CIA Triad",
+        "reason": "Related via concepts: security, algorithm, encryption",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/CIA Triad.md",
+        "target_name": "CIA Triad",
+        "reason": "Related via concepts: security, algorithm, encryption",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/CIA Triad.md",
+        "target_name": "CIA Triad",
+        "reason": "Related via concepts: security, algorithm, encryption",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/CIA Triad.md",
+        "target_name": "CIA Triad",
+        "reason": "Related via concepts: security, algorithm, encryption",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Side Channel Attack.md",
+        "target_name": "Side Channel Attack",
+        "reason": "Related via concepts: algorithm, encryption, attack",
+        "strength": 15
+      }
+    ],
+    "CSE/Cryptography/Strong Authentication.md": [
+      {
+        "target": "Security/Authentication.md",
+        "target_name": "Authentication",
+        "reason": "Mentions 'Authentication' 4 time(s) but not linked",
+        "strength": 40
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: attack, authentication, cryptograph",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: attack, authentication, cryptograph",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: attack, authentication, cryptograph",
+        "strength": 15
+      },
+      {
+        "target": "CSE/Cryptography/Strong Authentication.md",
+        "target_name": "Strong Authentication",
+        "reason": "Related authentication concepts",
+        "strength": 15
+      }
+    ],
+    "CSE/Cryptography/LOJAX.md": [
+      {
+        "target": "CSE/Cryptography/Rowhammer.md",
+        "target_name": "Rowhammer",
+        "reason": "Related via concepts: security, attack",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: security, attack",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Zero-Trust.md",
+        "target_name": "Zero-Trust",
+        "reason": "Related via concepts: security, attack",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Data Sensitivity.md",
+        "target_name": "Data Sensitivity",
+        "reason": "Related via concepts: security, attack",
+        "strength": 10
+      },
+      {
+        "target": "highlights/Books/Grit.md",
+        "target_name": "Grit",
+        "reason": "Related via concepts: security, attack",
+        "strength": 10
+      }
+    ],
+    "CSE/Cryptography/Side Channel Attack.md": [
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: attack, rowhammer, side channel",
+        "strength": 25
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: attack, rowhammer, side channel",
+        "strength": 25
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: attack, rowhammer, side channel",
+        "strength": 25
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: attack, rowhammer, side channel",
+        "strength": 25
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: attack, rowhammer, side channel",
+        "strength": 25
+      }
+    ],
+    "CSE/Cryptography/Root of trust.md": [
+      {
+        "target": "CSE/Cryptography/Integrity.md",
+        "target_name": "Integrity",
+        "reason": "Mentions 'Integrity' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "highlights/Books/Grit.md",
+        "target_name": "Grit",
+        "reason": "Mentions 'Grit' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Checksum.md",
+        "target_name": "Checksum",
+        "reason": "Related via concepts: security, integrity",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: security, integrity",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Hashing.md",
+        "target_name": "Hashing",
+        "reason": "Related via concepts: security, integrity",
+        "strength": 10
+      }
+    ],
+    "CSE/Cryptography/Fingerprint.md": [
+      {
+        "target": "CSE/Cryptography/Public Key.md",
+        "target_name": "Public Key",
+        "reason": "Mentions 'Public Key' 2 time(s) but not linked",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: signature, hash, key",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: signature, hash, key",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: signature, hash, key",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: signature, hash, key",
+        "strength": 20
+      }
+    ],
+    "CSE/Cryptography/Rowhammer.md": [
+      {
+        "target": "CSE/Cryptography/Tampering.md",
+        "target_name": "Tampering",
+        "reason": "Mentions 'Tampering' 2 time(s) but not linked",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: security, attack, rowhammer",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: security, attack, rowhammer",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: security, attack, rowhammer",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: security, attack, rowhammer",
+        "strength": 20
+      }
+    ],
+    "CSE/coding/Maintaining code base.md": [
+      {
+        "target": "sanskrit-lit/test.md",
+        "target_name": "test",
+        "reason": "Mentions 'test' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "CSE/coding/Friday cleaning.md": [
+      {
+        "target": "sanskrit-lit/test.md",
+        "target_name": "test",
+        "reason": "Mentions 'test' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "CSE/coding/Testing Principles.md": [
+      {
+        "target": "sanskrit-lit/test.md",
+        "target_name": "test",
+        "reason": "Mentions 'test' 23 time(s) but not linked",
+        "strength": 230
+      },
+      {
+        "target": "CSE/Cryptography/Module3/streaming/README.md",
+        "target_name": "README",
+        "reason": "Mentions 'README' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "CSE/coding/Test Driven Dev.md": [
+      {
+        "target": "sanskrit-lit/test.md",
+        "target_name": "test",
+        "reason": "Mentions 'test' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "CSE/coding/Testing Pyramid.md": [
+      {
+        "target": "sanskrit-lit/test.md",
+        "target_name": "test",
+        "reason": "Mentions 'test' 46 time(s) but not linked",
+        "strength": 460
+      }
+    ],
+    "CSE/coding/Unix philosophy.md": [
+      {
+        "target": "CSE/coding/Test Driven Dev.md",
+        "target_name": "Test Driven Dev",
+        "reason": "Related development philosophies",
+        "strength": 15
+      },
+      {
+        "target": "sanskrit-lit/test.md",
+        "target_name": "test",
+        "reason": "Mentions 'test' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "CSE/Cryptography/Module3/streaming/README.md": [
+      {
+        "target": "sanskrit-lit/test.md",
+        "target_name": "test",
+        "reason": "Mentions 'test' 3 time(s) but not linked",
+        "strength": 30
+      },
+      {
+        "target": "pages/kubernetes.md",
+        "target_name": "kubernetes",
+        "reason": "Mentions 'kubernetes' 2 time(s) but not linked",
+        "strength": 20
+      },
+      {
+        "target": "CSE/Cryptography/JSON.md",
+        "target_name": "JSON",
+        "reason": "Mentions 'JSON' 2 time(s) but not linked",
+        "strength": 20
+      },
+      {
+        "target": "sanskrit-lit/eye.md",
+        "target_name": "eye",
+        "reason": "Mentions 'eye' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Token Authentication.md",
+        "target_name": "Token Authentication",
+        "reason": "Related via concepts: signature, cryptograph",
+        "strength": 10
+      }
+    ],
+    "highlights/Books/Astrophysics for People in a Hurry.md": [
+      {
+        "target": "highlights/Books/India.md",
+        "target_name": "India",
+        "reason": "Mentions 'India' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "highlights/Books/Music Theory.md": [
+      {
+        "target": "sanskrit-lit/Prana.md",
+        "target_name": "Prana",
+        "reason": "Mentions 'Prana' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/VishnuSahasranamam.md",
+        "target_name": "VishnuSahasranamam",
+        "reason": "Related via concepts: prana, key",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/VishnuSahasranamam.md",
+        "target_name": "VishnuSahasranamam",
+        "reason": "Related via concepts: prana, key",
+        "strength": 10
+      }
+    ],
+    "highlights/Books/Atomic Habits.md": [
+      {
+        "target": "sanskrit-lit/test.md",
+        "target_name": "test",
+        "reason": "Mentions 'test' 2 time(s) but not linked",
+        "strength": 20
+      },
+      {
+        "target": "pages/Aggregational marginal change.md",
+        "target_name": "Aggregational marginal change",
+        "reason": "Mentions 'Aggregational marginal change' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/Agni.md",
+        "target_name": "Agni",
+        "reason": "Mentions 'Agni' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Integrity.md",
+        "target_name": "Integrity",
+        "reason": "Mentions 'Integrity' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "highlights/Books/Grit.md",
+        "target_name": "Grit",
+        "reason": "Mentions 'Grit' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "highlights/Books/Grit.md": [
+      {
+        "target": "sanskrit-lit/test.md",
+        "target_name": "test",
+        "reason": "Mentions 'test' 7 time(s) but not linked",
+        "strength": 70
+      },
+      {
+        "target": "sanskrit-lit/eye.md",
+        "target_name": "eye",
+        "reason": "Mentions 'eye' 3 time(s) but not linked",
+        "strength": 30
+      },
+      {
+        "target": "sanskrit-lit/VishnuSahasranamam.md",
+        "target_name": "VishnuSahasranamam",
+        "reason": "Related via concepts: karma, attack, yoga",
+        "strength": 20
+      },
+      {
+        "target": "sanskrit-lit/VishnuSahasranamam.md",
+        "target_name": "VishnuSahasranamam",
+        "reason": "Related via concepts: karma, attack, yoga",
+        "strength": 20
+      },
+      {
+        "target": "sanskrit-lit/VishnuSahasranamam.md",
+        "target_name": "VishnuSahasranamam",
+        "reason": "Related via concepts: karma, attack, yoga",
+        "strength": 20
+      }
+    ],
+    "highlights/Books/Why We Sleep.md": [
+      {
+        "target": "sanskrit-lit/eye.md",
+        "target_name": "eye",
+        "reason": "Mentions 'eye' 10 time(s) but not linked",
+        "strength": 100
+      },
+      {
+        "target": "sanskrit-lit/test.md",
+        "target_name": "test",
+        "reason": "Mentions 'test' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "highlights/Books/Outliers.md": [
+      {
+        "target": "sanskrit-lit/test.md",
+        "target_name": "test",
+        "reason": "Mentions 'test' 4 time(s) but not linked",
+        "strength": 40
+      },
+      {
+        "target": "sanskrit-lit/speech.md",
+        "target_name": "speech",
+        "reason": "Mentions 'speech' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/Nada.md",
+        "target_name": "Nada",
+        "reason": "Mentions 'Nada' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/eye.md",
+        "target_name": "eye",
+        "reason": "Mentions 'eye' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "highlights/Books/What If.md",
+        "target_name": "What If",
+        "reason": "Mentions 'What If' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "highlights/Books/India.md": [
+      {
+        "target": "sanskrit-lit/Sutra.md",
+        "target_name": "Sutra",
+        "reason": "Related via concepts: india, dharma, key",
+        "strength": 20
+      },
+      {
+        "target": "sanskrit-lit/Sutra.md",
+        "target_name": "Sutra",
+        "reason": "Related via concepts: india, dharma, key",
+        "strength": 20
+      },
+      {
+        "target": "sanskrit-lit/Sutra.md",
+        "target_name": "Sutra",
+        "reason": "Related via concepts: india, dharma, key",
+        "strength": 20
+      },
+      {
+        "target": "sanskrit-lit/Sutra.md",
+        "target_name": "Sutra",
+        "reason": "Related via concepts: india, dharma, key",
+        "strength": 20
+      },
+      {
+        "target": "books/Books.md",
+        "target_name": "Books",
+        "reason": "Related via concepts: india, key, sanskrit",
+        "strength": 15
+      }
+    ],
+    "highlights/Books/The Silk Roads.md": [
+      {
+        "target": "highlights/Books/India.md",
+        "target_name": "India",
+        "reason": "Mentions 'India' 2 time(s) but not linked",
+        "strength": 20
+      }
+    ],
+    "highlights/Books/Brahma Sutra Bhasya.md": [
+      {
+        "target": "sanskrit-lit/Sutra.md",
+        "target_name": "Sutra",
+        "reason": "Mentions 'Sutra' 4 time(s) but not linked",
+        "strength": 40
+      },
+      {
+        "target": "pages/GitaPravachanam.md",
+        "target_name": "GitaPravachanam",
+        "reason": "Related via concepts: veda, vedanta, upanishad",
+        "strength": 20
+      },
+      {
+        "target": "pages/GitaPravachanam.md",
+        "target_name": "GitaPravachanam",
+        "reason": "Related via concepts: veda, vedanta, upanishad",
+        "strength": 20
+      },
+      {
+        "target": "pages/GitaPravachanam.md",
+        "target_name": "GitaPravachanam",
+        "reason": "Related via concepts: veda, vedanta, upanishad",
+        "strength": 20
+      },
+      {
+        "target": "pages/GitaPravachanam.md",
+        "target_name": "GitaPravachanam",
+        "reason": "Related via concepts: veda, vedanta, upanishad",
+        "strength": 20
+      }
+    ],
+    "highlights/Books/Elon Musk.md": [
+      {
+        "target": "sanskrit-lit/eye.md",
+        "target_name": "eye",
+        "reason": "Mentions 'eye' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "highlights/Books/Speed Reading.md": [
+      {
+        "target": "pages/contents.md",
+        "target_name": "contents",
+        "reason": "Mentions 'contents' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "highlights/Books/Shoe Dog.md": [
+      {
+        "target": "CSE/Cryptography/STRIDE.md",
+        "target_name": "STRIDE",
+        "reason": "Mentions 'STRIDE' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "highlights/Books/No Rules Rules.md": [
+      {
+        "target": "highlights/Books/India.md",
+        "target_name": "India",
+        "reason": "Mentions 'India' 2 time(s) but not linked",
+        "strength": 20
+      },
+      {
+        "target": "podcast/jyothisha_rajvedam_beerbiceps.md",
+        "target_name": "jyothisha_rajvedam_beerbiceps",
+        "reason": "Related via concepts: karma, agni, key",
+        "strength": 20
+      },
+      {
+        "target": "podcast/jyothisha_rajvedam_beerbiceps.md",
+        "target_name": "jyothisha_rajvedam_beerbiceps",
+        "reason": "Related via concepts: karma, agni, key",
+        "strength": 20
+      },
+      {
+        "target": "podcast/jyothisha_rajvedam_beerbiceps.md",
+        "target_name": "jyothisha_rajvedam_beerbiceps",
+        "reason": "Related via concepts: karma, agni, key",
+        "strength": 20
+      },
+      {
+        "target": "podcast/jyothisha_rajvedam_beerbiceps.md",
+        "target_name": "jyothisha_rajvedam_beerbiceps",
+        "reason": "Related via concepts: karma, agni, key",
+        "strength": 20
+      }
+    ],
+    "highlights/Books/Moonwalking With Einstein.md": [
+      {
+        "target": "books/Books.md",
+        "target_name": "Books",
+        "reason": "Mentions 'Books' 4 time(s) but not linked",
+        "strength": 40
+      },
+      {
+        "target": "pages/contents.md",
+        "target_name": "contents",
+        "reason": "Mentions 'contents' 2 time(s) but not linked",
+        "strength": 20
+      },
+      {
+        "target": "sanskrit-lit/speech.md",
+        "target_name": "speech",
+        "reason": "Mentions 'speech' 2 time(s) but not linked",
+        "strength": 20
+      },
+      {
+        "target": "sanskrit-lit/eye.md",
+        "target_name": "eye",
+        "reason": "Mentions 'eye' 2 time(s) but not linked",
+        "strength": 20
+      },
+      {
+        "target": "sanskrit-lit/Agni.md",
+        "target_name": "Agni",
+        "reason": "Mentions 'Agni' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "highlights/Books/A Short History of Nearly Everything.md": [
+      {
+        "target": "sanskrit-lit/test.md",
+        "target_name": "test",
+        "reason": "Mentions 'test' 1 time(s) but not linked",
+        "strength": 10
+      }
+    ],
+    "highlights/Books/The 4-Hour Workweek.md": [
+      {
+        "target": "books/Books.md",
+        "target_name": "Books",
+        "reason": "Mentions 'Books' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/test.md",
+        "target_name": "test",
+        "reason": "Mentions 'test' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "sanskrit-lit/VishnuSahasranamam.md",
+        "target_name": "VishnuSahasranamam",
+        "reason": "Related via concepts: attack, key",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Hash Algorithms.md",
+        "target_name": "Hash Algorithms",
+        "reason": "Related via concepts: attack, key",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Cryptography.md",
+        "target_name": "Cryptography",
+        "reason": "Related via concepts: attack, key",
+        "strength": 10
+      }
+    ],
+    "highlights/Books/The Ride of a Lifetime.md": [
+      {
+        "target": "CSE/Cryptography/Integrity.md",
+        "target_name": "Integrity",
+        "reason": "Mentions 'Integrity' 4 time(s) but not linked",
+        "strength": 40
+      },
+      {
+        "target": "highlights/Books/Grit.md",
+        "target_name": "Grit",
+        "reason": "Mentions 'Grit' 4 time(s) but not linked",
+        "strength": 40
+      },
+      {
+        "target": "sanskrit-lit/test.md",
+        "target_name": "test",
+        "reason": "Mentions 'test' 2 time(s) but not linked",
+        "strength": 20
+      },
+      {
+        "target": "sanskrit-lit/speech.md",
+        "target_name": "speech",
+        "reason": "Mentions 'speech' 1 time(s) but not linked",
+        "strength": 10
+      },
+      {
+        "target": "CSE/Cryptography/Message Authentication Code.md",
+        "target_name": "Message Authentication Code",
+        "reason": "Related via concepts: integrity, key",
+        "strength": 10
+      }
+    ],
+    "sanskrit-lit/yoga_sutras/YogaSutras.md": [
+      {
+        "target": "sanskrit-lit/Sutra.md",
+        "target_name": "Sutra",
+        "reason": "Related via concepts: yoga, sanskrit, sutra",
+        "strength": 15
+      },
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: yoga, sanskrit, sutra",
+        "strength": 15
+      },
+      {
+        "target": "sanskrit-lit/Sutra.md",
+        "target_name": "Sutra",
+        "reason": "Related via concepts: yoga, sanskrit, sutra",
+        "strength": 15
+      },
+      {
+        "target": "video/sangam_history_of_indian_science.md",
+        "target_name": "sangam_history_of_indian_science",
+        "reason": "Related via concepts: yoga, sanskrit, sutra",
+        "strength": 15
+      },
+      {
+        "target": "sanskrit-lit/Sutra.md",
+        "target_name": "Sutra",
+        "reason": "Related via concepts: yoga, sanskrit, sutra",
+        "strength": 15
+      }
+    ],
+    "CSE/Cryptography/ENTROPY.md": [
+      {
+        "target": "CSE/Cryptography/Key exchange.md",
+        "target_name": "Key exchange",
+        "reason": "Key exchange requires entropy",
+        "strength": 15
+      },
+      {
+        "target": "sanskrit-lit/Vikalpa.md",
+        "target_name": "Vikalpa",
+        "reason": "Entropy and uncertainty/alternatives",
+        "strength": 15
+      }
+    ],
+    "Security/Authentication.md": [
+      {
+        "target": "CSE/Cryptography/Strong Authentication.md",
+        "target_name": "Strong Authentication",
+        "reason": "Related authentication concepts",
+        "strength": 15
+      }
+    ],
+    "sanskrit-lit/karma.md": [
+      {
+        "target": "sanskrit-lit/chitta.md",
+        "target_name": "chitta",
+        "reason": "Karma affects chitta",
+        "strength": 15
+      }
+    ],
+    "people/Panini.md": [
+      {
+        "target": "sanskrit-lit/Niruktha.md",
+        "target_name": "Niruktha",
+        "reason": "Both are Sanskrit grammar texts",
+        "strength": 15
+      }
+    ],
+    "sanskrit-lit/Rudra.md": [
+      {
+        "target": "sanskrit-lit/Prana.md",
+        "target_name": "Prana",
+        "reason": "Related vedic concepts",
+        "strength": 15
+      }
+    ]
+  }
+}

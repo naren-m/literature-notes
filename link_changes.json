@@ -1,0 +1,28 @@
+{
+  "timestamp": "2025-09-05T06:22:57.056376",
+  "dry_run": false,
+  "changes": [
+    {
+      "file": "sanskrit-lit/VishnuSahasranamam.md",
+      "links_added": 9,
+      "changes": [
+        {
+          "target": "Dharma",
+          "count": 9,
+          "reason": "Mentions 'Dharma' 23 time(s) but not linked"
+        }
+      ]
+    },
+    {
+      "file": "sanskrit-lit/VaishshikaSutra.md",
+      "links_added": 4,
+      "changes": [
+        {
+          "target": "Sutra",
+          "count": 4,
+          "reason": "Mentions 'Sutra' 11 time(s) but not linked"
+        }
+      ]
+    }
+  ]
+}

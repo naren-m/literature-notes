@@ -7,14 +7,14 @@
   card-last-reviewed:: 2025-08-14T15:23:41.639Z
   card-last-score:: 1
   collapsed:: true
-	- 1. ALWAYS write code that you can test.
+	- 1. ALWAYS write code that you can [[test]].
 	- 2. Prioritize Readability over clever or concise code
 	- 3. ALWAYS prioritize writing "Clean Code" over completing the task FAST
 		- 1. Ask yourself
 			- 1. is it more readable
 			- 2. can you make it more readable and maintainable
 	- 4. ALWAYS Document the process
-		- 1. Readme
+		- 1. [[Readme]]
 		- 2. Meaning full Commit messages
 	- 5. Quality metrics are just side effect of a "Good Code-base"
 -
@@ -27,7 +27,7 @@
 		- 5. Testable (UT/IT)
 	- 2. Operational state
 		- 1. Bug turn around time is less
-		- 2. Any change could be tested by Automated Test suites (including Unit and Module testing)
+		- 2. Any change could be tested by Automated [[Test]] suites (including Unit and Module testing)
 		- 3. Team can spend more time in building New Features
 		- 4. Most of the Bugs are caught in Automation runs (pre-commit, nightly)
 	- 3. Achieve 100% "State Coverage"
@@ -53,7 +53,7 @@
 -
 - ### Testing Guidelines
 	- Automated Unit Tests, Integration Tests, System Tests(End to End Tests) for all the features of Telemetry
-	- It is hard to to cover all the corner cases in the IT and E2E Test, which is where UT shines. Can achieve ~100% Branch coverage. Mock can be leveraged here.
+	- It is hard to to cover all the corner cases in the IT and E2E [[Test]], which is where UT shines. Can achieve ~100% Branch coverage. Mock can be leveraged here.
 	- Why Unit testing and the testing pyramid are covered in this Testing [Pyramid SmartDev article](https://wiki.cisco.com/display/SMARTDEV/Testing+Pyramid)
 		- [[Testing Pyramid]]
 - #### Behavior testing to improve [[State Coverage]]

@@ -1,6 +1,6 @@
 # HowToSpeakLikeHanuma
 
-Tags: #hanuma #ramayanam
+Tags: #hanuma #[[ramayanam]]
 
 Rama speaks to Lakshamana after Hanuman has introduced himself to them in [Kishkinda kanda 3rd Saraga](https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=4&language=dv&field_sarga_value=3).
 He explain how Hanuma has spoke and how he had followed all of the rules of Nava vyakarana and vedas.
@@ -57,7 +57,7 @@ Having heard him, the Illustrious Rama cheerfully said to brother Lakshmana stan
 
 नूनम् surely, अनेन by him, कृत्स्नम् entire, व्याकरणम् grammar, बहुधा in many ways, श्रुतम् studied, बहु much, व्याहरता spoken, अनेन by him, किञ्चित् even a little, अपशब्दितम् wrong pronunciation
 
-'Surely, he seems to have studied well the whole of grammar, for there is not a single mispronunciation in his entire speech.
+'Surely, he seems to have studied well the whole of grammar, for there is not a single mispronunciation in his entire [[speech]].
 
 ---
 
@@ -85,7 +85,7 @@ No fault can be found in his face, eyes, forehead, between the eyebrows or any o
 
 ఈ ఆరుగురును పాఠకాధములు
 
-> Note: Read translation for (28-31) in Kishkinda kaanda Sarga 3, 31 sloka in Ghorakpur ramayanam
+> Note: Read translation for (28-31) in Kishkinda kaanda Sarga 3, 31 sloka in Ghorakpur [[ramayanam]]
 
 ---
 
@@ -117,7 +117,7 @@ His sentences are not too elaborate, not ambiguous, not dragging, not fast, rais
 2. క్రమము (క్రమసమ్పన్నామ్): శబ్దోచ్ఛారములో శాస్త్రీయమైన పద్ధతిని 'క్రమము' అని అంటారు
 3. అవిలమ్బితామ్: ఆగకుండా ధారలముగా మాట్లాడే "అవిళంభితము" అని అంటారు
 
-> Note: Refer to Page 263 in Git apress ghorakpur Telugu Valmiki ramayanam.
+> Note: Refer to Page 263 in Git apress ghorakpur Telugu Valmiki [[ramayanam]].
 ---
 
 अनया चित्रया वाचा त्रिस्थानव्यञ्जनस्थया।
@@ -143,7 +143,7 @@ His sentences are not too elaborate, not ambiguous, not dragging, not fast, rais
 
 # The Eloquence of Hanuman: A Masterclass in Communication
 
-In the Kishkinda Kanda of the Ramayana, Hanuman’s introduction to Rama and Lakshmana is a significant moment, demonstrating his mastery of language, communication, and knowledge. Rama’s reaction to Hanuman’s speech serves as a lesson on effective communication, drawing upon the depth of the Vedas and the principles of Nava Vyakarana (nine forms of grammar).
+In the Kishkinda Kanda of the Ramayana, Hanuman’s introduction to Rama and Lakshmana is a significant moment, demonstrating his mastery of language, communication, and knowledge. Rama’s reaction to Hanuman’s [[speech]] serves as a lesson on effective communication, drawing upon the depth of the Vedas and the principles of Nava Vyakarana (nine forms of grammar).
 
 ## 1. The Power of Introduction
 
@@ -159,7 +159,7 @@ Rama recognizes Hanuman’s depth of knowledge, noting that no one could speak a
 
 > "Unless well-versed in Rigveda, Yajurveda, and Samaveda, for sure, it is not possible for anyone to articulate so well." (Kishkinda Kanda 3.28)
 
-This emphasizes that true eloquence stems from a deep understanding of language and tradition. Hanuman's speech reflects the wisdom derived from ancient scriptures, making him a credible and respected speaker.
+This emphasizes that true eloquence stems from a deep understanding of language and tradition. Hanuman's [[speech]] reflects the wisdom derived from ancient scriptures, making him a credible and respected speaker.
 
 ## 3. Mastery of Grammar
 

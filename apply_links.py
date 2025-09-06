@@ -48,7 +48,7 @@ class LinkApplicator:
         
         # Pattern to find unlinked mentions (not already in [[...]])
         # Look for the target that's not already within double brackets
-        pattern = r'(?<!\[\[)(?<!\[\[[\w\s]*)\b(' + escaped_target + r')\b(?![\w\s]*\]\])'
+        pattern = r'(?<!\[\[)\b(' + escaped_target + r')\b(?!\]\])'
         
         # Count how many replacements we'll make
         matches = re.finditer(pattern, content, re.IGNORECASE)
@@ -184,10 +184,14 @@ def main():
     )
     
     if args.apply:
-        response = input("WARNING: This will modify your files. Backups will be created. Continue? (y/n): ")
-        if response.lower() != 'y':
-            print("Aborted.")
-            return
+        import sys
+        if sys.stdin.isatty():
+            response = input("WARNING: This will modify your files. Backups will be created. Continue? (y/n): ")
+            if response.lower() != 'y':
+                print("Aborted.")
+                return
+        else:
+            print("WARNING: This will modify your files. Backups will be created. Proceeding automatically...")
             
     applicator.apply_all(max_files=args.max_files)
 

@@ -1,0 +1,3339 @@
+{
+  "nodes": [
+    {
+      "id": "sanskrit_lit_rudra",
+      "title": "Rudra",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_0"
+      ],
+      "connection_count": 1,
+      "word_count": 36,
+      "path": "sanskrit-lit/Rudra.md"
+    },
+    {
+      "id": "sanskrit_lit_hanumastuthi",
+      "title": "HanumaStuthi",
+      "type": "concept",
+      "tags": [
+        "hanuma"
+      ],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 4,
+      "word_count": 29,
+      "path": "sanskrit-lit/HanumaStuthi.md"
+    },
+    {
+      "id": "sanskrit_lit_agni",
+      "title": "Agni",
+      "type": "concept",
+      "tags": [
+        "definition",
+        "word"
+      ],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 4,
+      "word_count": 26,
+      "path": "sanskrit-lit/Agni.md"
+    },
+    {
+      "id": "sanskrit_lit_karma",
+      "title": "karma",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 2,
+      "word_count": 9,
+      "path": "sanskrit-lit/karma.md"
+    },
+    {
+      "id": "sanskrit_lit_hanuman_chalisa",
+      "title": "Hanuman Chalisa",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 4,
+      "word_count": 328,
+      "path": "sanskrit-lit/Hanuman Chalisa.md"
+    },
+    {
+      "id": "sanskrit_lit_akshara",
+      "title": "Akshara",
+      "type": "concept",
+      "tags": [
+        "definition",
+        "word"
+      ],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 3,
+      "word_count": 38,
+      "path": "sanskrit-lit/Akshara.md"
+    },
+    {
+      "id": "sanskrit_lit_brihadesi",
+      "title": "Brihadesi",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 4,
+      "word_count": 8,
+      "path": "sanskrit-lit/Brihadesi.md"
+    },
+    {
+      "id": "sanskrit_lit_sutra",
+      "title": "Sutra",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 13,
+      "word_count": 361,
+      "path": "sanskrit-lit/Sutra.md"
+    },
+    {
+      "id": "sanskrit_lit_prana",
+      "title": "Prana",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 2,
+      "word_count": 5,
+      "path": "sanskrit-lit/Prana.md"
+    },
+    {
+      "id": "sanskrit_lit_ayurvedam",
+      "title": "Ayurvedam",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_2"
+      ],
+      "connection_count": 3,
+      "word_count": 5,
+      "path": "sanskrit-lit/Ayurvedam.md"
+    },
+    {
+      "id": "sanskrit_lit_mathsya_purana",
+      "title": "mathsya purana",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_3"
+      ],
+      "connection_count": 1,
+      "word_count": 38,
+      "path": "sanskrit-lit/mathsya purana.md"
+    },
+    {
+      "id": "sanskrit_lit_chitta",
+      "title": "chitta",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 2,
+      "word_count": 2,
+      "path": "sanskrit-lit/chitta.md"
+    },
+    {
+      "id": "sanskrit_lit_vishnusahasranamambydusyanthsridhar",
+      "title": "VishnuSahasranamamByDusyanthSridhar",
+      "type": "concept",
+      "tags": [
+        "DusyanthSridhar"
+      ],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 3,
+      "word_count": 5478,
+      "path": "sanskrit-lit/VishnuSahasranamamByDusyanthSridhar.md"
+    },
+    {
+      "id": "sanskrit_lit_manas",
+      "title": "Manas",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 7,
+      "word_count": 10,
+      "path": "sanskrit-lit/Manas.md"
+    },
+    {
+      "id": "sanskrit_lit_nyayasutra",
+      "title": "NyayaSutra",
+      "type": "practice",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 2,
+      "word_count": 169,
+      "path": "sanskrit-lit/NyayaSutra.md"
+    },
+    {
+      "id": "sanskrit_lit_kavi",
+      "title": "kavi",
+      "type": "concept",
+      "tags": [
+        "gsc"
+      ],
+      "clusters": [
+        "cluster_4"
+      ],
+      "connection_count": 1,
+      "word_count": 136,
+      "path": "sanskrit-lit/kavi.md"
+    },
+    {
+      "id": "sanskrit_lit_howtospeaklikehanuma",
+      "title": "HowToSpeakLikeHanuma",
+      "type": "practice",
+      "tags": [
+        "ramayanam",
+        "hanuma"
+      ],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 6,
+      "word_count": 2073,
+      "path": "sanskrit-lit/HowToSpeakLikeHanuma.md"
+    },
+    {
+      "id": "sanskrit_lit_vikalpa",
+      "title": "Vikalpa",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 2,
+      "word_count": 2,
+      "path": "sanskrit-lit/Vikalpa.md"
+    },
+    {
+      "id": "sanskrit_lit_sivasurta",
+      "title": "SivaSurta",
+      "type": "concept",
+      "tags": [
+        "google_vignette"
+      ],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 4,
+      "word_count": 91,
+      "path": "sanskrit-lit/SivaSurta.md"
+    },
+    {
+      "id": "sanskrit_lit_vaishshikasutra",
+      "title": "VaishshikaSutra",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 2,
+      "word_count": 261,
+      "path": "sanskrit-lit/VaishshikaSutra.md"
+    },
+    {
+      "id": "sanskrit_lit_vaiseshika_darshanam",
+      "title": "Vaiseshika Darshanam",
+      "type": "concept",
+      "tags": [
+        "atomic",
+        "atom",
+        "physics"
+      ],
+      "clusters": [
+        "cluster_5"
+      ],
+      "connection_count": 1,
+      "word_count": 80,
+      "path": "sanskrit-lit/Vaiseshika Darshanam.md"
+    },
+    {
+      "id": "sanskrit_lit_amarakosham",
+      "title": "Amarakosham",
+      "type": "concept",
+      "tags": [],
+      "clusters": [],
+      "connection_count": 0,
+      "word_count": 3,
+      "path": "sanskrit-lit/Amarakosham.md"
+    },
+    {
+      "id": "sanskrit_lit_speech",
+      "title": "speech",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 2,
+      "word_count": 178,
+      "path": "sanskrit-lit/speech.md"
+    },
+    {
+      "id": "sanskrit_lit_atharvanaveda",
+      "title": "Atharvanaveda",
+      "type": "concept",
+      "tags": [],
+      "clusters": [],
+      "connection_count": 0,
+      "word_count": 2,
+      "path": "sanskrit-lit/Atharvanaveda.md"
+    },
+    {
+      "id": "sanskrit_lit_ashtadhyayi",
+      "title": "Ashtadhyayi",
+      "type": "concept",
+      "tags": [
+        "book"
+      ],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 2,
+      "word_count": 8,
+      "path": "sanskrit-lit/Ashtadhyayi.md"
+    },
+    {
+      "id": "sanskrit_lit_sulba_sutras",
+      "title": "Sulba Sutras",
+      "type": "concept",
+      "tags": [
+        "math"
+      ],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 3,
+      "word_count": 8,
+      "path": "sanskrit-lit/Sulba Sutras.md"
+    },
+    {
+      "id": "sanskrit_lit_krishna",
+      "title": "krishna",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 7,
+      "word_count": 62,
+      "path": "sanskrit-lit/krishna.md"
+    },
+    {
+      "id": "sanskrit_lit_dharma",
+      "title": "Dharma",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 7,
+      "word_count": 77,
+      "path": "sanskrit-lit/Dharma.md"
+    },
+    {
+      "id": "sanskrit_lit_acharya",
+      "title": "acharya",
+      "type": "practice",
+      "tags": [
+        "DushyanthSridar",
+        "Krishna"
+      ],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 2,
+      "word_count": 76,
+      "path": "sanskrit-lit/acharya.md"
+    },
+    {
+      "id": "sanskrit_lit_vishnusahasranamam",
+      "title": "VishnuSahasranamam",
+      "type": "practice",
+      "tags": [
+        "Pravachanam"
+      ],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 5,
+      "word_count": 11092,
+      "path": "sanskrit-lit/VishnuSahasranamam.md"
+    },
+    {
+      "id": "sanskrit_lit_nada",
+      "title": "Nada",
+      "type": "reference",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 8,
+      "word_count": 107,
+      "path": "sanskrit-lit/Nada.md"
+    },
+    {
+      "id": "sanskrit_lit_vayu",
+      "title": "Vayu",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 2,
+      "word_count": 92,
+      "path": "sanskrit-lit/Vayu.md"
+    },
+    {
+      "id": "sanskrit_lit_sangitaratnakaram",
+      "title": "Sangitaratnakaram",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 5,
+      "word_count": 13,
+      "path": "sanskrit-lit/Sangitaratnakaram.md"
+    },
+    {
+      "id": "sanskrit_lit_test",
+      "title": "test",
+      "type": "concept",
+      "tags": [],
+      "clusters": [],
+      "connection_count": 0,
+      "word_count": 2,
+      "path": "sanskrit-lit/test.md"
+    },
+    {
+      "id": "sanskrit_lit_nirvanashatakam",
+      "title": "Nirvanashatakam",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 11,
+      "word_count": 483,
+      "path": "sanskrit-lit/NirvanaShatakam.md"
+    },
+    {
+      "id": "sanskrit_lit_tithi",
+      "title": "tithi",
+      "type": "practice",
+      "tags": [],
+      "clusters": [
+        "cluster_6"
+      ],
+      "connection_count": 1,
+      "word_count": 618,
+      "path": "sanskrit-lit/tithi.md"
+    },
+    {
+      "id": "sanskrit_lit_ayurvedicremedies",
+      "title": "AyurvedicRemedies",
+      "type": "concept",
+      "tags": [
+        "remedies",
+        "ayurveda"
+      ],
+      "clusters": [
+        "cluster_2"
+      ],
+      "connection_count": 2,
+      "word_count": 142,
+      "path": "sanskrit-lit/AyurvedicRemedies.md"
+    },
+    {
+      "id": "sanskrit_lit_niruktha",
+      "title": "Niruktha",
+      "type": "concept",
+      "tags": [],
+      "clusters": [],
+      "connection_count": 1,
+      "word_count": 5,
+      "path": "sanskrit-lit/Niruktha.md"
+    },
+    {
+      "id": "sanskrit_lit_eye",
+      "title": "eye",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_7"
+      ],
+      "connection_count": 1,
+      "word_count": 44,
+      "path": "sanskrit-lit/eye.md"
+    },
+    {
+      "id": "sanskrit_lit_itheriya_brahmana",
+      "title": "Itheriya brahmana",
+      "type": "concept",
+      "tags": [],
+      "clusters": [],
+      "connection_count": 1,
+      "word_count": 3,
+      "path": "sanskrit-lit/Itheriya brahmana.md"
+    },
+    {
+      "id": "vishnusahasranamam_index",
+      "title": "VishnuSahasranamam",
+      "type": "practice",
+      "tags": [
+        "Pravachanam"
+      ],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 3,
+      "word_count": 11165,
+      "path": "sanskrit-lit/vishnusahasranamam/index.md"
+    },
+    {
+      "id": "vaishshikasutra_index",
+      "title": "VaishshikaSutra",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 2,
+      "word_count": 301,
+      "path": "sanskrit-lit/vaishshikasutra/index.md"
+    },
+    {
+      "id": "manas_index",
+      "title": "Manas",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 8,
+      "word_count": 71,
+      "path": "sanskrit-lit/manas/index.md"
+    },
+    {
+      "id": "yoga_sutras_yogasutras",
+      "title": "YogaSutras",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 6,
+      "word_count": 218,
+      "path": "sanskrit-lit/yoga_sutras/YogaSutras.md"
+    },
+    {
+      "id": "vishnusahasranamambydusyanthsridhar_index",
+      "title": "VishnuSahasranamamByDusyanthSridhar",
+      "type": "concept",
+      "tags": [
+        "DusyanthSridhar"
+      ],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 2,
+      "word_count": 5526,
+      "path": "sanskrit-lit/vishnusahasranamambydusyanthsridhar/index.md"
+    },
+    {
+      "id": "eye_index",
+      "title": "eye",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_7"
+      ],
+      "connection_count": 1,
+      "word_count": 68,
+      "path": "sanskrit-lit/eye/index.md"
+    },
+    {
+      "id": "itheriya_brahmana_index",
+      "title": "Itheriya brahmana",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_8"
+      ],
+      "connection_count": 14,
+      "word_count": 34,
+      "path": "sanskrit-lit/itheriya-brahmana/index.md"
+    },
+    {
+      "id": "sutra_index",
+      "title": "Sutra",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 4,
+      "word_count": 407,
+      "path": "sanskrit-lit/sutra/index.md"
+    },
+    {
+      "id": "test_index",
+      "title": "test",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_8"
+      ],
+      "connection_count": 13,
+      "word_count": 26,
+      "path": "sanskrit-lit/test/index.md"
+    },
+    {
+      "id": "nada_index",
+      "title": "Nada",
+      "type": "reference",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 2,
+      "word_count": 143,
+      "path": "sanskrit-lit/nada/index.md"
+    },
+    {
+      "id": "sivasurta_index",
+      "title": "SivaSurta",
+      "type": "concept",
+      "tags": [
+        "google_vignette"
+      ],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 7,
+      "word_count": 124,
+      "path": "sanskrit-lit/sivasurta/index.md"
+    },
+    {
+      "id": "kavi_index",
+      "title": "kavi",
+      "type": "concept",
+      "tags": [
+        "gsc"
+      ],
+      "clusters": [
+        "cluster_4"
+      ],
+      "connection_count": 1,
+      "word_count": 163,
+      "path": "sanskrit-lit/kavi/index.md"
+    },
+    {
+      "id": "sulba_sutras_index",
+      "title": "Sulba Sutras",
+      "type": "concept",
+      "tags": [
+        "math"
+      ],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 2,
+      "word_count": 50,
+      "path": "sanskrit-lit/sulba-sutras/index.md"
+    },
+    {
+      "id": "chitta_index",
+      "title": "chitta",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 14,
+      "word_count": 72,
+      "path": "sanskrit-lit/chitta/index.md"
+    },
+    {
+      "id": "atharvanaveda_index",
+      "title": "Atharvanaveda",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_8"
+      ],
+      "connection_count": 13,
+      "word_count": 32,
+      "path": "sanskrit-lit/atharvanaveda/index.md"
+    },
+    {
+      "id": "akshara_index",
+      "title": "Akshara",
+      "type": "concept",
+      "tags": [
+        "definition",
+        "word"
+      ],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 3,
+      "word_count": 67,
+      "path": "sanskrit-lit/akshara/index.md"
+    },
+    {
+      "id": "karma_index",
+      "title": "karma",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 10,
+      "word_count": 33,
+      "path": "sanskrit-lit/karma/index.md"
+    },
+    {
+      "id": "rudra_index",
+      "title": "Rudra",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_0"
+      ],
+      "connection_count": 1,
+      "word_count": 66,
+      "path": "sanskrit-lit/rudra/index.md"
+    },
+    {
+      "id": "nyayasutra_index",
+      "title": "NyayaSutra",
+      "type": "practice",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 2,
+      "word_count": 199,
+      "path": "sanskrit-lit/nyayasutra/index.md"
+    },
+    {
+      "id": "niruktha_index",
+      "title": "Niruktha",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_8"
+      ],
+      "connection_count": 10,
+      "word_count": 35,
+      "path": "sanskrit-lit/niruktha/index.md"
+    },
+    {
+      "id": "nirvanashatakam_index",
+      "title": "Index",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 1,
+      "word_count": 523,
+      "path": "sanskrit-lit/nirvanashatakam/index.md"
+    },
+    {
+      "id": "agni_index",
+      "title": "Agni",
+      "type": "concept",
+      "tags": [
+        "definition",
+        "word"
+      ],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 4,
+      "word_count": 100,
+      "path": "sanskrit-lit/agni/index.md"
+    },
+    {
+      "id": "hanumastuthi_index",
+      "title": "HanumaStuthi",
+      "type": "concept",
+      "tags": [
+        "hanuma"
+      ],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 5,
+      "word_count": 66,
+      "path": "sanskrit-lit/hanumastuthi/index.md"
+    },
+    {
+      "id": "krishna_index",
+      "title": "krishna",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 2,
+      "word_count": 121,
+      "path": "sanskrit-lit/krishna/index.md"
+    },
+    {
+      "id": "ashtadhyayi_index",
+      "title": "Ashtadhyayi",
+      "type": "concept",
+      "tags": [
+        "book"
+      ],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 10,
+      "word_count": 46,
+      "path": "sanskrit-lit/ashtadhyayi/index.md"
+    },
+    {
+      "id": "vikalpa_index",
+      "title": "Vikalpa",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 14,
+      "word_count": 72,
+      "path": "sanskrit-lit/vikalpa/index.md"
+    },
+    {
+      "id": "vaiseshika_darshanam_index",
+      "title": "Vaiseshika Darshanam",
+      "type": "concept",
+      "tags": [
+        "atomic",
+        "atom",
+        "physics"
+      ],
+      "clusters": [
+        "cluster_5"
+      ],
+      "connection_count": 1,
+      "word_count": 118,
+      "path": "sanskrit-lit/vaiseshika-darshanam/index.md"
+    },
+    {
+      "id": "amarakosham_index",
+      "title": "Amarakosham",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_8"
+      ],
+      "connection_count": 13,
+      "word_count": 33,
+      "path": "sanskrit-lit/amarakosham/index.md"
+    },
+    {
+      "id": "brihadesi_index",
+      "title": "Brihadesi",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 12,
+      "word_count": 68,
+      "path": "sanskrit-lit/brihadesi/index.md"
+    },
+    {
+      "id": "acharya_index",
+      "title": "acharya",
+      "type": "practice",
+      "tags": [
+        "DushyanthSridar",
+        "Krishna"
+      ],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 2,
+      "word_count": 111,
+      "path": "sanskrit-lit/acharya/index.md"
+    },
+    {
+      "id": "dharma_index",
+      "title": "Dharma",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 1,
+      "word_count": 75,
+      "path": "sanskrit-lit/dharma/index.md"
+    },
+    {
+      "id": "sangitaratnakaram_index",
+      "title": "Sangitaratnakaram",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 11,
+      "word_count": 63,
+      "path": "sanskrit-lit/sangitaratnakaram/index.md"
+    },
+    {
+      "id": "howtospeaklikehanuma_index",
+      "title": "HowToSpeakLikeHanuma",
+      "type": "practice",
+      "tags": [
+        "ramayanam",
+        "hanuma"
+      ],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 4,
+      "word_count": 2108,
+      "path": "sanskrit-lit/howtospeaklikehanuma/index.md"
+    },
+    {
+      "id": "tithi_index",
+      "title": "tithi",
+      "type": "practice",
+      "tags": [],
+      "clusters": [
+        "cluster_6"
+      ],
+      "connection_count": 1,
+      "word_count": 642,
+      "path": "sanskrit-lit/tithi/index.md"
+    },
+    {
+      "id": "mathsya_purana_index",
+      "title": "mathsya purana",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_3"
+      ],
+      "connection_count": 1,
+      "word_count": 68,
+      "path": "sanskrit-lit/mathsya-purana/index.md"
+    },
+    {
+      "id": "vayu_index",
+      "title": "Vayu",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 2,
+      "word_count": 157,
+      "path": "sanskrit-lit/vayu/index.md"
+    },
+    {
+      "id": "ayurvedicremedies_index",
+      "title": "AyurvedicRemedies",
+      "type": "concept",
+      "tags": [
+        "remedies",
+        "ayurveda"
+      ],
+      "clusters": [
+        "cluster_2"
+      ],
+      "connection_count": 2,
+      "word_count": 173,
+      "path": "sanskrit-lit/ayurvedicremedies/index.md"
+    },
+    {
+      "id": "ayurvedam_index",
+      "title": "Ayurvedam",
+      "type": "concept",
+      "tags": [],
+      "clusters": [],
+      "connection_count": 9,
+      "word_count": 35,
+      "path": "sanskrit-lit/ayurvedam/index.md"
+    },
+    {
+      "id": "hanuman_chalisa_index",
+      "title": "Hanuman Chalisa",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 3,
+      "word_count": 373,
+      "path": "sanskrit-lit/hanuman-chalisa/index.md"
+    },
+    {
+      "id": "prana_index",
+      "title": "Prana",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 11,
+      "word_count": 91,
+      "path": "sanskrit-lit/prana/index.md"
+    },
+    {
+      "id": "yogasutras_index",
+      "title": "YogaSutras",
+      "type": "concept",
+      "tags": [],
+      "clusters": [
+        "cluster_1"
+      ],
+      "connection_count": 2,
+      "word_count": 253,
+      "path": "sanskrit-lit/yoga_sutras/yogasutras/index.md"
+    }
+  ],
+  "edges": [
+    {
+      "source": "sanskrit_lit_rudra",
+      "target": "rudra_index",
+      "strength": 0.267,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_hanumastuthi",
+      "target": "sanskrit_lit_manas",
+      "strength": 0.342,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_hanumastuthi",
+      "target": "sanskrit_lit_howtospeaklikehanuma",
+      "strength": 0.151,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_hanumastuthi",
+      "target": "hanumastuthi_index",
+      "strength": 0.606,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_hanumastuthi",
+      "target": "howtospeaklikehanuma_index",
+      "strength": 0.151,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_agni",
+      "target": "sanskrit_lit_akshara",
+      "strength": 0.336,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_agni",
+      "target": "sanskrit_lit_nada",
+      "strength": 0.309,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_agni",
+      "target": "akshara_index",
+      "strength": 0.332,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_agni",
+      "target": "agni_index",
+      "strength": 0.512,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_karma",
+      "target": "sanskrit_lit_dharma",
+      "strength": 0.317,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_karma",
+      "target": "karma_index",
+      "strength": 0.229,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_hanuman_chalisa",
+      "target": "sanskrit_lit_manas",
+      "strength": 0.312,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_hanuman_chalisa",
+      "target": "sanskrit_lit_dharma",
+      "strength": 0.323,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_hanuman_chalisa",
+      "target": "manas_index",
+      "strength": 0.312,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_hanuman_chalisa",
+      "target": "hanuman_chalisa_index",
+      "strength": 0.388,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_akshara",
+      "target": "sanskrit_lit_agni",
+      "strength": 0.336,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_akshara",
+      "target": "akshara_index",
+      "strength": 0.633,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_akshara",
+      "target": "agni_index",
+      "strength": 0.327,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_brihadesi",
+      "target": "sanskrit_lit_nada",
+      "strength": 0.332,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_brihadesi",
+      "target": "sanskrit_lit_sangitaratnakaram",
+      "strength": 0.2,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_brihadesi",
+      "target": "brihadesi_index",
+      "strength": 0.2,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_brihadesi",
+      "target": "sangitaratnakaram_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sutra",
+      "target": "sanskrit_lit_nyayasutra",
+      "strength": 0.31,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sutra",
+      "target": "sanskrit_lit_howtospeaklikehanuma",
+      "strength": 0.328,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sutra",
+      "target": "sanskrit_lit_sivasurta",
+      "strength": 0.307,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sutra",
+      "target": "sanskrit_lit_vaishshikasutra",
+      "strength": 0.31,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sutra",
+      "target": "sanskrit_lit_sulba_sutras",
+      "strength": 0.31,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sutra",
+      "target": "sanskrit_lit_krishna",
+      "strength": 0.303,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sutra",
+      "target": "vaishshikasutra_index",
+      "strength": 0.312,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sutra",
+      "target": "yoga_sutras_yogasutras",
+      "strength": 0.311,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sutra",
+      "target": "sutra_index",
+      "strength": 0.384,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sutra",
+      "target": "sivasurta_index",
+      "strength": 0.31,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sutra",
+      "target": "sulba_sutras_index",
+      "strength": 0.313,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sutra",
+      "target": "nyayasutra_index",
+      "strength": 0.312,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sutra",
+      "target": "yogasutras_index",
+      "strength": 0.315,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_prana",
+      "target": "sanskrit_lit_nada",
+      "strength": 0.311,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_prana",
+      "target": "sanskrit_lit_nirvanashatakam",
+      "strength": 0.303,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_ayurvedam",
+      "target": "sanskrit_lit_ayurvedicremedies",
+      "strength": 0.314,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_ayurvedam",
+      "target": "ayurvedicremedies_index",
+      "strength": 0.32,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_ayurvedam",
+      "target": "ayurvedam_index",
+      "strength": 0.171,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_mathsya_purana",
+      "target": "mathsya_purana_index",
+      "strength": 0.325,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_chitta",
+      "target": "sanskrit_lit_nirvanashatakam",
+      "strength": 0.303,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_chitta",
+      "target": "yoga_sutras_yogasutras",
+      "strength": 0.306,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_vishnusahasranamambydusyanthsridhar",
+      "target": "sanskrit_lit_vishnusahasranamam",
+      "strength": 0.327,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_vishnusahasranamambydusyanthsridhar",
+      "target": "vishnusahasranamam_index",
+      "strength": 0.327,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_vishnusahasranamambydusyanthsridhar",
+      "target": "vishnusahasranamambydusyanthsridhar_index",
+      "strength": 0.7,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_manas",
+      "target": "sanskrit_lit_hanumastuthi",
+      "strength": 0.342,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_manas",
+      "target": "sanskrit_lit_hanuman_chalisa",
+      "strength": 0.312,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_manas",
+      "target": "sanskrit_lit_dharma",
+      "strength": 0.346,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_manas",
+      "target": "sanskrit_lit_nirvanashatakam",
+      "strength": 0.312,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_manas",
+      "target": "manas_index",
+      "strength": 0.591,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_manas",
+      "target": "hanumastuthi_index",
+      "strength": 0.355,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_manas",
+      "target": "hanuman_chalisa_index",
+      "strength": 0.312,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_nyayasutra",
+      "target": "sanskrit_lit_sutra",
+      "strength": 0.31,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_nyayasutra",
+      "target": "nyayasutra_index",
+      "strength": 0.386,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_kavi",
+      "target": "kavi_index",
+      "strength": 0.665,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_howtospeaklikehanuma",
+      "target": "sanskrit_lit_hanumastuthi",
+      "strength": 0.151,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_howtospeaklikehanuma",
+      "target": "sanskrit_lit_sutra",
+      "strength": 0.328,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_howtospeaklikehanuma",
+      "target": "sanskrit_lit_speech",
+      "strength": 0.306,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_howtospeaklikehanuma",
+      "target": "sutra_index",
+      "strength": 0.328,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_howtospeaklikehanuma",
+      "target": "hanumastuthi_index",
+      "strength": 0.151,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_howtospeaklikehanuma",
+      "target": "howtospeaklikehanuma_index",
+      "strength": 0.697,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_vikalpa",
+      "target": "sanskrit_lit_nirvanashatakam",
+      "strength": 0.303,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_vikalpa",
+      "target": "yoga_sutras_yogasutras",
+      "strength": 0.306,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sivasurta",
+      "target": "sanskrit_lit_sutra",
+      "strength": 0.307,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sivasurta",
+      "target": "sanskrit_lit_ashtadhyayi",
+      "strength": 0.34,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sivasurta",
+      "target": "sivasurta_index",
+      "strength": 0.567,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sivasurta",
+      "target": "ashtadhyayi_index",
+      "strength": 0.362,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_vaishshikasutra",
+      "target": "sanskrit_lit_sutra",
+      "strength": 0.31,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_vaishshikasutra",
+      "target": "vaishshikasutra_index",
+      "strength": 0.348,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_vaiseshika_darshanam",
+      "target": "vaiseshika_darshanam_index",
+      "strength": 0.658,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_speech",
+      "target": "sanskrit_lit_howtospeaklikehanuma",
+      "strength": 0.306,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_speech",
+      "target": "howtospeaklikehanuma_index",
+      "strength": 0.309,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_ashtadhyayi",
+      "target": "sanskrit_lit_sivasurta",
+      "strength": 0.34,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_ashtadhyayi",
+      "target": "ashtadhyayi_index",
+      "strength": 0.522,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sulba_sutras",
+      "target": "sanskrit_lit_sutra",
+      "strength": 0.31,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sulba_sutras",
+      "target": "sutra_index",
+      "strength": 0.31,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sulba_sutras",
+      "target": "sulba_sutras_index",
+      "strength": 0.467,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_krishna",
+      "target": "sanskrit_lit_sutra",
+      "strength": 0.303,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_krishna",
+      "target": "sanskrit_lit_acharya",
+      "strength": 0.336,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_krishna",
+      "target": "sanskrit_lit_vishnusahasranamam",
+      "strength": 0.301,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_krishna",
+      "target": "vishnusahasranamam_index",
+      "strength": 0.301,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_krishna",
+      "target": "sutra_index",
+      "strength": 0.305,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_krishna",
+      "target": "krishna_index",
+      "strength": 0.367,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_krishna",
+      "target": "acharya_index",
+      "strength": 0.334,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_dharma",
+      "target": "sanskrit_lit_karma",
+      "strength": 0.317,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_dharma",
+      "target": "sanskrit_lit_hanuman_chalisa",
+      "strength": 0.323,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_dharma",
+      "target": "sanskrit_lit_manas",
+      "strength": 0.346,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_dharma",
+      "target": "manas_index",
+      "strength": 0.341,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_dharma",
+      "target": "karma_index",
+      "strength": 0.315,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_dharma",
+      "target": "dharma_index",
+      "strength": 0.283,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_dharma",
+      "target": "hanuman_chalisa_index",
+      "strength": 0.326,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_acharya",
+      "target": "sanskrit_lit_krishna",
+      "strength": 0.336,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_acharya",
+      "target": "acharya_index",
+      "strength": 0.661,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_vishnusahasranamam",
+      "target": "sanskrit_lit_vishnusahasranamambydusyanthsridhar",
+      "strength": 0.327,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_vishnusahasranamam",
+      "target": "sanskrit_lit_krishna",
+      "strength": 0.301,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_vishnusahasranamam",
+      "target": "vishnusahasranamam_index",
+      "strength": 0.699,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_vishnusahasranamam",
+      "target": "vishnusahasranamambydusyanthsridhar_index",
+      "strength": 0.327,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_vishnusahasranamam",
+      "target": "krishna_index",
+      "strength": 0.301,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_nada",
+      "target": "sanskrit_lit_agni",
+      "strength": 0.309,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_nada",
+      "target": "sanskrit_lit_brihadesi",
+      "strength": 0.332,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_nada",
+      "target": "sanskrit_lit_prana",
+      "strength": 0.311,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_nada",
+      "target": "sanskrit_lit_sangitaratnakaram",
+      "strength": 0.332,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_nada",
+      "target": "nada_index",
+      "strength": 0.36,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_nada",
+      "target": "agni_index",
+      "strength": 0.316,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_nada",
+      "target": "brihadesi_index",
+      "strength": 0.34,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_nada",
+      "target": "prana_index",
+      "strength": 0.329,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_vayu",
+      "target": "sanskrit_lit_nirvanashatakam",
+      "strength": 0.31,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_vayu",
+      "target": "vayu_index",
+      "strength": 0.37,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sangitaratnakaram",
+      "target": "sanskrit_lit_brihadesi",
+      "strength": 0.2,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sangitaratnakaram",
+      "target": "sanskrit_lit_nada",
+      "strength": 0.332,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sangitaratnakaram",
+      "target": "nada_index",
+      "strength": 0.339,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sangitaratnakaram",
+      "target": "brihadesi_index",
+      "strength": 0.178,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_sangitaratnakaram",
+      "target": "sangitaratnakaram_index",
+      "strength": 0.25,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_nirvanashatakam",
+      "target": "sanskrit_lit_prana",
+      "strength": 0.303,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_nirvanashatakam",
+      "target": "sanskrit_lit_chitta",
+      "strength": 0.303,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_nirvanashatakam",
+      "target": "sanskrit_lit_manas",
+      "strength": 0.312,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_nirvanashatakam",
+      "target": "sanskrit_lit_vikalpa",
+      "strength": 0.303,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_nirvanashatakam",
+      "target": "sanskrit_lit_vayu",
+      "strength": 0.31,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_nirvanashatakam",
+      "target": "manas_index",
+      "strength": 0.311,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_nirvanashatakam",
+      "target": "chitta_index",
+      "strength": 0.306,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_nirvanashatakam",
+      "target": "nirvanashatakam_index",
+      "strength": 0.391,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_nirvanashatakam",
+      "target": "vikalpa_index",
+      "strength": 0.306,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_nirvanashatakam",
+      "target": "vayu_index",
+      "strength": 0.312,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_nirvanashatakam",
+      "target": "prana_index",
+      "strength": 0.306,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_tithi",
+      "target": "tithi_index",
+      "strength": 0.389,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_ayurvedicremedies",
+      "target": "sanskrit_lit_ayurvedam",
+      "strength": 0.314,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_ayurvedicremedies",
+      "target": "ayurvedicremedies_index",
+      "strength": 0.673,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_niruktha",
+      "target": "niruktha_index",
+      "strength": 0.171,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_eye",
+      "target": "eye_index",
+      "strength": 0.308,
+      "type": "semantic"
+    },
+    {
+      "source": "sanskrit_lit_itheriya_brahmana",
+      "target": "itheriya_brahmana_index",
+      "strength": 0.16,
+      "type": "semantic"
+    },
+    {
+      "source": "vishnusahasranamam_index",
+      "target": "sanskrit_lit_vishnusahasranamambydusyanthsridhar",
+      "strength": 0.327,
+      "type": "semantic"
+    },
+    {
+      "source": "vishnusahasranamam_index",
+      "target": "sanskrit_lit_krishna",
+      "strength": 0.301,
+      "type": "semantic"
+    },
+    {
+      "source": "vishnusahasranamam_index",
+      "target": "sanskrit_lit_vishnusahasranamam",
+      "strength": 0.699,
+      "type": "semantic"
+    },
+    {
+      "source": "vaishshikasutra_index",
+      "target": "sanskrit_lit_sutra",
+      "strength": 0.312,
+      "type": "semantic"
+    },
+    {
+      "source": "vaishshikasutra_index",
+      "target": "sanskrit_lit_vaishshikasutra",
+      "strength": 0.348,
+      "type": "semantic"
+    },
+    {
+      "source": "manas_index",
+      "target": "sanskrit_lit_hanuman_chalisa",
+      "strength": 0.312,
+      "type": "semantic"
+    },
+    {
+      "source": "manas_index",
+      "target": "sanskrit_lit_manas",
+      "strength": 0.591,
+      "type": "semantic"
+    },
+    {
+      "source": "manas_index",
+      "target": "sanskrit_lit_dharma",
+      "strength": 0.341,
+      "type": "semantic"
+    },
+    {
+      "source": "manas_index",
+      "target": "sanskrit_lit_nirvanashatakam",
+      "strength": 0.311,
+      "type": "semantic"
+    },
+    {
+      "source": "manas_index",
+      "target": "chitta_index",
+      "strength": 0.123,
+      "type": "semantic"
+    },
+    {
+      "source": "manas_index",
+      "target": "hanumastuthi_index",
+      "strength": 0.109,
+      "type": "semantic"
+    },
+    {
+      "source": "manas_index",
+      "target": "vikalpa_index",
+      "strength": 0.123,
+      "type": "semantic"
+    },
+    {
+      "source": "manas_index",
+      "target": "prana_index",
+      "strength": 0.107,
+      "type": "semantic"
+    },
+    {
+      "source": "yoga_sutras_yogasutras",
+      "target": "sanskrit_lit_sutra",
+      "strength": 0.311,
+      "type": "semantic"
+    },
+    {
+      "source": "yoga_sutras_yogasutras",
+      "target": "sanskrit_lit_chitta",
+      "strength": 0.306,
+      "type": "semantic"
+    },
+    {
+      "source": "yoga_sutras_yogasutras",
+      "target": "sanskrit_lit_vikalpa",
+      "strength": 0.306,
+      "type": "semantic"
+    },
+    {
+      "source": "yoga_sutras_yogasutras",
+      "target": "chitta_index",
+      "strength": 0.312,
+      "type": "semantic"
+    },
+    {
+      "source": "yoga_sutras_yogasutras",
+      "target": "vikalpa_index",
+      "strength": 0.312,
+      "type": "semantic"
+    },
+    {
+      "source": "yoga_sutras_yogasutras",
+      "target": "yogasutras_index",
+      "strength": 0.377,
+      "type": "semantic"
+    },
+    {
+      "source": "vishnusahasranamambydusyanthsridhar_index",
+      "target": "sanskrit_lit_vishnusahasranamambydusyanthsridhar",
+      "strength": 0.7,
+      "type": "semantic"
+    },
+    {
+      "source": "vishnusahasranamambydusyanthsridhar_index",
+      "target": "sanskrit_lit_vishnusahasranamam",
+      "strength": 0.327,
+      "type": "semantic"
+    },
+    {
+      "source": "eye_index",
+      "target": "sanskrit_lit_eye",
+      "strength": 0.308,
+      "type": "semantic"
+    },
+    {
+      "source": "itheriya_brahmana_index",
+      "target": "sanskrit_lit_itheriya_brahmana",
+      "strength": 0.16,
+      "type": "semantic"
+    },
+    {
+      "source": "itheriya_brahmana_index",
+      "target": "test_index",
+      "strength": 0.2,
+      "type": "semantic"
+    },
+    {
+      "source": "itheriya_brahmana_index",
+      "target": "sivasurta_index",
+      "strength": 0.109,
+      "type": "semantic"
+    },
+    {
+      "source": "itheriya_brahmana_index",
+      "target": "chitta_index",
+      "strength": 0.15,
+      "type": "semantic"
+    },
+    {
+      "source": "itheriya_brahmana_index",
+      "target": "atharvanaveda_index",
+      "strength": 0.2,
+      "type": "semantic"
+    },
+    {
+      "source": "itheriya_brahmana_index",
+      "target": "karma_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "itheriya_brahmana_index",
+      "target": "niruktha_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "itheriya_brahmana_index",
+      "target": "ashtadhyayi_index",
+      "strength": 0.109,
+      "type": "semantic"
+    },
+    {
+      "source": "itheriya_brahmana_index",
+      "target": "vikalpa_index",
+      "strength": 0.15,
+      "type": "semantic"
+    },
+    {
+      "source": "itheriya_brahmana_index",
+      "target": "amarakosham_index",
+      "strength": 0.171,
+      "type": "semantic"
+    },
+    {
+      "source": "itheriya_brahmana_index",
+      "target": "brihadesi_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "itheriya_brahmana_index",
+      "target": "sangitaratnakaram_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "itheriya_brahmana_index",
+      "target": "ayurvedam_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "itheriya_brahmana_index",
+      "target": "prana_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "sutra_index",
+      "target": "sanskrit_lit_sutra",
+      "strength": 0.384,
+      "type": "semantic"
+    },
+    {
+      "source": "sutra_index",
+      "target": "sanskrit_lit_howtospeaklikehanuma",
+      "strength": 0.328,
+      "type": "semantic"
+    },
+    {
+      "source": "sutra_index",
+      "target": "sanskrit_lit_sulba_sutras",
+      "strength": 0.31,
+      "type": "semantic"
+    },
+    {
+      "source": "sutra_index",
+      "target": "sanskrit_lit_krishna",
+      "strength": 0.305,
+      "type": "semantic"
+    },
+    {
+      "source": "test_index",
+      "target": "itheriya_brahmana_index",
+      "strength": 0.2,
+      "type": "semantic"
+    },
+    {
+      "source": "test_index",
+      "target": "sivasurta_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "test_index",
+      "target": "chitta_index",
+      "strength": 0.171,
+      "type": "semantic"
+    },
+    {
+      "source": "test_index",
+      "target": "atharvanaveda_index",
+      "strength": 0.24,
+      "type": "semantic"
+    },
+    {
+      "source": "test_index",
+      "target": "karma_index",
+      "strength": 0.15,
+      "type": "semantic"
+    },
+    {
+      "source": "test_index",
+      "target": "niruktha_index",
+      "strength": 0.15,
+      "type": "semantic"
+    },
+    {
+      "source": "test_index",
+      "target": "ashtadhyayi_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "test_index",
+      "target": "vikalpa_index",
+      "strength": 0.171,
+      "type": "semantic"
+    },
+    {
+      "source": "test_index",
+      "target": "amarakosham_index",
+      "strength": 0.2,
+      "type": "semantic"
+    },
+    {
+      "source": "test_index",
+      "target": "brihadesi_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "test_index",
+      "target": "sangitaratnakaram_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "test_index",
+      "target": "ayurvedam_index",
+      "strength": 0.15,
+      "type": "semantic"
+    },
+    {
+      "source": "test_index",
+      "target": "prana_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "nada_index",
+      "target": "sanskrit_lit_nada",
+      "strength": 0.36,
+      "type": "semantic"
+    },
+    {
+      "source": "nada_index",
+      "target": "sanskrit_lit_sangitaratnakaram",
+      "strength": 0.339,
+      "type": "semantic"
+    },
+    {
+      "source": "sivasurta_index",
+      "target": "sanskrit_lit_sutra",
+      "strength": 0.31,
+      "type": "semantic"
+    },
+    {
+      "source": "sivasurta_index",
+      "target": "sanskrit_lit_sivasurta",
+      "strength": 0.567,
+      "type": "semantic"
+    },
+    {
+      "source": "sivasurta_index",
+      "target": "itheriya_brahmana_index",
+      "strength": 0.109,
+      "type": "semantic"
+    },
+    {
+      "source": "sivasurta_index",
+      "target": "test_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "sivasurta_index",
+      "target": "atharvanaveda_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "sivasurta_index",
+      "target": "ashtadhyayi_index",
+      "strength": 0.154,
+      "type": "semantic"
+    },
+    {
+      "source": "sivasurta_index",
+      "target": "amarakosham_index",
+      "strength": 0.109,
+      "type": "semantic"
+    },
+    {
+      "source": "kavi_index",
+      "target": "sanskrit_lit_kavi",
+      "strength": 0.665,
+      "type": "semantic"
+    },
+    {
+      "source": "sulba_sutras_index",
+      "target": "sanskrit_lit_sutra",
+      "strength": 0.313,
+      "type": "semantic"
+    },
+    {
+      "source": "sulba_sutras_index",
+      "target": "sanskrit_lit_sulba_sutras",
+      "strength": 0.467,
+      "type": "semantic"
+    },
+    {
+      "source": "chitta_index",
+      "target": "sanskrit_lit_nirvanashatakam",
+      "strength": 0.306,
+      "type": "semantic"
+    },
+    {
+      "source": "chitta_index",
+      "target": "manas_index",
+      "strength": 0.123,
+      "type": "semantic"
+    },
+    {
+      "source": "chitta_index",
+      "target": "yoga_sutras_yogasutras",
+      "strength": 0.312,
+      "type": "semantic"
+    },
+    {
+      "source": "chitta_index",
+      "target": "itheriya_brahmana_index",
+      "strength": 0.15,
+      "type": "semantic"
+    },
+    {
+      "source": "chitta_index",
+      "target": "test_index",
+      "strength": 0.171,
+      "type": "semantic"
+    },
+    {
+      "source": "chitta_index",
+      "target": "atharvanaveda_index",
+      "strength": 0.171,
+      "type": "semantic"
+    },
+    {
+      "source": "chitta_index",
+      "target": "karma_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "chitta_index",
+      "target": "niruktha_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "chitta_index",
+      "target": "vikalpa_index",
+      "strength": 0.286,
+      "type": "semantic"
+    },
+    {
+      "source": "chitta_index",
+      "target": "amarakosham_index",
+      "strength": 0.15,
+      "type": "semantic"
+    },
+    {
+      "source": "chitta_index",
+      "target": "brihadesi_index",
+      "strength": 0.109,
+      "type": "semantic"
+    },
+    {
+      "source": "chitta_index",
+      "target": "sangitaratnakaram_index",
+      "strength": 0.109,
+      "type": "semantic"
+    },
+    {
+      "source": "chitta_index",
+      "target": "ayurvedam_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "chitta_index",
+      "target": "prana_index",
+      "strength": 0.16,
+      "type": "semantic"
+    },
+    {
+      "source": "atharvanaveda_index",
+      "target": "itheriya_brahmana_index",
+      "strength": 0.2,
+      "type": "semantic"
+    },
+    {
+      "source": "atharvanaveda_index",
+      "target": "test_index",
+      "strength": 0.24,
+      "type": "semantic"
+    },
+    {
+      "source": "atharvanaveda_index",
+      "target": "sivasurta_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "atharvanaveda_index",
+      "target": "chitta_index",
+      "strength": 0.171,
+      "type": "semantic"
+    },
+    {
+      "source": "atharvanaveda_index",
+      "target": "karma_index",
+      "strength": 0.15,
+      "type": "semantic"
+    },
+    {
+      "source": "atharvanaveda_index",
+      "target": "niruktha_index",
+      "strength": 0.15,
+      "type": "semantic"
+    },
+    {
+      "source": "atharvanaveda_index",
+      "target": "ashtadhyayi_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "atharvanaveda_index",
+      "target": "vikalpa_index",
+      "strength": 0.171,
+      "type": "semantic"
+    },
+    {
+      "source": "atharvanaveda_index",
+      "target": "amarakosham_index",
+      "strength": 0.2,
+      "type": "semantic"
+    },
+    {
+      "source": "atharvanaveda_index",
+      "target": "brihadesi_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "atharvanaveda_index",
+      "target": "sangitaratnakaram_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "atharvanaveda_index",
+      "target": "ayurvedam_index",
+      "strength": 0.15,
+      "type": "semantic"
+    },
+    {
+      "source": "atharvanaveda_index",
+      "target": "prana_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "akshara_index",
+      "target": "sanskrit_lit_agni",
+      "strength": 0.332,
+      "type": "semantic"
+    },
+    {
+      "source": "akshara_index",
+      "target": "sanskrit_lit_akshara",
+      "strength": 0.633,
+      "type": "semantic"
+    },
+    {
+      "source": "akshara_index",
+      "target": "agni_index",
+      "strength": 0.367,
+      "type": "semantic"
+    },
+    {
+      "source": "karma_index",
+      "target": "sanskrit_lit_karma",
+      "strength": 0.229,
+      "type": "semantic"
+    },
+    {
+      "source": "karma_index",
+      "target": "sanskrit_lit_dharma",
+      "strength": 0.315,
+      "type": "semantic"
+    },
+    {
+      "source": "karma_index",
+      "target": "itheriya_brahmana_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "karma_index",
+      "target": "test_index",
+      "strength": 0.15,
+      "type": "semantic"
+    },
+    {
+      "source": "karma_index",
+      "target": "chitta_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "karma_index",
+      "target": "atharvanaveda_index",
+      "strength": 0.15,
+      "type": "semantic"
+    },
+    {
+      "source": "karma_index",
+      "target": "niruktha_index",
+      "strength": 0.109,
+      "type": "semantic"
+    },
+    {
+      "source": "karma_index",
+      "target": "vikalpa_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "karma_index",
+      "target": "amarakosham_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "karma_index",
+      "target": "ayurvedam_index",
+      "strength": 0.109,
+      "type": "semantic"
+    },
+    {
+      "source": "rudra_index",
+      "target": "sanskrit_lit_rudra",
+      "strength": 0.267,
+      "type": "semantic"
+    },
+    {
+      "source": "nyayasutra_index",
+      "target": "sanskrit_lit_sutra",
+      "strength": 0.312,
+      "type": "semantic"
+    },
+    {
+      "source": "nyayasutra_index",
+      "target": "sanskrit_lit_nyayasutra",
+      "strength": 0.386,
+      "type": "semantic"
+    },
+    {
+      "source": "niruktha_index",
+      "target": "sanskrit_lit_niruktha",
+      "strength": 0.171,
+      "type": "semantic"
+    },
+    {
+      "source": "niruktha_index",
+      "target": "itheriya_brahmana_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "niruktha_index",
+      "target": "test_index",
+      "strength": 0.15,
+      "type": "semantic"
+    },
+    {
+      "source": "niruktha_index",
+      "target": "chitta_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "niruktha_index",
+      "target": "atharvanaveda_index",
+      "strength": 0.15,
+      "type": "semantic"
+    },
+    {
+      "source": "niruktha_index",
+      "target": "karma_index",
+      "strength": 0.109,
+      "type": "semantic"
+    },
+    {
+      "source": "niruktha_index",
+      "target": "ashtadhyayi_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "niruktha_index",
+      "target": "vikalpa_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "niruktha_index",
+      "target": "amarakosham_index",
+      "strength": 0.2,
+      "type": "semantic"
+    },
+    {
+      "source": "niruktha_index",
+      "target": "ayurvedam_index",
+      "strength": 0.109,
+      "type": "semantic"
+    },
+    {
+      "source": "nirvanashatakam_index",
+      "target": "sanskrit_lit_nirvanashatakam",
+      "strength": 0.391,
+      "type": "semantic"
+    },
+    {
+      "source": "agni_index",
+      "target": "sanskrit_lit_agni",
+      "strength": 0.512,
+      "type": "semantic"
+    },
+    {
+      "source": "agni_index",
+      "target": "sanskrit_lit_akshara",
+      "strength": 0.327,
+      "type": "semantic"
+    },
+    {
+      "source": "agni_index",
+      "target": "sanskrit_lit_nada",
+      "strength": 0.316,
+      "type": "semantic"
+    },
+    {
+      "source": "agni_index",
+      "target": "akshara_index",
+      "strength": 0.367,
+      "type": "semantic"
+    },
+    {
+      "source": "hanumastuthi_index",
+      "target": "sanskrit_lit_hanumastuthi",
+      "strength": 0.606,
+      "type": "semantic"
+    },
+    {
+      "source": "hanumastuthi_index",
+      "target": "sanskrit_lit_manas",
+      "strength": 0.355,
+      "type": "semantic"
+    },
+    {
+      "source": "hanumastuthi_index",
+      "target": "sanskrit_lit_howtospeaklikehanuma",
+      "strength": 0.151,
+      "type": "semantic"
+    },
+    {
+      "source": "hanumastuthi_index",
+      "target": "manas_index",
+      "strength": 0.109,
+      "type": "semantic"
+    },
+    {
+      "source": "hanumastuthi_index",
+      "target": "howtospeaklikehanuma_index",
+      "strength": 0.154,
+      "type": "semantic"
+    },
+    {
+      "source": "krishna_index",
+      "target": "sanskrit_lit_krishna",
+      "strength": 0.367,
+      "type": "semantic"
+    },
+    {
+      "source": "krishna_index",
+      "target": "sanskrit_lit_vishnusahasranamam",
+      "strength": 0.301,
+      "type": "semantic"
+    },
+    {
+      "source": "ashtadhyayi_index",
+      "target": "sanskrit_lit_sivasurta",
+      "strength": 0.362,
+      "type": "semantic"
+    },
+    {
+      "source": "ashtadhyayi_index",
+      "target": "sanskrit_lit_ashtadhyayi",
+      "strength": 0.522,
+      "type": "semantic"
+    },
+    {
+      "source": "ashtadhyayi_index",
+      "target": "itheriya_brahmana_index",
+      "strength": 0.109,
+      "type": "semantic"
+    },
+    {
+      "source": "ashtadhyayi_index",
+      "target": "test_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "ashtadhyayi_index",
+      "target": "sivasurta_index",
+      "strength": 0.154,
+      "type": "semantic"
+    },
+    {
+      "source": "ashtadhyayi_index",
+      "target": "atharvanaveda_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "ashtadhyayi_index",
+      "target": "niruktha_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "ashtadhyayi_index",
+      "target": "amarakosham_index",
+      "strength": 0.16,
+      "type": "semantic"
+    },
+    {
+      "source": "ashtadhyayi_index",
+      "target": "brihadesi_index",
+      "strength": 0.123,
+      "type": "semantic"
+    },
+    {
+      "source": "ashtadhyayi_index",
+      "target": "sangitaratnakaram_index",
+      "strength": 0.123,
+      "type": "semantic"
+    },
+    {
+      "source": "vikalpa_index",
+      "target": "sanskrit_lit_nirvanashatakam",
+      "strength": 0.306,
+      "type": "semantic"
+    },
+    {
+      "source": "vikalpa_index",
+      "target": "manas_index",
+      "strength": 0.123,
+      "type": "semantic"
+    },
+    {
+      "source": "vikalpa_index",
+      "target": "yoga_sutras_yogasutras",
+      "strength": 0.312,
+      "type": "semantic"
+    },
+    {
+      "source": "vikalpa_index",
+      "target": "itheriya_brahmana_index",
+      "strength": 0.15,
+      "type": "semantic"
+    },
+    {
+      "source": "vikalpa_index",
+      "target": "test_index",
+      "strength": 0.171,
+      "type": "semantic"
+    },
+    {
+      "source": "vikalpa_index",
+      "target": "chitta_index",
+      "strength": 0.286,
+      "type": "semantic"
+    },
+    {
+      "source": "vikalpa_index",
+      "target": "atharvanaveda_index",
+      "strength": 0.171,
+      "type": "semantic"
+    },
+    {
+      "source": "vikalpa_index",
+      "target": "karma_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "vikalpa_index",
+      "target": "niruktha_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "vikalpa_index",
+      "target": "amarakosham_index",
+      "strength": 0.15,
+      "type": "semantic"
+    },
+    {
+      "source": "vikalpa_index",
+      "target": "brihadesi_index",
+      "strength": 0.109,
+      "type": "semantic"
+    },
+    {
+      "source": "vikalpa_index",
+      "target": "sangitaratnakaram_index",
+      "strength": 0.109,
+      "type": "semantic"
+    },
+    {
+      "source": "vikalpa_index",
+      "target": "ayurvedam_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "vikalpa_index",
+      "target": "prana_index",
+      "strength": 0.16,
+      "type": "semantic"
+    },
+    {
+      "source": "vaiseshika_darshanam_index",
+      "target": "sanskrit_lit_vaiseshika_darshanam",
+      "strength": 0.658,
+      "type": "semantic"
+    },
+    {
+      "source": "amarakosham_index",
+      "target": "itheriya_brahmana_index",
+      "strength": 0.171,
+      "type": "semantic"
+    },
+    {
+      "source": "amarakosham_index",
+      "target": "test_index",
+      "strength": 0.2,
+      "type": "semantic"
+    },
+    {
+      "source": "amarakosham_index",
+      "target": "sivasurta_index",
+      "strength": 0.109,
+      "type": "semantic"
+    },
+    {
+      "source": "amarakosham_index",
+      "target": "chitta_index",
+      "strength": 0.15,
+      "type": "semantic"
+    },
+    {
+      "source": "amarakosham_index",
+      "target": "atharvanaveda_index",
+      "strength": 0.2,
+      "type": "semantic"
+    },
+    {
+      "source": "amarakosham_index",
+      "target": "karma_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "amarakosham_index",
+      "target": "niruktha_index",
+      "strength": 0.2,
+      "type": "semantic"
+    },
+    {
+      "source": "amarakosham_index",
+      "target": "ashtadhyayi_index",
+      "strength": 0.16,
+      "type": "semantic"
+    },
+    {
+      "source": "amarakosham_index",
+      "target": "vikalpa_index",
+      "strength": 0.15,
+      "type": "semantic"
+    },
+    {
+      "source": "amarakosham_index",
+      "target": "brihadesi_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "amarakosham_index",
+      "target": "sangitaratnakaram_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "amarakosham_index",
+      "target": "ayurvedam_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "amarakosham_index",
+      "target": "prana_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "brihadesi_index",
+      "target": "sanskrit_lit_brihadesi",
+      "strength": 0.2,
+      "type": "semantic"
+    },
+    {
+      "source": "brihadesi_index",
+      "target": "sanskrit_lit_nada",
+      "strength": 0.34,
+      "type": "semantic"
+    },
+    {
+      "source": "brihadesi_index",
+      "target": "sanskrit_lit_sangitaratnakaram",
+      "strength": 0.178,
+      "type": "semantic"
+    },
+    {
+      "source": "brihadesi_index",
+      "target": "itheriya_brahmana_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "brihadesi_index",
+      "target": "test_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "brihadesi_index",
+      "target": "chitta_index",
+      "strength": 0.109,
+      "type": "semantic"
+    },
+    {
+      "source": "brihadesi_index",
+      "target": "atharvanaveda_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "brihadesi_index",
+      "target": "ashtadhyayi_index",
+      "strength": 0.123,
+      "type": "semantic"
+    },
+    {
+      "source": "brihadesi_index",
+      "target": "vikalpa_index",
+      "strength": 0.109,
+      "type": "semantic"
+    },
+    {
+      "source": "brihadesi_index",
+      "target": "amarakosham_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "brihadesi_index",
+      "target": "sangitaratnakaram_index",
+      "strength": 0.311,
+      "type": "semantic"
+    },
+    {
+      "source": "brihadesi_index",
+      "target": "prana_index",
+      "strength": 0.182,
+      "type": "semantic"
+    },
+    {
+      "source": "acharya_index",
+      "target": "sanskrit_lit_krishna",
+      "strength": 0.334,
+      "type": "semantic"
+    },
+    {
+      "source": "acharya_index",
+      "target": "sanskrit_lit_acharya",
+      "strength": 0.661,
+      "type": "semantic"
+    },
+    {
+      "source": "dharma_index",
+      "target": "sanskrit_lit_dharma",
+      "strength": 0.283,
+      "type": "semantic"
+    },
+    {
+      "source": "sangitaratnakaram_index",
+      "target": "sanskrit_lit_brihadesi",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "sangitaratnakaram_index",
+      "target": "sanskrit_lit_sangitaratnakaram",
+      "strength": 0.25,
+      "type": "semantic"
+    },
+    {
+      "source": "sangitaratnakaram_index",
+      "target": "itheriya_brahmana_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "sangitaratnakaram_index",
+      "target": "test_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "sangitaratnakaram_index",
+      "target": "chitta_index",
+      "strength": 0.109,
+      "type": "semantic"
+    },
+    {
+      "source": "sangitaratnakaram_index",
+      "target": "atharvanaveda_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "sangitaratnakaram_index",
+      "target": "ashtadhyayi_index",
+      "strength": 0.123,
+      "type": "semantic"
+    },
+    {
+      "source": "sangitaratnakaram_index",
+      "target": "vikalpa_index",
+      "strength": 0.109,
+      "type": "semantic"
+    },
+    {
+      "source": "sangitaratnakaram_index",
+      "target": "amarakosham_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "sangitaratnakaram_index",
+      "target": "brihadesi_index",
+      "strength": 0.311,
+      "type": "semantic"
+    },
+    {
+      "source": "sangitaratnakaram_index",
+      "target": "prana_index",
+      "strength": 0.182,
+      "type": "semantic"
+    },
+    {
+      "source": "howtospeaklikehanuma_index",
+      "target": "sanskrit_lit_hanumastuthi",
+      "strength": 0.151,
+      "type": "semantic"
+    },
+    {
+      "source": "howtospeaklikehanuma_index",
+      "target": "sanskrit_lit_howtospeaklikehanuma",
+      "strength": 0.697,
+      "type": "semantic"
+    },
+    {
+      "source": "howtospeaklikehanuma_index",
+      "target": "sanskrit_lit_speech",
+      "strength": 0.309,
+      "type": "semantic"
+    },
+    {
+      "source": "howtospeaklikehanuma_index",
+      "target": "hanumastuthi_index",
+      "strength": 0.154,
+      "type": "semantic"
+    },
+    {
+      "source": "tithi_index",
+      "target": "sanskrit_lit_tithi",
+      "strength": 0.389,
+      "type": "semantic"
+    },
+    {
+      "source": "mathsya_purana_index",
+      "target": "sanskrit_lit_mathsya_purana",
+      "strength": 0.325,
+      "type": "semantic"
+    },
+    {
+      "source": "vayu_index",
+      "target": "sanskrit_lit_vayu",
+      "strength": 0.37,
+      "type": "semantic"
+    },
+    {
+      "source": "vayu_index",
+      "target": "sanskrit_lit_nirvanashatakam",
+      "strength": 0.312,
+      "type": "semantic"
+    },
+    {
+      "source": "ayurvedicremedies_index",
+      "target": "sanskrit_lit_ayurvedam",
+      "strength": 0.32,
+      "type": "semantic"
+    },
+    {
+      "source": "ayurvedicremedies_index",
+      "target": "sanskrit_lit_ayurvedicremedies",
+      "strength": 0.673,
+      "type": "semantic"
+    },
+    {
+      "source": "ayurvedam_index",
+      "target": "sanskrit_lit_ayurvedam",
+      "strength": 0.171,
+      "type": "semantic"
+    },
+    {
+      "source": "ayurvedam_index",
+      "target": "itheriya_brahmana_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "ayurvedam_index",
+      "target": "test_index",
+      "strength": 0.15,
+      "type": "semantic"
+    },
+    {
+      "source": "ayurvedam_index",
+      "target": "chitta_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "ayurvedam_index",
+      "target": "atharvanaveda_index",
+      "strength": 0.15,
+      "type": "semantic"
+    },
+    {
+      "source": "ayurvedam_index",
+      "target": "karma_index",
+      "strength": 0.109,
+      "type": "semantic"
+    },
+    {
+      "source": "ayurvedam_index",
+      "target": "niruktha_index",
+      "strength": 0.109,
+      "type": "semantic"
+    },
+    {
+      "source": "ayurvedam_index",
+      "target": "vikalpa_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "ayurvedam_index",
+      "target": "amarakosham_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "hanuman_chalisa_index",
+      "target": "sanskrit_lit_hanuman_chalisa",
+      "strength": 0.388,
+      "type": "semantic"
+    },
+    {
+      "source": "hanuman_chalisa_index",
+      "target": "sanskrit_lit_manas",
+      "strength": 0.312,
+      "type": "semantic"
+    },
+    {
+      "source": "hanuman_chalisa_index",
+      "target": "sanskrit_lit_dharma",
+      "strength": 0.326,
+      "type": "semantic"
+    },
+    {
+      "source": "prana_index",
+      "target": "sanskrit_lit_nada",
+      "strength": 0.329,
+      "type": "semantic"
+    },
+    {
+      "source": "prana_index",
+      "target": "sanskrit_lit_nirvanashatakam",
+      "strength": 0.306,
+      "type": "semantic"
+    },
+    {
+      "source": "prana_index",
+      "target": "manas_index",
+      "strength": 0.107,
+      "type": "semantic"
+    },
+    {
+      "source": "prana_index",
+      "target": "itheriya_brahmana_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "prana_index",
+      "target": "test_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "prana_index",
+      "target": "chitta_index",
+      "strength": 0.16,
+      "type": "semantic"
+    },
+    {
+      "source": "prana_index",
+      "target": "atharvanaveda_index",
+      "strength": 0.133,
+      "type": "semantic"
+    },
+    {
+      "source": "prana_index",
+      "target": "vikalpa_index",
+      "strength": 0.16,
+      "type": "semantic"
+    },
+    {
+      "source": "prana_index",
+      "target": "amarakosham_index",
+      "strength": 0.12,
+      "type": "semantic"
+    },
+    {
+      "source": "prana_index",
+      "target": "brihadesi_index",
+      "strength": 0.182,
+      "type": "semantic"
+    },
+    {
+      "source": "prana_index",
+      "target": "sangitaratnakaram_index",
+      "strength": 0.182,
+      "type": "semantic"
+    },
+    {
+      "source": "yogasutras_index",
+      "target": "sanskrit_lit_sutra",
+      "strength": 0.315,
+      "type": "semantic"
+    },
+    {
+      "source": "yogasutras_index",
+      "target": "yoga_sutras_yogasutras",
+      "strength": 0.377,
+      "type": "semantic"
+    }
+  ],
+  "clusters": {
+    "cluster_0": [
+      "sanskrit_lit_rudra",
+      "rudra_index"
+    ],
+    "cluster_1": [
+      "sanskrit_lit_hanumastuthi",
+      "sanskrit_lit_manas",
+      "hanumastuthi_index",
+      "sanskrit_lit_hanuman_chalisa",
+      "sanskrit_lit_dharma",
+      "sanskrit_lit_nirvanashatakam",
+      "manas_index",
+      "hanuman_chalisa_index",
+      "sanskrit_lit_karma",
+      "karma_index",
+      "dharma_index",
+      "sanskrit_lit_prana",
+      "sanskrit_lit_chitta",
+      "sanskrit_lit_vikalpa",
+      "sanskrit_lit_vayu",
+      "chitta_index",
+      "nirvanashatakam_index",
+      "vikalpa_index",
+      "vayu_index",
+      "prana_index",
+      "sanskrit_lit_nada",
+      "yoga_sutras_yogasutras",
+      "sanskrit_lit_agni",
+      "sanskrit_lit_brihadesi",
+      "sanskrit_lit_sangitaratnakaram",
+      "nada_index",
+      "agni_index",
+      "brihadesi_index",
+      "sanskrit_lit_sutra",
+      "yogasutras_index",
+      "sanskrit_lit_akshara",
+      "akshara_index",
+      "sangitaratnakaram_index",
+      "sanskrit_lit_nyayasutra",
+      "sanskrit_lit_howtospeaklikehanuma",
+      "sanskrit_lit_sivasurta",
+      "sanskrit_lit_vaishshikasutra",
+      "sanskrit_lit_sulba_sutras",
+      "sanskrit_lit_krishna",
+      "vaishshikasutra_index",
+      "sutra_index",
+      "sivasurta_index",
+      "sulba_sutras_index",
+      "nyayasutra_index",
+      "sanskrit_lit_speech",
+      "howtospeaklikehanuma_index",
+      "sanskrit_lit_ashtadhyayi",
+      "ashtadhyayi_index",
+      "sanskrit_lit_acharya",
+      "sanskrit_lit_vishnusahasranamam",
+      "vishnusahasranamam_index",
+      "krishna_index",
+      "acharya_index",
+      "sanskrit_lit_vishnusahasranamambydusyanthsridhar",
+      "vishnusahasranamambydusyanthsridhar_index"
+    ],
+    "cluster_2": [
+      "sanskrit_lit_ayurvedam",
+      "sanskrit_lit_ayurvedicremedies",
+      "ayurvedicremedies_index"
+    ],
+    "cluster_3": [
+      "sanskrit_lit_mathsya_purana",
+      "mathsya_purana_index"
+    ],
+    "cluster_4": [
+      "sanskrit_lit_kavi",
+      "kavi_index"
+    ],
+    "cluster_5": [
+      "sanskrit_lit_vaiseshika_darshanam",
+      "vaiseshika_darshanam_index"
+    ],
+    "cluster_6": [
+      "sanskrit_lit_tithi",
+      "tithi_index"
+    ],
+    "cluster_7": [
+      "sanskrit_lit_eye",
+      "eye_index"
+    ],
+    "cluster_8": [
+      "itheriya_brahmana_index",
+      "test_index",
+      "atharvanaveda_index",
+      "amarakosham_index",
+      "niruktha_index"
+    ]
+  },
+  "metadata": {
+    "total_nodes": 81,
+    "total_edges": 360,
+    "total_clusters": 9,
+    "node_types": {
+      "concept": 69,
+      "practice": 10,
+      "reference": 2
+    },
+    "avg_connections_per_node": 4.44,
+    "most_connected_nodes": [
+      {
+        "title": "Itheriya brahmana",
+        "connections": 14,
+        "type": "concept"
+      },
+      {
+        "title": "chitta",
+        "connections": 14,
+        "type": "concept"
+      },
+      {
+        "title": "Vikalpa",
+        "connections": 14,
+        "type": "concept"
+      },
+      {
+        "title": "Sutra",
+        "connections": 13,
+        "type": "concept"
+      },
+      {
+        "title": "test",
+        "connections": 13,
+        "type": "concept"
+      }
+    ],
+    "largest_clusters": [
+      {
+        "name": "cluster_1",
+        "size": 55
+      },
+      {
+        "name": "cluster_8",
+        "size": 5
+      },
+      {
+        "name": "cluster_2",
+        "size": 3
+      }
+    ]
+  }
+}

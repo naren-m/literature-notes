@@ -118,7 +118,7 @@ Achala - unmoved by enemies
 
 | S.No | Name                         | Meaning                                                                                       |
 | ---- | ---------------------------- | --------------------------------------------------------------------------------------------- |
-| 101  | vrishaakapih                 | He who lifts the world to dharma                                                              |
+| 101  | vrishaakapih                 | He who lifts the world to [[dharma]]                                                              |
 | 102  | ameyaatmaa                   | He who manifests in infinite varieties                                                        |
 | 103  | sarva-yoga-vinissritah       | He who is free from all attachments                                                           |
 | 104  | vasuh                        | The support of all elements                                                                   |
@@ -130,7 +130,7 @@ Achala - unmoved by enemies
 | 110  | amoghah                      | Ever useful                                                                                   |
 | 111  | pundareekaakshah             | He who dwells in the heart                                                                    |
 | 112  | vrishakarmaa                 | He whose every act is righteous                                                               |
-| 113  | vrishaakritih                | The form of dharma                                                                            |
+| 113  | vrishaakritih                | The form of [[dharma]]                                                                            |
 | 114  | rudrah                       | He who makes all people weep                                                                  |
 | 115  | bahu-shiraah                 | He who has many heads                                                                         |
 | 116  | babhrur                      | He who rules over all the worlds                                                              |
@@ -152,7 +152,7 @@ Achala - unmoved by enemies
 | 132  | kavih                        | The seer                                                                                      |
 | 133  | lokaadhyakshah               | He who presides over all lokas                                                                |
 | 134  | suraadhyaksho                | He who presides over all devas                                                                |
-| 135  | dharmaadhyakshah             | He who presides over dharma                                                                   |
+| 135  | dharmaadhyakshah             | He who presides over [[dharma]]                                                                   |
 | 136  | krita-akritah                | All that is created and not created                                                           |
 | 137  | chaturaatmaa                 | The four-fold self                                                                            |
 | 138  | chaturvyoohah                | Vasudeva, Sankarshan etc                                                                      |
@@ -282,7 +282,7 @@ Achala - unmoved by enemies
 | 257  | vrishaahee                   | Controller of all actions                                                                     |
 | 258  | vrishabhah                   | He who showers all dharmas                                                                    |
 | 259  | vishnuh                      | Long-striding                                                                                 |
-| 260  | vrishaparvaa                 | The ladder leading to dharma (As well as dharma itself)                                       |
+| 260  | vrishaparvaa                 | The ladder leading to [[dharma]] (As well as [[dharma]] itself)                                       |
 | 261  | vrishodarah                  | He from whose belly life showers forth                                                        |
 | 262  | vardhanah                    | The nurturer and nourisher                                                                    |
 | 263  | vardhamaanah                 | He who can grow into any dimension                                                            |
@@ -312,7 +312,7 @@ Achala - unmoved by enemies
 | 287  | sureshvarah                  | A person of extreme charity                                                                   |
 | 288  | aushadham                    | Medicine                                                                                      |
 | 289  | jagatas-setuh                | A bridge across the material energy                                                           |
-| 290  | satya-dharma-paraakramah     | One who champions heroically for truth and righteousness                                      |
+| 290  | satya-[[dharma]]-paraakramah     | One who champions heroically for truth and righteousness                                      |
 | 291  | bhoota-bhavya-bhavan-naathah | The Lord of past, present and future                                                          |
 | 292  | pavanah                      | The air that fills the universe                                                               |
 | 293  | paavanah                     | He who gives life-sustaining power to air                                                     |
@@ -341,7 +341,7 @@ Achala - unmoved by enemies
 | 311  | sishteshtah                  | The greatest beloved                                                                          |
 | 312  | shikhandee                   | He who wears a peacock feather                                                                |
 | 313  | nahushah                     | He who binds all with maya                                                                    |
-| 314  | vrishah                      | He who is dharma                                                                              |
+| 314  | vrishah                      | He who is [[dharma]]                                                                              |
 | 315  | krodhahaa                    | He who destroys anger                                                                         |
 | 316  | krodhakrit-kartaa            | He who generates anger against the lower tendency                                             |
 | 317  | visvabaahuh                  | He whose hand is in everything                                                                |
@@ -471,7 +471,7 @@ Achala - unmoved by enemies
 | 436  | anirvinnah                   | He who has no discontent                                                                      |
 | 437  | sthavishthah                 | One who is supremely huge                                                                     |
 | 438  | a-bhooh                      | One who has no birth                                                                          |
-| 439  | dharma-yoopah                | The post to which all dharma is tied                                                          |
+| 439  | [[dharma]]-yoopah                | The post to which all [[dharma]] is tied                                                          |
 | 440  | mahaa-makhah                 | The great sacrificer                                                                          |
 | 441  | nakshatranemir               | The nave of the stars                                                                         |
 | 442  | nakshatree                   | The Lord of the stars (the moon)                                                              |
@@ -939,7 +939,7 @@ Achala - unmoved by enemies
 | 883  | virochanah                   | One who shines in different forms                                                             |
 | 884  | sooryah                      | The one source from where everything is born                                                  |
 | 885  | savitaa                      | The one who brings forth the Universe from Himself                                            |
-| 886  | ravilochanah                 | One whose eye is the sun                                                                      |
+| 886  | ravilochanah                 | One whose [[eye]] is the sun                                                                      |
 | 887  | anantah                      | Endless                                                                                       |
 | 888  | hutabhuk                     | One who accepts oblations                                                                     |
 | 889  | bhoktaaA                     | One who enjoys                                                                                |

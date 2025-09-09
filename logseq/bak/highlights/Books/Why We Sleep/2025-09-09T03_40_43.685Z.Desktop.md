@@ -1,0 +1,339 @@
+# Why We Sleep
+
+![img](https://images-na.ssl-images-amazon.com/images/I/51b36-UW0xL._SL200_.jpg)
+
+## Metadata
+
+- Author: Matthew Walker
+- Full Title: Why We Sleep
+- Category: #productivity #sleep #habit
+- Document Tags: #sleep #investigate
+
+## Tags
+
+- #parenting
+
+### Highlights
+
+- Fitting Charlotte Brontë’s prophetic wisdom that “a ruffled mind makes a restless pillow,”
+  - ([Location 50](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=50))
+- the shorter your sleep, the shorter your life span. The old maxim “I’ll sleep when I’m dead”
+  - ([Location 56](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=56))
+- Dreaming provides a unique suite of benefits to all species fortunate enough to experience it, humans included. Among these gifts are a consoling neurochemical bath that mollifies painful memories and a virtual reality space in which the brain melds past and present knowledge, inspiring creativity. Downstairs in the body, sleep restocks the armory of our immune system, helping fight malignancy, preventing infection, and warding off all manner of sickness. Sleep reforms the body’s metabolic state by fine-tuning the balance of insulin and circulating glucose.
+  - ([Location 113](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=113))
+- sleep is the single most effective thing we can do to reset our brain and body health each day—Mother Nature’s best effort yet at contra-death.
+  - ([Location 125](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=125))
+- I should point out that you need not read this book in this progressive, four-part narrative arc. Each chapter can, for the most part, be read individually, and out of order, without losing too much of its significance. I therefore invite you to consume the book in whole or in part, buffet-style or in order, all according to your personal
+  - ([Location 177](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=177))
+- powerful sculpting force of your twenty-four-hour rhythm, also known as your s[[circadian rhythm]]. Everyone generates a [[circadian rhythm]] (circa, meaning “around,” and dian, derivative of diam, meaning “day”).
+  - ([Location 202](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=202))
+- De Mairan was intrigued by one plant in particular, called [[Mimosa pudica]].
+  - ([Location 215](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=215))
+- pattern of prolonged wakefulness (about
+  - ([Location 249](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=249))
+- each and every day, “winding” us back to precisely,
+  - ([Location 263](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=263))
+- Any signal that the brain uses for the purpose of clock resetting is termed a zeitgeber, from the German “time giver” or “synchronizer.” Thus,
+  - ([Location 274](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=274))
+- The twenty-four-hour biological clock sitting in the middle of your brain is called the suprachiasmatic (pronounced soo-pra-kai-as-MAT-ik) nucleus.
+  - ([Location 276](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=276))
+- instructional: supra, meaning above, and chiasm, meaning a crossing point.
+  - ([Location 277](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=277))
+- not everyone’s circadian timing is the same.
+  - ([Location 302](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=302))
+- Melatonin acts like a powerful bullhorn, shouting out a clear message to the brain and body: “It’s dark, it’s dark!”
+  - ([Location 343](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=343))
+- melatonin helps regulate the timing of when sleep occurs by systemically signaling darkness throughout the organism. But melatonin has little influence on the generation of sleep itself: a mistaken assumption that many people hold.
+  - ([Location 345](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=345))
+- To make clear this distinction, think of sleep as the Olympic 100-meter race. Melatonin is the voice of the timing official that says “Runners, on your mark,” and then fires the starting pistol that triggers the race. That timing official (melatonin) governs when the race (sleep) begins, but does not participate in the race.
+  - ([Location 347](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=347))
+- Melatonin simply provides the official instruction to commence the event of sleep, but does not participate in the sleep race itself.
+  - ([Location 351](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=351))
+- every day you are in a different time zone, your suprachiasmatic nucleus can only readjust by about one hour.
+  - ([Location 383](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=383))
+- Caffeine has an average half-life of five to seven hours. Let’s say that you have a cup of coffee after your evening dinner, around 7:30 p.m. This means that by 1:30 a.m., 50 percent of that caffeine may still be active and circulating throughout your brain tissue. In other words, by 1:30 a.m., you’re only halfway to completing the job of cleansing your brain of the caffeine you drank after dinner.
+  - ([Location 431](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=431))
+- the longer you are awake, the more adenosine builds up, creating an increasing urge (pressure) to sleep.
+  - ([Location 481](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=481))
+- First, after waking up in the morning, could you fall back asleep at ten or eleven a.m.? If the answer is “yes,” you are likely not getting sufficient sleep quantity and/or quality. Second, can you function optimally without caffeine before noon? If the answer is “no,” then you are most likely self-medicating your state of chronic sleep deprivation.
+  - ([Location 536](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=536))
+  - **Note:** Getting enough sleep?
+- All these signals still flood into the center of your brain, but it is here, in the sensory convergence zone, where that journey ends while you sleep. The signals are blocked by a perceptual barricade set up in a structure called the thalamus (THAL-uh-muhs).
+  - ([Location 612](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=612))
+  - **Tags:** #favorite
+- That is, memories were being “replayed” at the level of brain-cell activity as the rats snoozed.
+  - ([Location 640](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=640))
+- The second, more striking finding was the speed of replay. During REM sleep, the memories were being replayed far more slowly: at just half or quarter the speed of that measured when the rats were awake and learning the maze. This slow neural recounting of the day’s events is the best evidence we have to date explaining our own protracted experience of time in human REM sleep.
+  - ([Location 641](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=641))
+- scientific verification of sleep requires the recording of signals, using electrodes, arising from three different regions: (1) brainwave activity, (2) eye movement activity, and (3) muscle activity.
+  - ([Location 646](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=646))
+- humans don’t just sleep, but cycle through two completely different types of sleep. They named these sleep stages based on their defining ocular features: non–rapid eye movement, or NREM, sleep, and rapid eye movement, or REM, sleep.
+  - ([Location 660](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=660))
+- We therefore consider waking brainwave activity as that principally concerned with the reception of the outside sensory world, while the state of deep NREM slow-wave sleep donates a state of inward reflection—one that fosters information transfer and the distillation of memories.
+  - ([Location 810](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=810))
+- REM sleep has also been called paradoxical sleep: a brain that appears awake, yet a body that is clearly asleep.
+  - ([Location 817](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=817))
+- When it comes to information processing, think of the wake state principally as reception (experiencing and constantly learning the world around you), NREM sleep as reflection (storing and strengthening those raw ingredients of new facts and skills), and REM sleep as integration (interconnecting these raw ingredients with each other, with all past experiences, and, in doing so, building an ever more accurate model of how the world works, including innovative insights and problem-solving abilities).
+  - ([Location 827](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=827))
+- Regress evolutionary time still further and we have discovered that the very simplest forms of unicellular organisms that survive for periods exceeding twenty-four hours, such as bacteria, have active and passive phases that correspond to the light-dark cycle of our planet. It is a pattern that we now believe to be the precursor of our own [[circadian rhythm]], and with it, wake and sleep.
+  - ([Location 893](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=893))
+- Another remarkable difference in sleep across species is composition.
+  - ([Location 943](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=943))
+- falling prey to an evolutionarily imprinted lull in wakefulness that favors an afternoon nap, called the post-prandial alertness dip (from the Latin prandium, “meal”).
+  - ([Location 1096](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1096))
+- “I’ll read you one very last book if you swear,/You’ll go the fuck to sleep.” (I implore you to listen to the audiobook version of the work, narrated to perfection by the sensational actor Samuel L. Jackson.)
+  - ([Location 1355](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1355))
+- implying a direction of influence: deep sleep may be a driving force of brain maturation, not the other way around.
+  - ([Location 1422](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1422))
+- Most striking, the very last stop on the maturational journey was the tip of the frontal lobe, which enables rational thinking and critical decision-making. Therefore, the back of the brain of an adolescent was more adult-like, while the front of the brain remained more child-like at any one moment during this developmental window of time.XIV
+  - ([Location 1426](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1426))
+- His findings helped explain why rationality is one of the last things to flourish in teenagers, as it is the last brain territory to receive sleep’s maturational treatment.
+  - ([Location 1429](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1429))
+- “Why do most 16-year-olds drive like they’re missing part of their brain? Because they are.” It takes deep sleep, and developmental time, to accomplish the neural maturation that plugs this brain “gap” within the frontal lobe.
+  - ([Location 1432](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1432))
+- In a separate series of studies, we have also observed that in young individuals who are at high risk of developing schizophrenia, and in teenagers and young adults with schizophrenia, there is a two- to threefold reduction in deep NREM sleep.XVII Furthermore, the electrical brainwaves of NREM sleep are not normal in their shape or number in the affected individuals. Faulty pruning of brain connections in schizophrenia caused by sleep abnormalities is now one of the most active and exciting areas of investigation in psychiatric illness.XVIII
+  - ([Location 1451](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1451))
+- Adolescents face two other harmful challenges in their struggle to obtain sufficient sleep as their brains continue to develop. The first is a change in their [[circadian rhythm]]. The second is early school start times.
+  - ([Location 1456](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1456))
+- I will address the harmful and life-threatening effects of the latter in a later chapter; however, the complications of early school start times are inextricably linked with the first issue—a shift in [[circadian rhythm]].
+  - ([Location 1457](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1457))
+- children need more sleep than their older siblings or parents, but also that the [[circadian rhythm]] of a young child runs on an earlier schedule. #parenting
+  - ([Location 1462](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1462))
+- During puberty, the timing of the suprachiasmatic nucleus is shifted progressively forward: a change that is common across all adolescents, irrespective of culture or geography.
+  - ([Location 1464](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1464))
+- asking your teenage son or daughter to go to bed and fall asleep at ten p.m. is the circadian equivalent of asking you, their parent, to go to sleep at seven or eight p.m. No matter how loud you enunciate the order, no matter how much that teenager truly wishes to obey your instruction, and no matter what amount of willed effort is applied by either of the two parties, the [[circadian rhythm]] of a teenager will not be miraculously coaxed into a change. 
+  - ([Location 1477](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1477))
+- Central to the goal of adolescent development is the transition from parental dependence to independence, all the while learning to navigate the complexities of peer-group relationships and interactions.
+  - ([Location 1493](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1493))
+- One way in which Mother Nature has perhaps helped adolescents unbuckle themselves from their parents is to march their [[circadian rhythm]]s forward in time, past that of their adult mothers and fathers. This ingenious biological solution selectively shifts teenagers to a later phase when they can, for several hours, operate independently—and do so as a peer-group collective.
+  - ([Location 1494](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1494))
+- There is risk, of course. But the transition must happen. And the time of day when those independent adolescent wings unfold, and the first solo flights from the parental nest occur, is not a time of day at all, but rather a time of night, thanks to a forward-shifted [[circadian rhythm]].
+  - ([Location 1498](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1498))
+- There are additional scientific findings supporting the fact that older adults still need a full night of sleep, just like young adults,
+  - ([Location 1510](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1510))
+- These three key changes are: (1) reduced quantity/quality, (2) reduced sleep efficiency, and (3) disrupted timing of sleep.
+  - ([Location 1512](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1512))
+- some parts of the brain start losing neurons much earlier and far faster than other parts of the brain—a process called atrophy.
+  - ([Location 1598](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1598))
+- After performing hundreds of brain scans, and amassing almost a thousand hours of overnight sleep recordings, we discovered a clear answer, unfolding in a three-part story. First, the areas of the brain that suffer the most dramatic deterioration with aging are, unfortunately, the very same deep-sleep-generating regions—the middle-frontal regions seated above the bridge of the nose. When we overlaid the map of brain degeneration hot spots in the elderly on the brain map that highlighted the deep-sleep-generating regions in young adults, there was a near-perfect match. Second, and unsurprisingly, older adults suffered a 70 percent loss of deep sleep, compared with matched young individuals. Third, and most critical, we discovered that these changes were not independent, but instead significantly connected with one another: the more severe the deterioration that an older adult suffers within this specific mid-frontal region of their brain, the more dramatic their loss of deep NREM sleep. It was a saddening confirmation of my theory: the parts of our brain that ignite healthy deep sleep at night are the very same areas that degenerate, or atrophy, earliest and most severely as we age.
+  - ([Location 1599](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1599))
+- Unfortunately, the hippocampus has a limited storage capacity, almost like a camera roll or, to use a more modern-day analogy, a USB memory stick. Exceed its capacity and you run the risk of not being able to add more information or, equally bad, overwriting one memory with another: a mishap called interference forgetting.
+  - ([Location 1686](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1686))
+- You have, as a consequence, selectively enhanced only those individual memories that you want to keep. It all sounds like the stuff of science fiction, but it is now science fact: the method is called targeted memory reactivation.
+  - ([Location 1839](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1839))
+- The more of those spindles a participant had during a nap, the greater the efficiency with which they strengthened items tagged for remembering
+  - ([Location 1893](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=1893))
+- final benefit of sleep for memory is arguably the most remarkable of all: creativity. Sleep provides a nighttime theater in which your brain tests out and builds connections between vast stores of information.
+  - ([Location 2045](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2045))
+- In ways your waking brain would never attempt, the sleeping brain fuses together disparate sets of knowledge that foster impressive problem-solving abilities. If you ponder the type of conscious experience such outlandish memory blending would produce, you may not be surprised to learn that it happens during the dreaming state—REM sleep.
+  - ([Location 2048](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2048))
+- momentary lapse in concentration, called a microsleep.
+  - ([Location 2072](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2072))
+- What is the recycle rate of a human being? That is, how long can a human go without sleep before their performance is objectively impaired?
+  - ([Location 2081](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2081))
+- Those individuals who slept eight hours every night maintained a stable, near-perfect performance across the two weeks. Those in the three-night total sleep deprivation group suffered catastrophic impairment, which was no real surprise. After the first night of no sleep at all, their lapses in concentration (missed responses) increased by over 400 percent.
+  - ([Location 2104](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2104))
+- The recycle rate of a human being is around sixteen hours. After sixteen hours of being awake, the brain begins to fail. Humans need more than seven hours of sleep each night to maintain cognitive performance. After ten days of just seven hours of sleep, the brain is as dysfunctional as it would be after going without sleep for twenty-four hours. Three full nights of recovery sleep (i.e., more nights than a weekend) are insufficient to restore performance back to normal levels after a week of short sleeping. Finally, the human mind cannot accurately sense how sleep-deprived it is when sleep-deprived.
+  - ([Location 2162](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2162))
+- When Dinges and Rosekind reported their findings to the FAA, they recommended that “prophylactic naps”—naps taken early during long-haul flights—should be instituted as policy among pilots, as many other aviation authorities around the world now permit.
+  - ([Location 2231](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2231))
+- The FAA didn’t like this, either, feeling it to be too “management-like.” Their suggestion was “power napping,” which they believed was more fitting with leadership- or dominance-based job positions, others being CEOs or military executives. And so the “power nap” was born.
+  - ([Location 2234](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2234))
+- Dr. Thomas Roth at the Henry Ford Hospital in Detroit, who once said, “The number of people who can survive on five hours of sleep or less without any impairment, expressed as a percent of the population, and rounded to a whole number, is zero.”
+  - ([Location 2254](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2254))
+- Using this emotional gradient of pictures, we were able to compare the increase in brain response to the increasingly negative emotional triggers. Analysis of the brain scans revealed the largest effects I have measured in my research to date. A structure located in the left and right sides of the brain, called the amygdala—a key hot spot for triggering strong emotions such as anger and rage, and linked to the fight-or-flight response—showed well over a 60 percent amplification
+  - ([Location 2270](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2270))
+- After a full night of sleep, the prefrontal cortex—the region of the brain that sits just above your eyeballs; is most developed in humans, relative to other primates; and is associated with rational, logical thought and decision-making—was strongly coupled to the amygdala, regulating this deep emotional brain center with inhibitory control.
+  - ([Location 2278](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2278))
+- anhedonia: the inability to gain pleasure from normally pleasurable experiences, such as food, socializing, or sex.
+  - ([Location 2354](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2354))
+- E. Joseph Cossman: “The best bridge between despair and hope is a good night’s sleep.”
+  - ([Location 2366](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2366))
+- Working with mice, Nedergaard found that a kind of sewage network called the glymphatic system exists within the brain. Its name is derived from the body’s equivalent lymphatic system, but it’s composed of cells called glia (from the Greek root word for “glue”). Glial cells are distributed throughout your entire brain, situated side by side with the neurons that generate the electrical impulses of your brain.
+  - ([Location 2494](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2494))
+- Just as the lymphatic system drains contaminants from your body, the glymphatic system collects and removes dangerous metabolic contaminants generated by the hard work performed by neurons in your brain, rather like a support team surrounding an elite athlete.
+  - ([Location 2497](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2497))
+- Nedergaard and her team discovered that it is during sleep that this neural sanitization work kicks into high gear.
+  - ([Location 2499](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2499))
+- Associated with the pulsing rhythm of deep NREM sleep comes a ten- to twentyfold increase in effluent expulsion from the brain. In what can be described as a nighttime power cleanse, the purifying work of the glymphatic system is accomplished by cerebrospinal fluid that bathes the brain.
+  - ([Location 2500](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2500))
+- The glial cells of the brain were shrinking in size by up to 60 percent during NREM sleep, enlarging the space around the neurons and allowing the cerebrospinal fluid to proficiently clean out the metabolic refuse left by the day’s neural activity.
+  - ([Location 2503](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2503))
+- How does a lack of sleep hijack the body’s effective control of blood sugar? Was it a blockade of insulin release, removing the essential instruction for cells to absorb glucose? Or had the cells themselves become unresponsive to an otherwise normal and present message of insulin? As we have discovered, both are true, though the most compelling evidence indicates the latter. By taking small tissue samples, or biopsies, from participants at the end of the above experiments, we can examine how the cells of the body are operating. After participants had been restricted to four to five hours of sleep for a week, the cells of these tired individuals had become far less receptive to insulin. In this sleep-deprived state, the cells were stubbornly resisting the message from insulin and refusing to open up their surface channels. The cells were repelling rather than absorbing the dangerously high levels of glucose. The roadside drains were effectively closed shut, leading to a rising tide of blood sugar and a pre-diabetic state of hyperglycemia.
+  - ([Location 2684](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2684))
+- The first concerns two hormones controlling appetite: leptin and ghrelin.II Leptin signals a sense of feeling full. When circulating levels of leptin are high, your appetite is blunted and you don’t feel like eating. Ghrelin, in contrast, triggers a strong sensation of hunger. When ghrelin levels increase, so, too, does your desire to eat.
+  - ([Location 2696](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2696))
+- Inadequate sleep decreased concentrations of the satiety-signaling hormone leptin and increased levels of the hunger-instigating hormone ghrelin. It was a classic case of physiological double jeopardy: participants were being punished twice for the same offense of short sleeping: once by having the “I’m full” signal removed from their system, and once by gaining the “I’m still hungry” feeling being amplified. As a result, participants just didn’t feel satisfied by food when they were short sleeping.
+  - ([Location 2715](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2715))
+- As Van Cauter has elegantly described to me, a sleep-deprived body will cry famine in the midst of plenty.
+  - ([Location 2722](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2722))
+- Do you actually eat more when sleeping less? Does your waistline really swell as a consequence of that rise in appetite?
+  - ([Location 2723](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2723))
+- Of relevance to this behavior is a recent discovery that sleep loss increases levels of circulating endocannabinoids, which, as you may have guessed from the name, are chemicals produced by the body that are very similar to the drug cannabis. Like marijuana use, these chemicals stimulate appetite and increase your desire to snack, otherwise known as having the munchies. Combine
+  - ([Location 2742](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2742))
+- Comparing the patterns of brain activity between the two conditions within the same individual, we discovered that supervisory regions in the prefrontal cortex required for thoughtful judgments and controlled decisions had been silenced in their activity by a lack of sleep.
+  - ([Location 2768](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2768))
+- In contrast, the more primal deep-brain structures that drive motivations and desire were amplified in response to the food images.
+  - ([Location 2770](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2770))
+- This shift to a more primitive pattern of brain activity without deliberative control came with a change in the participants’ food choices. High-calorie foods became significantly more desirable in the eyes of the participants when sleep-deprived.
+  - ([Location 2771](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2771))
+- When you are not getting enough sleep, the body becomes especially stingy about giving up fat. Instead, muscle mass is depleted while fat is retained.
+  - ([Location 2800](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2800))
+- The upshot of all this work can be summarized as follows: short sleep (of the type that many adults in first-world countries commonly and routinely report) will increase hunger and appetite, compromise impulse control within the brain, increase food consumption (especially of high-calorie foods), decrease feelings of food satisfaction after eating, and prevent effective weight loss when dieting.
+  - ([Location 2802](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=2802))
+- Last night, you became flagrantly psychotic. It will happen again tonight. Before you reject this diagnosis, allow me to offer five justifying reasons. First, when you were dreaming last night, you started to see things that were not there—you were hallucinating. Second, you believed things that could not possibly be true—you were delusional. Third, you became confused about time, place, and person—you were disoriented. Fourth, you had extreme swings in your emotions—something psychiatrists call being affectively labile. Fifth (and how delightful!), you woke up this morning and forgot most, if not all, of this bizarre dream experience—you were suffering from amnesia.
+  - ([Location 3001](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3001))
+  - **Tags:** #favorite
+- there are four main clusters of the brain that spike in activity when someone starts dreaming in REM sleep: (1) the visuospatial regions at the back of the brain, which enable complex visual perception; (2) the motor cortex, which instigates movement; (3) the hippocampus and surrounding regions that we have spoken about before, which support your autobiographical memory; and (4) the deep emotional centers of the brain—the amygdala and the cingulate cortex, a ribbon of tissue that sits above the amygdala and lines the inner surface of your brain—both of which help generate and process emotions.
+  - ([Location 3039](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3039))
+- Discussed in chapter 7, the prefrontal cortex acts like the CEO of the brain. This region, especially the left and right sides, manages rational thought and logical decision-making, sending “top-down” instructions to your more primitive deep-brain centers, such as those instigating emotions.
+  - ([Location 3051](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3051))
+- Rather, a unique combination of REM sleep plus dreaming, and dreaming of very particular experiences, is needed to transact these nighttime benefits.
+  - ([Location 3215](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3215))
+- Dreams are not the heat of the lightbulb—they are no by-product. The first function involves nursing our emotional and mental health, and is the focus of this chapter. The second is problem solving and creativity, the power of which some individuals try to harness more fully by controlling their dreams, which we treat in the next chapter.
+  - ([Location 3219](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3219))
+- REM sleep is necessary, but REM sleep alone is not sufficient.
+  - ([Location 3219](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3219))
+- DREAMING—THE SOOTHING BALM
+  - ([Location 3222](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3222))
+- It is said that time heals all wounds.
+  - ([Location 3223](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3223))
+- Perhaps it was not time that heals all wounds, but rather time spent in dream sleep. Note: troumatic inces become less troumatic after time we spent in dreams (may be no solid proof)
+  - ([Location 3224](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3224))
+- That is, REM-sleep dreaming takes the painful sting out of difficult, even traumatic, emotional episodes you have experienced during the day, offering emotional resolution when you awake the next morning.
+  - ([Location 3226](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3226))
+- Concentrations of a key stress-related chemical called noradrenaline are completely shut off within your brain when you enter this dreaming sleep state.
+  - ([Location 3228](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3228))
+- In fact, REM sleep is the only time during the twenty-four-hour period when your brain is completely devoid of this anxiety-triggering molecule.
+  - ([Location 3229](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3229))
+- Noradrenaline, also known as norepinephrine, is the brain equivalent to a body chemical you already know and have felt the effects of: adrenaline (epinephrine).
+  - ([Location 3230](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3230))
+- key emotion- and memory-related structures of the brain are all reactivated during REM sleep, as we dream: the amygdala and emotion-related regions of the cortex, and the key mnemonic center, the hippocampus.
+  - ([Location 3232](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3232))
+- but now we understood that this emotional memory reactivation was occurring in a brain free of a key stress chemical.
+  - ([Location 3234](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3234))
+- It postulated that the process of REM-sleep dreaming accomplishes two critical goals: (1) sleeping to remember the details of those valuable, salient experiences, integrating them with existing knowledge and putting them into autobiographical perspective, yet (2) sleeping to forget, or dissolve, the visceral, painful emotional charge that had previously been wrapped around those memories.
+  - ([Location 3238](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3238))
+- Those who slept in between the two sessions reported a significant decrease in how emotional they were feeling in response to seeing those images again. In addition, results of the MRI scans showed a large and significant reduction in reactivity in the amygdala, that emotional center of the brain that creates painful feelings.
+  - ([Location 3263](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3263))
+  - **Note:** Two groups
+    slept between reseeing the emotionlly disturbing images and others didnt sleep
+    slept goup were able to hndlle this better
+- It turns out that the drug prazosin, which Raskind was prescribing simply to lower blood pressure, also has the fortuitous side effect of suppressing noradrenaline in the brain.
+  - ([Location 3323](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3323))
+  - **Tags:** #investigate, #favorite
+- REM sleep and the act of dreaming have another distinct benefit: intelligent information processing that inspires creativity and promotes problem solving.
+  - ([Location 3398](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3398))
+- During the dreaming sleep state, your brain will cogitate vast swaths of acquired knowledge,I and then extract overarching rules and commonalities—“the gist.”
+  - ([Location 3402](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3402))
+- the dream of Dmitri Mendeleev on February 17, 1869, which led to the periodic table of elements: the sublime ordering of all known constituent building blocks of nature.
+  - ([Location 3408](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3408))
+- Mendeleev, a Russian chemist of renowned ingenuity, had an obsession. He felt there might be an organizational logic to the known elements in the universe, euphemistically described by some as the search for God’s abacus. As proof of his obsession, Mendeleev made his own set of playing cards, with each card representing one of the universal elements and its unique chemical and physical properties.
+  - ([Location 3409](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3409))
+- He would sit in his office, at home, or on long train rides, and maniacally deal the shuffled deck down onto a table, one card at a time, trying to deduce the rule of all rules that would explain how this ecumenical jigsaw puzzle fit together. For years he pondered the riddle of nature. For years he failed. After allegedly having not slept for three days and three nights, he’d reached a crescendo of frustration with the challenge. While the extent of sleep deprivation seems unlikely, a clear truth was Mendeleev’s continued failure to crack the code. Succumbing to exhaustion, and with the elements still swirling in his mind and refusing organized logic, Mendeleev lay down to sleep. As he slept, he dreamed, and his dreaming brain accomplished what his waking brain was incapable of. The dream took hold of the swirling ingredients in his mind and, in a moment of creative brilliance, snapped them together in a divine grid, with each row (period) and each column (group) having a logical progression of atomic and orbiting electron characteristics, respectively. In Mendeleev’s own words:II I saw in a dream a table where all the elements fell into place as required. Awakening, I immediately wrote it down on a piece of paper. Only in one place did a correction later seem necessary.
+  - ([Location 3412](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3412))
+- Loewi dreamed of a clever experiment on two frogs’ hearts that would ultimately reveal how nerve cells communicate with each other using chemicals (neurotransmitters) released across tiny gaps that separate them (synapses), rather than direct electrical signaling that could only happen if they were physically touching each other.
+  - ([Location 3426](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3426))
+- So profound was this dream-implanted discovery that it won Loewi a Nobel Prize.
+  - ([Location 3429](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3429))
+- From the REM-sleep dreaming state, almost anything goes—and the more bizarre the better, the results suggested.
+  - ([Location 3499](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3499))
+- As we enter REM sleep and dreaming takes hold, an inspired form of memory mixology begins to occur. No longer are we constrained to see the most typical and plainly obvious connections between memory units. On the contrary, the brain becomes actively biased toward seeking out the most distant, nonobvious links between sets of information.
+  - ([Location 3502](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3502))
+  - **Note:** Anything can hapen in dreams ni common sense bias it is the ultimate creative engine
+- First, if we feed a waking brain with the individual ingredients of a problem, novel connections and problem solutions should preferentially—if not exclusively—emerge after time spent in the REM dreaming state, relative to an equivalent amount of deliberative time spent awake. Second, the content of people’s dreams, above and beyond simply having REM sleep, should determine the success of those hyper-associative problem-solving benefits.
+  - ([Location 3511](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3511))
+- It is sleep that builds connections between distantly related informational elements that are not obvious in the light of the waking day.
+  - ([Location 3527](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3527))
+- It is the difference between knowledge (retention of individual facts) and wisdom (knowing what they all mean when you fit them together). Or, said more simply, learning versus comprehension. REM sleep allows your brain to move beyond the former and truly grasp the latter.
+  - ([Location 3528](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3528))
+- Perhaps the most striking proof of sleep-inspired insight, and one I most frequently describe when giving talks to start-up, tech, or innovative business companies to help them prioritize employee sleep, comes from a study conducted by Dr. Ullrich Wagner at the University of Lübeck, Germany. Trust me when I say you’d really rather not be a participant in these experiments. Not because you have to suffer extreme sleep deprivation for days, but because you have to work through hundreds of miserably laborious number-string problems, almost like having to do long division for an hour or more. Actually “laborious” is far too generous a description. It’s possible some people have lost the will to live while trying to sit and solve hundreds of these number problems!
+  - ([Location 3544](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3544))
+- The author John Steinbeck wrote, “A problem difficult at night is resolved in the morning after the committee of sleep has worked on it.”
+  - ([Location 3563](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3563))
+- The content of one’s dreams, more than simply dreaming per se, or even sleeping, determines problem-solving success.
+  - ([Location 3564](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3564))
+- What we do know, however, is that Edison was a habitual daytime napper. He understood the creative brilliance of dreaming, and used it ruthlessly as a tool, describing it as “the genius gap.”
+  - ([Location 3594](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3594))
+- Lucid dreaming occurs at the moment when an individual becomes aware that he or she is dreaming.
+  - ([Location 3603](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3603))
+- However, the term is more colloquially used to describe gaining volitional control of what an individual is dreaming, and the ability to manipulate that experience, such as deciding to fly, or perhaps even the functions of it, such as problem solving. The
+  - ([Location 3603](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3603))
+- REM sleep, however, all voluntary muscles are paralyzed, preventing the dreamer from acting out ongoing mental experience. Yet, the muscles that control the eyes are spared from this paralysis, and give this stage of sleep its frenetic name. Lucid dreamers were able to take advantage of this ocular freedom, communicating with the researchers through eye movements. Pre-defined eye movements would therefore inform the researchers of the nature of the lucid dream (e.g., the participant made three deliberate leftward eye movements when they gained lucid dream control, two rightward eye movements before clenching their right hand, etc.).
+  - ([Location 3611](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3611))
+- Being sleep deprived is not insomnia. In the field of medicine, sleep deprivation is considered as (i) having the adequate ability to sleep; yet (ii) giving oneself an inadequate opportunity to sleep—that is, sleep-deprived individuals can sleep, if only they would take the appropriate time to do so.
+  - ([Location 3701](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3701))
+- Insomnia is the opposite: (i) suffering from an inadequate ability to generate sleep, despite (ii) allowing oneself the adequate opportunity to get sleep.
+  - ([Location 3703](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3703))
+- One distinction separates insomnia into two kinds. The first is sleep onset insomnia, which is difficulty falling asleep. The second is sleep maintenance insomnia, or difficulty staying asleep. As the actor and comedian Billy Crystal has said when describing his own battles with insomnia, “I sleep like a baby—I wake up every hour.”
+  - ([Location 3713](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3713))
+- Dissatisfaction with sleep quantity or quality (e.g., difficulty falling asleep, staying sleep, early-morning awakening) Suffering significant distress or daytime impairment Has insomnia at least three nights each week for more than three months Does not have any coexisting mental disorders or medical conditions that could otherwise cause what appears to be insomnia
+  - ([Location 3718](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3718))
+- In the good sleepers, the parts of the brain related to inciting emotions (the amygdala) and those linked to memory retrospection (the hippocampus) quickly ramped down in their levels of activity as they transitioned toward sleep, as did basic alertness regions in the brain stem. This was not the case for the insomnia patients.
+  - ([Location 3778](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3778))
+- The sleep-wake switch within the hypothalamus has a direct line of communication to the power station regions of the brain stem. Like an electrical light switch, it can flip the power on (wake) or off (sleep). To do this, the sleep-wake switch in the hypothalamus releases a neurotransmitter called orexin. You can think of orexin as the chemical finger that flips the switch to the “on,” wakefulness, position. When orexin is released down onto your brain stem, the switch has been unambiguously flipped, powering up the wakefulness-generating centers of the brain stem. Once activated by the switch, the brain stem pushes open the sensory gate of the thalamus, allowing the perceptual world to flood into your brain, transitioning you to full, stable wakefulness. At night, the opposite happens. The sleep-wake switch stops releasing orexin onto the brain stem. The chemical finger has now flipped the switch to the “off” position, shutting down the rousing influence from the power station of the brain stem.
+  - ([Location 3881](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=3881))
+- five key factors have powerfully changed how much and how well we sleep: (1) constant electric light as well as LED light, (2) regularized temperature, (3) caffeine (discussed in chapter 2), (4) alcohol, and (5) a legacy of punching time cards.
+  - ([Location 4103](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4103))
+- It is this set of societally engineered forces that are responsible for many an individual’s mistaken belief that they are suffering from medical insomnia.
+  - ([Location 4104](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4104))
+- Humans are predominantly visual creatures. More than a third of our brain is devoted to processing visual information, far exceeding that given over to sounds or smells, or those supporting language and movement.
+  - ([Location 4111](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4111))
+- Artificial evening and nighttime light can therefore masquerade as sleep-onset insomnia—the inability to begin sleeping soon after getting into bed.
+  - ([Location 4145](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4145))
+- What of a petite bedside lamp? How much can that really influence your suprachiasmatic nucleus? A lot, it turns out. Even a hint of dim light—8 to 10 lux—has been shown to delay the release of nighttime melatonin in humans. The feeblest of bedside lamps pumps out twice as much: anywhere from 20 to 80 lux. A subtly lit living room, where most people reside in the hours before bed, will hum at around 200 lux. Despite being just 1 to 2 percent of the strength of daylight, this ambient level of incandescent home lighting can have 50 percent of the melatonin-suppressing influence within the brain.
+  - ([Location 4150](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4150))
+- As a consequence, evening blue LED light has twice the harmful impact on nighttime melatonin suppression than the warm, yellow light from old incandescent bulbs, even when their lux intensities are matched.
+  - ([Location 4159](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4159))
+- One of the earliest studies found that using an iPad—an electronic tablet enriched with blue LED light—for two hours prior to bed blocked the otherwise rising levels of melatonin by a significant 23 percent. A more recent report took the story several concerning steps further. Healthy adults lived for a two-week period in a tightly controlled laboratory environment.
+  - ([Location 4165](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4165))
+- The two-week period was split in half, containing two different experimental arms that everyone passed through: (1) five nights of reading a book on an iPad for several hours before bed (no other iPad uses, such as email or Internet, were allowed), and (2) five nights of reading a printed paper book for several hours before bed, with the two conditions randomized in terms of which the participants experienced as first or second.
+  - ([Location 4167](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4167))
+- Compared to reading a printed book, reading on an iPad suppressed melatonin release by over 50 percent at night. Indeed, iPad reading delayed the rise of melatonin by up to three hours, relative to the natural rise in these same individuals when reading a printed book. When reading on the iPad, their melatonin peak, and thus instruction to sleep, did not occur until the early-morning hours, rather than before midnight. Unsurprisingly, individuals took longer to fall asleep after iPad reading relative to print-copy reading.
+  - ([Location 4170](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4170))
+- But did reading on the iPad actually change sleep quantity/quality above and beyond the timing of melatonin? It did, in three concerning ways. First, individuals lost significant amounts of REM sleep following iPad reading. Second, the research subjects felt less rested and sleepier throughout the day following iPad use at night. Third was a lingering aftereffect, with participants suffering a ninety-minute lag in their evening rising melatonin levels for several days after iPad use ceased—almost like a digital hangover effect.
+  - ([Location 4174](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4174))
+- To successfully initiate sleep, as described in chapter 2, your core temperature needs to decrease by 2 to 3 degrees Fahrenheit, or about 1 degree Celsius. For this reason, you will always find it easier to fall asleep in a room that is too cold than too hot, since a room that is too cold is at least dragging your brain and body in the correct (downward) temperature direction for sleep.
+  - ([Location 4261](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4261))
+- Knowingly or not, you have probably used this proven temperature manipulation to help your own sleep. A luxury for many is to draw a hot bath in the evening and soak the body before bedtime. We feel it helps us fall asleep more quickly, which it can, but for the opposite reason most people imagine. You do not fall asleep faster because you are toasty and warm to the core. Instead, the hot bath invites blood to the surface of your skin, giving you that flushed appearance. When you get out of the bath, those dilated blood vessels on the surface quickly help radiate out inner heat, and your core body temperature plummets. Consequently, you fall asleep more quickly because your core is colder. Hot baths prior to bed can also induce 10 to 15 percent more deep NREM sleep in healthy adults.IV
+  - ([Location 4326](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4326))
+- Adding to the harm of evening light and constant temperature, the industrial era inflicted another damaging blow to our sleep: enforced awakening. With the dawn of the industrial age and the emergence of large factories came a challenge: How can you guarantee the en masse arrival of a large workforce all at the same time, such as at the start of a shift? The solution came in the form of the factory whistle—arguably the earliest (and loudest) version of an alarm clock.
+  - ([Location 4332](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4332))
+- The whistle’s skirl across the working village aimed to wrench large numbers of individuals from sleep at the same morning hour day after day. A second whistle would often signal the beginning of the work shift itself.
+  - ([Location 4336](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4336))
+- Most of us are unaware of an even greater danger that lurks within the alarm clock: the snooze button. If alarming your heart, quite literally, were not bad enough, using the snooze feature means that you will repeatedly inflict that cardiovascular assault again and again within a short span of time.
+  - ([Location 4343](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4343))
+- To morph an agricultural concept from the wonderful writer and poet Wendell Berry,VII modern society has taken one of nature’s perfect solutions (sleep) and neatly divided it into two problems: (1) a lack thereof at night, resulting in (2) an inability to remain fully awake during the day.
+  - ([Location 4362](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4362))
+- After a period of intense learning, researchers at the University of Pennsylvania gave animals a weight-appropriate dose of Ambien or a placebo and then examined the change in brain rewiring after sleep in both groups. As expected, natural sleep solidified memory connections within the brain in the placebo condition that had been formed during the initial learning phase.
+  - ([Location 4434](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4434))
+  - **Tags:** #favorite
+- Ambien-induced sleep, however, not only failed to match these benefits (despite the animals sleeping just as long), but caused a 50 percent weakening (unwiring) of the brain-cell connections originally formed during learning.
+  - ([Location 4436](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4436))
+- Most controversial and alarming are those highlighted by Dr. Daniel Kripke, a physician at the University of California, San Diego. Kripke discovered that individuals using prescription sleep medications are significantly more likely to die and to develop cancer than those who do not.IV I should note at the outset that Kripke (like me) has no vested interest in any particular drug company, and therefore does not stand to financially gain or lose on the basis of a particular examination of health relationships that exist with sleeping pills—good or bad.
+  - ([Location 4446](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4446))
+- The obvious methods involve reducing caffeine and alcohol intake, removing screen technology from the bedroom, and having a cool bedroom. In addition, patients must (1) establish a regular bedtime and wake-up time, even on weekends, (2) go to bed only when sleepy and avoid sleeping on the couch early/mid-evenings, (3) never lie awake in bed for a significant time period; rather, get out of bed and do something quiet and relaxing until the urge to sleep returns, (4) avoid daytime napping if you are having difficulty sleeping at night, (5) reduce anxiety-provoking thoughts and worries by learning to mentally decelerate before bed, and (6) remove visible clockfaces from view in the bedroom, preventing clock-watching anxiety at night.
+  - ([Location 4522](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4522))
+  - **Tags:** #favorite
+- Deep currents of sleep neglect circulate throughout all developed nations, and it is for these reasons that the World Health Organization now labels the lack of societal sleep as a global health epidemic. Taken as a whole, one out of every two adults across all developed countries (approximately 800 million people) will not get the necessary sleep they need this coming week.
+  - ([Location 4626](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4626))
+- Below, I offer four diverse yet clear examples of how insufficient sleep is impacting the fabric of human society. These are: sleep in the workplace, torture (yes, torture), sleep in the education system, and sleep in medicine and health care.
+  - ([Location 4639](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4639))
+- Some governments do not share these same moral values. They will sleep deprive individuals against their will under the auspice of torture. This ethically and politically treacherous landscape may seem like an odd topic to include in this book. But I address it because it powerfully illuminates how humanity must reevaluate its views on sleep at the highest level of societal structure—that of government—and because it provides a clear example of how we can sculpt an increasingly admirable civilization by respecting, rather than abusing, sleep.
+  - ([Location 4770](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4770))
+- A 2007 report entitled “Leave No Marks: Enhanced Interrogation Techniques and the Risk of Criminality” offers a disquieting account of such practices in the modern day. The document was compiled by Physicians for Human Rights, an advocacy group seeking to end human torture. Telegraphed by the report’s title, many modern-day torture methods are deviously designed to leave no evidence of physical assault. Sleep deprivation epitomizes this goal and, at the time of writing this book, is still used for interrogation by countries, including Myanmar, Iran, Iraq, the United States, Israel, Egypt, Libya, Pakistan, Saudi Arabia, Tunisia, and Turkey.
+  - ([Location 4774](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4774))
+- An eloquent yet distressing affirmation of this fact is provided by the former prime minister of Israel, Menachem Begin, in his autobiography, White Nights: The Story of a Prisoner in Russia. In the 1940s, years before taking office in 1977, Begin was captured by the Soviets. He was tortured in prison by the KGB, one component of which involved prolonged sleep deprivation. Of this experience (which most governments benignly describe as the practice of “prisoner sleep management”), he writes: In the head of the interrogated prisoner a haze begins to form. His spirit is wearied to death, his legs are unsteady, and he has one sole desire: to sleep, to sleep just a little, not to get up, to lie, to rest, to forget . . . Anyone who has experienced this desire knows that not even hunger or thirst are comparable with it . . . I came across prisoners who signed what they were ordered to sign, only to get what their interrogator promised them. He did not promise them their liberty. He promised them—if they signed—uninterrupted sleep.
+  - ([Location 4788](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=4788))
+- Consider the infamous reactor meltdown at the Chernobyl nuclear power station on April 26, 1986. The radiation from the disaster was one hundred times more powerful than the atomic bombs dropped in World War II. It was the fault of sleep-deprived operators working an exhaustive shift, occurring, without coincidence, at one a.m.
+  - ([Location 5051](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=5051))
+- For me, addressing this issue involves two steps of logic. First, we must understand why the problem of deficient sleep seems to be so resistant to change, and thus persists and grows worse. Second, we must develop a structured model for effecting change at every possible leverage point we can identify. There is not going to be a single, magic-bullet solution.
+  - ([Location 5086](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=5086))
+- Figure 17: Levels of Sleep Intervention
+  - ([Location 5091](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=5091))
+- data. As Aetna chairman and CEO Mark Bertolini described, “Being present in the workplace and making better decisions has a lot to do with our business fundamentals.” He further noted, “You can’t be prepared if you’re half asleep.”
+  - ([Location 5230](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=5230))
+- I wholeheartedly endorse Bertolini’s idea, though I would modify it in the following way. Rather than—or as an alternative to—providing financial bonuses, we could offer added vacation time. Many individuals value time off more than modest financial perks. I would suggest a “sleep credit system,” with sleep time being exchanged for either financial bonuses or extra vacation days.
+  - ([Location 5238](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=5238))
+- Appendix Twelve Tips for Healthy SleepI 1. Stick to a sleep schedule. Go to bed and wake up at the same time each day. As creatures of habit, people have a hard time adjusting to changes in sleep patterns. Sleeping later on weekends won’t fully make up for a lack of sleep during the week and will make it harder to wake up early on Monday morning. Set an alarm for bedtime. Often we set an alarm for when it’s time to wake up but fail to do so for when it’s time to go to sleep. If there is only one piece of advice you remember and take from these twelve tips, this should be it. 2. Exercise is great, but not too late in the day. Try to exercise at least thirty minutes on most days but not later than two to three hours before your bedtime. 3. Avoid caffeine and nicotine. Coffee, colas, certain teas, and chocolate contain the stimulant caffeine, and its effects can take as long as eight hours to wear off fully. Therefore, a cup of coffee in the late afternoon can make it hard for you to fall asleep at night. Nicotine is also a stimulant, often causing smokers to sleep only very lightly. In addition, smokers often wake up too early in the morning because of nicotine withdrawal. 4. Avoid alcoholic drinks before bed. Having a nightcap or alcoholic beverage before sleep may help you relax, but heavy use robs you of REM sleep, keeping you in the lighter stages of sleep. Heavy alcohol ingestion also may contribute to impairment in breathing at night. You also tend to wake up in the middle of the night when the effects of the alcohol have worn off. 5. Avoid large meals and beverages late at night. A light snack is okay, but a large meal can cause indigestion, which interferes with sleep. Drinking too many fluids at night can cause frequent awakenings to urinate. 6. If possible, avoid medicines that delay or disrupt your sleep. Some commonly prescribed heart, blood pressure, or asthma medications, as well as some over-the-counter and herbal remedies for coughs, colds, or allergies, can disrupt sleep patterns. If you have trouble sleeping, talk to your health care provider or pharmacist to see whether any drugs you’re taking might be contributing to your insomnia and ask whether they can be taken at other times during the day or early in the evening. 7. Don’t take naps after 3 p.m. Naps can help make up for lost sleep, but late afternoon naps can make it harder to fall asleep at night. 8. Relax before bed. Don’t overschedule your day so that no time is left for unwinding. A relaxing activity, such as reading or listening to music, should be part of your bedtime ritual. 9. Take a hot bath before bed. The drop in body temperature after getting out of the bath may help you feel sleepy, and the bath can help you relax and slow down so you’re more ready to sleep. 10. Dark bedroom, cool bedroom, gadget-free bedroom. Get rid of anything in your bedroom that might distract you from sleep, such as noises, bright lights, an uncomfortable bed, or warm temperatures. You…
+  - ([Location 5375](https://readwise.io/to_kindle?action=open&asin=B06ZZ1YGJ5&location=5375))

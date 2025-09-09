@@ -1,17 +1,13 @@
 # Music Theory
 
 ![img](https://images-na.ssl-images-amazon.com/images/I/51y2bj5OYvL._SL200_.jpg)
-
-## Metadata
-
+- ## Metadata
 - Author: Nicolas Carter
 - Full Title: Music Theory
 - Category: 
-
-[[Carnatic music]] [[prana]]
-
-### Highlights
-
+  
+  [[Carnatic music]] [[prana]]
+- ### Highlights
 - Scientific theories propose that even reality itself at its tiniest layers is just that – a vibration in the quantum field. ([Location 328](https://readwise.io/to_kindle?action=open&asin=B01JX6EFKW&location=328))
 - Waves, in physics, are simply space disturbances that transfer energy. There are two main types of waves we experience in our perceivable surroundings: mechanical and electromagnetic waves. Their main difference is that mechanical waves require the presence of physical matter, like air, through which they can travel. Electromagnetic waves do not require any physical medium – they can travel through the vacuum of space. ([Location 329](https://readwise.io/to_kindle?action=open&asin=B01JX6EFKW&location=329))
 - In simplest terms, sound can be defined as mechanical waves produced by a vibrating object that travel through a physical medium, like air, water or solid objects. ([Location 334](https://readwise.io/to_kindle?action=open&asin=B01JX6EFKW&location=334))

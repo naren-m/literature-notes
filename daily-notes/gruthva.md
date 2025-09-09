@@ -25,8 +25,6 @@ kārya-virodhi—whereof the effect is the opposite or contradictory; karma—ac
 14. Action is opposed by its effect.
 
 <https://www.wisdomlib.org/hinduism/book/vaisheshika-sutra-commentary/d/doc427567.html>
-
-
-### References
-
-[[VaishshikaSutra]] [[vaisheshika_sutras]] [[gravity]] 
+- ### References
+  
+  [[VaishshikaSutra]] [[vaisheshika_sutras]] [[gravity]]

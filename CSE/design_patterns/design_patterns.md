@@ -15,7 +15,5 @@ Types of Patterns
 [[Python Decorators]]
 [[Decorator Pattern]]
 [[Adapter pattern]]
-
-## Tags
-
+- ## Tags
 - #programming #learning #investigate

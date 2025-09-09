@@ -1,65 +1,46 @@
 # Grit
 
 ![img](https://images-na.ssl-images-amazon.com/images/I/51WirY%2B1abL._SL200_.jpg)
-
-## Metadata
-
+- ## Metadata
 - Author: Angela Duckworth
 - Full Title: Grit
-- Category: 
-
-### Highlights
-
+- Category:
+- ### Highlights
 - “Some people are great when things are going well, but they fall apart when things aren’t.” ([Location 166](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=166))
-
 - Why were the highly accomplished so dogged in their pursuits?
-  - For most, there was no realistic expectation of ever catching up to their ambitions.
-  - In their own eyes, they were never good enough.
-  - They were the opposite of complacent.
-  - And yet, in a very real sense, they were satisfied being unsatisfied.
-  - Each was chasing something of unparalleled interest and importance, and it was the chase—as much as the capture—that was gratifying. ([Location 171](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=171))
-  - **Note:** Gnaname nee gamyamaithey brathukulone bata doruku
-  - **Tags:** #favorite #life #career
-
+	- For most, there was no realistic expectation of ever catching up to their ambitions.
+	- In their own eyes, they were never good enough.
+	- They were the opposite of complacent.
+	- And yet, in a very real sense, they were satisfied being unsatisfied.
+	- Each was chasing something of unparalleled interest and importance, and it was the chase—as much as the capture—that was gratifying. ([Location 171](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=171))
+	- **Note:** Gnaname nee gamyamaithey brathukulone bata doruku
+	- **Tags:** #favorite #life #career
 - In sum, no matter the domain, the highly successful had a kind of ferocious determination that played out in two ways.
-  - First, these exemplars were unusually resilient and hardworking.
-  - Second, they knew in a very, very deep way what it was they wanted.
-  - They not only had determination, they had direction. ([Location 175](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=175))
-  - **Tags:** #career
-
+	- First, these exemplars were unusually resilient and hardworking.
+	- Second, they knew in a very, very deep way what it was they wanted.
+	- They not only had determination, they had direction. ([Location 175](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=175))
+	- **Tags:** #career
 - It was this combination of passion and perseverance that made high achievers special. In a word, they had grit. ([Location 177](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=177))
-  - [[PersonalGrowth]]
-
+	- [[PersonalGrowth]]
 - After all, why shouldn’t the talented endure? Logically, the talented should stick around and try hard, because when they do, they do phenomenally well. ([Location 194](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=194))
-  - [[PersonalGrowth]]
-
+	- [[PersonalGrowth]]
 - I came to a fundamental insight that would guide my future work:
-  - Our potential is one thing.
-  - What we do with it is quite another. ([Location 261](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=261))
-
+	- Our potential is one thing.
+	- What we do with it is quite another. ([Location 261](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=261))
 - Darwin was the first to explain diversity in plant and animal species as a consequence of natural selection. ([Location 349](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=349))
-
 - So it’s worth pausing to consider Darwin’s opinion on the determinants of achievement—that is, his belief that zeal and hard work are ultimately more important than intellectual ability. ([Location 351](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=351))
-
 - The normal response to being puzzled about something is to say,“I’ll think about this later,” and then, in effect, forget about it.
-  - With Darwin, one feels that he deliberately did not engage in this kind of semi-willful forgetting.
-  - He kept all the questions alive at the back of his mind, ready to be retrieved when a relevant bit of data presented itself.
-  - ([Location 363](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=363))
-  - **Tags** #work #life
-
+	- With Darwin, one feels that he deliberately did not engage in this kind of semi-willful forgetting.
+	- He kept all the questions alive at the back of his mind, ready to be retrieved when a relevant bit of data presented itself.
+	- ([Location 363](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=363))
+	- **Tags** #work #life
 - Reflecting on the achievements and failures of close friends and colleagues, and how the quality of his own efforts varied on his good and bad days, James observed: Compared with what we ought to be, we are only half awake. Our fires are damped, our drafts are checked. We are making use of only a small part of our possible mental and physical resources. ([Location 369](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=369))
-
 - But these outer boundaries of where we will, eventually, stop improving are simply irrelevant for the vast majority of us: “The plain fact remains that men the world over possess amounts of resource, which only very exceptional individuals push to their extremes of use.” ([Location 376](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=376))
-  - #notclear
-
-## Case studies
-
-### Enron - Energy company
-
+	- #notclear
+- ## Case studies
+- ### Enron - Energy company
 - Enron employees prove that they were smarter than everyone else inadvertently contributed to a narcissistic culture, with an overrepresentation of employees who were both incredibly smug and driven by deep insecurity to keep showing off. It was a culture that encouraged short-term performance but discouraged long-term learning and growth. The same point comes through in the postmortem documentary on Enron called, appropriately enough, [[The Smartest Guys in the Room]]. ([Location 485](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=485))
-
 - Enron’s CEO. Skilling developed a performance review system for Enron that consisted of grading employees annually and summarily firing the bottom 15 percent. In other words, no matter what your absolute level of performance, if you were weak, relative to others, you got fired. Inside Enron, this practice was known as “rank-and-yank.” Skilling considered it one of the most important strategies his company had. But ultimately, it may have contributed to a work environment that rewarded deception and discouraged integrity. ([Location 489](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=489))
-
 - But another conclusion is that the focus on talent distracts us from something that is at least as important, and that is effort. In the next chapter, I’ll argue that, as much as talent counts, effort counts twice. ([Location 539](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=539))
 - In other words, when we can’t easily see how experience and training got someone to a level of excellence that is so clearly beyond the norm, we default to labeling that person a “natural.” ([Location 568](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=568))
 - “Yes, but the main thing is that greatness is doable. Greatness is many, many individual feats, and each of them is doable.” ([Location 580](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=580))
@@ -78,7 +59,7 @@
 - What Jeff’s journey suggests instead is passion as a compass—that thing that takes you some time to build, tinker with, and finally get right, and that then guides you on your long and winding road to where, ultimately, you want to be. ([Location 908](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=908))
 - what you’re trying to get out of life. In grit terms, he’s asking about your passion. ([Location 915](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=915))
 - Pete’s philosophy is: Do things better than they have ever been done before. ([Location 916](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=916))
-  - **Tags:** #favorite
+	- **Tags:** #favorite
 - One way to understand what Pete is talking about is to envision goals in a hierarchy. ([Location 928](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=928))
 - These low-level goals exist merely as means to ends. We want to accomplish them only because they get us something else we want. In contrast, the higher the goal in this hierarchy, the more abstract, general, and important it is. The higher the goal, the more it’s an end in itself, and the less it’s merely a means to an end. ([Location 932](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=932))
 - If in the course of asking yourself these “Why?” questions your answer is simply “Just because!” then you know you’ve gotten to the top of a goal hierarchy. ([Location 938](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=938))
@@ -107,7 +88,7 @@
 - As Jeff Bezos has observed, “One of the huge mistakes people make is that they try to force an interest on themselves.” Without experimenting, you can’t figure out which interests will stick, and which won’t. ([Location 1468](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=1468))
 - Finally, interests thrive when there is a crew of encouraging supporters, including parents, teachers, coaches, and peers. ([Location 1481](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=1481))
 - “Just because you love something doesn’t mean you’ll be great,” says self-proclaimed Tiger Mom Amy Chua. ([Location 1500](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=1500))
-  - **Tags:** #favorite
+	- **Tags:** #favorite
 - Longitudinal studies tracking learners confirm that overbearing parents and teachers erode intrinsic motivation. ([Location 1516](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=1516))
 - Kids whose parents let them make their own choices about what they like are more likely to develop interests later identified as a passion. ([Location 1516](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=1516))
 - ‘It’s not important that I understand everything. It’s important that I listen.’ ” ([Location 1569](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=1569))
@@ -117,7 +98,7 @@
 - Like me, Paul has found that experts often say things like “The more I know, the less I understand.” Sir John Templeton, for example, who pioneered the idea of diversified mutual funds, made the motto of his philanthropic foundation “How little we know, how eager to learn.” ([Location 1611](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=1611))
 - The key, Paul explained, is that novelty for the beginner comes in one form, and novelty for the expert in another. For the beginner, novelty is anything that hasn’t been encountered before. For the expert, novelty is nuance. ([Location 1613](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=1613))
 - Ask yourself a few simple questions: What do I like to think about? Where does my mind wander? What do I really care about? What matters most to me? How do I enjoy spending my time? And, in contrast, what do I find absolutely unbearable? If you find it hard to answer these questions, try recalling your teen years, the stage of life at which vocational interests commonly sprout. ([Location 1623](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=1623))
-  - **Note:** Work on fhis
+	- **Note:** Work on fhis
 - Remember that interests must be triggered again and again and again. ([Location 1639](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=1639))
 - Kaizen is Japanese for resisting the plateau of arrested development. Its literal translation is: “continuous improvement.” ([Location 1659](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=1659))
 - The really crucial insight of Ericsson’s research, though, is not that experts log more hours of practice. Rather, it’s that experts practice differently. Unlike most of us, experts are logging thousands upon thousands of hours of what Ericsson calls deliberate practice. ([Location 1687](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=1687))
@@ -126,16 +107,16 @@
 - firsthand description of what deliberate practice can feel like comes from dancer Martha Graham: “Dancing appears glamorous, easy, delightful. But the path to the paradise of that achievement is not easier than any other. There is fatigue so great that the body cries even in its sleep. There are times of complete frustration. There are daily small deaths.” ([Location 1787](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=1787))
 - For instance, here’s how director Judd Apatow describes making a film: “Every day is an experiment. Every scene might not work and so you’re concentrating—Is it working? Should I get an extra line for editing? What would I change if I had to, if I hated this in three months, why would I hate it? And you’re concentrating and you’re exhausted. . . . It’s pretty intense.” ([Location 1795](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=1795))
 - When I asked spelling champ Kerry Close if she’d ever experienced the state of flow during deliberate practice, she said, “No, the only time I could say that I was in flow was when I wasn’t being challenged.” ([Location 1931](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=1931))
-  - **Note:** You hve to be in less challenging case to get ton flow the only wy to get there is by deliberate practice and increse your skill level to be more than your regular dy job
+	- **Note:** You hve to be in less challenging case to get ton flow the only wy to get there is by deliberate practice and increse your skill level to be more than your regular dy job
 - My guess is that deliberate practice can be deeply gratifying, but in a different way than flow. In other words, there are different kinds of positive experience: the thrill of getting better is one, and the ecstasy of performing at your best is another. ([Location 1935](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=1935))
 - performing at your best is another. ([Location 1936](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=1936))
 - First, know the science. Each of the basic requirements of deliberate practice is unremarkable: • A clearly defined stretch goal • Full concentration and effort • Immediate and informative feedback • Repetition with reflection and refinement ([Location 1938](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=1938))
 - We told them that trying to do things they can’t yet do, failing, and learning what they need to do differently is exactly the way experts practice. ([Location 1956](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=1956))
-  - **Note:** What is practice
+	- **Note:** What is practice
 - My third suggestion for getting the most out of deliberate practice is to change the way you experience it. ([Location 1983](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=1983))
 - “It’s all about in-the-moment self-awareness without judgment,” he continued. “It’s about relieving yourself of the judgment that gets in the way of enjoying the challenge.” ([Location 1990](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=1990))
 - And then . . . something changes. According to Elena and Deborah, around the time children enter kindergarten, they begin to notice that their mistakes inspire certain reactions in grown-ups. What do we do? We frown. Our cheeks flush a bit. We rush over to our little ones to point out that they’ve done something wrong. And what’s the lesson we’re teaching? Embarrassment. Fear. Shame. ([Location 1998](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=1998))
-  - **Tags:** #parenting, #favorite
+	- **Tags:** #parenting, #favorite
 - “Shame doesn’t help you fix anything,” Deborah told me. ([Location 2003](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2003))
 - Interest is one source of passion. Purpose—the intention to contribute to the well-being of others—is another. ([Location 2014](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2014))
 - Despite superficial differences in their upbringing and training, all the extraordinary people in Bloom’s study had progressed through three distinct periods of development. We discussed what Bloom called the “early years” in chapter 6 on interest and “the middle years” in chapter 7 on practice. We’ve now come to the third, final, and longest phase in Bloom’s model—the “later years”—when, as he put it, “the larger purpose and meaning” of work finally becomes apparent. ([Location 2026](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2026))
@@ -163,19 +144,15 @@
 - To test her idea, Carol divided the children into two groups. Half the children were assigned to a success only program. For several weeks, they solved math problems and, at the end of each session, no matter how many they’d completed, they received praise for doing well. The other half of the children in Carol’s study were assigned to an attribution retraining program. These children also solved math problems, but were occasionally told that they hadn’t solved enough problems during that particular session and, crucially, that they “should have tried harder.” Afterward, all the children were given a combination of easy and very difficult problems to do. Carol reasoned that, if prior failures were the root cause of helplessness, the success only program would boost motivation. If, on the other hand, the real problem was how children interpreted their failures, then the attribution retraining program would be more effective. What Carol found is that the children in the success only program gave up just as easily after encountering very difficult problems as they had before training. In sharp contrast, children in the attribution retraining program tried harder after encountering difficulty. It seems as though they’d learned to interpret failure as a cue to try harder rather than as confirmation that they lacked the ability to succeed. ([Location 2502](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2502))
 - Undermines Growth Mindset and Grit Promotes Growth Mindset and Grit “You’re a natural! I love that.” “You’re a learner! I love that.” “Well, at least you tried!” “That didn’t work. Let’s talk about how you approached it and what might work better.” “Great job! You’re so talented!” “Great job! What’s one thing that could have been even better?” “This is hard. Don’t feel bad if you can’t do it.” “This is hard. Don’t feel bad if you can’t do it yet.” “Maybe this just isn’t your strength. Don’t worry—you have other things to contribute.”I “I have high standards. I’m holding you to them because I know we can reach them together.” ([Location 2550](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2550))
 - Author and activist James Baldwin once put it this way: “Children have never been very good at listening to their elders, but they have never failed to imitate them.” ([Location 2561](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2561))
-  - **Tags:** #parenting, #favorite
+	- **Tags:** #parenting, #favorite
 - Similarly, Carol and her collaborators are finding that children develop more of a fixed mindset when their parents react to mistakes as though they’re harmful and problematic. This is true even when these parents say they have a growth mindset. Our children are watching us, and they’re imitating what we do. ([Location 2567](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2567))
-
 - But we’re human. So, more often than we’d like, we get frustrated. We show our impatience. In judging the person’s abilities, we allow a flicker of doubt to distract us momentarily from the more important task of what they could do next to improve. ([Location 2581](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2581))
-
-- The reality is that most people have an inner fixed-mindset pessimist in them right alongside their inner growth-mindset optimist. Recognizing this is important because it’s easy to make the mistake of changing what we say without changing our body language, facial expressions, and behavior. So what should we do? A good first step is to watch for mismatches between our words and actions. When we slip up—and we will—we can simply acknowledge that it’s hard to move away from a fixed, pessimistic view of the world. One of Carol’s colleagues, Susan Mackie, works with CEOs and encourages them to give names to their inner fixed-mindset characters. Then they can say things like “Oops. I guess I brought Controlling Claire to the meeting today. Let me try that again.” Or: “Overwhelmed Olivia is struggling to deal with all the competing demands, can you help me think this through?” 
+- The reality is that most people have an inner fixed-mindset pessimist in them right alongside their inner growth-mindset optimist. Recognizing this is important because it’s easy to make the mistake of changing what we say without changing our body language, facial expressions, and behavior. So what should we do? A good first step is to watch for mismatches between our words and actions. When we slip up—and we will—we can simply acknowledge that it’s hard to move away from a fixed, pessimistic view of the world. One of Carol’s colleagues, Susan Mackie, works with CEOs and encourages them to give names to their inner fixed-mindset characters. Then they can say things like “Oops. I guess I brought Controlling Claire to the meeting today. Let me try that again.” Or: “Overwhelmed Olivia is struggling to deal with all the competing demands, can you help me think this through?”
 - Ultimately, adopting a gritty perspective involves recognizing that people get better at things—they grow. Just as we want to cultivate the ability to get up off the floor when life has knocked us down, we want to give those around us the benefit of the doubt when something they’ve tried isn’t a raging success. There’s always tomorrow. ([Location 2583](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2583))
-  - Manasa vaacha karmana
-  - [[Hanuman Chalisa]]
-
+	- Manasa vaacha karmana
+	- [[Hanuman Chalisa]]
 - “Because I’d come so damn close to quitting and yet hung in there, and because things eventually did work out, I learned a lesson I’d never forget. The lesson was that, when you have setbacks and failures, you can’t overreact to them. You need to step back, analyze them, and learn from them. But you also need to stay optimistic.” ([Location 2617](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2617))
-  - **Tags:** #life, #favorite
-
+	- **Tags:** #life, #favorite
 - “What doesn’t kill me makes me stronger,” Nietzsche once said. ([Location 2623](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2623))
 - So, it appears that sometimes what doesn’t kill you makes you stronger, and sometimes it does the opposite. The urgent question becomes: When? When does struggle lead to hope, and when does struggle lead to hopelessness? A few years ago, Steve Maier and his students designed an experiment nearly identical to the one he and Marty Seligman had conducted forty years earlier: One group of rats received electric shocks, but if they turned a small wheel with their front paws, they could turn off the shock until the next trial. A second group received the exact same dose of electric shocks as the first but had no control over their duration. One crucial difference was that, in the new experiment, the rats were only five weeks old—that’s adolescence in the rat life cycle. A second difference was that the effects of this experience were assessed five weeks later, when the rats were fully mature adults. At that point, both groups of rats were subjected to uncontrollable electric shocks and, the next day, observed in a social exploration test. Here’s what Steve learned. Adolescent rats who experienced stress they could not control grew up to be adult rats who, after being subjected to uncontrollable shocks a second time, behaved timidly. This was not unusual—they learned to be helpless in the same way that any other rat would. In contrast, adolescent rats who experienced stress they could control grew up to be more adventurous and, most astounding, appeared to be inoculated against learned helplessness in adulthood. That’s right—when these “resilient rats” grew up, the usual uncontrollable shock procedures no longer made them helpless. In other words, what didn’t kill the young rats, when by their own efforts they could control what was happening, made them stronger for life. ([Location 2633](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2633))
 - My recommendation for teaching yourself hope is to take each step in the sequence above and ask, What can I do to boost this one? My first suggestion in that regard is to update your beliefs about intelligence and talent. ([Location 2696](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2696))
@@ -186,9 +163,9 @@
 - In his best-selling 1928 #parenting guide, Psychological Care of Infant and Child, Watson holds forth on how to raise a child “who loses himself in work and play, who quickly learns to overcome the small difficulties in his environment . . . and who finally enters manhood so bulwarked with stable work and emotional habits that no adversity can quite overwhelm him.” ([Location 2757](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2757))
 - On the continuum between supportive and demanding #parenting, proponents of this permissive “child-centered” approach fall to the left of center. ([Location 2769](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2769))
 - When it came time to raise their children, both Sherry and Grit very deliberately set out to provide the same challenges. “My goal was to teach them discipline,” Grit said, “and to go at things hard like I learned to do. You have to learn those things. They don’t just happen. It was important to me to teach the kids to finish what you begin.” ([Location 2821](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2821))
-  - **Note:** #parenting
+	- **Note:** #parenting
 - In no uncertain terms, Steve and his siblings were made to understand that, whatever they signed up for, they had to see it through to the end. “We told them, you’ve got to go to all the practices. You can’t say, ‘Oh, I’m tired of this.’ Once you commit, you discipline yourself to do it. There’s going to be times you don’t want to go, but you’ve got to go.” Sounds strict, right? It was. But if you listen closely, you’ll discover that the Youngs were also tremendously supportive. ([Location 2824](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2824))
-  - **Note:** #parenting
+	- **Note:** #parenting
 - But it’s a fine line between tough love and bullying, isn’t it? What’s the difference? “I knew the decision was mine,” Steve said. “And I knew my dad didn’t want me to be him. Number one, a parent needs to set a stage that proves to the child, ‘I’m not trying to just have you do what I say, control you, make you be like me, make you do what I did, ask you to make up for what I didn’t do.’ My dad showed me early that it wasn’t about him and what he needed. It truly was ‘I’m giving you all I got.’ “There was an underlying selflessness to the tough love,” Steve continued. “I think that’s vital. If any of the tough love is about the parent just trying to control you, well, kids smell it out. In every way possible, I knew my parents were saying, ‘We’re looking to see your success. We’ve left ourselves behind.’ ” ([Location 2856](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2856))
 - “Actually,” Alex said, “I think I’m allergic to spoiled children. Children must be loved and accepted, but then, without complications, they need to be taught: ‘No, you cannot hit your sister on the head with that stick. Yes, you must share. No, you don’t get to have everything you want when you want it.’ It’s no-nonsense #parenting.” ([Location 2891](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2891))
 - “To finish things, you have to put the work in. When I was younger, I’d meet many people who were writing stuff. They’d say to me, ‘Oh yeah, I am a writer as well but I’ve never finished anything.’ Well, in that case, you are not a writer. You are just somebody who sits down and writes things on a bit of paper. If you’ve got something to say, go ahead and say it and finish it.” ([Location 2901](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2901))
@@ -200,7 +177,7 @@
 - One of the major discoveries of #parenting research is that what matters more than the messages parents aim to deliver are the messages their children receive. ([Location 2943](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2943))
 - Are you a psychologically wise parent? Use the #parenting assessment on the next page, developed by psychologist and #parenting expert Nancy Darling, as a checklist to find out. How many of these statements would your child affirm without hesitation? You’ll notice that some of the items are italicized. These are “reverse-coded” items, meaning that if your child agrees with them, you may be less psychologically wise than you think. Supportive: Warm I can count on my parents to help me out if I have a problem. My parents spend time just talking to me. My parents and I do things that are fun together. My parents don’t really like me to tell them my troubles. My parents hardly ever praise me for doing well. Supportive: Respectful My parents believe I have a right to my own point of view. My parents tell me that their ideas are correct and that I shouldn’t question them. My parents respect my privacy. My parents give me a lot of freedom. My parents make most of the decisions about what I can do. Demanding My parents really expect me to follow family rules. My parents really let me get away with things. My parents point out ways I could do better. When I do something wrong, my parents don’t punish me. My parents expect me to do my best even when it’s hard. ([Location 2949](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2949))
 - To a certain extent, of course, young children imitate their mothers and fathers. When we have nothing else to go by, what other choice do we have, really, than to mimic the accents, habits, and attitudes of the people around us? We talk like they talk. We eat what they eat. We adopt their likes and dislikes. ([Location 2966](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2966))
-  - **Tags:** #parenting, #favorite
+	- **Tags:** #parenting, #favorite
 - A young child’s instinct to copy adults is very strong. In a classic psychology experiment conducted more than fifty years ago at Stanford University, for example, preschoolers watched adults play with a variety of toys and then were given the opportunity to play with the toys themselves. Half of the boys and girls watched an adult quietly play with Tinkertoys while ignoring a child-size, inflatable doll in the same room. The other half of the children watched the adult begin assembling the Tinkertoys and, after a minute, turn to viciously attack the doll. The adult pummeled the doll with his fists and then a mallet, tossed the doll up in the air and, finally, while screaming and yelling, aggressively kicked the doll about the room. When given an opportunity to play with the same toys, children who’d seen adults play quietly followed suit. In contrast, children who’d watched adults beat up the doll were likewise aggressive, in many cases so closely imitating violent adults they’d seen earlier that researchers described their behavior as virtual “carbon copies.” And yet, there’s a world of difference between imitation and emulation. As we grow older, we develop the capacity to reflect on our actions and pass judgment on what we admire and disdain in others. When our parents are loving, respectful, and demanding, we not only follow their example, we revere it. We not only comply with their requests, we understand why they’re making them. We become especially eager to pursue the same interests—for instance, it’s no coincidence that Steve Young’s father was himself a standout football player at BYU, or that Francesca Martinez, like her father, developed an early love of writing. Benjamin Bloom and his team noted the same pattern in their studies of world-class performers. Almost without exception, the supportive and demanding parents in Bloom’s study were “models of the work ethic in that they were regarded as hard workers, they did their best in whatever they tried, they believed that work should come before play, and that one should work toward distant goals.” Further, “most of the parents found it natural to encourage their children to participate in their favored activities.” Indeed, one of Bloom’s summary conclusions was that “parents’ own interests somehow get communicated to the child. . . . We found over and over again that the parents of the pianists would send their child to the tennis lessons but they would take their child to the piano lessons. And we found just the opposite for the tennis homes.” ([Location 2968](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2968))
 - It’s indeed remarkable how many paragons of grit have told me, with pride and awe, that their parents are their most admired and influential role models. And it’s just as telling that so many paragons have, in one way or another, developed very similar interests to those of their parents. Clearly, these exemplars of grit grew up not just imitating their parents but also emulating them. ([Location 2986](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2986))
 - If you want to bring forth grit in your child, first ask how much passion and perseverance you have for your own life goals. Then ask yourself how likely it is that your approach to #parenting encourages your child to emulate you. If the answer to the first question is “a great deal,” and your… ([Location 2992](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=2992))
@@ -245,10 +222,10 @@
 - “What do you look for in your leadership team?” His answer? “Capability, character, and how they treat people.” Later, he told me that he asks himself two questions about senior management. First: “Would I let them run the business without me?” Second: “Would I let my kids work for them?” ([Location 3529](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=3529))
 - Jamie has a favorite Teddy Roosevelt quote he likes to repeat: It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat. ([Location 3531](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=3531))
 - And here is how Jamie translates the poetry of Roosevelt into the prose of a JPMorgan Chase manual, titled How We Do Business: “Have a fierce resolve in everything you do.” “Demonstrate determination, resiliency, and tenacity.” “Do not let temporary setbacks become permanent excuses.” And, finally, “Use mistakes and problems as opportunities to get better—not reasons to quit.” ([Location 3537](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=3537))
-  - **Tags:** #work, #career
+	- **Tags:** #work, #career
 - “If you want to create a great culture,” he told me, “you have to have a collection of core values that everyone lives.” Half the team’s core values are about teamwork. Half are about grit. Together, they define a culture Anson and his players refer to as “the competitive cauldron.” ([Location 3571](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=3571))
 - Anson’s athletes know all twelve by heart, beginning with the first core value—We don’t whine—and its corresponding quote, courtesy of playwright George Bernard Shaw: “The true joy in life is to be a force of fortune instead of a feverish, selfish little clod of ailments and grievances complaining that the world will not devote itself to making you happy.” ([Location 3588](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=3588))
-  - **Tags:** #favorite
+	- **Tags:** #favorite
 - for example, Schofield’s Definition of Discipline. These words, first spoken in an 1879 address to the cadets by then superintendent John Schofield, are the sort you’d expect a West Pointer to know by heart. The passage that cadets must memorize begins: “The discipline which makes the soldiers of a free country reliable in battle is not to be gained by harsh or tyrannical treatment. On the contrary, such treatment is far more likely to destroy than to make an army.” ([Location 3594](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=3594))
 - The origin of great leadership begins with the respect of the commander for his subordinates. ([Location 3600](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=3600))
 - According to General Caslen, what’s happened at the academy is a deliberate change in culture. “When only the survivalists succeed, that’s an attrition model,” he explained. “There’s another kind of leadership. I call it a developmental model. The standards are exactly the same—high—but in one case, you use fear to get your subordinates to achieve those standards. And in the other case, you lead from the front.” ([Location 3612](https://readwise.io/to_kindle?action=open&asin=B010MH9V3W&location=3612))

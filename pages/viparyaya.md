@@ -1,0 +1,1 @@
+- [[Viparyaya]] Mithya Gnanam ata drUpa pratiShTham

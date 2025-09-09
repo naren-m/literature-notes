@@ -7,9 +7,14 @@
 - సో అ యాంప్రకాశ తే పిండేతసమాత్పిండో అభిధేయతే 1.2.3
 -
 - praanaanala samyogamu valana
-- nabhi hruth kamala naasadula yandhu.
 -
-- [[tyagaraja swamy]]
+- [[tyagaraja swamy]] one of the krithis
+	- nabhi hruth kamala naasadula yandhu.
+		- [[speech]] types
+			- Para.          -  Supress and dont think ? This is wrong,  para is out of the world.
+			- Pasyanthi. - See it in mind
+			- Madhyama - Think of it in mind
+			- vaikhari      - Speak out loud
 -
 -
 - Nåda = [[Prana]] + [[Agni]] (Anala)

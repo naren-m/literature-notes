@@ -11,12 +11,12 @@ Sharing rules of thumb around where and when to use different types of tests
 And just generally save teams a lot of time and effort by being clear about what kinds of tests they want to write, and when.
 In this episode we are going to look at:
 
-What the test pyramid is
+What the [[test]] pyramid is
 The three kinds of tests that make it up
-Along with some rules of thumb around when to use each kind of test
+Along with some rules of thumb around when to use each kind of [[test]]
 Let’s get started.
 
-![img](literature-notes/assets/test%20pyramid.png)
+![img](literature-notes/assets/[[test]]%20pyramid.png)
 
 - [Article](http://www.agilenutshell.com/episodes/41-testing-pyramid)
 

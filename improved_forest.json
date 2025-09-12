@@ -60,13 +60,13 @@
       "title": "Smart Search API",
       "type": "practice",
       "tags": [
-        "007bff",
-        "f5f5f5",
         "health",
-        "f9f9f9",
+        "007bff",
         "f0f8ff",
-        "e8f4f8",
-        "ddd"
+        "ddd",
+        "f9f9f9",
+        "f5f5f5",
+        "e8f4f8"
       ],
       "clusters": [],
       "connection_count": 0,
@@ -108,11 +108,11 @@
       "title": "One percent rule",
       "type": "concept",
       "tags": [
+        "divide",
         "Brailsford",
-        "the",
-        "one",
         "from",
-        "divide"
+        "one",
+        "the"
       ],
       "clusters": [
         "cluster_0"
@@ -130,10 +130,10 @@
       "title": "LogSeq Integration Setup Guide",
       "type": "practice",
       "tags": [
-        "programming",
+        "memory",
         "synthesis",
         "philosophy",
-        "memory"
+        "programming"
       ],
       "clusters": [
         "cluster_1"
@@ -209,10 +209,10 @@
       "title": "sangam_history_of_indian_science",
       "type": "practice",
       "tags": [
+        "video",
         "sangam",
         "indianscience",
-        "rajvedam",
-        "video"
+        "rajvedam"
       ],
       "clusters": [],
       "connection_count": 0,
@@ -312,15 +312,15 @@
       "title": "Suthrasthana",
       "type": "concept",
       "tags": [
-        "ayurveda",
         "kayachikitsa",
-        "psychiary",
-        "salyachikitsa",
-        "Balachikitsa",
-        "urdhvaangachikitsa",
-        "ophthamology",
+        "grahachikitsa",
         "sastrachikitsa",
-        "grahachikitsa"
+        "urdhvaangachikitsa",
+        "salyachikitsa",
+        "ophthamology",
+        "Balachikitsa",
+        "psychiary",
+        "ayurveda"
       ],
       "clusters": [
         "cluster_4"
@@ -341,7 +341,7 @@
         "book"
       ],
       "clusters": [
-        "cluster_4"
+        "cluster_5"
       ],
       "connection_count": 3,
       "word_count": 131,
@@ -356,8 +356,8 @@
       "title": "AshtangaHrydayam",
       "type": "reference",
       "tags": [
-        "ayurveda",
-        "book"
+        "book",
+        "ayurveda"
       ],
       "clusters": [
         "cluster_4"
@@ -378,7 +378,7 @@
         "india"
       ],
       "clusters": [
-        "cluster_5"
+        "cluster_6"
       ],
       "connection_count": 1,
       "word_count": 1014,
@@ -396,7 +396,7 @@
       "type": "reference",
       "tags": [],
       "clusters": [
-        "cluster_5"
+        "cluster_6"
       ],
       "connection_count": 4,
       "word_count": 198,
@@ -495,7 +495,7 @@
       "type": "reference",
       "tags": [],
       "clusters": [
-        "cluster_6"
+        "cluster_7"
       ],
       "connection_count": 1,
       "word_count": 164,
@@ -510,13 +510,13 @@
       "title": "Brian Kernighan interview",
       "type": "practice",
       "tags": [
-        "programming",
         "book",
         "cse",
-        "theory"
+        "theory",
+        "programming"
       ],
       "clusters": [
-        "cluster_7"
+        "cluster_8"
       ],
       "connection_count": 3,
       "word_count": 18070,
@@ -531,8 +531,8 @@
       "title": "Marthanda Varma",
       "type": "concept",
       "tags": [
-        "people",
         "history",
+        "people",
         "india"
       ],
       "clusters": [],
@@ -578,7 +578,7 @@
       "type": "reference",
       "tags": [],
       "clusters": [
-        "cluster_5"
+        "cluster_6"
       ],
       "connection_count": 1,
       "word_count": 35,
@@ -594,7 +594,7 @@
       "type": "concept",
       "tags": [],
       "clusters": [
-        "cluster_7"
+        "cluster_8"
       ],
       "connection_count": 1,
       "word_count": 40,
@@ -610,7 +610,7 @@
       "type": "synthesis",
       "tags": [],
       "clusters": [
-        "cluster_5"
+        "cluster_6"
       ],
       "connection_count": 1,
       "word_count": 73,
@@ -642,7 +642,7 @@
       "type": "concept",
       "tags": [],
       "clusters": [
-        "cluster_5"
+        "cluster_6"
       ],
       "connection_count": 1,
       "word_count": 32,
@@ -660,7 +660,7 @@
         "podcast"
       ],
       "clusters": [
-        "cluster_4"
+        "cluster_5"
       ],
       "connection_count": 1,
       "word_count": 1249,
@@ -678,7 +678,7 @@
         "BeerBiceps"
       ],
       "clusters": [
-        "cluster_8"
+        "cluster_9"
       ],
       "connection_count": 3,
       "word_count": 26074,
@@ -693,11 +693,11 @@
       "title": "${1:$TM_FILENAME_BASE}",
       "type": "practice",
       "tags": [
-        "podcast",
         "book",
-        "#sanskrit",
+        "video",
         "sanskrit",
-        "video"
+        "#sanskrit",
+        "podcast"
       ],
       "clusters": [],
       "connection_count": 0,
@@ -785,7 +785,7 @@
       "type": "concept",
       "tags": [],
       "clusters": [
-        "cluster_9"
+        "cluster_10"
       ],
       "connection_count": 1,
       "word_count": 250,
@@ -857,7 +857,7 @@
       "type": "concept",
       "tags": [],
       "clusters": [
-        "cluster_9"
+        "cluster_10"
       ],
       "connection_count": 4,
       "word_count": 9,
@@ -972,8 +972,8 @@
       "title": "Cause (కారణం)",
       "type": "concept",
       "tags": [
-        "Pravachanam",
-        "vedanta"
+        "vedanta",
+        "Pravachanam"
       ],
       "clusters": [],
       "connection_count": 1,
@@ -989,7 +989,7 @@
       "type": "reference",
       "tags": [],
       "clusters": [
-        "cluster_9"
+        "cluster_10"
       ],
       "connection_count": 1,
       "word_count": 140,
@@ -1033,11 +1033,11 @@
       "title": "Agni",
       "type": "concept",
       "tags": [
-        "word",
-        "definition"
+        "definition",
+        "word"
       ],
       "clusters": [
-        "cluster_9"
+        "cluster_10"
       ],
       "connection_count": 2,
       "word_count": 100,
@@ -1053,7 +1053,7 @@
       "type": "concept",
       "tags": [],
       "clusters": [
-        "cluster_10"
+        "cluster_11"
       ],
       "connection_count": 1,
       "word_count": 33,
@@ -1069,7 +1069,7 @@
       "type": "reference",
       "tags": [],
       "clusters": [
-        "cluster_10"
+        "cluster_11"
       ],
       "connection_count": 3,
       "word_count": 328,
@@ -1084,11 +1084,11 @@
       "title": "Akshara",
       "type": "concept",
       "tags": [
-        "word",
-        "definition"
+        "definition",
+        "word"
       ],
       "clusters": [
-        "cluster_9"
+        "cluster_10"
       ],
       "connection_count": 1,
       "word_count": 67,
@@ -1104,7 +1104,7 @@
       "type": "reference",
       "tags": [],
       "clusters": [
-        "cluster_9"
+        "cluster_10"
       ],
       "connection_count": 1,
       "word_count": 68,
@@ -1176,7 +1176,7 @@
       "type": "synthesis",
       "tags": [],
       "clusters": [
-        "cluster_8"
+        "cluster_9"
       ],
       "connection_count": 1,
       "word_count": 68,
@@ -1210,7 +1210,7 @@
         "DusyanthSridhar"
       ],
       "clusters": [
-        "cluster_11"
+        "cluster_12"
       ],
       "connection_count": 1,
       "word_count": 5478,
@@ -1257,8 +1257,8 @@
       "title": "HowToSpeakLikeHanuma",
       "type": "practice",
       "tags": [
-        "ramayanam",
-        "hanuma"
+        "hanuma",
+        "ramayanam"
       ],
       "clusters": [
         "cluster_1"
@@ -1379,7 +1379,7 @@
       "type": "concept",
       "tags": [],
       "clusters": [
-        "cluster_8"
+        "cluster_9"
       ],
       "connection_count": 1,
       "word_count": 32,
@@ -1413,7 +1413,7 @@
       "type": "reference",
       "tags": [],
       "clusters": [
-        "cluster_11"
+        "cluster_12"
       ],
       "connection_count": 3,
       "word_count": 121,
@@ -1429,7 +1429,7 @@
       "type": "concept",
       "tags": [],
       "clusters": [
-        "cluster_10"
+        "cluster_11"
       ],
       "connection_count": 3,
       "word_count": 77,
@@ -1444,11 +1444,11 @@
       "title": "acharya",
       "type": "practice",
       "tags": [
-        "DushyanthSridar",
-        "Krishna"
+        "Krishna",
+        "DushyanthSridar"
       ],
       "clusters": [
-        "cluster_11"
+        "cluster_12"
       ],
       "connection_count": 1,
       "word_count": 111,
@@ -1466,7 +1466,7 @@
         "Pravachanam"
       ],
       "clusters": [
-        "cluster_11"
+        "cluster_12"
       ],
       "connection_count": 3,
       "word_count": 11092,
@@ -1482,7 +1482,7 @@
       "type": "reference",
       "tags": [],
       "clusters": [
-        "cluster_9"
+        "cluster_10"
       ],
       "connection_count": 5,
       "word_count": 143,
@@ -1498,7 +1498,7 @@
       "type": "synthesis",
       "tags": [],
       "clusters": [
-        "cluster_9"
+        "cluster_10"
       ],
       "connection_count": 1,
       "word_count": 63,
@@ -1542,8 +1542,8 @@
       "title": "AyurvedicRemedies",
       "type": "concept",
       "tags": [
-        "ayurveda",
-        "remedies"
+        "remedies",
+        "ayurveda"
       ],
       "clusters": [
         "cluster_4"
@@ -1592,7 +1592,7 @@
       "type": "concept",
       "tags": [],
       "clusters": [
-        "cluster_8"
+        "cluster_9"
       ],
       "connection_count": 1,
       "word_count": 34,
@@ -1610,7 +1610,7 @@
         "articles"
       ],
       "clusters": [
-        "cluster_12"
+        "cluster_13"
       ],
       "connection_count": 4,
       "word_count": 145,
@@ -1628,7 +1628,7 @@
         "articles"
       ],
       "clusters": [
-        "cluster_12"
+        "cluster_13"
       ],
       "connection_count": 4,
       "word_count": 80,
@@ -1646,7 +1646,7 @@
         "articles"
       ],
       "clusters": [
-        "cluster_12"
+        "cluster_13"
       ],
       "connection_count": 4,
       "word_count": 313,
@@ -1664,7 +1664,7 @@
         "articles"
       ],
       "clusters": [
-        "cluster_12"
+        "cluster_13"
       ],
       "connection_count": 4,
       "word_count": 79,
@@ -1679,11 +1679,11 @@
       "title": "RFC 7950 - The YANG 1.1 Data Modeling Language",
       "type": "reference",
       "tags": [
-        "articles",
-        "page"
+        "page",
+        "articles"
       ],
       "clusters": [
-        "cluster_12"
+        "cluster_13"
       ],
       "connection_count": 4,
       "word_count": 89,
@@ -1802,8 +1802,8 @@
       "title": "Atomic Habits",
       "type": "practice",
       "tags": [
-        "habit",
-        "favorite"
+        "favorite",
+        "habit"
       ],
       "clusters": [
         "cluster_0"
@@ -1821,15 +1821,15 @@
       "title": "Grit",
       "type": "practice",
       "tags": [
-        "life",
-        "work",
-        "career",
-        "favorite",
         "notclear",
-        "parenting"
+        "favorite",
+        "career",
+        "life",
+        "parenting",
+        "work"
       ],
       "clusters": [
-        "cluster_10"
+        "cluster_11"
       ],
       "connection_count": 2,
       "word_count": 11966,
@@ -1860,12 +1860,12 @@
       "title": "Why We Sleep",
       "type": "practice",
       "tags": [
-        "productivity",
+        "favorite",
+        "habit",
         "investigate",
         "sleep",
-        "favorite",
-        "parenting",
-        "habit"
+        "productivity",
+        "parenting"
       ],
       "clusters": [],
       "connection_count": 1,
@@ -1882,7 +1882,7 @@
       "type": "practice",
       "tags": [],
       "clusters": [
-        "cluster_6"
+        "cluster_7"
       ],
       "connection_count": 1,
       "word_count": 3878,
@@ -1960,7 +1960,7 @@
         "favorite"
       ],
       "clusters": [
-        "cluster_13"
+        "cluster_14"
       ],
       "connection_count": 2,
       "word_count": 386,
@@ -2017,9 +2017,9 @@
       "title": "Shoe Dog",
       "type": "practice",
       "tags": [
+        "memoir",
         "bussiness",
-        "life",
-        "memoir"
+        "life"
       ],
       "clusters": [],
       "connection_count": 0,
@@ -2068,7 +2068,7 @@
         "favorite"
       ],
       "clusters": [
-        "cluster_13"
+        "cluster_14"
       ],
       "connection_count": 2,
       "word_count": 637,
@@ -2139,9 +2139,9 @@
       "title": "The 4-Hour Workweek",
       "type": "practice",
       "tags": [
-        "work",
         "book",
         "career",
+        "work",
         "favorite"
       ],
       "clusters": [],
@@ -2158,13 +2158,13 @@
       "title": "The Ride of a Lifetime",
       "type": "practice",
       "tags": [
-        "decision",
-        "time",
-        "success",
-        "leadership",
-        "favorite",
         "management",
-        "memoir"
+        "time",
+        "favorite",
+        "memoir",
+        "decision",
+        "success",
+        "leadership"
       ],
       "clusters": [],
       "connection_count": 0,
@@ -2226,9 +2226,7 @@
       "title": "Elevation of Privilege",
       "type": "synthesis",
       "tags": [],
-      "clusters": [
-        "cluster_14"
-      ],
+      "clusters": [],
       "connection_count": 1,
       "word_count": 68,
       "path": "CSE/Cryptography/Elevation of Privilege.md",
@@ -2243,7 +2241,7 @@
       "type": "concept",
       "tags": [],
       "clusters": [
-        "cluster_14"
+        "cluster_15"
       ],
       "connection_count": 1,
       "word_count": 220,
@@ -2272,9 +2270,7 @@
       "title": "Denial of Service",
       "type": "synthesis",
       "tags": [],
-      "clusters": [
-        "cluster_14"
-      ],
+      "clusters": [],
       "connection_count": 2,
       "word_count": 71,
       "path": "CSE/Cryptography/Denial of Service.md",
@@ -2303,7 +2299,7 @@
       "type": "reference",
       "tags": [],
       "clusters": [
-        "cluster_14"
+        "cluster_15"
       ],
       "connection_count": 5,
       "word_count": 228,
@@ -2361,7 +2357,7 @@
       "type": "synthesis",
       "tags": [],
       "clusters": [
-        "cluster_14"
+        "cluster_15"
       ],
       "connection_count": 1,
       "word_count": 125,
@@ -2393,7 +2389,7 @@
       "type": "concept",
       "tags": [],
       "clusters": [
-        "cluster_14"
+        "cluster_15"
       ],
       "connection_count": 1,
       "word_count": 58,
@@ -2408,9 +2404,7 @@
       "title": "Tampering",
       "type": "synthesis",
       "tags": [],
-      "clusters": [
-        "cluster_14"
-      ],
+      "clusters": [],
       "connection_count": 1,
       "word_count": 59,
       "path": "CSE/Cryptography/Tampering.md",
@@ -2427,7 +2421,7 @@
         "TODO"
       ],
       "clusters": [
-        "cluster_14"
+        "cluster_2"
       ],
       "connection_count": 10,
       "word_count": 122,
@@ -2442,7 +2436,7 @@
       "type": "practice",
       "tags": [],
       "clusters": [
-        "cluster_14"
+        "cluster_15"
       ],
       "connection_count": 4,
       "word_count": 269,
@@ -2501,7 +2495,9 @@
       "title": "Initialization Vector",
       "type": "synthesis",
       "tags": [],
-      "clusters": [],
+      "clusters": [
+        "cluster_2"
+      ],
       "connection_count": 2,
       "word_count": 88,
       "path": "CSE/Cryptography/Initialization Vector.md",
@@ -2515,9 +2511,7 @@
       "title": "Spoofing",
       "type": "synthesis",
       "tags": [],
-      "clusters": [
-        "cluster_14"
-      ],
+      "clusters": [],
       "connection_count": 2,
       "word_count": 60,
       "path": "CSE/Cryptography/Spoofing.md",
@@ -2532,7 +2526,7 @@
       "type": "synthesis",
       "tags": [],
       "clusters": [
-        "cluster_14"
+        "cluster_15"
       ],
       "connection_count": 1,
       "word_count": 150,
@@ -2683,9 +2677,7 @@
       "title": "LOJAX",
       "type": "reference",
       "tags": [],
-      "clusters": [
-        "cluster_2"
-      ],
+      "clusters": [],
       "connection_count": 1,
       "word_count": 231,
       "path": "CSE/Cryptography/LOJAX.md",
@@ -2730,7 +2722,7 @@
       "type": "synthesis",
       "tags": [],
       "clusters": [
-        "cluster_14"
+        "cluster_15"
       ],
       "connection_count": 2,
       "word_count": 100,
@@ -2745,9 +2737,7 @@
       "title": "Information Disclosure",
       "type": "synthesis",
       "tags": [],
-      "clusters": [
-        "cluster_14"
-      ],
+      "clusters": [],
       "connection_count": 2,
       "word_count": 64,
       "path": "CSE/Cryptography/Information Disclosure.md",
@@ -2844,7 +2834,7 @@
       "type": "reference",
       "tags": [],
       "clusters": [
-        "cluster_7"
+        "cluster_8"
       ],
       "connection_count": 1,
       "word_count": 41,
@@ -2876,7 +2866,7 @@
       "type": "reference",
       "tags": [],
       "clusters": [
-        "cluster_7"
+        "cluster_8"
       ],
       "connection_count": 1,
       "word_count": 250,
@@ -2891,9 +2881,9 @@
       "title": "Design Patterns",
       "type": "reference",
       "tags": [
-        "programming",
+        "learning",
         "investigate",
-        "learning"
+        "programming"
       ],
       "clusters": [
         "cluster_1"
@@ -2911,9 +2901,9 @@
       "title": "DesigningDistributedSystems",
       "type": "concept",
       "tags": [
-        "programming",
+        "learning",
         "investigate",
-        "learning"
+        "programming"
       ],
       "clusters": [
         "cluster_1"
@@ -2947,11 +2937,11 @@
       "title": "Knowledge Graph",
       "type": "synthesis",
       "tags": [
-        "ayurveda",
-        "graph",
         "sanskrit",
         "visualization",
-        "meta"
+        "graph",
+        "meta",
+        "ayurveda"
       ],
       "clusters": [
         "cluster_2"
@@ -2968,7 +2958,7 @@
     {
       "source": "one_percent_rule",
       "target": "aggregation_of_marginal_gains",
-      "strength": 0.464,
+      "strength": 0.475,
       "type": "semantic"
     },
     {
@@ -2986,7 +2976,7 @@
     {
       "source": "one_percent_rule",
       "target": "friday_cleaning",
-      "strength": 0.487,
+      "strength": 0.475,
       "type": "semantic"
     },
     {
@@ -2998,13 +2988,13 @@
     {
       "source": "logseq_setup_guide",
       "target": "decorator_pattern",
-      "strength": 0.426,
+      "strength": 0.4,
       "type": "semantic"
     },
     {
       "source": "aggregation_of_marginal_gains",
       "target": "one_percent_rule",
-      "strength": 0.464,
+      "strength": 0.475,
       "type": "semantic"
     },
     {
@@ -3046,7 +3036,7 @@
     {
       "source": "authentication",
       "target": "stride",
-      "strength": 0.416,
+      "strength": 0.4,
       "type": "semantic"
     },
     {
@@ -3058,13 +3048,13 @@
     {
       "source": "security_vulnerabilities",
       "target": "cryptography",
-      "strength": 0.416,
+      "strength": 0.424,
       "type": "semantic"
     },
     {
       "source": "security_vulnerabilities",
       "target": "stride",
-      "strength": 0.4,
+      "strength": 0.416,
       "type": "semantic"
     },
     {
@@ -3082,7 +3072,7 @@
     {
       "source": "gruthva",
       "target": "vaishshikasutra",
-      "strength": 0.5,
+      "strength": 0.464,
       "type": "semantic"
     },
     {
@@ -3106,7 +3096,7 @@
     {
       "source": "navneetakam",
       "target": "ashtangahrydayam",
-      "strength": 0.31,
+      "strength": 0.287,
       "type": "semantic"
     },
     {
@@ -3130,7 +3120,7 @@
     {
       "source": "ashtangahrydayam",
       "target": "navneetakam",
-      "strength": 0.31,
+      "strength": 0.287,
       "type": "semantic"
     },
     {
@@ -3142,13 +3132,13 @@
     {
       "source": "early_indians",
       "target": "ranveershow_indain_archaeologist",
-      "strength": 0.416,
+      "strength": 0.4,
       "type": "semantic"
     },
     {
       "source": "ranveershow_indain_archaeologist",
       "target": "early_indians",
-      "strength": 0.416,
+      "strength": 0.4,
       "type": "semantic"
     },
     {
@@ -3160,7 +3150,7 @@
     {
       "source": "ranveershow_indain_archaeologist",
       "target": "angkor_wat",
-      "strength": 0.428,
+      "strength": 0.4,
       "type": "semantic"
     },
     {
@@ -3196,7 +3186,7 @@
     {
       "source": "books",
       "target": "ashtadhyayi",
-      "strength": 0.4,
+      "strength": 0.424,
       "type": "semantic"
     },
     {
@@ -3310,7 +3300,7 @@
     {
       "source": "angkor_wat",
       "target": "ranveershow_indain_archaeologist",
-      "strength": 0.428,
+      "strength": 0.4,
       "type": "semantic"
     },
     {
@@ -3472,19 +3462,19 @@
     {
       "source": "hanuman_chalisa",
       "target": "manas",
-      "strength": 0.4,
+      "strength": 0.446,
       "type": "semantic"
     },
     {
       "source": "hanuman_chalisa",
       "target": "dharma",
-      "strength": 0.4,
+      "strength": 0.435,
       "type": "semantic"
     },
     {
       "source": "hanuman_chalisa",
       "target": "grit",
-      "strength": 0.416,
+      "strength": 0.4,
       "type": "semantic"
     },
     {
@@ -3496,7 +3486,7 @@
     {
       "source": "brihadesi",
       "target": "nada",
-      "strength": 0.426,
+      "strength": 0.4,
       "type": "semantic"
     },
     {
@@ -3586,7 +3576,7 @@
     {
       "source": "ayurvedam",
       "target": "ayurvedicremedies",
-      "strength": 0.425,
+      "strength": 0.4,
       "type": "semantic"
     },
     {
@@ -3610,7 +3600,7 @@
     {
       "source": "vishnusahasranamambydusyanthsridhar",
       "target": "vishnusahasranamam",
-      "strength": 0.4,
+      "strength": 0.416,
       "type": "semantic"
     },
     {
@@ -3622,7 +3612,7 @@
     {
       "source": "manas",
       "target": "hanuman_chalisa",
-      "strength": 0.4,
+      "strength": 0.446,
       "type": "semantic"
     },
     {
@@ -3634,7 +3624,7 @@
     {
       "source": "manas",
       "target": "nirvanashatakam",
-      "strength": 0.4,
+      "strength": 0.421,
       "type": "semantic"
     },
     {
@@ -3682,7 +3672,7 @@
     {
       "source": "vaishshikasutra",
       "target": "gruthva",
-      "strength": 0.5,
+      "strength": 0.464,
       "type": "semantic"
     },
     {
@@ -3742,7 +3732,7 @@
     {
       "source": "ashtadhyayi",
       "target": "books",
-      "strength": 0.4,
+      "strength": 0.424,
       "type": "semantic"
     },
     {
@@ -3778,7 +3768,7 @@
     {
       "source": "dharma",
       "target": "hanuman_chalisa",
-      "strength": 0.4,
+      "strength": 0.435,
       "type": "semantic"
     },
     {
@@ -3802,7 +3792,7 @@
     {
       "source": "vishnusahasranamam",
       "target": "vishnusahasranamambydusyanthsridhar",
-      "strength": 0.4,
+      "strength": 0.416,
       "type": "semantic"
     },
     {
@@ -3826,7 +3816,7 @@
     {
       "source": "nada",
       "target": "brihadesi",
-      "strength": 0.426,
+      "strength": 0.4,
       "type": "semantic"
     },
     {
@@ -3838,13 +3828,13 @@
     {
       "source": "nada",
       "target": "sangitaratnakaram",
-      "strength": 0.441,
+      "strength": 0.426,
       "type": "semantic"
     },
     {
       "source": "sangitaratnakaram",
       "target": "nada",
-      "strength": 0.441,
+      "strength": 0.426,
       "type": "semantic"
     },
     {
@@ -3868,13 +3858,13 @@
     {
       "source": "nirvanashatakam",
       "target": "manas",
-      "strength": 0.4,
+      "strength": 0.421,
       "type": "semantic"
     },
     {
       "source": "ayurvedicremedies",
       "target": "ayurvedam",
-      "strength": 0.425,
+      "strength": 0.4,
       "type": "semantic"
     },
     {
@@ -3892,61 +3882,61 @@
     {
       "source": "machine_learning_is_fun_part_4_modern_face_recognition_with_deep_learning",
       "target": "rfc793",
-      "strength": 0.533,
-      "type": "semantic"
-    },
-    {
-      "source": "machine_learning_is_fun_part_4_modern_face_recognition_with_deep_learning",
-      "target": "rfc1831",
       "strength": 0.516,
       "type": "semantic"
     },
     {
       "source": "machine_learning_is_fun_part_4_modern_face_recognition_with_deep_learning",
+      "target": "rfc1831",
+      "strength": 0.5,
+      "type": "semantic"
+    },
+    {
+      "source": "machine_learning_is_fun_part_4_modern_face_recognition_with_deep_learning",
       "target": "how_to_publish_your_own_python_package_on_pypi",
-      "strength": 0.548,
+      "strength": 0.522,
       "type": "semantic"
     },
     {
       "source": "machine_learning_is_fun_part_4_modern_face_recognition_with_deep_learning",
       "target": "rfc_7950_the_yang_1_1_data_modeling_language",
-      "strength": 0.306,
+      "strength": 0.27,
       "type": "semantic"
     },
     {
       "source": "rfc793",
       "target": "machine_learning_is_fun_part_4_modern_face_recognition_with_deep_learning",
-      "strength": 0.533,
+      "strength": 0.516,
       "type": "semantic"
     },
     {
       "source": "rfc793",
       "target": "rfc1831",
-      "strength": 0.533,
+      "strength": 0.5,
       "type": "semantic"
     },
     {
       "source": "rfc793",
       "target": "how_to_publish_your_own_python_package_on_pypi",
-      "strength": 0.535,
+      "strength": 0.5,
       "type": "semantic"
     },
     {
       "source": "rfc793",
       "target": "rfc_7950_the_yang_1_1_data_modeling_language",
-      "strength": 0.281,
+      "strength": 0.25,
       "type": "semantic"
     },
     {
       "source": "rfc1831",
       "target": "machine_learning_is_fun_part_4_modern_face_recognition_with_deep_learning",
-      "strength": 0.516,
+      "strength": 0.5,
       "type": "semantic"
     },
     {
       "source": "rfc1831",
       "target": "rfc793",
-      "strength": 0.533,
+      "strength": 0.5,
       "type": "semantic"
     },
     {
@@ -3964,13 +3954,13 @@
     {
       "source": "how_to_publish_your_own_python_package_on_pypi",
       "target": "machine_learning_is_fun_part_4_modern_face_recognition_with_deep_learning",
-      "strength": 0.548,
+      "strength": 0.522,
       "type": "semantic"
     },
     {
       "source": "how_to_publish_your_own_python_package_on_pypi",
       "target": "rfc793",
-      "strength": 0.535,
+      "strength": 0.5,
       "type": "semantic"
     },
     {
@@ -3988,13 +3978,13 @@
     {
       "source": "rfc_7950_the_yang_1_1_data_modeling_language",
       "target": "machine_learning_is_fun_part_4_modern_face_recognition_with_deep_learning",
-      "strength": 0.306,
+      "strength": 0.27,
       "type": "semantic"
     },
     {
       "source": "rfc_7950_the_yang_1_1_data_modeling_language",
       "target": "rfc793",
-      "strength": 0.281,
+      "strength": 0.25,
       "type": "semantic"
     },
     {
@@ -4054,13 +4044,13 @@
     {
       "source": "atomic_habits",
       "target": "the_book_of_joy",
-      "strength": 0.25,
+      "strength": 0.266,
       "type": "semantic"
     },
     {
       "source": "grit",
       "target": "hanuman_chalisa",
-      "strength": 0.416,
+      "strength": 0.4,
       "type": "semantic"
     },
     {
@@ -4096,19 +4086,19 @@
     {
       "source": "brahma_sutra_bhasya",
       "target": "the_book_of_joy",
-      "strength": 0.524,
+      "strength": 0.516,
       "type": "semantic"
     },
     {
       "source": "the_book_of_joy",
       "target": "atomic_habits",
-      "strength": 0.25,
+      "strength": 0.266,
       "type": "semantic"
     },
     {
       "source": "the_book_of_joy",
       "target": "brahma_sutra_bhasya",
-      "strength": 0.524,
+      "strength": 0.516,
       "type": "semantic"
     },
     {
@@ -4119,13 +4109,25 @@
     },
     {
       "source": "cryptography",
-      "target": "rowhammer",
-      "strength": 0.433,
+      "target": "security_vulnerabilities",
+      "strength": 0.424,
       "type": "semantic"
     },
     {
       "source": "cryptography",
-      "target": "security_vulnerabilities",
+      "target": "encryption",
+      "strength": 0.424,
+      "type": "semantic"
+    },
+    {
+      "source": "cryptography",
+      "target": "side_channel_attack",
+      "strength": 0.416,
+      "type": "semantic"
+    },
+    {
+      "source": "cryptography",
+      "target": "rowhammer",
       "strength": 0.416,
       "type": "semantic"
     },
@@ -4155,12 +4157,6 @@
     },
     {
       "source": "cryptography",
-      "target": "encryption",
-      "strength": 0.4,
-      "type": "semantic"
-    },
-    {
-      "source": "cryptography",
       "target": "cia_triad",
       "strength": 0.4,
       "type": "semantic"
@@ -4168,12 +4164,6 @@
     {
       "source": "cryptography",
       "target": "zero_day_attack",
-      "strength": 0.4,
-      "type": "semantic"
-    },
-    {
-      "source": "cryptography",
-      "target": "lojax",
       "strength": 0.4,
       "type": "semantic"
     },
@@ -4198,13 +4188,13 @@
     {
       "source": "hash_algorithms",
       "target": "hashing",
-      "strength": 0.424,
+      "strength": 0.433,
       "type": "semantic"
     },
     {
       "source": "denial_of_service",
       "target": "stride",
-      "strength": 0.446,
+      "strength": 0.433,
       "type": "semantic"
     },
     {
@@ -4216,13 +4206,13 @@
     {
       "source": "hashing",
       "target": "hash_algorithms",
-      "strength": 0.424,
+      "strength": 0.433,
       "type": "semantic"
     },
     {
       "source": "hashing",
       "target": "block_cipher",
-      "strength": 0.424,
+      "strength": 0.416,
       "type": "semantic"
     },
     {
@@ -4240,19 +4230,19 @@
     {
       "source": "hashing",
       "target": "cia_triad",
-      "strength": 0.424,
+      "strength": 0.416,
       "type": "semantic"
     },
     {
       "source": "buffer_overflows",
       "target": "zero_day_attack",
-      "strength": 0.441,
+      "strength": 0.4,
       "type": "semantic"
     },
     {
       "source": "block_cipher",
       "target": "hashing",
-      "strength": 0.424,
+      "strength": 0.416,
       "type": "semantic"
     },
     {
@@ -4264,7 +4254,7 @@
     {
       "source": "confidentiality",
       "target": "stride",
-      "strength": 0.452,
+      "strength": 0.419,
       "type": "semantic"
     },
     {
@@ -4276,7 +4266,7 @@
     {
       "source": "confidentiality",
       "target": "cia_triad",
-      "strength": 0.44,
+      "strength": 0.429,
       "type": "semantic"
     },
     {
@@ -4294,19 +4284,19 @@
     {
       "source": "tampering",
       "target": "stride",
-      "strength": 0.4,
+      "strength": 0.424,
       "type": "semantic"
     },
     {
       "source": "stride",
       "target": "authentication",
-      "strength": 0.416,
+      "strength": 0.4,
       "type": "semantic"
     },
     {
       "source": "stride",
       "target": "security_vulnerabilities",
-      "strength": 0.4,
+      "strength": 0.416,
       "type": "semantic"
     },
     {
@@ -4318,31 +4308,31 @@
     {
       "source": "stride",
       "target": "denial_of_service",
-      "strength": 0.446,
-      "type": "semantic"
-    },
-    {
-      "source": "stride",
-      "target": "confidentiality",
-      "strength": 0.452,
-      "type": "semantic"
-    },
-    {
-      "source": "stride",
-      "target": "tampering",
-      "strength": 0.4,
-      "type": "semantic"
-    },
-    {
-      "source": "stride",
-      "target": "digital_signatures",
       "strength": 0.433,
       "type": "semantic"
     },
     {
       "source": "stride",
+      "target": "confidentiality",
+      "strength": 0.419,
+      "type": "semantic"
+    },
+    {
+      "source": "stride",
+      "target": "tampering",
+      "strength": 0.424,
+      "type": "semantic"
+    },
+    {
+      "source": "stride",
+      "target": "digital_signatures",
+      "strength": 0.464,
+      "type": "semantic"
+    },
+    {
+      "source": "stride",
       "target": "availability",
-      "strength": 0.438,
+      "strength": 0.4,
       "type": "semantic"
     },
     {
@@ -4354,7 +4344,7 @@
     {
       "source": "stride",
       "target": "information_disclosure",
-      "strength": 0.448,
+      "strength": 0.435,
       "type": "semantic"
     },
     {
@@ -4366,7 +4356,7 @@
     {
       "source": "digital_signatures",
       "target": "stride",
-      "strength": 0.433,
+      "strength": 0.464,
       "type": "semantic"
     },
     {
@@ -4378,7 +4368,7 @@
     {
       "source": "digital_signatures",
       "target": "fingerprint",
-      "strength": 0.416,
+      "strength": 0.4,
       "type": "semantic"
     },
     {
@@ -4396,13 +4386,13 @@
     {
       "source": "availability",
       "target": "stride",
-      "strength": 0.438,
+      "strength": 0.4,
       "type": "semantic"
     },
     {
       "source": "availability",
       "target": "cia_triad",
-      "strength": 0.452,
+      "strength": 0.424,
       "type": "semantic"
     },
     {
@@ -4414,7 +4404,7 @@
     {
       "source": "initialization_vector",
       "target": "encryption",
-      "strength": 0.417,
+      "strength": 0.426,
       "type": "semantic"
     },
     {
@@ -4438,7 +4428,7 @@
     {
       "source": "encryption",
       "target": "cryptography",
-      "strength": 0.4,
+      "strength": 0.424,
       "type": "semantic"
     },
     {
@@ -4456,13 +4446,13 @@
     {
       "source": "encryption",
       "target": "initialization_vector",
-      "strength": 0.417,
+      "strength": 0.426,
       "type": "semantic"
     },
     {
       "source": "encryption",
       "target": "cia_triad",
-      "strength": 0.424,
+      "strength": 0.4,
       "type": "semantic"
     },
     {
@@ -4474,7 +4464,7 @@
     {
       "source": "encryption",
       "target": "multifernet",
-      "strength": 0.4,
+      "strength": 0.426,
       "type": "semantic"
     },
     {
@@ -4504,25 +4494,25 @@
     {
       "source": "cia_triad",
       "target": "hashing",
-      "strength": 0.424,
+      "strength": 0.416,
       "type": "semantic"
     },
     {
       "source": "cia_triad",
       "target": "confidentiality",
-      "strength": 0.44,
+      "strength": 0.429,
       "type": "semantic"
     },
     {
       "source": "cia_triad",
       "target": "availability",
-      "strength": 0.452,
+      "strength": 0.424,
       "type": "semantic"
     },
     {
       "source": "cia_triad",
       "target": "encryption",
-      "strength": 0.424,
+      "strength": 0.4,
       "type": "semantic"
     },
     {
@@ -4534,7 +4524,7 @@
     {
       "source": "multifernet",
       "target": "encryption",
-      "strength": 0.4,
+      "strength": 0.426,
       "type": "semantic"
     },
     {
@@ -4546,7 +4536,7 @@
     {
       "source": "zero_day_attack",
       "target": "buffer_overflows",
-      "strength": 0.441,
+      "strength": 0.4,
       "type": "semantic"
     },
     {
@@ -4558,7 +4548,7 @@
     {
       "source": "side_channel_attack",
       "target": "cryptography",
-      "strength": 0.4,
+      "strength": 0.416,
       "type": "semantic"
     },
     {
@@ -4594,7 +4584,7 @@
     {
       "source": "fingerprint",
       "target": "digital_signatures",
-      "strength": 0.416,
+      "strength": 0.4,
       "type": "semantic"
     },
     {
@@ -4606,13 +4596,13 @@
     {
       "source": "information_disclosure",
       "target": "stride",
-      "strength": 0.448,
+      "strength": 0.435,
       "type": "semantic"
     },
     {
       "source": "rowhammer",
       "target": "cryptography",
-      "strength": 0.433,
+      "strength": 0.416,
       "type": "semantic"
     },
     {
@@ -4648,7 +4638,7 @@
     {
       "source": "friday_cleaning",
       "target": "one_percent_rule",
-      "strength": 0.487,
+      "strength": 0.475,
       "type": "semantic"
     },
     {
@@ -4720,7 +4710,7 @@
     {
       "source": "decorator_pattern",
       "target": "logseq_setup_guide",
-      "strength": 0.426,
+      "strength": 0.4,
       "type": "semantic"
     },
     {
@@ -4786,17 +4776,18 @@
       "knowledge_graph",
       "aryan_invasion_theory",
       "cryptography",
-      "rowhammer",
       "security_vulnerabilities",
+      "encryption",
+      "side_channel_attack",
+      "rowhammer",
       "authentication",
       "cold_boot",
       "confidentiality",
       "availability",
-      "encryption",
       "cia_triad",
       "zero_day_attack",
-      "lojax",
-      "side_channel_attack"
+      "stride",
+      "initialization_vector"
     ],
     "cluster_3": [
       "title_of_my_new_note",
@@ -4806,34 +4797,36 @@
       "suthrasthana",
       "ashtangahrydayam",
       "ayurvedam",
-      "navneetakam",
-      "ayurvedicremedies",
-      "india_before_invasions_explained_by_sandeep_balakrishna"
+      "ayurvedicremedies"
     ],
     "cluster_5": [
+      "navneetakam",
+      "india_before_invasions_explained_by_sandeep_balakrishna"
+    ],
+    "cluster_6": [
       "early_indians",
       "ranveershow_indain_archaeologist",
       "alexander_cunningham",
       "angkor_wat",
       "indology"
     ],
-    "cluster_6": [
+    "cluster_7": [
       "bill_joy",
       "outliers"
     ],
-    "cluster_7": [
+    "cluster_8": [
       "brian_kernighan_interview",
       "brian_kernighan",
       "hello_world",
       "unix_philosophy"
     ],
-    "cluster_8": [
+    "cluster_9": [
       "jyothisha_rajvedam_beerbiceps",
       "mathsya_purana",
       "atharvanaveda",
       "itheriya_brahmana"
     ],
-    "cluster_9": [
+    "cluster_10": [
       "jagadaananda_kaararaka",
       "tyagaraja_swamy",
       "bantu_reethi_koluvu",
@@ -4843,49 +4836,43 @@
       "sangitaratnakaram",
       "akshara"
     ],
-    "cluster_10": [
+    "cluster_11": [
       "karma",
       "dharma",
       "hanuman_chalisa",
       "grit"
     ],
-    "cluster_11": [
+    "cluster_12": [
       "vishnusahasranamambydusyanthsridhar",
       "vishnusahasranamam",
       "krishna",
       "acharya"
     ],
-    "cluster_12": [
+    "cluster_13": [
       "machine_learning_is_fun_part_4_modern_face_recognition_with_deep_learning",
       "rfc793",
       "rfc1831",
       "how_to_publish_your_own_python_package_on_pypi",
       "rfc_7950_the_yang_1_1_data_modeling_language"
     ],
-    "cluster_13": [
+    "cluster_14": [
       "brahma_sutra_bhasya",
       "the_book_of_joy"
     ],
-    "cluster_14": [
-      "elevation_of_privilege",
-      "stride",
-      "denial_of_service",
-      "tampering",
-      "digital_signatures",
-      "spoofing",
-      "information_disclosure",
-      "hashing",
-      "fingerprint",
+    "cluster_15": [
       "hash_algorithms",
+      "hashing",
       "block_cipher",
+      "digital_signatures",
       "checksum",
+      "fingerprint",
       "public_key"
     ]
   },
   "metadata": {
     "total_nodes": 182,
     "total_edges": 296,
-    "total_clusters": 15,
+    "total_clusters": 16,
     "node_types": {
       "practice": 47,
       "concept": 48,
@@ -4927,18 +4914,18 @@
       },
       {
         "name": "cluster_2",
-        "size": 20
+        "size": 21
       },
       {
-        "name": "cluster_14",
-        "size": 13
-      },
-      {
-        "name": "cluster_9",
+        "name": "cluster_10",
         "size": 8
       },
       {
         "name": "cluster_0",
+        "size": 7
+      },
+      {
+        "name": "cluster_15",
         "size": 7
       }
     ]

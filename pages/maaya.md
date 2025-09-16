@@ -1,1 +1,3 @@
 - Maayatu
+- **māyāṃ tu prakuryāt vidhiḥ"** or **"māyāṃ tu prakaraṇaṃ vidhiḥ**
+-

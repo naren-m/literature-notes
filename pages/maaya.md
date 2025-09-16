@@ -1,3 +1,6 @@
-- Maayatu
+- [Maaya tu prakruthim vidhi, Mayinam thu maheswara](https://youtu.be/KWbuqC3xVD4?t=6131)
+	- Maaya, Maayi
 - **māyāṃ tu prakuryāt vidhiḥ"** or **"māyāṃ tu prakaraṇaṃ vidhiḥ**
+-
+- Maaya in [[advaita]] - Sad
 -

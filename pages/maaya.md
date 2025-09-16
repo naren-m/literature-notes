@@ -2,5 +2,8 @@
 	- Maaya, Maayi
 - **māyāṃ tu prakuryāt vidhiḥ"** or **"māyāṃ tu prakaraṇaṃ vidhiḥ**
 -
-- Maaya in [[advaita]] - Sad
+- Maaya in [[advaita]] - SathasasthVilakshanam
+	- Sath -Exisiting
+	- Asath - Non Existing
+	- Sathasath - Existing and non no
 -

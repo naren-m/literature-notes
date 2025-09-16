@@ -8,4 +8,4 @@
 	- Asath - Non Existing
 	- Sathasath - Existing and non non exisitn
 	- SathasasthVilakshanam - Different from what is existing and non existing
-- Maaya envelops the athma
+- Maaya envelops the athma gnyana

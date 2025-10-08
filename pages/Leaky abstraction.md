@@ -1,3 +1,8 @@
 - A design flaw where an abstractions, intended to simplify and hide the underlyng complexity of the system, fails to completely do so.
 -
-- Some of the implementarion details will be exposed or `leaking` through the abastractions focring users to have the knowledge of these underlying cmplexities to effectively use.
+- Some of the implementation details will be exposed or `leaking` through the abastractions focring users to have the knowledge of these underlying cmplexities to effectively use.
+-
+- Conept polularized by Joel Spolsky who coinde tht term
+-
+-
+- Law

@@ -6,4 +6,4 @@
 -
 -
 - Law of leaky Abstractions
-	- All non-trivial abstractions, to some degree a
+	- All non-trivial abstractions, to some degree, are leaky

@@ -5,4 +5,5 @@
 - Conept polularized by Joel Spolsky who coinde tht term
 -
 -
-- Law
+- Law of leaky Abstractions
+	- All non-trivial abstractions, to some degree a

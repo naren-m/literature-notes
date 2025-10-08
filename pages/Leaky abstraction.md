@@ -1,1 +1,3 @@
-- A desing
+- A design flaw where an abstractions, intended to simplify and hide the underlyng complexity of the system, fails to completely do so.
+-
+- Som fo the implementaion details will be exposed or `leaking` throught the abastractions

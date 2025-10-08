@@ -1,3 +1,3 @@
 - A design flaw where an abstractions, intended to simplify and hide the underlyng complexity of the system, fails to completely do so.
 -
-- Some fo the implementaion details will be exposed or `leaking` throught the abastractions focring users to have the knowledge of these underlying cmplexities to effectively use.
+- Some of the implementaion details will be exposed or `leaking` throught the abastractions focring users to have the knowledge of these underlying cmplexities to effectively use.

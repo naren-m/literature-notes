@@ -58,26 +58,34 @@ literature-notes/
 
 ## 🔄 Self-Maintaining System
 
-### Auto-Updating README Files
+### Auto-Updating README Files (Fully Automated!)
 
-All README files with note counts are **auto-generated**. Never manually edit the counts!
+All README files with note counts are **auto-generated via GitHub Actions**. Never manually edit the counts!
 
-**To update all READMEs:**
-```bash
-python generate_readmes.py
-```
+**🤖 Automatic Updates:**
+- GitHub Action runs on every push to `main` branch
+- Automatically executes `generate_readmes.py`
+- Updates `INDEX.md` and all domain `README.md` files
+- Auto-commits with descriptive message
+- Skips commit if no changes detected
 
-This script:
+**What it does:**
 - ✅ Counts notes in each domain
 - ✅ Updates INDEX.md with current statistics
 - ✅ Updates domain README files (CSE, sanskrit-lit, highlights)
 - ✅ Adds last updated timestamp
 - ✅ Maintains consistent formatting
 
-**When to run:**
-- After adding/removing notes
-- Before committing changes
-- Weekly for fresh statistics
+**Manual trigger (if needed):**
+```bash
+# Only needed for local testing
+python generate_readmes.py
+```
+
+**Or trigger workflow manually:**
+- Go to GitHub Actions tab
+- Select "Auto-Update READMEs" workflow
+- Click "Run workflow"
 
 ### Adding New Notes
 
@@ -151,11 +159,8 @@ cd ..
 git add literature-notes
 git commit -m "Update literature-notes"
 
-# 2. Regenerate README files
-cd literature-notes
-python generate_readmes.py
-git add INDEX.md */README.md
-git commit -m "Update auto-generated READMEs"
+# 2. READMEs update automatically via GitHub Action!
+#    No manual action needed - they're always current
 
 # 3. Check for broken wikilinks (optional)
 python analyze_links.py

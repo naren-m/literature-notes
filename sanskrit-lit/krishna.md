@@ -1,4 +1,15 @@
-# krishna
+---
+title: "Krishna"
+date: 2025-12-11
+category: "sanskrit-lit/Deities"
+tags: [krishna, vishnu, devotional, vedic]
+status: "complete"
+source: "Vishnusahasranamam by Dushyanth Sridhar"
+---
+
+# Krishna
+
+> He whose complexion is dark, Dark-complexioned. Jagath Guru (world teacher)
 
 He whose complexion is dark, Dark-complexioned.
 

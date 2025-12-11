@@ -1,4 +1,14 @@
+---
+title: "Cryptography"
+date: 2025-12-11
+category: "CSE/Cryptography"
+tags: [cryptography, security, encryption, hashing]
+status: "complete"
+---
+
 # Cryptography
+
+> The science of keeping secrets through hashing and encryption
 
 Cryptography is the science of keeping secrets, where hashing and encryption are primary components.
 

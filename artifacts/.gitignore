@@ -1,0 +1,4 @@
+# Artifacts directory - generated files not committed to repo
+*
+!.gitignore
+!README.md

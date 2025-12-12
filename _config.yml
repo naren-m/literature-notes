@@ -30,11 +30,12 @@ include:
 exclude:
   - "*.py"
   - "*.db"
+  - "*.backup"
   - "requirements.txt"
   - "zettel"
   - "*.sh"
   - "knowledge_graph.html"
-  - "README.md" 
+  - "README.md"
   - "Gemfile*"
   - "LICENSE"
   - "*.pyc"
@@ -46,6 +47,15 @@ exclude:
   - "vendor/cache/"
   - "vendor/gems/"
   - "vendor/ruby/"
+  - "tools/"
+  - "build/"
+  - "config/"
+  - "migrate_*.py"
+  - "create_compatibility_wrappers.py"
+  - "MIGRATION_SUMMARY.md"
+  - "MIGRATION_COMPLETE.md"
+  - ".venv/"
+  - "literature-notes-integration/"
 
 # Enable serving of markdown files
 keep_files:

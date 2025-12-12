@@ -4,3 +4,23 @@ node_modules
 Gemfile.lock
 .venv
 .vscode
+
+# Build artifacts
+build/
+*.db
+*.pyc
+
+# Generated files
+assets/search-index.json
+assets/search-suggestions.json
+
+# Python
+*.egg-info
+dist/
+.pytest_cache/
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~

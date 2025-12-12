@@ -6,18 +6,18 @@
 
 ### Main Domains
 
-- **[[CSE/README|Computer Science & Engineering]]** - Cryptography, algorithms, design patterns (55 notes)
-- **[[sanskrit-lit/README|Sanskrit Literature]]** - Vedic texts, philosophy, yoga sutras (43 notes)
-- **[[highlights/README|Highlights]]** - Curated book & article summaries (36 notes)
-- **[[books/README|Books]]** - Book reviews and summaries (7 notes)
-- **[[people/README|People]]** - Notable figures & biographies (9 notes)
+- **[[CSE/README|Computer Science & Engineering]]** - Cryptography, algorithms, design patterns (0 notes)
+- **[[sanskrit-lit/README|Sanskrit Literature]]** - Vedic texts, philosophy, yoga sutras (0 notes)
+- **[[highlights/README|Highlights]]** - Curated book & article summaries (0 notes)
+- **[[books/README|Books]]** - Book reviews and summaries (0 notes)
+- **[[people/README|People]]** - Notable figures & biographies (0 notes)
 
 ### Specialized Areas
 
-- **[[Security]]** - Security concepts and vulnerabilities (2 notes)
-- **[[Statistics]]** - Statistical methods and concepts (2 notes)
-- **[[math]]** - Mathematical concepts (2 notes)
-- **[[india]]** - Indian culture and history (3 notes)
+- **[[Security]]** - Security concepts and vulnerabilities (0 notes)
+- **[[Statistics]]** - Statistical methods and concepts (0 notes)
+- **[[math]]** - Mathematical concepts (0 notes)
+- **[[india]]** - Indian culture and history (0 notes)
 
 ## 📊 Browse by Topic
 
@@ -81,9 +81,9 @@ This knowledge base emphasizes interconnections across domains:
 
 ## 📈 Statistics
 
-- **Total Notes**: 187
-- **Domains**: 10 major areas
-- **Last Updated**: 2025-12-11
+- **Total Notes**: 193
+- **Domains**: 2 major areas
+- **Last Updated**: 2025-12-12
 
 ## 🔄 Maintenance
 

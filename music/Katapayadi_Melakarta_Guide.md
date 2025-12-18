@@ -169,6 +169,7 @@
   
   This system transforms what could be a brute-force memorization task into an elegant computational process. The rāga name contains everything you need to reconstruct its scale:
   
-  > **[[RĀGA]] NAME → KATAPAYADI → NUMBER → ALGORITHM → FULL SCALE**
+  > **[[RĀGA]] NAME → [[KATAPAYADI]] → NUMBER → ALGORITHM → FULL SCALE**
   
   The 18th-century musicologist Venkatamakhi essentially created a "hash function" centuries before computer science formalized the concept—reducing a memorization problem to an algorithm, then encoding the algorithm's input directly into the object being named.
+-

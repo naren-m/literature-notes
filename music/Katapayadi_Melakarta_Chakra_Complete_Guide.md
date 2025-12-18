@@ -82,11 +82,13 @@ Within any group of 6 rāgas that share the same R-G-M combination, only the D-N
 
 Here's the elegant part: each chakra is named after a Sanskrit word representing something that naturally comes in that quantity. The name *is* the number.
 
+This naming system connects to ancient Vedic traditions—for instance, the three sacred fires in [[Agni]] chakra reference the fire altars (agni-chayana) whose precise construction is detailed in [[Sulba Sutras]].
+
 | Chakra | Name | Meaning | Why This Number? |
 |--------|------|---------|------------------|
 | 1 | **Indu** | Moon | We have one moon |
 | 2 | **Netra** | Eyes | We have two eyes |
-| 3 | **Agni** | Fire | Three sacred fires (Āhavanīya, Dakṣiṇa, Gārhapatya) |
+| 3 | **[[Agni]]** | Fire | Three sacred fires (Āhavanīya, Dakṣiṇa, Gārhapatya) |
 | 4 | **Veda** | Scripture | Four Vedas (Ṛg, Yajur, Sāma, Atharva) |
 | 5 | **Bāṇa** | Arrow | Five arrows of Manmatha (god of love) |
 | 6 | **Ṛtu** | Season | Six seasons in the Hindu calendar |
@@ -376,3 +378,25 @@ So "Agni-go" means the 3rd rāga in Agni chakra = rāga 15 (Mayamalavagaula).
 The result: a 17th-century system that functions like a modern database with hierarchical indexing, self-documenting keys, and built-in error checking—all encoded in culturally meaningful Sanskrit words.
 
 Venkatamakhi didn't just organize music; he created an information architecture that would feel at home in computer science three centuries later.
+
+This systematic encoding approach parallels modern information theory concepts explored in [[ENTROPY]], where efficient encoding schemes preserve complete information while minimizing storage requirements.
+
+---
+
+## Related Concepts
+
+- [[Carnatic music]] - The classical music tradition using this system
+- [[Nada]] - The concept of sound in Indian music theory
+- [[Sangitaratnakaram]] - Classical text defining musical concepts
+- [[Brihadesi]] - Early treatise on Indian music
+- [[Agni]] - The three sacred fires, namesake of the 3rd chakra
+- [[Sulba Sutras]] - Ancient mathematical precision for fire altar construction
+- [[Vaiseshika Darshanam]] - Systematic categorical analysis in Indian philosophy
+- [[ENTROPY]] - Information theory and encoding systems
+- [[Katapayadi_Melakarta_Guide]] - Simplified guide to the Katapayadi-Melakarta system
+
+---
+
+## Tags
+
+#music #carnatic #ragas #melakarta #katapayadi #chakra #bhuta-sankhya #encoding #mathematics #combinatorics #indian-classical-music #systematic-knowledge #information-theory #hierarchical-systems

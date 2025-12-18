@@ -277,6 +277,7 @@ Vaiseshika presents one of the world's earliest systematic atomic theories, pred
 
 ## Related Philosophical Concepts
 
+### Philosophical Systems
 - [[NyayaSutra]] - Logical methodology and epistemology
 - [[Ashtadhyayi]] - Systematic categorical analysis
 - [[VaishshikaSutra]] - Primary source text
@@ -285,6 +286,11 @@ Vaiseshika presents one of the world's earliest systematic atomic theories, pred
 - [[Dharma]] - Natural law and righteousness
 - Samkhya philosophy - Dualistic metaphysics
 - Advaita Vedanta - Contrast in metaphysical approach
+
+### Systematic Classification Parallels
+- [[Katapayadi_Melakarta_Guide]] - Musical rāgas organized into 72 scales using combinatorial constraints, paralleling Vaiseshika's systematic categorization
+- [[Katapayadi_Melakarta_Chakra_Complete_Guide]] - Hierarchical chakra system organizing rāgas, reflecting similar categorical thinking
+- **Sankhya (Number)** as Guna - The quality of number (line 56) relates to the mathematical foundation of rāga organization
 
 ## Study Resources
 

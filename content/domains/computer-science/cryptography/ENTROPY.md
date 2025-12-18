@@ -184,4 +184,37 @@ Recent research demonstrates:
 - **Hardware Backdoors**: Concerns about compromised entropy sources
 - **Supply Chain Security**: Trusting hardware entropy generation
 
-#cryptography #security #information-theory #random-numbers #mathematics #nist-standards
+---
+
+## Historical Information Encoding Systems
+
+The principles of information theory and entropy have ancient parallels in systematic encoding schemes developed centuries before Shannon:
+
+### Katapayadi System (Indian Classical Music)
+The [[Katapayadi_Melakarta_Guide|Katapayadi-Melakarta system]] demonstrates early information-theoretic thinking:
+- **Bijective encoding**: Sanskrit consonants ↔ digits (0-9) mapping
+- **Lossless compression**: 7-note musical scale encoded in 2 consonants
+- **Error detection**: [[Katapayadi_Melakarta_Chakra_Complete_Guide|Chakra names]] provide redundancy for validation
+- **Hierarchical indexing**: Three-layer encoding (Katapayadi → Number → Scale)
+- **Hash function analogy**: Rāga name serves as deterministic key to complete scale structure
+
+**Information-theoretic properties**:
+- Entropy preservation: Full musical information recoverable from compact encoding
+- Systematic organization: Mathematical constraints yield exactly 72 valid combinations
+- Cultural encoding: Meaningful Sanskrit words maintain both semantic and numeric content
+
+This 17th-century system embodies core information theory concepts:
+- Efficient encoding of structured data
+- Redundancy for error checking
+- Systematic enumeration of valid states
+- Bijective mapping preserving full information
+
+---
+
+## Related Concepts
+
+- [[Katapayadi_Melakarta_Guide]] - Historical encoding system with information-theoretic properties
+- [[Katapayadi_Melakarta_Chakra_Complete_Guide]] - Hierarchical information architecture
+- [[Vaiseshika Darshanam]] - Ancient systematic categorization of reality
+
+#cryptography #security #information-theory #random-numbers #mathematics #nist-standards #encoding-systems

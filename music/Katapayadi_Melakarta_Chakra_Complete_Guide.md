@@ -13,7 +13,7 @@ Imagine you need to organize 72 musical scales in a way that:
 3. The naming system uses culturally meaningful words
 4. No memorization tables are required—everything is calculable
 
-The solution involves three interconnected encoding layers, each building on the previous.
+The solution involves three interconnected encoding layers, each building on the previous. This systematic approach reflects the Indian tradition of organizing knowledge through categorical analysis, similar to [[Vaiseshika Darshanam]]'s classification of reality.
 
 ---
 
@@ -22,6 +22,8 @@ The solution involves three interconnected encoding layers, each building on the
 ### The Musical Constraints
 
 An octave has 12 semitones. A *sampūrṇa* (complete) rāga uses exactly 7 notes—one from each note-family—in strictly ascending pitch order.
+
+The concept of [[Nada]] (sound) as described in [[Sangitaratnakaram]] and [[Brihadesi]] forms the theoretical foundation of [[Carnatic music]].
 
 | Note | Variants | Semitone Positions |
 |------|----------|-------------------|

@@ -12,7 +12,7 @@
 - ## तदा द्रष्ुः स्वरूपेऽवस्थानम् || १.३ ||
   
   తదా ద్రష్టు: స్వరూపే అవస్థానం
-- tadA draShTuH (dRAshTi) svarUpeavasthAnam 1.3
+- tadA draShTuH ([[dRShTi]]) svarUpeavasthAnam 1.3
 - Tada drashtuhu swaroopena avasthanam
 - It is then, that one is established in the true sense of the seer, called self.
 - ## वृचत्तसारूप्यचमतरत्र || १.४||

@@ -1,5 +1,5 @@
 - [Sundarakanda 1:198](https://www.valmiki.iitk.ac.in/content?language=dv&field_kanda_tid=5&field_sarga_value=1&field_sloka_value=198&scgr=1&etgr=1&etss=1&choose=1)
-- [[Sundarakanda]]
+- [[Sundarakanda]] **Sundara Kanda, Sarga 1 (Sāgara Laṅghanaṁ)**
 - [[hanuma]]
 -
 -
@@ -13,7 +13,6 @@
 - *The Four Pillars of Siddhi*
 - *Chatvāri Lakṣaṇāni* (The Four Traits)
 -
-- Excellent! Now I have the full context. This is the beautiful shloka from where the Devas and Gandharvas praise Hanuman after his ocean crossing, highlighting the four qualities for success:
 - **Dhṛti** (धृति) - Steadfast resolve
 - **Dṛṣṭi** (दृष्टि) - Clear vision
 - **Mati** (मति) - Intelligence/discernment

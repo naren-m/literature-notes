@@ -2,6 +2,13 @@
 - యస్య త్వేతాని చత్వారి వానరేన్ద్ర యథా తవ৷৷5.1.198৷৷
 - ధృతిర్దృష్టిర్మతిర్దాక్ష్యం సః కర్మసు న సీదతి.
 -
+- *Karmasu Na Sidanti* ("They don't fail in tasks")
+- The Four Pillars of Siddhi  - Chatvāri Lakṣaṇāni* (The Four Traits)
+	- **Dhṛti** (धृति) - Steadfast resolve
+	- **Dṛṣṭi** (दृष्टि) - Clear vision
+	- **Mati** (मति) - Intelligence/discernment
+	- **Dākṣyam** (दाक्ष्यं) - Skill to execute
+-
 -
 - Yasya tvEtAni chatvAri vAnarEndra yathA tava|
 - dhRti-dRShTi-mati-dAKShyam sa karmasu na sIdati

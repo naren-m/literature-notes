@@ -3,10 +3,10 @@
 -
 - *Karmasu Na Sidanti* ("They don't fail in tasks")
 - The Four Pillars of Siddhi  - Chatvāri Lakṣaṇāni* (The Four Traits)
-	- **Dhṛti** (धृति) - Steadfast resolve
-	- **Dṛṣṭi** (दृष्टि) - Clear vision
-	- **Mati** (मति) - Intelligence/discernment
-	- **Dākṣyam** (दाक्ष्यं) - Skill to execute
+	- **dhRti** (धृति) - Steadfast resolve
+	- **dRShTi** (दृष्टि) - Clear vision
+	- **mati** (मति) - Intelligence/discernment
+	- **dAKShyam** (दाक्ष्यं) - Skill to execute
 -
 -
 - Yasya tvEtAni chatvAri vAnarEndra yathA tava|

@@ -7,4 +7,5 @@
 - ధృతిర్దృష్టిర్మతిర్దాక్ష్యం సః కర్మసు న సీదతి.
 -
 -
-- Yasya tvEtAni
+- Yasya tvEtAni chatvAri vAnarEndra yathA tava|
+- dhRti

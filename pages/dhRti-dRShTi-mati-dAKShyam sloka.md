@@ -11,18 +11,13 @@
 - dhRti-dRShTi-mati-dAKShyam sa karmasu na sIdati
 -
 - *The Four Pillars of Siddhi*
-- *Chatvāri Lakṣaṇāni* (The Four Traits)
 -
-- **Dhṛti** (धृति) - Steadfast resolve
-- **Dṛṣṭi** (दृष्टि) - Clear vision
-- **Mati** (मति) - Intelligence/discernment
-- **Dākṣyam** (दाक्ष्यं) - Skill to execute
-  
-  Here are tailored name suggestions:
-  
-  **Based on the four traits:**
-- *Dhṛti-Dṛṣṭi-Mati-Dākṣyam* - simple, direct reference
-- **Goal-oriented:**
 - *The Shloka of Unstoppable Success*
 - *Hanuman's Success Formula*
-- *Karmasu Na Sidanti* ("They don't fail in tasks")
+- *Karmasu Na Sidanti* ("They don't fail in tasks"
+- *Chatvāri Lakṣaṇāni* (The Four Traits)
+	- **Dhṛti** (धृति) - Steadfast resolve
+	- **Dṛṣṭi** (दृष्टि) - Clear vision
+	- **Mati** (मति) - Intelligence/discernment
+	- **Dākṣyam** (दाक्ष्यं) - Skill to execute
+-

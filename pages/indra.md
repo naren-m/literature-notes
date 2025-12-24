@@ -1,6 +1,6 @@
 - Indra
 	- In -> vishay
 	- Dravathi -> Gachathi
--
 - Vishayan prathigachathi ithi indrah
+-
 - #vyuthpathi

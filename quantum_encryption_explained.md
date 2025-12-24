@@ -1,6 +1,4 @@
 # How Quantum Computers Break Encryption: First Principles
-
-[Jira confluence page](https://miggbo.atlassian.net/wiki/x/IwieVg)
 - ## The Core Problem: Why Do We Need New Cryptography?
 - ### Today's internet security relies on "hard math problems"
   

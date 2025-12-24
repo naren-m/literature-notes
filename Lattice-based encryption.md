@@ -88,7 +88,7 @@
   
   | Discrete log (ECC) | Shor's algorithm finds the structure → **Broken** |
   
-  | Lattice problems   | No known quantum shortcut → **Safe** ✅            |
+  | Lattice problems   | No known quantum shortcut → **Safe**             |
   
   Lattices don't have the mathematical structure that Shor's algorithm exploits.
   

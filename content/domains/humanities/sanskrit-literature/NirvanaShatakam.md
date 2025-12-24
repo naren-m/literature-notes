@@ -6,7 +6,7 @@
 -
 - # NirvanaShatakam
 	-
-	- mano buddhi [[ahankara]] [[chitta]]ni naaham
+	- mano buddhi [[ahankara]]  [[chitta]]ni naaham
 	  na cha shrotravjihve na cha ghraana netre
 	  na cha vyoma bhumir na tejo na vaayuhu
 	  chidananda rupah shivo'ham shivo'ham

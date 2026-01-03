@@ -39,14 +39,12 @@
 	  
 	  ---
 - ## How Much Do You Need?
-  
-  Use this formula:
+- Use this formula:
   
   ```
   Corpus = Monthly Cash Flow × 12 × ISR
   ```
-  
-  **ISR (Income Stability Ratio)** is a multiplier based on your goal duration:
+  [[Income Stability Ration(ISR)]]  is a multiplier based on your goal duration:
   
   | Goal Type                        | Duration    | ISR   | Example              |
   | -------------------------------- | ----------- | ----- | -------------------- |

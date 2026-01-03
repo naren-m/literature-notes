@@ -150,7 +150,7 @@ flowchart TB
 
 ₹3.5 Cr corpus, ₹50L annual EMI:
 
-```
+```text
 YEAR    BUCKET 1        BUCKET 2        BUCKET 3        TOTAL       EMI PAID
 ────────────────────────────────────────────────────────────────────────────
   0     ₹1.20 Cr        ₹1.20 Cr        ₹1.10 Cr       ₹3.50 Cr      ₹0
@@ -173,11 +173,6 @@ YEAR    BUCKET 1        BUCKET 2        BUCKET 3        TOTAL       EMI PAID
   7     ₹0.85 Cr ◄──────₹0.95 Cr        ₹1.80 Cr       ₹3.60 Cr      ₹3.5 Cr
         [█████]  REFILL [██████]        [███████████]
         
- 10     ₹0.50 Cr        ₹0.80 Cr        ₹1.90 Cr       ₹3.20 Cr      ₹5.0 Cr
-        [███]           [█████]         [████████████]
-        
- 15     ₹0.20 Cr        ₹0.30 Cr        ₹0.40 Cr       ₹0.90 Cr      ₹7.5 Cr
-        [█]             [██]            [██]           DONE
 ```
 
 **Result:** ₹7.5 Cr paid out over 15 years. ₹90L corpus remaining.

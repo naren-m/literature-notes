@@ -93,10 +93,10 @@ The multiplier 17.5 is called the **Income Stability Ratio (ISR)**. It comes fro
 
 ```mermaid
 flowchart TB
-    subgraph GOOD["☀️ GOOD YEARS - Market Up"]
-        direction LR
-        G3["BUCKET 3<br/>Growth"] -->|"Harvest gains"| G2["BUCKET 2<br/>Income"]
-        G2 -->|"Move returns"| G1["BUCKET 1<br/>Stability"]
+    subgraph GOOD["GOOD YEARS"]
+        G3["Bucket 3<br/>Growth"] --harvest gains--> G2["Bucket 2<br/>Income"]
+        G2["Bucket 2<br/>Income"] --move returns--> G1["Bucket 1<br/>Stability"]
+
     end
     
     subgraph BAD["BAD YEARS"]

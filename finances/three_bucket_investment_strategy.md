@@ -16,28 +16,28 @@ This is called **sequence of returns risk**.
 
 Instead of one big corpus, split your money into three buckets based on when you need it:
 
-Bucket 1: Stability, Cash Flow, and Safety
+### Bucket 1: Stability, Cash Flow, and Safety
 - Liquid funds, Money market funds, Ultra-short-term, Short-term debt funds (Corporate bond funds, Credit risk funds)
 - Maintains 3 years of withdrawal to prevent panic and protects SWP during market crashes
 
-Bucket 2: Income and refilling Bucket 1 with stable low volatility returns
+### Bucket 2: Income and refilling Bucket 1 with stable low volatility returns
 - Intermediate (Refills Bucket 1 every year)
 - Conservative hybrid funds, Equity savings fund, Low volatility variants of Balance Advantage Funds, Short duration funds, Multi-asset funds
 - The core 'ISR Bucket' that creates stable low volatility returns to refill safety buckets
 
-Bucket 3: Growth, Refill Bucket 2
-- Flexi cap, Mid cap, Index funds
-- Grows wealth and beats inflation. Refills Bucket 2 every few years
+### Bucket 3: Growth, beating inflation, and long-term compounding
+- Flexicap funds, Large and midcap, Multicap, International equity funds
+- Inflation fighter that refills Bucket 2 during good market years to sustain long-term ISR
 
-| Bucket   | When You Need It | What It Does            |
-| -------- | ---------------- | ----------------------- |
-| Bucket 1 | Now (0-3 years)  | Fund your cash flow     |
-| Bucket 2 | Soon (3-7 years) | Refill Bucket 1         |
-| Bucket 3 | Later (7+ years) | Grow and beat inflation |
+| Bucket   | When You Need It  | What It Does            |
+| -------- | ----------------- | ----------------------- |
+| Bucket 1 | Now (0-3 years)   | Fund your cash flow     |
+| Bucket 2 | Soon (3-7 years)  | Refill Bucket 1         |
+| Bucket 3 | Later (10+ years) | Grow and beat inflation |
 
 ```mermaid
 flowchart LR
-    B3["BUCKET 3<br/>Growth<br/>7+ years"] -->|"Refill every 3-5 years"| B2["BUCKET 2<br/>Income<br/>3-7 years"]
+    B3["BUCKET 3<br/>Growth<br/>10+ years"] -->|"Refill every 3-5 years"| B2["BUCKET 2<br/>Income<br/>3-7 years"]
     B2 -->|"Refill yearly"| B1["BUCKET 1<br/>Stability<br/>0-3 years"]
     B1 -->|"Monthly"| OUT["Cash Flow<br/>(EMI / Expenses)"]
 ```

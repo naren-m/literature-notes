@@ -20,14 +20,15 @@
 - The resulting number tells you the safety level and sustainability of your retirement plan:
 	- **Below 17.5 (High Risk):** You are at a high risk of failure. Withdrawals are likely unsustainable in bad market years, and "sequence of return risk" is high.
 	- **17.5 to 20 (Acceptable):** This range is considered acceptable if market returns remain normal and inflation is controlled.
-- **Greater than 24 (Comfortable):** You are in a "comfortable financial freedom zone." Withdrawals remain stable even in volatile periods, and you do not need to touch your growth (equity) buckets even if the market falls.
+	- **Greater than 24 (Comfortable):** You are in a "comfortable financial freedom zone." Withdrawals remain stable even in volatile periods, and you do not need to touch your growth (equity) buckets even if the market falls.
+-
 - ### **Practical Example**
-  
-  If an investor wants ₹1 lakh per month (₹12 lakhs per year) and aims for a target **ISR of 17.5**, the required corpus is **₹2.1 crores**.
+-
+- If an investor wants ₹1 lakh per month (₹12 lakhs per year) and aims for a target **ISR of 17.5**, the required corpus is **₹2.1 crores**.
 - **Calculation:** $12\text{ lakhs (Annual Requirement)} \times 17.5\text{ (ISR)} = 2.1\text{ Crores}$.
 - Under the "Squirreling Strategy," this total is ideally split into three roles: ₹70 lakhs for stability, ₹70 lakhs for income, and ₹70 lakhs for growth.
-  
-  The sources emphasize that using ISR helps debunk the **"5 crore myth,"** proving that with a disciplined 3-bucket arrangement, financial freedom is achievable with a much lower total corpus.
+-
+- The sources emphasize that using ISR helps debunk the **"5 crore myth,"** proving that with a disciplined 3-bucket arrangement, financial freedom is achievable with a much lower total corpus.
   
   ---
   

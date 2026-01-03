@@ -187,12 +187,16 @@ YEAR    BUCKET 1        BUCKET 2        BUCKET 3        TOTAL       EMI PAID
 | Bucket 2 | 3-7 years   | Waits to refill B1    |
 | Bucket 3 | 7-15+ years | Grows until harvested |
 
-```mermaid
-flowchart LR
-    NEW["New Money"] --> B3["Bucket 3<br/>Sits 7-15 years"]
-    B3 --> B2["Bucket 2<br/>Sits 3-7 years"]
-    B2 --> B1["Bucket 1<br/>Sits 1-3 years"]
-    B1 --> OUT["Spent"]
+
+```text
+🍇 GRAPES (New Money)     →  Put in BUCKET 3 (cellar)
+   Age for 10+ years
+   
+🍷 YOUNG WINE             →  Move to BUCKET 2 (cabinet)  
+   Age for 3-5 years
+   
+🥂 READY TO DRINK         →  Move to BUCKET 1 (table)
+   Consume within 1-3 years
 ```
 
 ---

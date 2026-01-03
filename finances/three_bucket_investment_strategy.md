@@ -524,6 +524,44 @@ Corpus = ₹50,000 × 12 × 12 = ₹72 Lakhs
 
 ### Quick Reference Calculator
 
+```text
+₹3.5 Cr Portfolio Over 15 Years
+YEAR    BUCKET 1        BUCKET 2        BUCKET 3        TOTAL       CUMULATIVE
+        (Stability)     (Income)        (Growth)                    EMI PAID
+────────────────────────────────────────────────────────────────────────────────
+  0     ₹1.20 Cr        ₹1.20 Cr        ₹1.10 Cr       ₹3.50 Cr      ₹0
+        [████████]      [████████]      [███████]
+        
+  1     ₹0.75 Cr        ₹1.30 Cr        ₹1.25 Cr       ₹3.30 Cr      ₹50L
+        [█████]         [████████]      [████████]
+        ▲ spent ₹50L    ▲ grew 8%       ▲ grew 14%
+        on EMI
+        
+  2     ₹0.30 Cr        ₹1.40 Cr        ₹1.43 Cr       ₹3.13 Cr      ₹1.0 Cr
+        [██]            [█████████]     [█████████]
+        ▲ running low!
+        
+  3     ₹0.90 Cr ◄──────₹1.00 Cr        ₹1.63 Cr       ₹3.53 Cr      ₹1.5 Cr
+        [██████]  REFILL [██████]       [██████████]
+                 ₹50L    ▲ transferred
+                 moved   to B1
+        
+  5     ₹0.40 Cr        ₹1.20 Cr ◄──────₹1.50 Cr       ₹3.10 Cr      ₹2.5 Cr
+        [███]           [████████]REFILL[█████████]
+                                 ₹40L
+                                 moved
+        
+  7     ₹0.85 Cr ◄──────₹0.95 Cr        ₹1.80 Cr       ₹3.60 Cr      ₹3.5 Cr
+        [█████]  REFILL [██████]        [███████████]
+        
+ 10     ₹0.50 Cr        ₹0.80 Cr        ₹1.90 Cr       ₹3.20 Cr      ₹5.0 Cr
+        [███]           [█████]         [████████████]
+        
+ 15     ₹0.20 Cr        ₹0.30 Cr        ₹0.40 Cr       ₹0.90 Cr      ₹7.5 Cr
+        [█]             [██]            [██]                         (LOAN DONE!)
+
+```
+
 | Monthly Need | Retirement Corpus (ISR 17.5) | Loan Corpus (L-ISR 12) |
 | ------------ | ---------------------------- | ---------------------- |
 | ₹50,000      | ₹1.05 Crore                  | ₹72 Lakhs              |

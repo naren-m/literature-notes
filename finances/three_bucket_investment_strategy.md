@@ -77,7 +77,7 @@ The three bucket model splits your corpus into three distinct roles:
 ### Bucket Overview
 
 ```mermaid
-flowchart TB
+flowchart LR
     subgraph B3["🌱 BUCKET 3: GROWTH"]
         B3A["Horizon: 10+ years"]
         B3B["Purpose: Beat inflation"]

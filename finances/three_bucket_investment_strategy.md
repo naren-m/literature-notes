@@ -1,12 +1,12 @@
-# The Three Bucket Strategy for Retirement Income
+# The Three Bucket Strategy for Sustainable Cash Flow
 
 ---
 
 ## The Core Problem
 
-When you retire, you need money every month. But your investments don't give steady returns every month. Some years the market gives 20%. Some years it falls 30%.
+You need regular cash flow—for EMIs, living expenses, or any recurring obligation. Your investments don't give steady returns. Some years the market gives 20%. Some years it falls 30%.
 
-If you withdraw money during a bad year, you sell at a loss. Do this enough times, and your corpus dies early.
+If you withdraw money during a bad year, you sell at a loss. Do this repeatedly, and your corpus depletes faster than planned.
 
 This is called **sequence of returns risk**.
 
@@ -18,7 +18,7 @@ Instead of one big corpus, split your money into three buckets based on when you
 
 | Bucket   | When You Need It | What It Does            |
 | -------- | ---------------- | ----------------------- |
-| Bucket 1 | Now (0-3 years)  | Pay your bills          |
+| Bucket 1 | Now (0-3 years)  | Fund your cash flow     |
 | Bucket 2 | Soon (3-7 years) | Refill Bucket 1         |
 | Bucket 3 | Later (7+ years) | Grow and beat inflation |
 
@@ -26,7 +26,7 @@ Instead of one big corpus, split your money into three buckets based on when you
 flowchart LR
     B3["BUCKET 3<br/>Growth<br/>7+ years"] -->|"Refill every 3-5 years"| B2["BUCKET 2<br/>Income<br/>3-7 years"]
     B2 -->|"Refill yearly"| B1["BUCKET 1<br/>Stability<br/>0-3 years"]
-    B1 -->|"Monthly"| OUT["Expenses"]
+    B1 -->|"Monthly"| OUT["Cash Flow<br/>(EMI / Expenses)"]
 ```
 
 ---
@@ -36,18 +36,26 @@ flowchart LR
 Use this formula:
 
 ```
-Corpus = Monthly Income × 12 × 17.5
+Corpus = Monthly Cash Flow × 12 × ISR
 ```
 
-The multiplier 17.5 is called the **Income Stability Ratio (ISR)**. It comes from studying 10-year rolling market data.
+**ISR (Income Stability Ratio)** is a multiplier based on your goal duration:
+
+| Goal Type                        | Duration    | ISR   | Example              |
+| -------------------------------- | ----------- | ----- | -------------------- |
+| Indefinite (wealth preservation) | Forever     | 17.5  | Passive income       |
+| Long-term (loan payoff)          | 15-20 years | 10-12 | Home loan EMI        |
+| Medium-term                      | 10-15 years | 8-10  | Education fund       |
+| Short-term                       | 5-10 years  | 5-7   | Car loan, renovation |
 
 ### Examples
 
-| Monthly Income | Annual Need | Corpus (× 17.5) |
-| -------------- | ----------- | --------------- |
-| ₹50,000        | ₹6 Lakhs    | ₹1.05 Crore     |
-| ₹1,00,000      | ₹12 Lakhs   | ₹2.10 Crore     |
-| ₹2,00,000      | ₹24 Lakhs   | ₹4.20 Crore     |
+| Monthly Need | Goal             | ISR  | Corpus Required |
+| ------------ | ---------------- | ---- | --------------- |
+| ₹50,000      | Passive income   | 17.5 | ₹1.05 Crore     |
+| ₹50,000      | 15-year loan EMI | 12   | ₹72 Lakhs       |
+| ₹1,00,000    | Passive income   | 17.5 | ₹2.10 Crore     |
+| ₹1,00,000    | 15-year loan EMI | 12   | ₹1.44 Crore     |
 
 ---
 
@@ -55,13 +63,13 @@ The multiplier 17.5 is called the **Income Stability Ratio (ISR)**. It comes fro
 
 ### Bucket 1: Stability (33% of corpus)
 
-**Purpose:** Pay expenses for the next 3 years, no matter what markets do.
+**Purpose:** Fund cash flow for the next 3 years, regardless of market conditions.
 
 **Investments:** Liquid funds, money market funds, short-term debt, FDs.
 
 **Expected return:** 6-7%
 
-**Rule:** Never runs out. Gets refilled from Bucket 2.
+**Rule:** Never runs dry. Gets refilled from Bucket 2.
 
 ---
 
@@ -73,7 +81,7 @@ The multiplier 17.5 is called the **Income Stability Ratio (ISR)**. It comes fro
 
 **Expected return:** 8-10%
 
-**Rule:** Low volatility is key. This is your shock absorber.
+**Rule:** Low volatility. This is your buffer zone.
 
 ---
 
@@ -110,7 +118,6 @@ flowchart TB
     B1 --> W2["💰 Withdrawals Continue"]
 ```
 
-
 **Good years:** Harvest gains from higher buckets, move down.
 
 **Bad years:** Don't sell. Bucket 1 has 3 years of buffer. Wait for recovery.
@@ -119,12 +126,12 @@ flowchart TB
 
 ## When to Move Money
 
-| Trigger                    | Action                    |
-| -------------------------- | ------------------------- |
-| Bucket 1 < 1 year expenses | Refill from Bucket 2      |
-| Bucket 2 < 3 years runway  | Refill from Bucket 3      |
-| Bucket 3 up >15% in a year | Harvest gains to Bucket 2 |
-| Market crash               | Do nothing. Wait.         |
+| Trigger                        | Action                    |
+| ------------------------------ | ------------------------- |
+| Bucket 1 < 1 year of cash flow | Refill from Bucket 2      |
+| Bucket 2 < 3 years runway      | Refill from Bucket 3      |
+| Bucket 3 up >15% in a year     | Harvest gains to Bucket 2 |
+| Market crash                   | Do nothing. Wait.         |
 
 ```mermaid
 flowchart TB
@@ -139,9 +146,9 @@ flowchart TB
 
 ---
 
-## 15-Year Simulation
+## 15-Year Simulation: Paying Off a Loan
 
-₹3.5 Cr corpus, ₹50L annual withdrawal:
+₹3.5 Cr corpus, ₹50L annual EMI:
 
 ```
 YEAR    BUCKET 1        BUCKET 2        BUCKET 3        TOTAL       EMI PAID
@@ -151,7 +158,7 @@ YEAR    BUCKET 1        BUCKET 2        BUCKET 3        TOTAL       EMI PAID
         
   1     ₹0.75 Cr        ₹1.30 Cr        ₹1.25 Cr       ₹3.30 Cr      ₹50L
         [█████]         [████████]      [████████]
-        ▲ spent ₹50L    ▲ grew 8%       ▲ grew 14%
+        ▲ paid ₹50L     ▲ grew 8%       ▲ grew 14%
         
   2     ₹0.30 Cr        ₹1.40 Cr        ₹1.43 Cr       ₹3.13 Cr      ₹1.0 Cr
         [██]            [█████████]     [█████████]
@@ -173,7 +180,7 @@ YEAR    BUCKET 1        BUCKET 2        BUCKET 3        TOTAL       EMI PAID
         [█]             [██]            [██]           DONE
 ```
 
-**Result:** ₹7.5 Cr paid out. ₹90L still remaining.
+**Result:** ₹7.5 Cr paid out over 15 years. ₹90L corpus remaining.
 
 ---
 
@@ -195,7 +202,7 @@ flowchart LR
 
 ---
 
-## Crash Test: March 2020
+## Stress Test: March 2020 Crash
 
 What happens when markets fall 35%?
 
@@ -210,18 +217,20 @@ You never sold at the bottom. Bucket 1 had enough buffer to wait.
 
 ---
 
-## Inflation Handling
+## Handling Increasing Costs
 
-Withdrawals increase 6% yearly:
+If your cash flow needs grow 6% yearly:
 
-| Year | Monthly Withdrawal |
-| ---- | ------------------ |
-| 1    | ₹1,00,000          |
-| 5    | ₹1,26,248          |
-| 10   | ₹1,68,948          |
-| 20   | ₹3,02,560          |
+| Year | Monthly Need |
+| ---- | ------------ |
+| 1    | ₹1,00,000    |
+| 5    | ₹1,26,248    |
+| 10   | ₹1,68,948    |
+| 20   | ₹3,02,560    |
 
 Bucket 3 (equity) grows faster than 6%. It funds the increasing withdrawals.
+
+For fixed obligations like loan EMIs, this isn't needed—EMI stays constant.
 
 ---
 
@@ -251,16 +260,31 @@ Bucket 3 (equity) grows faster than 6%. It funds the increasing withdrawals.
 
 ---
 
+## Adapting ISR for Your Goal
+
+| If your goal is...     | Use ISR | Corpus can...   |
+| ---------------------- | ------- | --------------- |
+| Passive income forever | 17.5    | Never deplete   |
+| 20-year loan payoff    | 10-12   | Deplete to zero |
+| 15-year loan payoff    | 8-10    | Deplete to zero |
+| 10-year goal           | 6-8     | Deplete to zero |
+
+Lower ISR = smaller corpus needed, but corpus depletes over time.
+
+Higher ISR = larger corpus needed, but corpus sustains indefinitely.
+
+---
+
 ## Summary
 
 1. **Split corpus into 3 buckets** by time horizon
-2. **Bucket 1** pays bills (3 years buffer)
+2. **Bucket 1** funds cash flow (3 years buffer)
 3. **Bucket 2** refills Bucket 1 (stable returns)
-4. **Bucket 3** beats inflation (long-term growth)
+4. **Bucket 3** grows wealth (long-term compounding)
 5. **Never sell Bucket 3 during crashes**
 6. **Harvest gains in good years**, move down the chain
 
-The system protects you from selling at the wrong time.
+The system ensures you never sell at the wrong time.
 
 ---
 
@@ -268,13 +292,21 @@ The system protects you from selling at the wrong time.
 
 **Corpus formula:**
 ```
-Monthly Income × 12 × 17.5 = Required Corpus
+Monthly Need × 12 × ISR = Required Corpus
+```
+
+**ISR by goal:**
+```
+Indefinite income: 17.5
+15-20 year goal:   10-12
+10-15 year goal:   8-10
+5-10 year goal:    5-7
 ```
 
 **Allocation:**
 ```
 Bucket 1: 33% (Debt)
-Bucket 2: 33% (Hybrid)
+Bucket 2: 33% (Hybrid)  
 Bucket 3: 33% (Equity)
 ```
 

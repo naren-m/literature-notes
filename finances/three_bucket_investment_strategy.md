@@ -2,53 +2,52 @@
 
 ---
 
-- ## The Core Problem
-  
-  You need regular cash flow—for EMIs, living expenses, or any recurring obligation. Your investments don't give steady returns. Some years the market gives 20%. Some years it falls 30%.
-  
-  If you withdraw money during a bad year, you sell at a loss. Do this repeatedly, and your corpus depletes faster than planned.
-  
-  This is called **sequence of returns risk**.
-  
-  ---
+## The Core Problem
 
-- ## The Solution: Separate Money by Time Horizon
+You need regular cash flow—for EMIs, living expenses, or any recurring obligation. Your investments don't give steady returns. Some years the market gives 20%. Some years it falls 30%.
 
-- Instead of one big corpus, split your money into three buckets based on when you need it:
+If you withdraw money during a bad year, you sell at a loss. Do this repeatedly, and your corpus depletes faster than planned.
 
-- ### Bucket 1: Stability, Cash Flow, and Safety
+This is called **sequence of returns risk**.
 
- 	- Liquid funds, Money market funds, Ultra-short-term, Short-term debt funds (Corporate bond funds, Credit risk funds)
-  - Maintains 3 years of withdrawal to prevent panic and protects SWP during market crashes
+---
 
-- ### Bucket 2: Income and refilling Bucket 1 with stable low volatility returns
+## The Solution: Separate Money by Time Horizon
 
- 	- Intermediate (Refills Bucket 1 every year)
-  - Conservative hybrid funds, Equity savings fund, Low volatility variants of Balance Advantage Funds, Short duration funds, Multi-asset funds
-  - The core 'ISR Bucket' that creates stable low volatility returns to refill safety buckets
+Instead of one big corpus, split your money into three buckets based on when you need it:
 
-- ### Bucket 3: Growth, beating inflation, and long-term compounding
+### Bucket 1: Stability, Cash Flow, and Safety
 
- 	- Flexicap funds, Large and midcap, Multicap, International equity funds
-  - Inflation fighter that refills Bucket 2 during good market years to sustain long-term ISR
--
+- Liquid funds, Money market funds, Ultra-short-term, Short-term debt funds (Corporate bond funds, Credit risk funds)
+- Maintains 3 years of withdrawal to prevent panic and protects SWP during market crashes
 
-- ### Summary
+### Bucket 2: Income and refilling Bucket 1 with stable low volatility returns
 
- | -        | Bucket            | When You Need It        | What It Does |
- | -------- | ----------------- | ----------------------- |
- | Bucket 1 | Now (0-3 years)   | Fund your cash flow     |
- | Bucket 2 | Soon (3-7 years)  | Refill Bucket 1         |
- | Bucket 3 | Later (10+ years) | Grow and beat inflation |
+- Intermediate (Refills Bucket 1 every year)
+- Conservative hybrid funds, Equity savings fund, Low volatility variants of Balance Advantage Funds, Short duration funds, Multi-asset funds
+- The core 'ISR Bucket' that creates stable low volatility returns to refill safety buckets
 
- - ```mermaid
-   flowchart LR
-     B3["BUCKET 3<br/>Growth<br/>10+ years"] -->|"Refill every 3-5 years"| B2["BUCKET 2<br/>Income<br/>3-7 years"]
-     B2 -->|"Refill yearly"| B1["BUCKET 1<br/>Stability<br/>0-3 years"]
-     B1 -->|"Monthly"| OUT["Cash Flow<br/>(EMI / Expenses)"]
+### Bucket 3: Growth, beating inflation, and long-term compounding
 
-   ```
-   
+- Flexicap funds, Large and midcap, Multicap, International equity funds
+- Inflation fighter that refills Bucket 2 during good market years to sustain long-term ISR
+
+### Summary
+
+| Bucket   | When You Need It  | What It Does            |
+| -------- | ----------------- | ----------------------- |
+| Bucket 1 | Now (0-3 years)   | Fund your cash flow     |
+| Bucket 2 | Soon (3-7 years)  | Refill Bucket 1         |
+| Bucket 3 | Later (10+ years) | Grow and beat inflation |
+
+ ```mermaid
+ flowchart LR
+   B3["BUCKET 3<br/>Growth<br/>10+ years"] -->|"Refill every 3-5 years"| B2["BUCKET 2<br/>Income<br/>3-7 years"]
+   B2 -->|"Refill yearly"| B1["BUCKET 1<br/>Stability<br/>0-3 years"]
+   B1 -->|"Monthly"| OUT["Cash Flow<br/>(EMI / Expenses)"]
+
+ ```
+
 ---
 
 ## How Much Do You Need?
@@ -72,52 +71,50 @@ Corpus = Monthly Cash Flow × 12 × ISR
 
 ### Examples
   
-  | Monthly Need | Goal             | ISR  | Corpus Required |
-  | ------------ | ---------------- | ---- | --------------- |
-  | ₹50,000      | Passive income   | 17.5 | ₹1.05 Crore     |
-  | ₹50,000      | 15-year loan EMI | 12   | ₹72 Lakhs       |
-  | ₹1,00,000    | Passive income   | 17.5 | ₹2.10 Crore     |
-  | ₹1,00,000    | 15-year loan EMI | 12   | ₹1.44 Crore     |
+| Monthly Need | Goal             | ISR  | Corpus Required |
+| ------------ | ---------------- | ---- | --------------- |
+| ₹50,000      | Passive income   | 17.5 | ₹1.05 Crore     |
+| ₹50,000      | 15-year loan EMI | 12   | ₹72 Lakhs       |
+| ₹1,00,000    | Passive income   | 17.5 | ₹2.10 Crore     |
+| ₹1,00,000    | 15-year loan EMI | 12   | ₹1.44 Crore     |
   
-  ---
-
 ## The Three Buckets Explained
 
 ### Bucket 1: Stability (33% of corpus)
   
-  **Purpose:** Fund cash flow for the next 3 years, regardless of market conditions.
-  
-  **Investments:** Liquid funds, money market funds, short-term debt, FDs.
-  
-  **Expected return:** 6-7%
-  
-  **Rule:** Never runs dry. Gets refilled from Bucket 2.
-  
-  ---
+**Purpose:** Fund cash flow for the next 3 years, regardless of market conditions.
+
+**Investments:** Liquid funds, money market funds, short-term debt, FDs.
+
+**Expected return:** 6-7%
+
+**Rule:** Never runs dry. Gets refilled from Bucket 2.
+
+---
 
 ### Bucket 2: Income (33% of corpus)
   
-  **Purpose:** Generate stable returns. Refill Bucket 1 every year.
+**Purpose:** Generate stable returns. Refill Bucket 1 every year.
+
+**Investments:** Equity savings funds, conservative hybrid, balanced advantage funds.
   
-  **Investments:** Equity savings funds, conservative hybrid, balanced advantage funds.
+**Expected return:** 8-10%
+
+**Rule:** Low volatility. This is your buffer zone.
   
-  **Expected return:** 8-10%
-  
-  **Rule:** Low volatility. This is your buffer zone.
-  
-  ---
+---
 
 ### Bucket 3: Growth (33% of corpus)
   
-  **Purpose:** Beat inflation. Refill Bucket 2 every few years.
+**Purpose:** Beat inflation. Refill Bucket 2 every few years.
+
+**Investments:** Flexi cap, mid cap, index funds.
+
+**Expected return:** 12-15%
+
+**Rule:** Never touch during a crash. Let it recover first.
   
-  **Investments:** Flexi cap, mid cap, index funds.
-  
-  **Expected return:** 12-15%
-  
-  **Rule:** Never touch during a crash. Let it recover first.
-  
-  ---
+---
 
 ### How Money Flows
   
@@ -177,7 +174,7 @@ flowchart TB
 YEAR    BUCKET 1        BUCKET 2        BUCKET 3        TOTAL       EMI PAID
 ────────────────────────────────────────────────────────────────────────────
 0     ₹1.20 Cr        ₹1.20 Cr        ₹1.10 Cr       ₹3.50 Cr      ₹0
-        [████████]      [████████]      [███████]
+      [████████]      [████████]      [███████]
       
 1     ₹0.75 Cr        ₹1.30 Cr        ₹1.25 Cr       ₹3.30 Cr      ₹50L
       [█████]         [████████]      [████████]

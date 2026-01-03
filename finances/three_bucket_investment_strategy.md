@@ -38,12 +38,12 @@ Required Corpus = Monthly Income × 12 × ISR
 
 Based on extensive study of 10-year rolling market data, here's how to interpret your ISR:
 
-| ISR Value | Risk Level | Interpretation |
-|-----------|------------|----------------|
-| < 17.5 | **High Risk** | Withdrawals not sustainable in bad years. High sequence-of-returns risk. |
-| 17.5 - 20 | **Acceptable** | Works if returns are normal and inflation is controlled. |
-| 20 - 24 | **Good** | Comfortable buffer for most scenarios. |
-| > 24 | **Excellent** | Financial freedom zone. Stable withdrawals even in volatile periods. |
+| ISR Value | Risk Level     | Interpretation                                                           |
+| --------- | -------------- | ------------------------------------------------------------------------ |
+| < 17.5    | **High Risk**  | Withdrawals not sustainable in bad years. High sequence-of-returns risk. |
+| 17.5 - 20 | **Acceptable** | Works if returns are normal and inflation is controlled.                 |
+| 20 - 24   | **Good**       | Comfortable buffer for most scenarios.                                   |
+| > 24      | **Excellent**  | Financial freedom zone. Stable withdrawals even in volatile periods.     |
 
 **The target ISR for comfortable retirement: 17.5**
 
@@ -53,12 +53,12 @@ Based on extensive study of 10-year rolling market data, here's how to interpret
 
 Let's calculate the actual corpus needed for ₹1 lakh monthly income:
 
-| Parameter | Value |
-|-----------|-------|
-| Desired Monthly Income | ₹1,00,000 |
-| Annual Withdrawal | ₹12,00,000 |
-| Target ISR | 17.5 |
-| **Required Corpus** | **₹2.1 Crore** |
+| Parameter              | Value          |
+| ---------------------- | -------------- |
+| Desired Monthly Income | ₹1,00,000      |
+| Annual Withdrawal      | ₹12,00,000     |
+| Target ISR             | 17.5           |
+| **Required Corpus**    | **₹2.1 Crore** |
 
 **That's less than half of the "5 crore" number you've been told!**
 
@@ -77,7 +77,7 @@ The three bucket model splits your corpus into three distinct roles:
 ### Bucket Overview
 
 ```mermaid
-flowchart LR
+flowchart TB
     subgraph B3["🌱 BUCKET 3: GROWTH"]
         B3A["Horizon: 10+ years"]
         B3B["Purpose: Beat inflation"]
@@ -123,22 +123,22 @@ flowchart LR
 
 ### Recommended Investments (India)
 
-| Category | Fund Examples | Expected Return |
-|----------|---------------|-----------------|
-| Liquid Funds | HDFC Liquid, Axis Liquid | 6.5-7.2% |
-| Money Market | ICICI Pru Money Market | 7.0-7.4% |
-| Ultra Short Duration | Aditya Birla Ultra Short | 7.0-7.5% |
-| Low Duration | HDFC Low Duration | 7.2-7.6% |
-| Bank FD | SBI/HDFC 1-2 year FD | 7.0-7.25% |
+| Category             | Fund Examples            | Expected Return |
+| -------------------- | ------------------------ | --------------- |
+| Liquid Funds         | HDFC Liquid, Axis Liquid | 6.5-7.2%        |
+| Money Market         | ICICI Pru Money Market   | 7.0-7.4%        |
+| Ultra Short Duration | Aditya Birla Ultra Short | 7.0-7.5%        |
+| Low Duration         | HDFC Low Duration        | 7.2-7.6%        |
+| Bank FD              | SBI/HDFC 1-2 year FD     | 7.0-7.25%       |
 
 ### Recommended Investments (US)
 
-| Category | Ticker/Fund | Expected Return |
-|----------|-------------|-----------------|
-| Money Market | SPAXX, VMFXX | 4.5-5.0% |
-| T-Bill ETF | SGOV, BIL | 4.5-4.8% |
-| Short Treasury | VGSH, SHV | 4.0-4.5% |
-| I-Bonds | Treasury Direct | Inflation-linked |
+| Category       | Ticker/Fund     | Expected Return  |
+| -------------- | --------------- | ---------------- |
+| Money Market   | SPAXX, VMFXX    | 4.5-5.0%         |
+| T-Bill ETF     | SGOV, BIL       | 4.5-4.8%         |
+| Short Treasury | VGSH, SHV       | 4.0-4.5%         |
+| I-Bonds        | Treasury Direct | Inflation-linked |
 
 ---
 
@@ -159,23 +159,23 @@ flowchart LR
 
 ### Recommended Investments (India)
 
-| Category | Fund Examples | Expected Return | Max Drawdown |
-|----------|---------------|-----------------|--------------|
-| Equity Savings | ICICI Pru Equity Savings | 9-10% | -5% |
-| Conservative Hybrid | SBI Conservative Hybrid | 8-10% | -6% |
-| Balanced Advantage | HDFC Balanced Advantage | 10-13% | -10% |
-| Multi-Asset | ICICI Pru Multi-Asset | 10-12% | -8% |
-| Arbitrage | Kotak Equity Arbitrage | 7-8% | -0.5% |
+| Category            | Fund Examples            | Expected Return | Max Drawdown |
+| ------------------- | ------------------------ | --------------- | ------------ |
+| Equity Savings      | ICICI Pru Equity Savings | 9-10%           | -5%          |
+| Conservative Hybrid | SBI Conservative Hybrid  | 8-10%           | -6%          |
+| Balanced Advantage  | HDFC Balanced Advantage  | 10-13%          | -10%         |
+| Multi-Asset         | ICICI Pru Multi-Asset    | 10-12%          | -8%          |
+| Arbitrage           | Kotak Equity Arbitrage   | 7-8%            | -0.5%        |
 
 ### Recommended Investments (US)
 
-| Category | Ticker/Fund | Expected Return |
-|----------|-------------|-----------------|
-| Conservative Allocation | AOK, AOM | 5-7% |
-| Balanced Index | VBIAX | 7-9% |
-| Dividend ETF | SCHD, VIG | 8-10% |
-| Covered Call ETF | JEPI, JEPQ | 8-12% |
-| Corporate Bond | VCIT, BND | 4-5% |
+| Category                | Ticker/Fund | Expected Return |
+| ----------------------- | ----------- | --------------- |
+| Conservative Allocation | AOK, AOM    | 5-7%            |
+| Balanced Index          | VBIAX       | 7-9%            |
+| Dividend ETF            | SCHD, VIG   | 8-10%           |
+| Covered Call ETF        | JEPI, JEPQ  | 8-12%           |
+| Corporate Bond          | VCIT, BND   | 4-5%            |
 
 ---
 
@@ -196,25 +196,25 @@ flowchart LR
 
 ### Recommended Investments (India)
 
-| Category | Fund Examples | Expected Return |
-|----------|---------------|-----------------|
-| Flexi Cap | Parag Parikh Flexi Cap, UTI Flexi Cap | 14-18% |
-| Large & Mid Cap | Mirae Asset Large & Midcap | 15-19% |
-| Mid Cap | HDFC Midcap Opportunities | 16-22% |
-| Small Cap | Nippon Small Cap | 18-25% |
-| Index | UTI Nifty 50 Index | 12-15% |
-| International | Motilal Oswal Nasdaq 100 | 15-20% |
+| Category        | Fund Examples                         | Expected Return |
+| --------------- | ------------------------------------- | --------------- |
+| Flexi Cap       | Parag Parikh Flexi Cap, UTI Flexi Cap | 14-18%          |
+| Large & Mid Cap | Mirae Asset Large & Midcap            | 15-19%          |
+| Mid Cap         | HDFC Midcap Opportunities             | 16-22%          |
+| Small Cap       | Nippon Small Cap                      | 18-25%          |
+| Index           | UTI Nifty 50 Index                    | 12-15%          |
+| International   | Motilal Oswal Nasdaq 100              | 15-20%          |
 
 ### Recommended Investments (US)
 
-| Category | Ticker/Fund | Expected Return |
-|----------|-------------|-----------------|
-| Total Market | VTI | 10-14% |
-| S&P 500 | VOO, SPY | 10-14% |
-| Nasdaq 100 | QQQ | 12-18% |
-| Technology | VGT | 14-20% |
-| Growth | VUG, SCHG | 12-16% |
-| International | VXUS | 6-10% |
+| Category      | Ticker/Fund | Expected Return |
+| ------------- | ----------- | --------------- |
+| Total Market  | VTI         | 10-14%          |
+| S&P 500       | VOO, SPY    | 10-14%          |
+| Nasdaq 100    | QQQ         | 12-18%          |
+| Technology    | VGT         | 14-20%          |
+| Growth        | VUG, SCHG   | 12-16%          |
+| International | VXUS        | 6-10%           |
 
 ---
 
@@ -245,12 +245,14 @@ flowchart TB
 ### How It Works
 
 **In Good Years:**
+
 1. When Bucket 3 (equity) does well, you don't celebrate and spend everything
 2. You "squirrel away" those gains into Bucket 2 (hybrid)
 3. When Bucket 2 does well, you move those gains into Bucket 1 (stability)
 4. You're always collecting returns when times are good
 
 **In Bad Years:**
+
 1. Markets crash, equities fall, volatility rises
 2. You are NOT forced to sell at the bottom
 3. Why? Because you've already collected and stored gains
@@ -290,11 +292,11 @@ flowchart LR
 
 ### Duration Summary
 
-| Bucket | Money Sits For | Why This Duration? |
-|--------|----------------|-------------------|
-| **Bucket 1** | 1-3 years | This is your "spending tank"—money leaves monthly |
-| **Bucket 2** | 3-7 years | Grows slowly, transfers to B1 when needed |
-| **Bucket 3** | 7-15+ years | Never touched in bad years, only harvested in good years |
+| Bucket       | Money Sits For | Why This Duration?                                       |
+| ------------ | -------------- | -------------------------------------------------------- |
+| **Bucket 1** | 1-3 years      | This is your "spending tank"—money leaves monthly        |
+| **Bucket 2** | 3-7 years      | Grows slowly, transfers to B1 when needed                |
+| **Bucket 3** | 7-15+ years    | Never touched in bad years, only harvested in good years |
 
 ---
 
@@ -366,11 +368,11 @@ flowchart TB
 
 ### Refill Triggers Summary
 
-| From → To | Frequency | Trigger Condition |
-|-----------|-----------|-------------------|
-| B2 → B1 | Every 1-2 years | B1 drops below 1.5 years buffer |
-| B3 → B2 | Every 3-5 years | Good equity year (>15%) OR B2 drops below 3 years |
-| **NEVER** | During crash | Let B3 recover first—never sell at bottom |
+| From → To | Frequency       | Trigger Condition                                 |
+| --------- | --------------- | ------------------------------------------------- |
+| B2 → B1   | Every 1-2 years | B1 drops below 1.5 years buffer                   |
+| B3 → B2   | Every 3-5 years | Good equity year (>15%) OR B2 drops below 3 years |
+| **NEVER** | During crash    | Let B3 recover first—never sell at bottom         |
 
 ---
 
@@ -406,16 +408,16 @@ gantt
 
 ### Year-by-Year Breakdown
 
-| Year | Bucket 1 | Bucket 2 | Bucket 3 | Total | Cumulative EMI Paid |
-|------|----------|----------|----------|-------|---------------------|
-| 0 | ₹1.20 Cr | ₹1.20 Cr | ₹1.10 Cr | ₹3.50 Cr | ₹0 |
-| 1 | ₹0.75 Cr | ₹1.30 Cr | ₹1.25 Cr | ₹3.30 Cr | ₹50L |
-| 2 | ₹0.30 Cr | ₹1.40 Cr | ₹1.43 Cr | ₹3.13 Cr | ₹1.0 Cr |
-| 3 | ₹0.90 Cr ⬅️ | ₹1.00 Cr | ₹1.63 Cr | ₹3.53 Cr | ₹1.5 Cr |
-| 5 | ₹0.40 Cr | ₹1.20 Cr ⬅️ | ₹1.50 Cr | ₹3.10 Cr | ₹2.5 Cr |
-| 7 | ₹0.85 Cr ⬅️ | ₹0.95 Cr | ₹1.80 Cr | ₹3.60 Cr | ₹3.5 Cr |
-| 10 | ₹0.50 Cr | ₹0.80 Cr | ₹1.90 Cr | ₹3.20 Cr | ₹5.0 Cr |
-| 15 | ₹0.20 Cr | ₹0.30 Cr | ₹0.40 Cr | ₹0.90 Cr | ₹7.5 Cr ✅ |
+| Year | Bucket 1   | Bucket 2   | Bucket 3 | Total    | Cumulative EMI Paid |
+| ---- | ---------- | ---------- | -------- | -------- | ------------------- |
+| 0    | ₹1.20 Cr   | ₹1.20 Cr   | ₹1.10 Cr | ₹3.50 Cr | ₹0                  |
+| 1    | ₹0.75 Cr   | ₹1.30 Cr   | ₹1.25 Cr | ₹3.30 Cr | ₹50L                |
+| 2    | ₹0.30 Cr   | ₹1.40 Cr   | ₹1.43 Cr | ₹3.13 Cr | ₹1.0 Cr             |
+| 3    | ₹0.90 Cr ⬅️ | ₹1.00 Cr   | ₹1.63 Cr | ₹3.53 Cr | ₹1.5 Cr             |
+| 5    | ₹0.40 Cr   | ₹1.20 Cr ⬅️ | ₹1.50 Cr | ₹3.10 Cr | ₹2.5 Cr             |
+| 7    | ₹0.85 Cr ⬅️ | ₹0.95 Cr   | ₹1.80 Cr | ₹3.60 Cr | ₹3.5 Cr             |
+| 10   | ₹0.50 Cr   | ₹0.80 Cr   | ₹1.90 Cr | ₹3.20 Cr | ₹5.0 Cr             |
+| 15   | ₹0.20 Cr   | ₹0.30 Cr   | ₹0.40 Cr | ₹0.90 Cr | ₹7.5 Cr ✅           |
 
 *⬅️ indicates refill from higher bucket*
 
@@ -477,14 +479,14 @@ A common question: "Is the ₹1 lakh monthly income inflation-adjusted?"
 **Yes!** The withdrawal amount increases by 6% every year:
 
 | Year | Monthly Withdrawal | Annual Withdrawal |
-|------|-------------------|-------------------|
-| 1 | ₹1,00,000 | ₹12,00,000 |
-| 2 | ₹1,06,000 | ₹12,72,000 |
-| 3 | ₹1,12,360 | ₹13,48,320 |
-| 5 | ₹1,26,248 | ₹15,14,976 |
-| 10 | ₹1,68,948 | ₹20,27,376 |
-| 15 | ₹2,26,090 | ₹27,13,080 |
-| 20 | ₹3,02,560 | ₹36,30,720 |
+| ---- | ------------------ | ----------------- |
+| 1    | ₹1,00,000          | ₹12,00,000        |
+| 2    | ₹1,06,000          | ₹12,72,000        |
+| 3    | ₹1,12,360          | ₹13,48,320        |
+| 5    | ₹1,26,248          | ₹15,14,976        |
+| 10   | ₹1,68,948          | ₹20,27,376        |
+| 15   | ₹2,26,090          | ₹27,13,080        |
+| 20   | ₹3,02,560          | ₹36,30,720        |
 
 ### Why the Corpus Doesn't Run Out
 
@@ -523,12 +525,12 @@ Corpus = ₹50,000 × 12 × 12 = ₹72 Lakhs
 ### Quick Reference Calculator
 
 | Monthly Need | Retirement Corpus (ISR 17.5) | Loan Corpus (L-ISR 12) |
-|--------------|------------------------------|------------------------|
-| ₹50,000 | ₹1.05 Crore | ₹72 Lakhs |
-| ₹75,000 | ₹1.58 Crore | ₹1.08 Crore |
-| ₹1,00,000 | ₹2.10 Crore | ₹1.44 Crore |
-| ₹1,50,000 | ₹3.15 Crore | ₹2.16 Crore |
-| ₹2,00,000 | ₹4.20 Crore | ₹2.88 Crore |
+| ------------ | ---------------------------- | ---------------------- |
+| ₹50,000      | ₹1.05 Crore                  | ₹72 Lakhs              |
+| ₹75,000      | ₹1.58 Crore                  | ₹1.08 Crore            |
+| ₹1,00,000    | ₹2.10 Crore                  | ₹1.44 Crore            |
+| ₹1,50,000    | ₹3.15 Crore                  | ₹2.16 Crore            |
+| ₹2,00,000    | ₹4.20 Crore                  | ₹2.88 Crore            |
 
 ---
 

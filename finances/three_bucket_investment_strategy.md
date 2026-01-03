@@ -116,10 +116,11 @@
     G1 --> W1["💰 Withdrawals Continue"]
     B1 --> W2["💰 Withdrawals Continue"]
   ```
-  
-  **Good years:** Harvest gains from higher buckets, move down.
-  
-  **Bad years:** Don't sell. Bucket 1 has 3 years of buffer. Wait for recovery.
+-
+- ![3_bucket_strategymoney_flow.png](../assets/3_bucket_strategymoney_flow_1767413625072_0.png)
+-
+- **Good years:** Harvest gains from higher buckets, move down.
+- **Bad years:** Don't sell. Bucket 1 has 3 years of buffer. Wait for recovery.
   
   ---
 - ## When to Move Money

@@ -49,28 +49,28 @@
 
    ```
    
-   ---
+---
 
-- ## How Much Do You Need?
+## How Much Do You Need?
 
-- Use this formula:
+Use this formula:
   
-  ```
+```
 
-  Corpus = Monthly Cash Flow × 12 × ISR
+Corpus = Monthly Cash Flow × 12 × ISR
 
-  ```
+```
 
-  [[Income Stability Ration(ISR)]]  is a multiplier based on your goal duration:
+[[Income Stability Ration(ISR)]]  is a multiplier based on your goal duration:
   
-  | Goal Type                        | Duration    | ISR   | Example              |
-  | -------------------------------- | ----------- | ----- | -------------------- |
-  | Indefinite (wealth preservation) | Forever     | 17.5  | Passive income       |
-  | Long-term (loan payoff)          | 15-20 years | 10-12 | Home loan EMI        |
-  | Medium-term                      | 10-15 years | 8-10  | Education fund       |
-  | Short-term                       | 5-10 years  | 5-7   | Car loan, renovation |
+| Goal Type                        | Duration    | ISR   | Example              |
+| -------------------------------- | ----------- | ----- | -------------------- |
+| Indefinite (wealth preservation) | Forever     | 17.5  | Passive income       |
+| Long-term (loan payoff)          | 15-20 years | 10-12 | Home loan EMI        |
+| Medium-term                      | 10-15 years | 8-10  | Education fund       |
+| Short-term                       | 5-10 years  | 5-7   | Car loan, renovation |
 
-- ### Examples
+### Examples
   
   | Monthly Need | Goal             | ISR  | Corpus Required |
   | ------------ | ---------------- | ---- | --------------- |
@@ -81,9 +81,9 @@
   
   ---
 
-- ## The Three Buckets Explained
+## The Three Buckets Explained
 
-- ### Bucket 1: Stability (33% of corpus)
+### Bucket 1: Stability (33% of corpus)
   
   **Purpose:** Fund cash flow for the next 3 years, regardless of market conditions.
   
@@ -95,7 +95,7 @@
   
   ---
 
-- ### Bucket 2: Income (33% of corpus)
+### Bucket 2: Income (33% of corpus)
   
   **Purpose:** Generate stable returns. Refill Bucket 1 every year.
   
@@ -107,7 +107,7 @@
   
   ---
 
-- ### Bucket 3: Growth (33% of corpus)
+### Bucket 3: Growth (33% of corpus)
   
   **Purpose:** Beat inflation. Refill Bucket 2 every few years.
   
@@ -119,9 +119,9 @@
   
   ---
 
-- ## How Money Flows
+### How Money Flows
   
-  ```mermaid
+```mermaid
   flowchart TB
     subgraph GOOD["GOOD YEARS"]
         G3["Bucket 3<br/>Growth"] --harvest gains--> G2["Bucket 2<br/>Income"]
@@ -138,11 +138,10 @@
     end
     G1 --> W1["💰 Withdrawals Continue"]
     B1 --> W2["💰 Withdrawals Continue"]
-  ```
+```
 
--
-- ![3_bucket_strategymoney_flow.png](../assets/3_bucket_strategymoney_flow_1767413625072_0.png)
--
+![3_bucket_strategymoney_flow.png](../assets/3_bucket_strategymoney_flow_1767413625072_0.png)
+
 - **Good years:** Harvest gains from higher buckets, move down.
 - **Bad years:** Don't sell. Bucket 1 has 3 years of buffer. Wait for recovery.
   

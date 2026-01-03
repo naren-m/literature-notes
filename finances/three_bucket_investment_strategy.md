@@ -147,201 +147,201 @@ Corpus = Monthly Cash Flow × 12 × ISR
   
   ---
 
-- ## When to Move Money
+## When to Move Money
   
-  | Trigger                        | Action                    |
-  | ------------------------------ | ------------------------- |
-  | Bucket 1 < 1 year of cash flow | Refill from Bucket 2      |
-  | Bucket 2 < 3 years runway      | Refill from Bucket 3      |
-  | Bucket 3 up >15% in a year     | Harvest gains to Bucket 2 |
-  | Market crash                   | Do nothing. Wait.         |
-  
-  ```mermaid
-  flowchart TB
-    START["Start of Year"] --> Q1{"Bucket 1 < 1 year?"}
-    Q1 -->|Yes| Q2{"Bucket 2 has gains?"}
-    Q1 -->|No| DONE["No action needed"]
-    Q2 -->|Yes| A1["Move B2 → B1"]
-    Q2 -->|No| Q3{"Bucket 3 has gains?"}
-    Q3 -->|Yes| A2["Move B3 → B2 → B1"]
-    Q3 -->|No| WAIT["Wait for recovery"]
-  ```
-  
-  ---
+| Trigger                        | Action                    |
+| ------------------------------ | ------------------------- |
+| Bucket 1 < 1 year of cash flow | Refill from Bucket 2      |
+| Bucket 2 < 3 years runway      | Refill from Bucket 3      |
+| Bucket 3 up >15% in a year     | Harvest gains to Bucket 2 |
+| Market crash                   | Do nothing. Wait.         |
 
-- ## 15-Year Simulation: Paying Off a Loan
+```mermaid
+flowchart TB
+  START["Start of Year"] --> Q1{"Bucket 1 < 1 year?"}
+  Q1 -->|Yes| Q2{"Bucket 2 has gains?"}
+  Q1 -->|No| DONE["No action needed"]
+  Q2 -->|Yes| A1["Move B2 → B1"]
+  Q2 -->|No| Q3{"Bucket 3 has gains?"}
+  Q3 -->|Yes| A2["Move B3 → B2 → B1"]
+  Q3 -->|No| WAIT["Wait for recovery"]
+```
+
+---
+
+## 15-Year Simulation: Paying Off a Loan
   
-  ₹3.5 Cr corpus, ₹50L annual EMI:
-  
-  ```text
-  YEAR    BUCKET 1        BUCKET 2        BUCKET 3        TOTAL       EMI PAID
-  ────────────────────────────────────────────────────────────────────────────
-  0     ₹1.20 Cr        ₹1.20 Cr        ₹1.10 Cr       ₹3.50 Cr      ₹0
+₹3.5 Cr corpus, ₹50L annual EMI:
+
+```text
+YEAR    BUCKET 1        BUCKET 2        BUCKET 3        TOTAL       EMI PAID
+────────────────────────────────────────────────────────────────────────────
+0     ₹1.20 Cr        ₹1.20 Cr        ₹1.10 Cr       ₹3.50 Cr      ₹0
         [████████]      [████████]      [███████]
+      
+1     ₹0.75 Cr        ₹1.30 Cr        ₹1.25 Cr       ₹3.30 Cr      ₹50L
+      [█████]         [████████]      [████████]
+      ▲ paid ₹50L     ▲ grew 8%       ▲ grew 14%
         
-  1     ₹0.75 Cr        ₹1.30 Cr        ₹1.25 Cr       ₹3.30 Cr      ₹50L
-        [█████]         [████████]      [████████]
-        ▲ paid ₹50L     ▲ grew 8%       ▲ grew 14%
-        
-  2     ₹0.30 Cr        ₹1.40 Cr        ₹1.43 Cr       ₹3.13 Cr      ₹1.0 Cr
-        [██]            [█████████]     [█████████]
-        ▲ running low
-        
-  3     ₹0.90 Cr ◄──────₹1.00 Cr        ₹1.63 Cr       ₹3.53 Cr      ₹1.5 Cr
-        [██████]  REFILL [██████]       [██████████]
-        
-  5     ₹0.40 Cr        ₹1.20 Cr ◄──────₹1.50 Cr       ₹3.10 Cr      ₹2.5 Cr
-        [███]           [████████]REFILL[█████████]
-        
-  7     ₹0.85 Cr ◄──────₹0.95 Cr        ₹1.80 Cr       ₹3.60 Cr      ₹3.5 Cr
-        [█████]  REFILL [██████]        [███████████]
-        
-  ```
-  
-  **Result:** ₹7.5 Cr paid out over 15 years. ₹90L corpus remaining.
-  
-  ---
+2     ₹0.30 Cr        ₹1.40 Cr        ₹1.43 Cr       ₹3.13 Cr      ₹1.0 Cr
+      [██]            [█████████]     [█████████]
+      ▲ running low
+      
+3     ₹0.90 Cr ◄──────₹1.00 Cr        ₹1.63 Cr       ₹3.53 Cr      ₹1.5 Cr
+      [██████]  REFILL [██████]       [██████████]
+      
+5     ₹0.40 Cr        ₹1.20 Cr ◄──────₹1.50 Cr       ₹3.10 Cr      ₹2.5 Cr
+      [███]           [████████]REFILL[█████████]
+      
+7     ₹0.85 Cr ◄──────₹0.95 Cr        ₹1.80 Cr       ₹3.60 Cr      ₹3.5 Cr
+      [█████]  REFILL [██████]        [███████████]
+      
+```
 
-- ## How Long Money Sits in Each Bucket
+**Result:** ₹7.5 Cr paid out over 15 years. ₹90L corpus remaining.
   
-  | Bucket   | Duration    | Why                   |
-  | -------- | ----------- | --------------------- |
-  | Bucket 1 | 1-3 years   | Gets spent monthly    |
-  | Bucket 2 | 3-7 years   | Waits to refill B1    |
-  | Bucket 3 | 7-15+ years | Grows until harvested |
-  
-  ```text
-  🍇 GRAPES (New Money)     →  Put in BUCKET 3 (cellar)
-   Age for 10+ years
-   
-  🍷 YOUNG WINE             →  Move to BUCKET 2 (cabinet)  
-   Age for 3-5 years
-   
-  🥂 READY TO DRINK         →  Move to BUCKET 1 (table)
-   Consume within 1-3 years
-  ```
-  
-  ---
+---
 
-- ## Stress Test: March 2020 Crash
+## How Long Money Sits in Each Bucket
   
-  What happens when markets fall 35%?
-  
-  | Date     | Bucket 1 | Bucket 2 | Bucket 3 | Action             |
-  | -------- | -------- | -------- | -------- | ------------------ |
-  | Jan 2020 | ₹1.20 Cr | ₹1.20 Cr | ₹1.10 Cr | Normal             |
-  | Mar 2020 | ₹1.15 Cr | ₹1.00 Cr | ₹0.72 Cr | Crash. Don't sell. |
-  | Dec 2020 | ₹0.70 Cr | ₹1.20 Cr | ₹1.10 Cr | Recovered.         |
-  | Mar 2021 | ₹0.65 Cr | ₹1.30 Cr | ₹1.30 Cr | Harvest B3 gains.  |
-  
-  You never sold at the bottom. Bucket 1 had enough buffer to wait.
-  
-  ---
+| Bucket   | Duration    | Why                   |
+| -------- | ----------- | --------------------- |
+| Bucket 1 | 1-3 years   | Gets spent monthly    |
+| Bucket 2 | 3-7 years   | Waits to refill B1    |
+| Bucket 3 | 7-15+ years | Grows until harvested |
 
-- ## Handling Increasing Costs
-  
-  If your cash flow needs grow 6% yearly:
-  
-  | Year | Monthly Need |
-  | ---- | ------------ |
-  | 1    | ₹1,00,000    |
-  | 5    | ₹1,26,248    |
-  | 10   | ₹1,68,948    |
-  | 20   | ₹3,02,560    |
-  
-  Bucket 3 (equity) grows faster than 6%. It funds the increasing withdrawals.
-  
-  For fixed obligations like loan EMIs, this isn't needed—EMI stays constant.
-  
-  ---
+```text
+🍇 GRAPES (New Money)     →  Put in BUCKET 3 (cellar)
+ Age for 10+ years
+ 
+🍷 YOUNG WINE             →  Move to BUCKET 2 (cabinet)  
+ Age for 3-5 years
+ 
+🥂 READY TO DRINK         →  Move to BUCKET 1 (table)
+ Consume within 1-3 years
+```
 
-- ## Investment Options
+---
 
-- ### Bucket 1 (Stability)
+## Stress Test: March 2020 Crash
+
+What happens when markets fall 35%?
+
+| Date     | Bucket 1 | Bucket 2 | Bucket 3 | Action             |
+| -------- | -------- | -------- | -------- | ------------------ |
+| Jan 2020 | ₹1.20 Cr | ₹1.20 Cr | ₹1.10 Cr | Normal             |
+| Mar 2020 | ₹1.15 Cr | ₹1.00 Cr | ₹0.72 Cr | Crash. Don't sell. |
+| Dec 2020 | ₹0.70 Cr | ₹1.20 Cr | ₹1.10 Cr | Recovered.         |
+| Mar 2021 | ₹0.65 Cr | ₹1.30 Cr | ₹1.30 Cr | Harvest B3 gains.  |
+
+You never sold at the bottom. Bucket 1 had enough buffer to wait.
   
+---
+
+## Handling Increasing Costs
+  
+If your cash flow needs grow 6% yearly:
+
+| Year | Monthly Need |
+| ---- | ------------ |
+| 1    | ₹1,00,000    |
+| 5    | ₹1,26,248    |
+| 10   | ₹1,68,948    |
+| 20   | ₹3,02,560    |
+
+Bucket 3 (equity) grows faster than 6%. It funds the increasing withdrawals.
+
+For fixed obligations like loan EMIs, this isn't needed—EMI stays constant.
+
+---
+
+## Investment Options
+
+### Bucket 1 (Stability)
+
   **India:** HDFC Liquid, ICICI Money Market, Axis Short Term, Bank FD
-  
-  **US:** SGOV, VGSH, Money Market (SPAXX), T-Bills
-  
-  ---
 
-- ### Bucket 2 (Income)
-  
-  **India:** ICICI Equity Savings, HDFC Balanced Advantage, ICICI Multi-Asset
-  
-  **US:** SCHD, VBIAX, JEPI, AOK
-  
-  ---
+**US:** SGOV, VGSH, Money Market (SPAXX), T-Bills
 
-- ### Bucket 3 (Growth)
-  
-  **India:** Parag Parikh Flexi Cap, Mirae Large & Midcap, UTI Nifty 50 Index
-  
-  **US:** VTI, VOO, QQQ, VGT
-  
-  ---
+---
 
-- ## Adapting ISR for Your Goal
-  
-  | If your goal is...     | Use ISR | Corpus can...   |
-  | ---------------------- | ------- | --------------- |
-  | Passive income forever | 17.5    | Never deplete   |
-  | 20-year loan payoff    | 10-12   | Deplete to zero |
-  | 15-year loan payoff    | 8-10    | Deplete to zero |
-  | 10-year goal           | 6-8     | Deplete to zero |
-  
-  Lower ISR = smaller corpus needed, but corpus depletes over time.
-  
-  Higher ISR = larger corpus needed, but corpus sustains indefinitely.
-  
-  ---
+### Bucket 2 (Income)
 
-- ## Summary
-  
-  1. **Split corpus into 3 buckets** by time horizon
-  2. **Bucket 1** funds cash flow (3 years buffer)
-  3. **Bucket 2** refills Bucket 1 (stable returns)
-  4. **Bucket 3** grows wealth (long-term compounding)
-  5. **Never sell Bucket 3 during crashes**
-  6. **Harvest gains in good years**, move down the chain
-  
-  The system ensures you never sell at the wrong time.
-  
-  ---
+**India:** ICICI Equity Savings, HDFC Balanced Advantage, ICICI Multi-Asset
 
-- ## Quick Reference
-  
-  **Corpus formula:**
+**US:** SCHD, VBIAX, JEPI, AOK
 
-  ```
-  Monthly Need × 12 × ISR = Required Corpus
-  ```
-  
-  **ISR by goal:**
+---
 
-  ```
-  Indefinite income: 17.5
-  15-20 year goal:   10-12
-  10-15 year goal:   8-10
-  5-10 year goal:    5-7
-  ```
-  
-  **Allocation:**
+### Bucket 3 (Growth)
 
-  ```
-  Bucket 1: 33% (Debt)
-  Bucket 2: 33% (Hybrid)  
-  Bucket 3: 33% (Equity)
-  ```
-  
-  **Refill rules:**
+**India:** Parag Parikh Flexi Cap, Mirae Large & Midcap, UTI Nifty 50 Index
 
-  ```
-  B2 → B1: Every 1-2 years
-  B3 → B2: Every 3-5 years
-  During crash: Do nothing
-  ```
+**US:** VTI, VOO, QQQ, VGT
+
+---
+
+## Adapting ISR for Your Goal
+
+| If your goal is...     | Use ISR | Corpus can...   |
+| ---------------------- | ------- | --------------- |
+| Passive income forever | 17.5    | Never deplete   |
+| 20-year loan payoff    | 10-12   | Deplete to zero |
+| 15-year loan payoff    | 8-10    | Deplete to zero |
+| 10-year goal           | 6-8     | Deplete to zero |
+
+Lower ISR = smaller corpus needed, but corpus depletes over time.
+
+Higher ISR = larger corpus needed, but corpus sustains indefinitely.
+
+---
+
+## Summary
+
+1. **Split corpus into 3 buckets** by time horizon
+2. **Bucket 1** funds cash flow (3 years buffer)
+3. **Bucket 2** refills Bucket 1 (stable returns)
+4. **Bucket 3** grows wealth (long-term compounding)
+5. **Never sell Bucket 3 during crashes**
+6. **Harvest gains in good years**, move down the chain
+
+The system ensures you never sell at the wrong time.
+
+---
+
+## Quick Reference
+
+**Corpus formula:**
+
+```
+Monthly Need × 12 × ISR = Required Corpus
+```
+
+**ISR by goal:**
+
+```
+Indefinite income: 17.5
+15-20 year goal:   10-12
+10-15 year goal:   8-10
+5-10 year goal:    5-7
+```
+
+**Allocation:**
+
+```
+Bucket 1: 33% (Debt)
+Bucket 2: 33% (Hybrid)  
+Bucket 3: 33% (Equity)
+```
   
-  ---
-  
-  *This is an educational article. Consult a financial advisor before investing.*
+**Refill rules:**
+
+```
+B2 → B1: Every 1-2 years
+B3 → B2: Every 3-5 years
+During crash: Do nothing
+```
+
+---
+
+*This is an educational article. Consult a financial advisor before investing.*

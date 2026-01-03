@@ -91,18 +91,24 @@ The multiplier 17.5 is called the **Income Stability Ratio (ISR)**. It comes fro
 
 ## How Money Flows
 
+### The Core Principle
+
 ```mermaid
 flowchart TB
-    subgraph GOOD["GOOD YEARS"]
-        G3["Bucket 3 gains"] --> G2["Move to Bucket 2"]
-        G2B["Bucket 2 gains"] --> G1["Move to Bucket 1"]
+    subgraph GOOD["☀️ GOOD YEARS - Market Up"]
+        direction LR
+        G3["BUCKET 3<br/>Growth"] -->|"Harvest gains"| G2["BUCKET 2<br/>Income"]
+        G2 -->|"Move returns"| G1["BUCKET 1<br/>Stability"]
     end
     
-    subgraph BAD["BAD YEARS"]
-        B3["Bucket 3: Don't sell"]
-        B2["Bucket 2: Don't sell"]
-        B1["Bucket 1: Keep withdrawing"]
+    subgraph BAD["❄️ BAD YEARS - Market Down"]
+        direction LR
+        B3["BUCKET 3<br/>❌ DON'T SELL"] -.->|"Wait"| B2["BUCKET 2<br/>❌ DON'T SELL"]
+        B1["BUCKET 1<br/>✓ Continue withdrawals"]
     end
+    
+    G1 --> W1["💰 Withdrawals Continue"]
+    B1 --> W2["💰 Withdrawals Continue"]
 ```
 
 **Good years:** Harvest gains from higher buckets, move down.

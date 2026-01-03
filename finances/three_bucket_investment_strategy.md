@@ -40,13 +40,13 @@ Instead of one big corpus, split your money into three buckets based on when you
 | Bucket 2 | Soon (3-7 years)  | Refill Bucket 1         |
 | Bucket 3 | Later (10+ years) | Grow and beat inflation |
 
- ```mermaid
- flowchart LR
-   B3["BUCKET 3<br/>Growth<br/>10+ years"] -->|"Refill every 3-5 years"| B2["BUCKET 2<br/>Income<br/>3-7 years"]
-   B2 -->|"Refill yearly"| B1["BUCKET 1<br/>Stability<br/>0-3 years"]
-   B1 -->|"Monthly"| OUT["Cash Flow<br/>(EMI / Expenses)"]
+```mermaid
+flowchart LR
+  B3["BUCKET 3<br/>Growth<br/>10+ years"] -->|"Refill every 3-5 years"| B2["BUCKET 2<br/>Income<br/>3-7 years"]
+  B2 -->|"Refill yearly"| B1["BUCKET 1<br/>Stability<br/>0-3 years"]
+  B1 -->|"Monthly"| OUT["Cash Flow<br/>(EMI / Expenses)"]
 
- ```
+```
 
 ---
 
@@ -54,10 +54,8 @@ Instead of one big corpus, split your money into three buckets based on when you
 
 Use this formula:
   
-```
-
+```text
 Corpus = Monthly Cash Flow × 12 × ISR
-
 ```
 
 [[Income Stability Ration(ISR)]]  is a multiplier based on your goal duration:

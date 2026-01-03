@@ -1,6 +1,7 @@
 # The Three Bucket Strategy for Sustainable Cash Flow
 
 ---
+
 - ## The Core Problem
   
   You need regular cash flow—for EMIs, living expenses, or any recurring obligation. Your investments don't give steady returns. Some years the market gives 20%. Some years it falls 30%.
@@ -10,40 +11,54 @@
   This is called **sequence of returns risk**.
   
   ---
+
 - ## The Solution: Separate Money by Time Horizon
+
 - Instead of one big corpus, split your money into three buckets based on when you need it:
 -
+
 - ### Bucket 1: Stability, Cash Flow, and Safety
+
 	- Liquid funds, Money market funds, Ultra-short-term, Short-term debt funds (Corporate bond funds, Credit risk funds)
-	- Maintains 3 years of withdrawal to prevent panic and protects SWP during market crashes
+ 	- Maintains 3 years of withdrawal to prevent panic and protects SWP during market crashes
+
 - ### Bucket 2: Income and refilling Bucket 1 with stable low volatility returns
+
 	- Intermediate (Refills Bucket 1 every year)
-	- Conservative hybrid funds, Equity savings fund, Low volatility variants of Balance Advantage Funds, Short duration funds, Multi-asset funds
-	- The core 'ISR Bucket' that creates stable low volatility returns to refill safety buckets
+ 	- Conservative hybrid funds, Equity savings fund, Low volatility variants of Balance Advantage Funds, Short duration funds, Multi-asset funds
+ 	- The core 'ISR Bucket' that creates stable low volatility returns to refill safety buckets
+
 - ### Bucket 3: Growth, beating inflation, and long-term compounding
+
 	- Flexicap funds, Large and midcap, Multicap, International equity funds
-	- Inflation fighter that refills Bucket 2 during good market years to sustain long-term ISR
+ 	- Inflation fighter that refills Bucket 2 during good market years to sustain long-term ISR
 -
+
 - ### Summary
-	- | Bucket   | When You Need It  | What It Does            |
-	  | -------- | ----------------- | ----------------------- |
-	  | Bucket 1 | Now (0-3 years)   | Fund your cash flow     |
-	  | Bucket 2 | Soon (3-7 years)  | Refill Bucket 1         |
-	  | Bucket 3 | Later (10+ years) | Grow and beat inflation |
+
+ | -        | Bucket            | When You Need It        | What It Does |
+ | -------- | ----------------- | ----------------------- |
+ | Bucket 1 | Now (0-3 years)   | Fund your cash flow     |
+ | Bucket 2 | Soon (3-7 years)  | Refill Bucket 1         |
+ | Bucket 3 | Later (10+ years) | Grow and beat inflation |
+
 	- ```mermaid
-	  flowchart LR
-	    B3["BUCKET 3<br/>Growth<br/>10+ years"] -->|"Refill every 3-5 years"| B2["BUCKET 2<br/>Income<br/>3-7 years"]
-	    B2 -->|"Refill yearly"| B1["BUCKET 1<br/>Stability<br/>0-3 years"]
-	    B1 -->|"Monthly"| OUT["Cash Flow<br/>(EMI / Expenses)"]
-	  ```
-	  
-	  ---
+   flowchart LR
+     B3["BUCKET 3<br/>Growth<br/>10+ years"] -->|"Refill every 3-5 years"| B2["BUCKET 2<br/>Income<br/>3-7 years"]
+     B2 -->|"Refill yearly"| B1["BUCKET 1<br/>Stability<br/>0-3 years"]
+     B1 -->|"Monthly"| OUT["Cash Flow<br/>(EMI / Expenses)"]
+   ```
+   
+   ---
+
 - ## How Much Do You Need?
+
 - Use this formula:
   
   ```
   Corpus = Monthly Cash Flow × 12 × ISR
   ```
+
   [[Income Stability Ration(ISR)]]  is a multiplier based on your goal duration:
   
   | Goal Type                        | Duration    | ISR   | Example              |
@@ -52,6 +67,7 @@
   | Long-term (loan payoff)          | 15-20 years | 10-12 | Home loan EMI        |
   | Medium-term                      | 10-15 years | 8-10  | Education fund       |
   | Short-term                       | 5-10 years  | 5-7   | Car loan, renovation |
+
 - ### Examples
   
   | Monthly Need | Goal             | ISR  | Corpus Required |
@@ -62,7 +78,9 @@
   | ₹1,00,000    | 15-year loan EMI | 12   | ₹1.44 Crore     |
   
   ---
+
 - ## The Three Buckets Explained
+
 - ### Bucket 1: Stability (33% of corpus)
   
   **Purpose:** Fund cash flow for the next 3 years, regardless of market conditions.
@@ -74,6 +92,7 @@
   **Rule:** Never runs dry. Gets refilled from Bucket 2.
   
   ---
+
 - ### Bucket 2: Income (33% of corpus)
   
   **Purpose:** Generate stable returns. Refill Bucket 1 every year.
@@ -85,6 +104,7 @@
   **Rule:** Low volatility. This is your buffer zone.
   
   ---
+
 - ### Bucket 3: Growth (33% of corpus)
   
   **Purpose:** Beat inflation. Refill Bucket 2 every few years.
@@ -96,6 +116,7 @@
   **Rule:** Never touch during a crash. Let it recover first.
   
   ---
+
 - ## How Money Flows
   
   ```mermaid
@@ -116,6 +137,7 @@
     G1 --> W1["💰 Withdrawals Continue"]
     B1 --> W2["💰 Withdrawals Continue"]
   ```
+
 -
 - ![3_bucket_strategymoney_flow.png](../assets/3_bucket_strategymoney_flow_1767413625072_0.png)
 -
@@ -123,6 +145,7 @@
 - **Bad years:** Don't sell. Bucket 1 has 3 years of buffer. Wait for recovery.
   
   ---
+
 - ## When to Move Money
   
   | Trigger                        | Action                    |
@@ -144,6 +167,7 @@
   ```
   
   ---
+
 - ## 15-Year Simulation: Paying Off a Loan
   
   ₹3.5 Cr corpus, ₹50L annual EMI:
@@ -176,6 +200,7 @@
   **Result:** ₹7.5 Cr paid out over 15 years. ₹90L corpus remaining.
   
   ---
+
 - ## How Long Money Sits in Each Bucket
   
   | Bucket   | Duration    | Why                   |
@@ -183,7 +208,6 @@
   | Bucket 1 | 1-3 years   | Gets spent monthly    |
   | Bucket 2 | 3-7 years   | Waits to refill B1    |
   | Bucket 3 | 7-15+ years | Grows until harvested |
-  
   
   ```text
   🍇 GRAPES (New Money)     →  Put in BUCKET 3 (cellar)
@@ -197,6 +221,7 @@
   ```
   
   ---
+
 - ## Stress Test: March 2020 Crash
   
   What happens when markets fall 35%?
@@ -211,6 +236,7 @@
   You never sold at the bottom. Bucket 1 had enough buffer to wait.
   
   ---
+
 - ## Handling Increasing Costs
   
   If your cash flow needs grow 6% yearly:
@@ -227,7 +253,9 @@
   For fixed obligations like loan EMIs, this isn't needed—EMI stays constant.
   
   ---
+
 - ## Investment Options
+
 - ### Bucket 1 (Stability)
   
   **India:** HDFC Liquid, ICICI Money Market, Axis Short Term, Bank FD
@@ -235,6 +263,7 @@
   **US:** SGOV, VGSH, Money Market (SPAXX), T-Bills
   
   ---
+
 - ### Bucket 2 (Income)
   
   **India:** ICICI Equity Savings, HDFC Balanced Advantage, ICICI Multi-Asset
@@ -242,6 +271,7 @@
   **US:** SCHD, VBIAX, JEPI, AOK
   
   ---
+
 - ### Bucket 3 (Growth)
   
   **India:** Parag Parikh Flexi Cap, Mirae Large & Midcap, UTI Nifty 50 Index
@@ -249,6 +279,7 @@
   **US:** VTI, VOO, QQQ, VGT
   
   ---
+
 - ## Adapting ISR for Your Goal
   
   | If your goal is...     | Use ISR | Corpus can...   |
@@ -263,6 +294,7 @@
   Higher ISR = larger corpus needed, but corpus sustains indefinitely.
   
   ---
+
 - ## Summary
   
   1. **Split corpus into 3 buckets** by time horizon
@@ -275,14 +307,17 @@
   The system ensures you never sell at the wrong time.
   
   ---
+
 - ## Quick Reference
   
   **Corpus formula:**
+
   ```
   Monthly Need × 12 × ISR = Required Corpus
   ```
   
   **ISR by goal:**
+
   ```
   Indefinite income: 17.5
   15-20 year goal:   10-12
@@ -291,6 +326,7 @@
   ```
   
   **Allocation:**
+
   ```
   Bucket 1: 33% (Debt)
   Bucket 2: 33% (Hybrid)  
@@ -298,6 +334,7 @@
   ```
   
   **Refill rules:**
+
   ```
   B2 → B1: Every 1-2 years
   B3 → B2: Every 3-5 years

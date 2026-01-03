@@ -388,9 +388,9 @@ gantt
     
     section Bucket 1
     Initial ₹1.20 Cr           :2024, 2025
-    Depleting (EMI)            :2025, 2027
+    Depleting (expenses)       :2025, 2027
     Refilled from B2           :milestone, 2027, 0d
-    Depleting (EMI)            :2027, 2030
+    Depleting (expenses)       :2027, 2030
     Refilled from B2           :milestone, 2030, 0d
     Final ₹0.20 Cr             :2036, 2039
     

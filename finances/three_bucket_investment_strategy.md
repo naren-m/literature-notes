@@ -16,6 +16,19 @@ This is called **sequence of returns risk**.
 
 Instead of one big corpus, split your money into three buckets based on when you need it:
 
+Bucket 1: Stability, Cash Flow, and Safety
+- Liquid funds, Money market funds, Ultra-short-term, Short-term debt funds (Corporate bond funds, Credit risk funds)
+- Maintains 3 years of withdrawal to prevent panic and protects SWP during market crashes
+
+Bucket 2: Income and refilling Bucket 1 with stable low volatility returns
+- Intermediate (Refills Bucket 1 every year)
+- Conservative hybrid funds, Equity savings fund, Low volatility variants of Balance Advantage Funds, Short duration funds, Multi-asset funds
+- The core 'ISR Bucket' that creates stable low volatility returns to refill safety buckets
+
+Bucket 3: Growth, Refill Bucket 2
+- Flexi cap, Mid cap, Index funds
+- Grows wealth and beats inflation. Refills Bucket 2 every few years
+
 | Bucket   | When You Need It | What It Does            |
 | -------- | ---------------- | ----------------------- |
 | Bucket 1 | Now (0-3 years)  | Fund your cash flow     |

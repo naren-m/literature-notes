@@ -328,15 +328,15 @@ Yoga transitions occur slightly faster than tithi transitions.
 ### 6.3 The 27 Yogas
 
 ```text
-1. Vishkumbha10. Ganda19. Parigha
-2. Priti 11. Vriddhi20. Shiva
-3. Ayushman12. Dhruva 21. Siddha
+1. Vishkumbha 10. Ganda 19. Parigha
+2. Priti 11. Vriddhi 20. Shiva
+3. Ayushman 12. Dhruva 21. Siddha
 4. Saubhagya 13. Vyaghata 22. Sadhya
-5. Shobhana14. Harshana 23. Shubha
-6. Atiganda15. Vajra24. Shukla
+5. Shobhana 14. Harshana 23. Shubha
+6. Atiganda 15. Vajra 24. Shukla
 7. Sukarma 16. Siddhi 25. Brahma
-8. Dhriti17. Vyatipata26. Indra
-9. Shula 18. Variyan27. Vaidhriti
+8. Dhriti 17. Vyatipata 26. Indra
+9. Shula 18. Variyan 27. Vaidhriti
 ```
 
 Some yogas (like Vyatipata and Vaidhriti) are considered inauspicious for important activities—a practical application of this timekeeping system.

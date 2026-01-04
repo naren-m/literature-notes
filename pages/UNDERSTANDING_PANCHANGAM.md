@@ -368,18 +368,9 @@ Fixed Karanas (appear once per month at specific positions):
 
 Rotating Karanas (cycle 8 times through K=2 to K=57):
 Bava → Balava → Kaulava → Taitila → Gara → Vanija → Vishti
-↑│
+↑                                                      │
 └──────────────────────────────────────────────────────┘
 
-For K in {2, 3, ..., 57}:
-Rotating karana = ((K - 2) mod 7)
-0 → Bava
-1 → Balava
-2 → Kaulava
-3 → Taitila
-4 → Gara
-5 → Vanija
-6 → Vishti
 ```
 
 **Vishti Karana** (also called Bhadra) is considered particularly inauspicious—it occurs 8 times per lunar month and is avoided for important beginnings.

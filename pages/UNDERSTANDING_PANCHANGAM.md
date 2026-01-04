@@ -61,7 +61,7 @@
   
   ---
 ## Part 2: The Two Clocks in the Sky
-mathmath- ### 2.1 The Sun: The Slow Hand
+### 2.1 The Sun: The Slow Hand
   
   The Sun completes one circuit of the ecliptic in approximately **365.25 days** (one year). Its angular velocity:
   

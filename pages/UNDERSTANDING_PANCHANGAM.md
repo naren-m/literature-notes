@@ -87,17 +87,17 @@ T_synodic = 360° / 12.2°/day ≈ 29.53 days
 This is the **synodic month**—the time from New Moon to New Moon. It's longer than the sidereal month because the Moon must travel an extra ~30° to "catch" the Sun.
 
 ```text
-Why the synodic month is longer than the sidereal month:
-
-Position at Day 0:Position at Day 27.3:Position at Day 29.5:
-(New Moon)(Moon completes orbit)(New Moon again)
- │ │ │
- ▼ ▼ ▼
-☀️ 🌑☀️ ☀️ 🌑
-Sun Moon │🌙Sun Moon
-(0°)27° Moon at 0°(29°)
- Sun has moved!Moon catches up
-```
+  Why the synodic month is longer than the sidereal month:
+  
+  Position at Day 0:        Position at Day 27.3:      Position at Day 29.5:
+  (New Moon)              (Moon completes orbit)      (New Moon again)
+     │                           │                         │
+     ▼                           ▼                         ▼
+  ☀️ 🌑                      ☀️                         ☀️ 🌑
+  Sun Moon                   │    🌙                    Sun Moon
+  (0°)                      27°   Moon at 0°            (29°)
+                           Sun has moved!              Moon catches up
+  ```
 
 ---
 
@@ -124,18 +124,18 @@ This single quantity, Δ, captures the phase relationship between Moon and Sun:
 
 Since the Moon gains on the Sun at approximately 12.2° per day, Δ increases continuously. Over one synodic month (29.53 days), Δ goes from 0° through 360° and back to 0°.
 
-```
-The Lunar Phase Cycle:
-
-Δ:0°90°180°270°360°/0°
-│││ │ │
-▼▼▼ ▼ ▼
- 🌑 🌓 🌕🌗🌑
-New Moon QuarterFull Moon QuarterNew Moon
-(waxing) (waning)
-
-Time:0d7.4d 14.8d 22.1d 29.5d
-```
+  ```
+  The Lunar Phase Cycle:
+  
+  Δ:  0°        90°        180°        270°        360°/0°
+      │          │          │           │           │
+      ▼          ▼          ▼           ▼           ▼
+     🌑         🌓         🌕          🌗          🌑
+  New Moon   Quarter    Full Moon   Quarter    New Moon
+            (waxing)               (waning)
+  
+  Time:  0d        7.4d       14.8d       22.1d       29.5d
+  ```
 
 ---
 

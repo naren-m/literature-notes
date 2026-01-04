@@ -383,17 +383,17 @@ Bava → Balava → Kaulava → Taitila → Gara → Vanija → Vishti
 
 **Vara** (weekday) is straightforward modular arithmetic:
 
-```text
-Vara = (Julian Day Number + 1) mod 7
-
-0 → Ravivara(Sunday) ☀️ Sun
-1 → Somavara(Monday) ☽ Moon
-2 → Mangalavara (Tuesday)♂ Mars
-3 → Budhavara (Wednesday)☿ Mercury
-4 → Guruvara(Thursday) ♃ Jupiter
-5 → Shukravara(Friday) ♀ Venus
-6 → Shanivara (Saturday) ♄ Saturn
-```
+    ```text
+  Vara = (Julian Day Number + 1) mod 7
+  
+  0 → Ravivara    (Sunday)     ☀️ Sun
+  1 → Somavara    (Monday)     ☽ Moon
+  2 → Mangalavara (Tuesday)    ♂ Mars
+  3 → Budhavara   (Wednesday)  ☿ Mercury
+  4 → Guruvara    (Thursday)   ♃ Jupiter
+  5 → Shukravara  (Friday)     ♀ Venus
+  6 → Shanivara   (Saturday)   ♄ Saturn
+  ```
 
 ### 8.2 Why These Names?
 
@@ -441,48 +441,48 @@ PANCHANGAM ELEMENTS:
 
 ### 9.2 Worked Example
 
-```text
-Given:
-Date: January 15, 2025, 12:00 UTC
-
-Step 1: Get planetary positions (from ephemeris tables)
-λₛ (sidereal) = 270.67° [Sun in Capricorn]
-λₘ (sidereal) = 63.24°[Moon in Taurus]
-Julian Day = 2460691.0
-
-Step 2: Calculate intermediate values
-Δ = normalize(63.24° - 270.67°)
-= normalize(-207.43°)
-= 360° - 207.43°
-= 152.57°
-
-Σ = normalize(63.24° + 270.67°)
-= normalize(333.91°)
-= 333.91°
-
-Step 3: Calculate Panchangam elements
-Tithi: T = floor(152.57° / 12°) + 1 = 12 + 1 = 13
- → Shukla Trayodashi (13th tithi, waxing phase)
-
-Nakshatra: N = floor(63.24° / 13.333°) + 1 = 4 + 1 = 5
- → Mrigashira
-
-Yoga:Y = floor(333.91° / 13.333°) + 1 = 25 + 1 = 26
- → Indra
-
-Karana:K = floor(152.57° / 6°) + 1 = 25 + 1 = 26
- → Rotating index: (26-2) mod 7 = 3 → Taitila
-
-Vara:V = (2460691 + 1) mod 7 = 3
- → Budhavara (Wednesday)
-
-RESULT:
-Tithi: Shukla Trayodashi
-Nakshatra: Mrigashira
-Yoga:Indra
-Karana:Taitila
-Vara:Wednesday
-```
+  ```text
+  Given:
+  Date: January 15, 2025, 12:00 UTC
+  
+  Step 1: Get planetary positions (from ephemeris tables)
+  λₛ (sidereal) = 270.67°   [Sun in Capricorn]
+  λₘ (sidereal) = 63.24°    [Moon in Taurus]
+  Julian Day = 2460691.0
+  
+  Step 2: Calculate intermediate values
+  Δ = normalize(63.24° - 270.67°)
+  = normalize(-207.43°)
+  = 360° - 207.43°
+  = 152.57°
+  
+  Σ = normalize(63.24° + 270.67°)
+  = normalize(333.91°)
+  = 333.91°
+  
+  Step 3: Calculate Panchangam elements
+  Tithi:     T = floor(152.57° / 12°) + 1 = 12 + 1 = 13
+           → Shukla Trayodashi (13th tithi, waxing phase)
+  
+  Nakshatra: N = floor(63.24° / 13.333°) + 1 = 4 + 1 = 5
+           → Mrigashira
+  
+  Yoga:      Y = floor(333.91° / 13.333°) + 1 = 25 + 1 = 26
+           → Indra
+  
+  Karana:    K = floor(152.57° / 6°) + 1 = 25 + 1 = 26
+           → Rotating index: (26-2) mod 7 = 3 → Taitila
+  
+  Vara:      V = (2460691 + 1) mod 7 = 3
+           → Budhavara (Wednesday)
+  
+  RESULT:
+  Tithi:     Shukla Trayodashi
+  Nakshatra: Mrigashira
+  Yoga:      Indra
+  Karana:    Taitila
+  Vara:      Wednesday
+  ```
 
 ---
 
@@ -492,22 +492,22 @@ Vara:Wednesday
 
 There's a subtle issue we glossed over. The Vernal Equinox point—our 0° reference—is not fixed relative to the stars. Due to Earth's axial precession (like a wobbling top), this point drifts westward at about 50 arcseconds per year.
 
-```text
-Earth's Precession:
-
- Axis wobbles in a circle over ~26,000 years
-
-↺ ←──────────────── Direction of precession
-│
-│
-●Earth's rotation axis
- ╱│╲
-╱ │ ╲
- ╱│╲23.4° tilt
-│
- ─────●───── Orbital plane
-Earth
-```
+  ```text
+  Earth's Precession:
+  
+     Axis wobbles in a circle over ~26,000 years
+  
+            ↺ ←──────────────── Direction of precession
+            │
+            │
+            ●  Earth's rotation axis
+           ╱│╲
+          ╱ │ ╲
+         ╱  │  ╲  23.4° tilt
+            │
+       ─────●───── Orbital plane
+            Earth
+  ```
 
 Over 26,000 years, the equinox point completes one full circuit against the stars. Since the Western (tropical) zodiac is fixed to the equinox, and the Hindu (sidereal) zodiac is fixed to the stars, they diverge by about 1° every 72 years.
 
@@ -533,22 +533,23 @@ This means a planet at 0° Aries in Western astrology is at approximately 5.8° 
 
 Because tithis can be shorter than a solar day, it's possible for a tithi to begin after sunrise and end before the next sunrise. This tithi is "kshaya" (diminished)—it exists but never "rules" a sunrise.
 
-```text
-Timeline showing Tithi Kshaya:
+  ```text
+  Timeline showing Tithi Kshaya:
+  
+  Sunrise₁     Sunrise₂     Sunrise₃
+  │           │           │
+  ▼           ▼           ▼
+  ────┼───────────┼───────────┼────────
+  │           │           │
+  │  T=8      │    T=10   │
+  │←─────────→│←─────────→│
+         │     │
+         │ T=9 │  ← Tithi 9 skipped!
+         │←───→│     (begins and ends between
+            ↑        same pair of sunrises)
+          Short tithi
+  ```
 
-Sunrise₁ Sunrise₂ Sunrise₃
-│ │ │
-▼ ▼ ▼
-────┼───────────┼───────────┼────────
-│ │ │
-│T=8│T=10 │
-│←─────────→│←─────────→│
- │ │
- │ T=9 │← Tithi 9 skipped!
- │←───→│ (begins and ends between
-↑same pair of sunrises)
-Short tithi
-```
 
 ### 11.2 Adhika Tithi (Extra Tithi)
 

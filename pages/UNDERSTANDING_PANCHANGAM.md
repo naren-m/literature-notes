@@ -29,12 +29,12 @@ Over the course of a year, if you track the Sun's position against the backgroun
 The ecliptic is tilted 23.4° relative to the celestial equator (the projection of Earth's equator onto the celestial sphere). This tilt is why we have seasons.
 
 <img src="../assets/TiltThatCausesSeasons_1767509190865_0.png" alt="TiltThatCausesSeasons.png" width="100%" />
--
+
 <img src="../assets/Screenshot_2026-01-03_at_10.05.02 PM_1767508045762_0.png" alt="Screenshot 2026-01-03 at 10.05.02 PM.png" width="100%" />
--
--
+
+
 <img src="../assets/EclipticScene_ManimCE_v0.19.1_1767508813101_0.gif" alt="EclipticScene_ManimCE_v0.19.1.gif" width="100%" />
--
+
 - **Why does this matter?** The ecliptic becomes our reference plane. All Panchangam calculations use positions measured along this path.
 
 ### 1.3 Measuring Position: Ecliptic Longitude
@@ -44,7 +44,7 @@ To describe where something is on the ecliptic, we need a coordinate system. We 
 But where is 0°? We need a reference point.
 
 Ancient astronomers chose the **Vernal Equinox**—the point where the Sun crosses the celestial equator moving northward (around March 20-21). This is a naturally observable event: day and night are equal length everywhere on Earth.
--
+
 
 ```
 text

@@ -592,9 +592,9 @@ The system is internally consistent:
 Time structures nest elegantly:
 
 ```text
-Tithi (30)→Paksha (2)→Masa (12) →Samvatsara (60)
-↓↓ ↓↓
-12° cycle180° cycle360° cycle 60-year cycle
+Tithi (30)    →  Paksha (2)    →  Masa (12)     →  Samvatsara (60)
+↓              ↓               ↓                ↓
+12° cycle      180° cycle      360° cycle       60-year cycle
 ```
 
 ---

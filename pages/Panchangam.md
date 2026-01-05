@@ -30,6 +30,13 @@
 	- 27. ****VAIDHRITI**** (Poor Support) — critical, scheming nature; powerful and overwhelming mentally or physically.**
 - Vara
 - karana
+	- 1 **Bava :** People born in this Karana will be poor but will be kind and content with what they get. They will be successful if they pursue a career with the Army.
+	- 2 **Balava :** The person born in this Karana will be handsome, courageous, sacrificing and will be interested in sports and extra-curricular activities.
+	- 3 **Kaulava :** Those born in this Karana will be intent on doing bad deeds as their earlier environment was not congenial to molding a good character.
+	- 4 **Taitila :** The person born in this Karana will be soft hearted, even tempered and with strong convictions. Constitutionally the person will be strong.
+	- 5 **Gara :** The person of this Karana will be a good strategist, imaginative and talkative.
+	- 6 **Vanija : **The person of this Karana will have good business acumen and will be capable of succeeding in any type of business.
+	- 7 **Vishti:** The person of this Karana will be heartless, without friends and will be bent on doing bad deeds.
 - Nakshatra
 -
 - [[UNDERSTANDING_PANCHANGAM]]

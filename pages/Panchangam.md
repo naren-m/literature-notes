@@ -1,4 +1,4 @@
-- [[SuryaSidhantam]] shows the calculations
+- [[SuryaSidhantam]] shows the calculations for thithi and
 -
 - Thithi
 - Yoga

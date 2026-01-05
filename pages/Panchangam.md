@@ -1,3 +1,5 @@
+- [[SuryaSidhantam]] shows the calculations
+-
 - Thithi
 - Yoga
 - Vara

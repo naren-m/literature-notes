@@ -2,7 +2,22 @@
 -
 - Thithi
 - Yoga
-	-
+	- **1. ****VISHKAMBHA**** (Supported) — prevails over others, victorious over enemies, obtains property, wealthy.
+	- 2. ****PRITI**** (Fondness) — well-liked, attracted to the opposite sex, enjoys life with contentment.
+	- 3. ****AYUSHMAN**** (Long-lived) — good health and longevity, energetic.
+	- 4. ****SAUBHAGYA**** (Good Fortune) — enjoys a comfortable life full of opportunities, happy.
+	- 5. ****SOBHANA**** (Splendor) — lustrous body and demeanor sensualist, obsessed with sex.
+	- 6. ****ATIGANDA**** (Danger or obstacles) — difficult life due to numerous obstacles and accidents; revengeful and angry.
+	- 7. ****SUKARMA**** (Virtuous) — performs noble deeds, magnanimous and charitable, wealthy.
+	- 8. ****DHRITI**** (Determination) — enjoys the wealth, goods and spouses of others; indulges in the hospitality of others.
+	- 9. ****SOOLA**** Spear, Pain) — confrontational and contrary, quarrelsome, angry.
+	- 10. ****GANDA**** (Danger or obstacles) — flawed morals or ethics, troublesome personality.
+	- 11. ****VRIDDHA**** (Growth) — intelligent, opportunistic and discerning; life constantly improves with age.
+	- 12. ****DHRUVA**** Constant) — steady character, able to concentrate and persist, wealthy.
+	- 13. ****VYAGATHA**** (Beating) — cruel, intent on harming others.
+	- 14. ****HARSHANA**** (Thrilling) — intelligent, delights in merriment and humor.
+	- 15. ****VAJRA**** (Diamond, Thunderbolt) — well-off, lecherous, unpredictable, forceful.
+	- 16. ****SIDDHI**** (Success) — skillful and accomplished in several areas; protector and supporter of others. 17. ****VYATAPATA**** (Calamity) — prone to sudden mishaps and reversals, fickle and unreliable. 18. ****VARIYAN**** (Comfort) — loves ease and luxury, lazy, lascivious. 19. ****PARIGHA**** (Obstruction) — encounters many obstacles to progress in life; irritable and meddlesome. 20. ****SIVA**** (Auspicious) — honored by superiors and government, placid, learned and religious, wealthy. 21. ****SIDDHA**** (Accomplished) — accommodating personality, pleasant nature, interest in ritual and spirituality. 22. ****SADHYA**** (Amenable) — well behaved, accomplished manners and etiquette. 23. ****SUBHA**** (Auspicious) — lustrous body and personality, but problems with health; wealthy, irritable. 24. ****SUKLA**** (Bright White) — garrulous and flighty, impatient and impulsive; unsteady and changeable mind. 25. ****BRAHMA**** (Priest, God) — trustworthy and confidential, ambitious, good discernment and judgment. 26. ****INDRA**** (Chief) — interest in education and knowledge; helpful, well-off. 27. ****VAIDHRITI**** (Poor Support) — critical, scheming nature; powerful and overwhelming mentally or physically.**
 - Vara
 - karana
 - Nakshatra

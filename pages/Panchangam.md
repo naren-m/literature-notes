@@ -3,3 +3,5 @@
 - Vara
 - karana
 - Nakshatra
+-
+- [[UNDERSTANDING_PANCHANGAM]]

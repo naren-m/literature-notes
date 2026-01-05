@@ -1,0 +1,5 @@
+- Thithi
+- Yoga
+- Vara
+- karana
+- Nakshatra

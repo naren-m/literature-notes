@@ -1,5 +1,3 @@
-- Shiva
--
 # शिव (Shiva) — Etymology and Semantic Derivation
 
 ## The Question
@@ -16,7 +14,7 @@ How does **√शी (śī)** "to rest/lie down" + **व (va)** become **शि�
 
 The semantic logic follows this chain:
 
-```
+```text
 शी (to rest/lie down)
     ↓
 शयन (the act of resting)

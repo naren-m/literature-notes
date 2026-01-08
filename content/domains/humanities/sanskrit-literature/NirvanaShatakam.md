@@ -520,7 +520,7 @@ First recitation/writing of [[AdiShankaraCharya]]
 - **Verse 6:** All conceptual categories
 - ### 2. The Affirmation
   
-  After each negation: **चिदानन्दरूपः शिवोऽहम्** — "I am of the nature of consciousness-bliss, I am Shiva"
+  After each negation: **चिदानन्दरूपः शिवोऽहम्** — "I am of the nature of consciousness-bliss, I am [[shiva]] "
   
   This combines:
 - **चित् (cit)** — Pure awareness (from √cit "to be conscious")

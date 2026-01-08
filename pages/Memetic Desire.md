@@ -1,1 +1,1 @@
-- The idea that people desire t
+- The idea that people desire things not independently but by imitating

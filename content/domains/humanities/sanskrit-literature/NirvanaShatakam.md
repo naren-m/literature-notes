@@ -22,7 +22,7 @@ First recitation/writing of [[AdiShankaraCharya]]
 - **Formation:** मन् + असुन् (kṛt pratyaya) → मनस्
 - **Grammatical Form:** Neuter, nominative singular
 - **Meaning:** The faculty of deliberation, desire, and doubt; the seat of saṅkalpa (resolution) and vikalpa (alternatives)
-- **Philosophical Note:** Sankalpatmika [[manas (సంకల్పాత్మిక మనస్) — the mind whose nature is to form intentions/resolutions. It is the internal organ that receives sense data and presents it to buddhi.
+- **Philosophical Note:** Sankalpatmika [[manas]] (సంకల్పాత్మిక మనస్) — the mind whose nature is to form intentions/resolutions. It is the internal organ that receives sense data and presents it to buddhi.
 - #### **बुद्धिः (buddhiḥ)** — Intellect
 - **Root:** √बुध् (budh) — Dhātupāṭha 04.0068: "avagamane" (in understanding/awakening)
 - **Formation:** बुध् + क्तिन् (kṛt pratyaya) → बुद्धि

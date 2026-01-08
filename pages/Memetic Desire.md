@@ -1,3 +1,7 @@
 - The idea that people desire things not independently but by imitating the desire of others.
 -
-- [[Rene Girard]]'s book Things hidd
+- [[Rene Girard]]'s
+-
+- [[Books]]
+	- Things hidden since the begining of the world,
+	- Wanting

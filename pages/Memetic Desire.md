@@ -1,3 +1,3 @@
 - The idea that people desire things not independently but by imitating the desire of others.
 -
-- []
+- [[Rene Girard]]'s book Things hidd

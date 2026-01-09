@@ -3,4 +3,6 @@
 - [Hired In Tech](https://www.hiredintech.com/system-design/)
 - [System design Primer](https://github.com/naren-m/system-design-primer)
 - [Code Karle Youtube - LeetCode used this](https://www.youtube.com/@codeKarle)
+- {{video https://www.youtube.com/watch?v=ZaA0kNm18pE}}
+- {{video https://www.youtube.com/watch?v=adOkTjIIDnk}}
 -

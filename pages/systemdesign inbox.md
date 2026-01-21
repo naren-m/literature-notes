@@ -6,6 +6,6 @@
 - {{video https://www.youtube.com/watch?v=ZaA0kNm18pE}}
 - {{video https://www.youtube.com/watch?v=adOkTjIIDnk}}
 -
-- # S[]top Reading Theory. These 18 Real Systems Explain 90% of Software Engineering]({{video https://www.youtube.com/watch?v=7AQHB0lYaH8}})
-  
-  [](https://www.youtube.com/@pascal_esc)
+- [Stop Reading Theory. These 18 Real Systems Explain 90% of Software Engineering](https://www.youtube.com/watch?v=7AQHB0lYaH8)
+-
+- [](https://www.youtube.com/@pascal_esc)

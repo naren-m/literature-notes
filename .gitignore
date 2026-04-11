@@ -1,21 +1,16 @@
 .DS_Store
-__pycache__/*
-node_modules
-Gemfile.lock
-.venv
-.vscode
+__pycache__/
+node_modules/
+.venv/
+.vscode/
 
 # Build artifacts
 build/
 *.db
 *.pyc
 
-# Generated files
-assets/search-index.json
-assets/search-suggestions.json
-
 # Python
-*.egg-info
+*.egg-info/
 dist/
 .pytest_cache/
 
@@ -26,5 +21,5 @@ dist/
 *~
 
 # Logseq
-logseq/bak
+logseq/bak/
 config/note-tools/logseq/bak/

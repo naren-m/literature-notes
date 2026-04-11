@@ -120,7 +120,7 @@ the same flowing impermanence.
 ---
 
 ## Related Concepts
-- [[apsara]] — the celestial beings of which Rambhā is foremost
+- [[Apsaras]] — the celestial beings of which Rambhā is foremost
 - [[Amarakosham]] — source text for botanical synonyms
 - [[Dharma]] — Rambhā's curse story illuminates dharmic protection
 - [[krishna]] — beauty (*rūpa*) as expression of inner completeness

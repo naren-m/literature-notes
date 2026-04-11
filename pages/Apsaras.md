@@ -31,11 +31,11 @@ source: "Amarakośa 1.1.122, Liṅgānuśāsanam, Devī Bhāgavata, Vikramorvaś
 
 ## Etymology
 
-| Component | Root | Dhātupāṭha | Meaning |
-|---|---|---|---|
-| **ap** (अप्) | nominal stem | — | water, cosmic fluid |
-| **√sṛ** (सृ) | verb root | 01.1085 — *gatau* | to go, to flow, to move |
-| **-as** | kṛt suffix | — | agent/participial ending |
+| Component   | Root         | Dhātupāṭha        | Meaning                  |
+| ----------- | ------------ | ----------------- | ------------------------ |
+| **ap** (अप्) | nominal stem | —                 | water, cosmic fluid      |
+| **√sṛ** (सृ) | verb root    | 01.1085 — *gatau* | to go, to flow, to move  |
+| **-as**     | kṛt suffix   | —                 | agent/participial ending |
 
 **apsaras** = *"one who moves through/from the waters"*
 = *"she who flows out of the cosmic waters into form"*
@@ -83,10 +83,10 @@ just as waters cannot be held as a single drop.
 
 ## What They Are
 
-| Sanskrit Term | Meaning |
-|---|---|
-| **svarveshyāḥ** | courtesans of Svarga (heaven) |
-| **divaukasaḥ** | dwellers of the celestial realm |
+| Sanskrit Term     | Meaning                         |
+| ----------------- | ------------------------------- |
+| **svarveshyāḥ**   | courtesans of Svarga (heaven)   |
+| **divaukasaḥ**    | dwellers of the celestial realm |
 | **urvashīmukhāḥ** | headed by Urvaśī (the foremost) |
 
 They are skilled in **dance, music, and enchantment**,
@@ -176,18 +176,18 @@ beings of pure, luminous, unattached beauty.
 
 ## The Five Foremost Apsarasas
 
-| Name | Root Etymology | Associated Story |
-|---|---|---|
-| **Urvaśī** | *uru* (wide) + √vaś (to pervade) | Purūravas; Vikramorvaśīyam |
-| **Rambhā** | √ram + √bhā (shining delight) | Viśvāmitra; Rāvaṇa's curse |
-| **Menakā** | √man (mind/thought) | Gave birth to Śakuntalā |
-| **Tilottamā** | *tila* (sesame) + *uttama* (supreme) | Created by Viśvakarman; Sunda-Upasunda |
-| **Ghṛtācī** | *ghṛta* (radiance) + √añc (to move toward) | Droṇa's father Bharadvāja |
+| Name          | Root Etymology                             | Associated Story                       |
+| ------------- | ------------------------------------------ | -------------------------------------- |
+| **Urvaśī**    | *uru* (wide) + √vaś (to pervade)           | Purūravas; Vikramorvaśīyam             |
+| **Rambhā**    | √ram + √bhā (shining delight)              | Viśvāmitra; Rāvaṇa's curse             |
+| **Menakā**    | √man (mind/thought)                        | Gave birth to Śakuntalā                |
+| **Tilottamā** | *tila* (sesame) + *uttama* (supreme)       | Created by Viśvakarman; Sunda-Upasunda |
+| **Ghṛtācī**   | *ghṛta* (radiance) + √añc (to move toward) | Droṇa's father Bharadvāja              |
 
 ---
 
 ## Related Concepts
-- [[rambha]] — the foremost apsarā; also the banana plant
+- [[Rambha]] — the foremost apsarā; also the banana plant
 - [[Amarakosham]] — source for apsarā synonyms
 - [[Dharma]] — apsarasas test dharma through enchantment
 - [[chitta]] — the citta that can be enchanted by apsarasas;

@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1c18e4bed18a336b",
+        "id": "63466ca6f34806f7",
         "type": "tabs",
         "children": [
           {
-            "id": "d88580de91426899",
+            "id": "4841ed71e10175c9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "config/note-tools/logseq/bak/sanskrit-lit/Sutra/Sutra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sutra"
             }
           }
         ],
@@ -35,8 +41,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -45,13 +54,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Krishna",
+                "query": "tag:#carnatic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -59,7 +70,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ],
@@ -90,7 +103,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -101,7 +116,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -111,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": false
-              }
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -120,7 +141,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ],
@@ -132,6 +159,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -142,8 +170,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b89595c7e0596318",
+  "active": "4841ed71e10175c9",
   "lastOpenFiles": [
+    "RULES.md",
+    "AGENTS.md",
+    "music/Katapayadi_Melakarta_Chakra_Complete_Guide.md",
+    "music/Katapayadi_Melakarta_Guide.md",
+    "content/journal/gruthva.md",
+    "Untitled 1.base",
+    "content/domains/computer-science/design-patterns/design_patterns.md",
+    "config/note-tools/logseq/bak/sanskrit-lit/Ayurvedam/2025-09-05T06_03_05.354Z.Desktop.md",
+    "config/note-tools/logseq/bak/CSE/Cryptography/ENTROPY/2025-09-05T05_45_24.591Z.Desktop.md",
+    "pages/VivekaChudamani.md",
+    "content/domains/computer-science/cryptography/Buffer Overflows.md",
+    "content/journal/2024-10-04.md",
+    "Untitled.base",
+    "config/note-tools/logseq/bak/sanskrit-lit/Hanuman Chalisa/2025-09-09T03_40_43.680Z.Desktop.md",
     "Untitled 2.canvas",
     "2024-09-23.md",
     "Untitled 1.canvas",
@@ -162,17 +204,6 @@
     "books/Books.md",
     "highlights/Books/The Ride of a Lifetime.md",
     "books/Suthrasthana.md",
-    "shiva.md",
-    "people/Andrew Huberman.md",
-    "highlights/Books/The 4-Hour Workweek.md",
-    "highlights/Books/Outliers.md",
-    "sanskrit-lit/VishuSahasranamamByDusyanthSridhar.md",
-    "sanskrit-lit/NirvanaShatakam.md",
-    "highlights/Books/Grit.md",
-    "sanskrit-lit/VishuSahasranamam.md",
-    "charaka_samhitha.md",
-    "podcast/jyothisha_rajvedam_beerbiceps.md",
-    "CSE/design_patterns/design_patterns.md",
     "books/ashtangahrydayam/ayurvedavataranam.jpg",
     "books/ashtangahrydayam/8AspectsOfAyurveda.jpg",
     "Untitled.canvas"

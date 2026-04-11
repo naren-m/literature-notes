@@ -95,7 +95,7 @@ No fault can be found in his face, eyes, forehead, between the eyebrows or any o
 అవిస్తరమసన్దిగ్ధమవిలమ్బితమద్రుతమ్.
 ఉరస్థం కణ్ఠగం వాక్యం వర్తతే మధ్యమే స్వరే 4.3.31৷৷
 
-వాక్యమ్ sentences, అవిస్తరమ్ not too elaborate, అసన్దిగ్ధమ్ (One of the quality of a [[Sutra]]) not ambiguous, అవిలమ్భితమ్ not dragging, అద్రుతమ్ not fast, ఉరస్థమ్ raised in his chest, కణ్ఠగమ్ from the throat, మధ్యమే medium, స్వరే tone
+వాక్యమ్ sentences, అవిస్తరమ్ not too elaborate, అసన్దిగ్ధమ్ (One of the quality of a [[content/domains/humanities/sanskrit-literature/Sutra]]) not ambiguous, అవిలమ్భితమ్ not dragging, అద్రుతమ్ not fast, ఉరస్థమ్ raised in his chest, కణ్ఠగమ్ from the throat, మధ్యమే medium, స్వరే tone
 
 वाक्यम् sentences, अविस्तरम् not too elaborate, असन्दिग्धम् not ambiguous, अविलम्भितम् not dragging, अद्रुतम् not fast, उरस्थम् raised in his chest, कण्ठगम् from the throat, मध्यमे medium, स्वरे tone
 
@@ -204,7 +204,7 @@ His sentences are not too elaborate, not ambiguous, not dragging, not fast, rais
   Hanuman’s introduction to Rama is not just a moment in the Ramayana but a lesson in effective communication that remains relevant even today. It teaches us that eloquence comes from a blend of knowledge, precision, body language, and emotional intelligence. By mastering these elements, anyone can speak like Hanuma and leave a profound impact on their audience.
   
   Certainly! Here’s the revised article with references:
-- ## In the context of [[Sutra]]
+- ## In the context of [[content/domains/humanities/sanskrit-literature/Sutra]]
   
   In the context of Hanuman’s speech as described by Rama in the **Kishkinda Kanda**, there are striking similarities between Hanuman's style of communication and the characteristics of a **Sutra**. Hanuman's ability to communicate without causing confusion and to adhere to precision and clarity reflects several principles of Sutra formulation, as defined in traditional Indian philosophy and literature.
   

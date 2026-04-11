@@ -11,7 +11,7 @@ Found 336 existing links
   - Reason: Mentions 'Rudra' 6 time(s) but not linked
 - **→ [[Books]]** (strength: 40)
   - Reason: Mentions 'Books' 4 time(s) but not linked
-- **→ [[Sutra]]** (strength: 40)
+- **→ [[content/domains/humanities/sanskrit-literature/Sutra]]** (strength: 40)
   - Reason: Mentions 'Sutra' 4 time(s) but not linked
 - **→ [[jyothisha_rajvedam_beerbiceps]]** (strength: 40)
   - Reason: Related via concepts: veda, sanskrit, karma

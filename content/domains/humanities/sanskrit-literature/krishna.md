@@ -15,7 +15,7 @@ He whose complexion is dark, Dark-complexioned.
 
 JagathGuru, Jagath[[acharya]]
 
-Aapasthamba[[Sutra]]s: maathethyekee, Matheethyeke
+Aapasthamba[[content/domains/humanities/sanskrit-literature/Sutra]]s: maathethyekee, Matheethyeke
 - No one else is equivalent to Amma
   Shankarachaya Maathru panchakam.
   

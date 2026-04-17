@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "060547bb5f9737aa",
+        "id": "53c81a9b318ef110",
         "type": "tabs",
         "children": [
           {
-            "id": "322e017d9e80f9ec",
+            "id": "6ce072e55e3e358a",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -166,8 +166,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "322e017d9e80f9ec",
+  "active": "b89595c7e0596318",
   "lastOpenFiles": [
+    "Untitled.base",
+    "pages/aggregation of marginal gains.md",
+    "pages/AdiShankaraCharya.md",
+    "journals/2025_03_29.md",
     "content/empty/yoga_sutras.md",
     "content/empty/Dhatu Manjari.md",
     "content/empty",
@@ -195,11 +199,6 @@
     "music/Katapayadi_Melakarta_Guide.md",
     "content/journal/gruthva.md",
     "Untitled 1.base",
-    "content/domains/computer-science/design-patterns/design_patterns.md",
-    "config/note-tools/logseq/bak/sanskrit-lit/Ayurvedam/2025-09-05T06_03_05.354Z.Desktop.md",
-    "config/note-tools/logseq/bak/CSE/Cryptography/ENTROPY/2025-09-05T05_45_24.591Z.Desktop.md",
-    "pages/VivekaChudamani.md",
-    "Untitled.base",
     "Untitled 2.canvas",
     "Utharayana_Dakshanayan.jpg",
     "CSE/design_patterns/DesigningDistributedSystems.pdf",

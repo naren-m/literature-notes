@@ -37,3 +37,7 @@ Anyone starting new development today is recommended to develop two suites of te
 a suite of unit and narrow integration tests using the cmocka framework that aims to test all the internal logic including mainline and error paths.
 a suite of router-based tests using the CAFY framework to ensure that the feature works with its peers and dependencies. This may be further divided into a suite of end-to-end tests that can run on any image and a suite of broad integration tests that need a custom image with test code compiled in.
 The next section looks at all the types of tests in more detail.
+
+## Related Concepts
+
+- [[Testing Principles]] - broader testing heuristics and workflow guidance

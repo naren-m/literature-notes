@@ -4,7 +4,7 @@ The Sulba Sutras are ancient Vedic texts that contain the earliest known mathema
 
 ## Historical Context
 
-These texts were composed as auxiliary works ([[Sutra]]) to the Vedas, specifically to provide precise geometric instructions for constructing fire altars (agni-chayana) required for Vedic rituals. The mathematical precision was considered essential for the ritual's efficacy.
+These texts were composed as auxiliary works ([[content/domains/humanities/sanskrit-literature/Sutra]]) to the Vedas, specifically to provide precise geometric instructions for constructing fire altars (agni-chayana) required for Vedic rituals. The mathematical precision was considered essential for the ritual's efficacy.
 
 ## Major Texts
 
@@ -186,7 +186,7 @@ Each Sulba Sutra typically contains:
 
 ## Tags
 
-#math #geometry #vedic #ancient #ritual #construction #[[Sutra]] #mathematics #pythagorean
+#math #geometry #vedic #ancient #ritual #construction #[[content/domains/humanities/sanskrit-literature/Sutra]] #mathematics #pythagorean
 
 ## References
 

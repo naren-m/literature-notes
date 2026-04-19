@@ -1,6 +1,8 @@
 # CIA Triad
 
-CIA Triad is a reference to [[confidentiality]], [[integrity]], and [[availability]], which are the pillars of security. 
+CIA Triad is a reference to [[Confidentiality]], [[Integrity]], and [[Availability]], which are the pillars of security.
+
+[[STRIDE]] describes common threat categories that attack these properties.
 
 
 Each is a category of security:
@@ -15,7 +17,7 @@ Each is a category of security:
   
   [[Availability]] means resources and services are available as expected.
   
-  Digital signatures, a combination of [[Hashing]] and [[Encryption]], can help protect against non-[[availability]] by preventing unauthorized users.
+  Threats to availability often appear as [[Denial of Service]] or resource exhaustion.
 - ## Tags
   
   #security

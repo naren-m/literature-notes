@@ -1,6 +1,8 @@
 # Books
 - ## Good books to read regarding india
 - ### Books by title
+- Things hidden since the begining of the world,
+- Wanting
 - Philosophy of Hinduism by Sarvepalli Radha Krishnan
 - The Last Nizam by \<>. Referred by J Sai Deepak
 - India: What can it teach us? by [[Max Muller]]

@@ -4,7 +4,7 @@ The Ashtadhyayi ("Eight Chapters") is a comprehensive Sanskrit grammar treatise 
 
 ## Overview
 
-The Ashtadhyayi consists of approximately 4,000 [[sutra]]s (aphorisms) organized into eight chapters (adhyayas), each containing four sections (padas). It establishes the fundamental rules of Sanskrit morphology, syntax, and phonetics.
+The Ashtadhyayi consists of approximately 4,000 [[content/domains/humanities/sanskrit-literature/Sutra]]s (aphorisms) organized into eight chapters (adhyayas), each containing four sections (padas). It establishes the fundamental rules of Sanskrit morphology, syntax, and phonetics.
 
 ## Key Features
 

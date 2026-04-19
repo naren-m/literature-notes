@@ -281,7 +281,7 @@ Vaiseshika presents one of the world's earliest systematic atomic theories, pred
 - [[NyayaSutra]] - Logical methodology and epistemology
 - [[Ashtadhyayi]] - Systematic categorical analysis
 - [[VaishshikaSutra]] - Primary source text
-- [[Sutra]] - Aphoristic literature style
+- [[content/domains/humanities/sanskrit-literature/Sutra]] - Aphoristic literature style
 - [[karma]] - Action and moral causation
 - [[Dharma]] - Natural law and righteousness
 - Samkhya philosophy - Dualistic metaphysics

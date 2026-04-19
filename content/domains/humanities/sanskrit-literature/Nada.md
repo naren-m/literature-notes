@@ -42,6 +42,7 @@
 ## Related Concepts
 
 - [[Agni]] - Fire/energy component of Nada (Nāda = Prana + Agni)
+- [[Apsaras]] - celestial dancers and musicians associated with divine sound
 - [[Sangitaratnakaram]] - Classical text defining Nada (1.3.6)
 - [[Brihadesi]] - Early treatise defining what Nada is
 - [[Carnatic music]] - Classical music tradition based on Nada theory

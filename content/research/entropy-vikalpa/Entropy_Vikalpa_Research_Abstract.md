@@ -3,7 +3,7 @@
 ## Structured Abstract
 
 ### **Background**
-The intersection of ancient contemplative wisdom and modern information science remains largely unexplored despite potential synergies. This research investigates the relationship between Shannon entropy from information theory and vikalpa (mental alternatives) from Patanjali's Yoga Sutras, proposing the first systematic mathematical framework bridging 2,500-year-old consciousness analysis with contemporary neuroscience.
+The intersection of ancient contemplative wisdom and modern information science remains largely unexplored despite potential synergies. This research investigates the relationship between [[ENTROPY|Shannon entropy]] from information theory and [[Vikalpa|vikalpa]] (mental alternatives) from Patanjali's [[YogaSutras|Yoga Sutras]], proposing the first systematic mathematical framework bridging 2,500-year-old consciousness analysis with contemporary neuroscience.
 
 ### **Objective**
 To develop and validate mathematical models connecting information entropy with mental states, specifically examining how vikalpa—conceptual constructions without real object referents—can be quantified using information-theoretic measures, and to explore practical applications for consciousness research, meditation technology, and AI development.
@@ -29,7 +29,7 @@ The research introduces novel methodological approaches: information-theoretic m
 
 **Information Entropy and Vikalpa: Bridging Ancient Consciousness Studies and Modern Neuroscience Through Mathematical Modeling**
 
-The human capacity for conceptual thinking—what the ancient Yoga Sutras term "vikalpa" or mental alternatives—has remained largely unmeasured by modern science despite its central role in consciousness and cognitive flexibility. This research proposes the first systematic mathematical framework connecting Claude Shannon's information entropy with Patanjali's 2,500-year-old analysis of mental modifications, creating unprecedented opportunities for empirical consciousness research.
+The human capacity for conceptual thinking—what the ancient [[YogaSutras|Yoga Sutras]] term "vikalpa" or mental alternatives—has remained largely unmeasured by modern science despite its central role in consciousness and cognitive flexibility. This research proposes the first systematic mathematical framework connecting Claude Shannon's information entropy with Patanjali's 2,500-year-old analysis of mental modifications, creating unprecedented opportunities for empirical consciousness research.
 
 Vikalpa represents the mind's ability to generate conceptual constructions without corresponding real-world referents—abstract thinking, imagination, and verbal reasoning that exists purely in the realm of language and mental fabrication. Information entropy, conversely, quantifies uncertainty and unpredictability in information systems. Our central hypothesis posits that these seemingly disparate concepts share fundamental mathematical relationships: higher vikalpa activity increases mental entropy through proliferation of conceptual alternatives, while contemplative practices that reduce vikalpa correspondingly decrease measurable brain entropy.
 

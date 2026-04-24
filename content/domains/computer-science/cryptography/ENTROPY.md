@@ -1,7 +1,7 @@
 # Entropy
 
 ## Core Concept
-Entropy is a measure of randomness or unpredictability in information systems. In cryptography, it represents the amount of uncertainty in a random variable or the quality of randomness available for cryptographic operations.
+Entropy is a measure of randomness or unpredictability in information systems. In [[Cryptography|cryptography]], it represents the amount of uncertainty in a random variable or the quality of randomness available for cryptographic operations.
 
 ## Fundamental Properties
 High-quality entropy exhibits these characteristics:
@@ -99,7 +99,7 @@ High-quality entropy exhibits these characteristics:
 ## Relationship to [[Vikalpa]] (Mental Alternatives)
 
 ### Cross-Domain Connection
-Just as entropy represents uncertainty in information systems, [[Vikalpa]] in [[Yoga Sutras]] refers to mental alternatives and conceptual uncertainty - both dealing with multiple possible states and unpredictability.
+Just as entropy represents uncertainty in information systems, [[Vikalpa]] in [[YogaSutras|Yoga Sutras]] refers to mental alternatives and conceptual uncertainty - both dealing with multiple possible states and unpredictability.
 
 ### Mathematical Parallels
 - **Shannon Formula Application**: H(Vikalpa) = -Σ p(vᵢ) log₂ p(vᵢ) where vᵢ represents individual conceptual alternatives

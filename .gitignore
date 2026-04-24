@@ -23,3 +23,8 @@ dist/
 # Logseq
 logseq/bak/
 config/note-tools/logseq/bak/
+
+# Graphify local/cache artifacts
+graphify-out/cache/
+graphify-out/.graphify_*
+graphify-out/.needs_update

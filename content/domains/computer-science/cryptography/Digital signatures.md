@@ -1,22 +1,22 @@
 # Digital signatures
 
-Digital Signature = [[Hashing]] + [[Encryption]] (encrypted with Private key and decrypted by Public key)
+Digital Signature = [[Hashing]] + [[Encryption]] (encrypted with Private key and decrypted by [[Public Key|Public key]])
 - Use asymmetric encryption.
 - Sender creates a digital signature while the receiver verifies the signature.
-- Does NOT provide Confidentiality
+- Does NOT provide [[Confidentiality|Confidentiality]]
 
-Digital signatures are a combination of hashing and encryption to verify the identity of a sender and integrity of the message.
+Digital signatures are a combination of hashing and encryption to verify the identity of a sender and [[Integrity|integrity]] of the message.
 
 Digital signatures potentially defend against several vulnerabilities in [[STRIDE]]:
-- Spoofing
-- Tampering
-- Repudiation
+- [[Spoofing]]
+- [[Tampering]]
+- [[Repudiation]]
 
-Digital signatures are a combination of hashing and encryption. This potentially resolves several vulnerabilities identified within STRIDE:
-- Spoofing
-- Tampering
-- Information disclosure*
-- Repudiation
+Digital signatures are a combination of hashing and encryption. This potentially resolves several vulnerabilities identified within [[STRIDE]]:
+- [[Spoofing]]
+- [[Tampering]]
+- [[Information Disclosure|Information disclosure]]*
+- [[Repudiation]]
 
 
 ## Sender

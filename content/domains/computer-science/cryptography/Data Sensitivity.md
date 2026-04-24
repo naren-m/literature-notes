@@ -5,7 +5,7 @@ The most frequent goal of the attackers is data. This includes:
 - Stealing data
 - Modifying data
 - Ransomware
-- Information disclosure
+- [[Information Disclosure|Information disclosure]]
 
 Protect data in all states
 - At rest

@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This document presents comprehensive research into the potential connections between Shannon Entropy from information theory and Vikalpa from the Yoga Sutras. The research reveals fascinating parallels between information uncertainty and mental alternatives, suggesting novel interdisciplinary research opportunities at the intersection of consciousness studies, neuroscience, and information theory.
+This document presents comprehensive research into the potential connections between [[ENTROPY|Shannon Entropy]] from information theory and [[Vikalpa]] from the [[YogaSutras|Yoga Sutras]]. The research reveals fascinating parallels between information uncertainty and mental alternatives, suggesting novel interdisciplinary research opportunities at the intersection of consciousness studies, neuroscience, and information theory.
 
 ---
 

@@ -5,15 +5,15 @@
 ## Metadata
 
 - Author: Sankaracarya, Translated by Swami Gambhirananda
-- Full Title: Brahma Sutra Bhasya
+- Full Title: Brahma [[Sutra]] Bhasya
 - Category: 
 
 ### Highlights
 
-- The three basic texts of Vedanta are the Upani$ads, the Bhagavad-gita, and the Brahma-sutra. Together they are referred to as the prasthana-traya, triple canon of Vedanta. ([Location 17](https://readwise.io/to_kindle?action=open&asin=B00CGYK04Y&location=17))
+- The three basic texts of [[vedanta|Vedanta]] are the Upani$ads, the Bhagavad-gita, and the Brahma-sutra. Together they are referred to as the prasthana-traya, triple canon of Vedanta. ([Location 17](https://readwise.io/to_kindle?action=open&asin=B00CGYK04Y&location=17))
   - **Tags:** #favorite
   - **Note:** 3 texts after vedanta.
-    1 - upanishads
+    1 - [[Upanishads|upanishads]]
     2 - bhagavatvgita
     3 - bramha sutras
 - Mahubharata ([Location 23](https://readwise.io/to_kindle?action=open&asin=B00CGYK04Y&location=23))

@@ -1,3 +1,3 @@
 ## Balakanda
-	- #SitaKalyanam
-		- #JanakaKanyadanamSita
+	- #[[SitaKalyanam]]
+		- #[[JanakaKanyadanamSita]]

@@ -22,4 +22,4 @@ The most common Side Channel attacks are:
 Tel Aviv University has done significant research on side channel attacks. 
 For example: https://bit.ly/3xOfuLt
 
-What offers effective protection against a side channel attack? Cryptography!
+What offers effective protection against a side channel attack? [[Cryptography]]!

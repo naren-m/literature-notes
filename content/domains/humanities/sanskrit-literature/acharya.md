@@ -10,4 +10,4 @@
 
 [Found defintion from krishnam vande jagathgurum lecture](https://youtu.be/UFi-bLF65mA?t=571)
 
-Tags: #DushyanthSridar #Krishna
+Tags: #DushyanthSridar #[[krishna|Krishna]]

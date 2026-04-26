@@ -1,6 +1,6 @@
 # HanumaStuthi
 
-#hanuma
+#[[hanuma]]
 - ## Budhirbalam
   
   [[Budhi]]r Balam Yasho dhairya, nirbhayathvam arogatham ajaadyam vaakpatuthvam cha, Hanumanth Smaranath Bhavaeth

@@ -96,7 +96,7 @@ This naming system connects to ancient Vedic traditions—for instance, the thre
 | 8 | **Vasu** | Deity | Eight Vasus (attendant deities) |
 | 9 | **Brahma** | Creator | Nine Brahmas (Prajāpatis) |
 | 10 | **Diśi** | Direction | Ten directions (8 compass + up + down) |
-| 11 | **Rudra** | Shiva | Eleven Rudras (forms of Shiva) |
+| 11 | **[[Rudra]]** | [[shiva|Shiva]] | Eleven Rudras (forms of Shiva) |
 | 12 | **Āditya** | Sun | Twelve Ādityas (solar deities/months) |
 
 ### The Structure Within Chakras
@@ -393,7 +393,7 @@ This systematic encoding approach parallels modern information theory concepts e
 - [[Sulba Sutras]] - Ancient mathematical precision for fire altar construction
 - [[Vaiseshika Darshanam]] - Systematic categorical analysis in Indian philosophy
 - [[ENTROPY]] - Information theory and encoding systems
-- [[Katapayadi_Melakarta_Guide]] - Simplified guide to the Katapayadi-Melakarta system
+- [[Katapayadi_Melakarta_Guide]] - Simplified guide to the [[Katapayadi]]-Melakarta system
 
 ---
 

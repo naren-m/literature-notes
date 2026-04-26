@@ -9,7 +9,7 @@
 	  id:: 6701f339-3d76-4e94-a8be-3bd9fd63f353
 	- Only five of the main Vayus or [[PanchaPranas]] [[PanchaVayu]] are important for yoga practitioners to understand.
 	- These five primary currents of vital force are
-		- Prana-Vayu,
+		- [[Prana]]-Vayu,
 		- Apana-Vayu,
 		- Samana-Vayu,
 		- Udana-Vayu,

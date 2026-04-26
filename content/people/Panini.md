@@ -1,12 +1,12 @@
 # Panini (पाणिनि)
 
 ## Overview
-Panini (c. 6th-4th century BCE) was an ancient Indian Sanskrit grammarian whose work **Ashtadhyayi** ("Eight Chapters") represents one of the most sophisticated and systematic grammatical analyses ever produced. His work laid the foundation for Sanskrit grammar and influenced linguistic theory for over two millennia.
+Panini (c. 6th-4th century BCE) was an ancient Indian Sanskrit grammarian whose work **[[Ashtadhyayi]]** ("Eight Chapters") represents one of the most sophisticated and systematic grammatical analyses ever produced. His work laid the foundation for Sanskrit grammar and influenced linguistic theory for over two millennia.
 
 ## Biographical Context
 
 ### Historical Period
-- **Dating Debate**: Scholars place him between 6th-4th century BCE
+- **Dating [[Debate]]**: Scholars place him between 6th-4th century BCE
 - **Most Accepted**: Around 4th century BCE, contemporary with Buddha
 - **Evidence**: References to Greek (Yavana) presence suggests post-Alexander period
 - **Linguistic Evidence**: Language stage suggests pre-Mauryan but post-Vedic period

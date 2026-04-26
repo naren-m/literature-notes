@@ -45,7 +45,7 @@ The Upanishads (Sanskrit: उपनिषद्, "sitting down near") are a coll
 - **Structure**: 8 chapters with diverse teachings
 - **Key Concepts**: "Tat tvam asi" (Thou art That), Om meditation
 - **Stories**: Svetaketu's education, Satyakama Jabala
-- **Significance**: Foundation for Advaita Vedanta
+- **Significance**: Foundation for Advaita [[vedanta|Vedanta]]
 
 ### 3. Aitareya Upanishad
 - **Veda**: Rig Veda
@@ -54,7 +54,7 @@ The Upanishads (Sanskrit: उपनिषद्, "sitting down near") are a coll
 - **Key Teaching**: "Prajnanam Brahma" (Consciousness is Brahman)
 
 ### 4. Taittiriya Upanishad
-- **Veda**: Krishna Yajur Veda
+- **Veda**: [[krishna|Krishna]] Yajur Veda
 - **Structure**: 3 sections (Valli) on education, Brahman, and bliss
 - **Teaching Method**: Progressive revelation through koshas (sheaths)
 - **Famous Passage**: "Satyam Jnanam Anantam Brahma" (Truth-Knowledge-Infinite is Brahman)
@@ -83,7 +83,7 @@ The Upanishads (Sanskrit: उपनिषद्, "sitting down near") are a coll
 - **Veda**: Atharva Veda
 - **Structure**: Six questions (prashna) and answers
 - **Teacher**: Sage Pippalada
-- **Topics**: Prana, Om, death, dream states, meditation
+- **Topics**: [[Prana]], Om, death, dream states, meditation
 
 ### 9. Mundaka Upanishad
 - **Veda**: Atharva Veda
@@ -101,7 +101,7 @@ The Upanishads (Sanskrit: उपनिषद्, "sitting down near") are a coll
 ### 11. Shvetashvatara Upanishad
 - **Veda**: Krishna Yajur Veda
 - **Approach**: Theistic (devotional) perspective
-- **Deity**: Emphasis on Rudra-Shiva
+- **Deity**: Emphasis on [[Rudra]]-[[shiva|Shiva]]
 - **Themes**: Divine grace, devotion, and knowledge
 
 ### 12. Maitrayani Upanishad

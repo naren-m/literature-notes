@@ -143,7 +143,7 @@ Since the Moon gains on the Sun at approximately 12.2° per day, Δ increases co
 
 ### 4.1 The Tithi Formula
 
-Ancient astronomers divided the synodic month into **30 equal angular segments** called **tithis**. Each tithi represents 12° of angular separation:
+Ancient astronomers divided the synodic month into **30 equal angular segments** called **tithis**. Each [[tithi]] represents 12° of angular separation:
 
 ```
 360° ÷ 30 tithis = 12° per tithi

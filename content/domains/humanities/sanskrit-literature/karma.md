@@ -106,7 +106,7 @@ From Sanskrit root **कृ (kṛ)** meaning "to do" or "to make"
 - **Brihadaranyaka Upanishad** 4.4.5-6 (karma doctrine foundation)
 - **Bhagavad Gita** chapters 3-4 (action without attachment)  
 - **Yoga Sutras** 2.12-14, 4.7-11 (karmic impressions)
-- **Brahma Sutra** 3.2.38-41 (karma and liberation)
+- **Brahma [[Sutra]]** 3.2.38-41 (karma and liberation)
 
 ### Scholarly Studies
 - **Hiriyanna, M.** *"Outlines of Indian Philosophy"* - Comprehensive karma analysis
@@ -130,4 +130,4 @@ From Sanskrit root **कृ (kṛ)** meaning "to do" or "to make"
 - [Internet Encyclopedia of Philosophy: Karma](https://iep.utm.edu/karma/)
 - [Harvard Divinity School: Karma Studies](https://hds.harvard.edu/academics/areas-of-study/comparative-religion)
 
-#sanskrit #philosophy #action #consciousness #vedanta #buddhism #ethics
+#sanskrit #philosophy #action #consciousness #[[vedanta]] #buddhism #ethics

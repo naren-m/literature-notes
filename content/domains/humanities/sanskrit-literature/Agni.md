@@ -14,7 +14,7 @@ The three sacred fires (Āhavanīya, Dakṣiṇa, Gārhapatya) are central to Ve
 **Agni Chakra** is the 3rd chakra in the [[Katapayadi_Melakarta_Chakra_Complete_Guide|Melakarta system]], named after the three sacred fires. It contains rāgas 13-18, all using R1-G3-M1 (Śuddha Madhyama).
 
 ### In Sound Theory
-Agni (fire/energy) combines with [[Nada|Prana to form Nada]] (sound): Nāda = Prana + Agni, as defined in [[Sangitaratnakaram]] 1.3.6.
+Agni (fire/energy) combines with [[Nada|Prana to form Nada]] (sound): Nāda = [[Prana]] + Agni, as defined in [[Sangitaratnakaram]] 1.3.6.
 
 ---
 

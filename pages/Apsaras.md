@@ -90,7 +90,7 @@ just as waters cannot be held as a single drop.
 | **urvashīmukhāḥ** | headed by Urvaśī (the foremost) |
 
 They are skilled in **dance, music, and enchantment**,
-consorts of the Gandharvas, sent by Indra to break the
+consorts of the Gandharvas, sent by [[indra|Indra]] to break the
 tapas of ascending sages — to draw the ascending back
 into the flow of phenomenal experience.
 

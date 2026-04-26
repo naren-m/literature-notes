@@ -12,7 +12,7 @@
   This encoding system connects to broader traditions of mathematical precision in Indian knowledge systems, similar to the geometric methods in [[Sulba Sutras]] and the categorical analysis in [[Vaiseshika Darshanam]].
   
   ---
-- ## The Katapayadi Mapping
+- ## The [[Katapayadi]] Mapping
   
   Sanskrit consonants are grouped into 4 rows, starting with **ka, ṭa, pa, ya**, with each position mapped to a digit:
   
@@ -187,7 +187,7 @@
 - [[Nada]] - The concept of sound in Indian music theory
 - [[Sangitaratnakaram]] - Classical text defining musical concepts
 - [[Brihadesi]] - Early treatise on Indian music
-- [[Agni]] - Referenced in the chakra system (see Katapayadi_Melakarta_Chakra_Complete_Guide)
+- [[Agni]] - Referenced in the chakra system (see [[Katapayadi_Melakarta_Chakra_Complete_Guide]])
 - [[Sulba Sutras]] - Ancient mathematical precision in geometric construction
 - [[Vaiseshika Darshanam]] - Systematic categorical analysis in Indian philosophy
 - [[ENTROPY]] - Information theory and encoding systems

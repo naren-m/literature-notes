@@ -13,7 +13,7 @@ The one that protects/saves /preserves /cherishes /defends from damages the extr
 - ## Sūtra - Definition and Characteristics
   
   Sūtra: A concise, pithy statement designed for clear and precise communication.
-- Found in various Indian philosophical texts, such as Mīmāṃsā-sūtras, Yoga-sūtras, Vaiśeṣika-sutras, Dharma-sūtras, and Gṛhya-sūtras.
+- Found in various Indian philosophical texts, such as Mīmāṃsā-sūtras, Yoga-sūtras, Vaiśeṣika-sutras, [[Dharma]]-sūtras, and Gṛhya-sūtras.
 - Intended for easy memorization by students and expansion through commentary by scholars.
 - ### Key Characteristics of a Sūtra
 - अल्पाक्षरम (alpākṣaram) – Minimum letters

@@ -34,14 +34,14 @@ The substrate in which qualities inhere and actions occur. Nine types:
 1. **Prithvi (Earth)** - Solid matter with smell as characteristic quality
 2. **Ap (Water)** - Liquid matter with taste as characteristic quality  
 3. **Tejas (Fire)** - Energy/heat with form/color as characteristic quality
-4. **Vayu (Air)** - Gaseous matter with touch as characteristic quality
+4. **[[Vayu]] (Air)** - Gaseous matter with touch as characteristic quality
 
 #### Non-Physical Substances
 5. **Akasha (Space/Ether)** - All-pervading medium with sound as characteristic quality
 6. **Kala (Time)** - Temporal framework for all changes and sequences
 7. **Dik (Direction)** - Spatial framework providing orientation and position
 8. **Atman (Soul)** - Conscious entity, the seat of knowledge and experience
-9. **Manas (Mind)** - Internal instrument of perception and cognition
+9. **[[Manas]] (Mind)** - Internal instrument of perception and cognition
 
 ### 2. Guna (Quality/Attribute)
 Properties that inhere in substances but cannot exist independently. Twenty-four types:
@@ -285,7 +285,7 @@ Vaiseshika presents one of the world's earliest systematic atomic theories, pred
 - [[karma]] - Action and moral causation
 - [[Dharma]] - Natural law and righteousness
 - Samkhya philosophy - Dualistic metaphysics
-- Advaita Vedanta - Contrast in metaphysical approach
+- Advaita [[vedanta|Vedanta]] - Contrast in metaphysical approach
 
 ### Systematic Classification Parallels
 - [[Katapayadi_Melakarta_Guide]] - Musical rāgas organized into 72 scales using combinatorial constraints, paralleling Vaiseshika's systematic categorization

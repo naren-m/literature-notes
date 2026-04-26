@@ -14,7 +14,7 @@ Features of hashing include:
 - Longer digests tend to be more secure
 
 
-Hashing protects the [[Integrity]] of data. With a hash, you can detect tampering
+Hashing protects the [[Integrity]] of data. With a hash, you can detect [[Tampering|tampering]]
 
 Hashing is different than [[Checksum]].
 

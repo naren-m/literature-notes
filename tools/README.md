@@ -21,6 +21,16 @@ After installation, the following commands are available:
 - `zk-generate` - Generate GitHub Pages site
 - `zk-api` - Run the knowledge API server
 
+## Maintenance Scripts
+
+```bash
+# Preview missing wikilinks for plain filename mentions
+python3 tools/scripts/backfill_wikilinks.py
+
+# Apply the backlink cleanup after reviewing the report
+python3 tools/scripts/backfill_wikilinks.py --apply
+```
+
 ## Architecture
 
 ```

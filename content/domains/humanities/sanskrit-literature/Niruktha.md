@@ -57,7 +57,7 @@ Yaska classifies all words into four categories:
 ##### Nama (Nouns)
 - **Definition**: Words denoting substances and qualities
 - **Characteristics**: Static entities, attributes, and states
-- **Examples**: गो (cow), आकाश (sky), धर्म (dharma)
+- **Examples**: गो (cow), आकाश (sky), धर्म ([[Dharma|dharma]])
 - **Etymology**: Derived from verbal roots indicating being or having
 
 ##### Akhyata (Verbs)

@@ -16,7 +16,7 @@ Rowhammer attacks are a perfect example of this adage. Adversaries are increasin
 In this attack, a program is executed repeatedly on a row of transistors on a memory chip. The row is hammered until electricity leaks into another row and flips some bits. The adversary can combine bit transformations for a larger purpose: to execute malicious code or otherwise attack the system.
 This behavior is more predictable with standard RAM. However, this attack has now been replicated with [[ECC memory]]. Surprise!
 
-Error Correcting Code Memory (ECC memory) is supposedly resilient to Rowhammer attacks. ECC memory detects bit tampering and amazingly corrects the change. This would seem to be an effective mitigation.
+Error Correcting Code Memory (ECC memory) is supposedly resilient to Rowhammer attacks. ECC memory detects bit [[Tampering|tampering]] and amazingly corrects the change. This would seem to be an effective mitigation.
 ECC is used in sensitive systems, such as financial systems and IoT devices, because this sort of exploitation is especially troublesome.
 
 

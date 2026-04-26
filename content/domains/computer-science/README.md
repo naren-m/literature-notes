@@ -6,7 +6,7 @@
 
 This domain contains **55 notes** across three main areas:
 
-- **Cryptography** - Security, encryption, hashing (~45 notes)
+- **Cryptography** - Security, [[Encryption|encryption]], hashing (~45 notes)
 - **Coding** - Algorithms and programming concepts
 - **Design Patterns** - Software architecture patterns
 
@@ -18,7 +18,7 @@ This domain contains **55 notes** across three main areas:
 - [[Cryptography/Hashing]] - Hash functions and algorithms
 - [[Cryptography/Block Cipher]] - Block cipher encryption
 - [[Cryptography/Public Key]] - Asymmetric cryptography
-- [[Cryptography/Digital signatures]] - Authentication and integrity
+- [[Cryptography/Digital signatures]] - [[Authentication]] and integrity
 
 ### Security Principles
 
@@ -30,7 +30,7 @@ This domain contains **55 notes** across three main areas:
 ### Threat Models & Attacks
 
 - [[Cryptography/STRIDE]] - Threat categorization framework
-  - Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege
+  - [[Spoofing]], [[Tampering]], [[Repudiation]], [[Information Disclosure]], [[Denial of Service]], [[Elevation of Privilege]]
 - [[Cryptography/Zero Day Attack]] - Unknown vulnerabilities
 - [[Cryptography/Side Channel Attack]] - Non-traditional attack vectors
 - [[Cryptography/Buffer Overflows]] - Memory exploitation
@@ -92,9 +92,9 @@ This domain contains **55 notes** across three main areas:
 
 ## 🔗 Cross-Domain Connections
 
-- **Entropy & Vikalpa** - Information theory meets Vedic philosophy (see [[../research/entropy-vikalpa]])
+- **Entropy & [[Vikalpa]]** - Information theory meets Vedic philosophy (see [[../research/entropy-vikalpa]])
 - **Security & Trust** - Technical and philosophical dimensions
-- **Design Patterns & Dharma** - Universal patterns across domains
+- **Design Patterns & [[Dharma]]** - Universal patterns across domains
 
 ## 🏷️ Common Tags
 

@@ -19,7 +19,7 @@ According to Vedic perspective, "Tithi" is very important, as the Universal Time
 
 5. The final Tithi comes by rounding off (higher value) with the actual calculated value having decimal value.
 
-6. If the number after calculation comes out to be less than 15 then the Tithi is of Bright half (Shukla or Gaur Paksha) otherwise the Tithi is of Dark Half (Krishna Paksha). Deduct 15 from Krishna Paksha value.
+6. If the number after calculation comes out to be less than 15 then the Tithi is of Bright half (Shukla or Gaur Paksha) otherwise the Tithi is of Dark Half ([[krishna|Krishna]] Paksha). Deduct 15 from Krishna Paksha value.
 Since 26.207 is more than 15, so current Paksh is Krishna Paksh = 26.207 - 15 = 11.207. Rounding of to higher value makes it 12th day or Dwadashi. Since today, Ekadasi was till 11:16 AM. after that Dwadashi started and at 3:30 PM, it is Dwadashi.
 
 6. By multiplying the value which comes after decimal with 100, we get the percentage of Tithi passed at the time of the calculations = {1 - 0.207} = 0.793 X 100 = 79.3 % of Dwadashi Tithi is left at 3:30 PM today.

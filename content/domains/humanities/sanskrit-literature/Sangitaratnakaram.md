@@ -5,7 +5,7 @@ Classical treatise on [[Carnatic music]] theory.
 
 ## Key Concepts Defined
 
-- [[Nada]] - Defined in verse 1.3.6 as the union of Prana (life force) and Agni (fire/energy)
+- [[Nada]] - Defined in verse 1.3.6 as the union of [[Prana]] (life force) and Agni (fire/energy)
 - Systematic organization of musical knowledge
 - Theoretical foundation for rāga classification
 

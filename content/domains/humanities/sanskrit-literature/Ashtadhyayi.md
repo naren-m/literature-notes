@@ -15,7 +15,7 @@ The Ashtadhyayi consists of approximately 4,000 [[content/domains/humanities/san
 - Implements exception-based rule ordering
 
 ### Shiva Sutras
-The work begins with 14 Shiva Sutras (Maheshvara Sutras) that serve as a mnemonic device for categorizing Sanskrit sounds:
+The work begins with 14 [[shiva|Shiva]] Sutras (Maheshvara Sutras) that serve as a mnemonic device for categorizing Sanskrit sounds:
 
 1. अ इ उ ण्
 2. ऋ ऌ क्

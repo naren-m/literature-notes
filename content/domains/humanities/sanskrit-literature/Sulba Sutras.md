@@ -10,7 +10,7 @@ These texts were composed as auxiliary works ([[content/domains/humanities/sansk
 
 ### 1. Baudhayana Sulba Sutra (8th century BCE)
 - **Oldest surviving text** in the tradition
-- Contains the earliest statement of what's known as the "Pythagorean theorem"
+- Contains the earliest statement of what's known as the "[[Pythagorean Theorem|Pythagorean theorem]]"
 - Provides rules for constructing squares, rectangles, and circles
 - **Baudhayana's Theorem**: "The diagonal of a rectangle produces by itself the same area as produced by its length and breadth together"
 

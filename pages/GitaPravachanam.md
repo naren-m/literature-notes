@@ -8,14 +8,14 @@
 - Prasthana trayam - 3 highly considerate ``{{youtube-timestamp 80`9}}`
 	- ``{{youtube-timestamp 56`5}}` Upanishad Upa nishadeethi, ithi upanishad #vyuthpathi
 		- Every Veda is divided into two parts
-			- Karma bhagam
+			- [[karma|Karma]] bhagam
 				- Bramhanam
 				- Aaranyakam
 				- Samhita
 			- Jnyana bhagam
 				- Veedanta or Upanishad
 	- Vedanta [[content/domains/humanities/sanskrit-literature/Sutra]]s or [[Brahma Sutra]] ``{{youtube-timestamp 78`0}}`
-	- Essense of the upanishads [[Bhagavadgita]]
+	- Essense of the [[Upanishads|upanishads]] [[Bhagavadgita]]
 - ``{{youtube-timestamp 151`3}}` Gita will be divided into 3 Shatkams
 	- Pradhama Shatkam
 		- karma, jnyana yogam

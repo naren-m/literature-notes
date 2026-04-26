@@ -29,7 +29,7 @@ Achala - unmoved by enemies
 | 14   | purushah                     | He who dwells in the city of nine gates                                                       |
 | 15   | saakshee                     | The witness                                                                                   |
 | 16   | kshetrajnah                  | The knower of the field                                                                       |
-| 17   | akshara                      | Indestructible                                                                                |
+| 17   | [[Akshara|akshara]]                      | Indestructible                                                                                |
 | 18   | yogah                        | He who is realized through yoga                                                               |
 | 19   | yoga-vidaam                  | The guide of those who know yoga                                                              |
 | 20   | pradhaana-purusheshvarah     | Lord of pradhaana and purusha                                                                 |
@@ -168,7 +168,7 @@ Achala - unmoved by enemies
 | 148  | jetaa                        | Ever-successful                                                                               |
 | 149  | vishvayonih                  | He who incarnates because of the world                                                        |
 | 150  | punarvasuh                   | He who lives repeatedly in different bodies                                                   |
-| 151  | upendrah                     | The younger brother of Indra (vaamana)                                                        |
+| 151  | upendrah                     | The younger brother of [[indra|Indra]] (vaamana)                                                        |
 | 152  | vaamanah                     | He with a dwarf body                                                                          |
 | 153  | praamshuh                    | He with a huge body                                                                           |
 | 154  | amoghah                      | He whose acts are for a great purpose                                                         |
@@ -348,7 +348,7 @@ Achala - unmoved by enemies
 | 318  | maheedharah                  | The support of the earth                                                                      |
 | 319  | achyutah                     | He who undergoes no changes                                                                   |
 | 320  | prathitah                    | He who exists pervading all                                                                   |
-| 321  | praanah                      | The prana in all living creatures                                                             |
+| 321  | praanah                      | The [[Prana|prana]] in all living creatures                                                             |
 | 322  | praanadah                    | He who gives prana                                                                            |
 | 323  | vaasavaanujah                | The brother of Indra                                                                          |
 | 324  | apaam-nidhih                 | Treasure of waters (the ocean)                                                                |
@@ -578,7 +578,7 @@ Achala - unmoved by enemies
 | 537  | mahaashringah                | Great-horned (Matsya)                                                                         |
 | 538  | kritaantakrit                | Destroyer of the creation                                                                     |
 | 539  | mahaavaraaho                 | The great boar                                                                                |
-| 540  | govindah                     | One who is known through Vedanta                                                              |
+| 540  | govindah                     | One who is known through [[vedanta|Vedanta]]                                                              |
 | 541  | sushenah                     | He who has a charming army                                                                    |
 | 542  | kanakaangadee                | Wearer of bright-as-gold armlets                                                              |
 | 543  | guhyo                        | The mysterious                                                                                |
@@ -881,7 +881,7 @@ Achala - unmoved by enemies
 | 825  | ashvattas                    | Tree of life                                                                                  |
 | 826  | chaanooraandhra-nishoodanah  | The slayer of Canura                                                                          |
 | 827  | sahasraarchih                | He who has thousands of rays                                                                  |
-| 828  | saptajihvah                  | He who expresses himself as the seven tongues of fire (Types of agni)                         |
+| 828  | saptajihvah                  | He who expresses himself as the seven tongues of fire (Types of [[Agni|agni]])                         |
 | 829  | saptaidhaah                  | The seven effulgences in the flames                                                           |
 | 830  | saptavaahanah                | One who has a vehicle of seven horses (sun)                                                   |
 | 831  | amoortih                     | Formless                                                                                      |

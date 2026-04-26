@@ -67,13 +67,13 @@ High-quality entropy exhibits these characteristics:
 ### Key Generation
 - **Symmetric Keys**: AES, ChaCha20 require 128-256 bits of entropy
 - **Asymmetric Keys**: RSA, ECC need high-quality randomness for key pair generation
-- **Initialization Vectors**: Block cipher modes require unpredictable IVs
-- **Salts**: Password hashing functions use random salts
+- **Initialization Vectors**: [[Block Cipher|Block cipher]] modes require unpredictable IVs
+- **Salts**: Password [[Hashing|hashing]] functions use random salts
 
 ### Protocol Security
 - **TLS/SSL**: Session keys, nonces, and certificates rely on entropy
 - **Cryptocurrency**: Private key generation for Bitcoin, Ethereum wallets
-- **Digital Signatures**: DSA, ECDSA require fresh randomness for each signature
+- **[[Digital signatures|Digital Signatures]]**: DSA, ECDSA require fresh randomness for each signature
 - **Zero-Knowledge Proofs**: Cryptographic protocols need unpredictable challenges
 
 ## Modern Challenges and Solutions
@@ -195,7 +195,7 @@ The [[Katapayadi_Melakarta_Guide|Katapayadi-Melakarta system]] demonstrates earl
 - **Bijective encoding**: Sanskrit consonants ↔ digits (0-9) mapping
 - **Lossless compression**: 7-note musical scale encoded in 2 consonants
 - **Error detection**: [[Katapayadi_Melakarta_Chakra_Complete_Guide|Chakra names]] provide redundancy for validation
-- **Hierarchical indexing**: Three-layer encoding (Katapayadi → Number → Scale)
+- **Hierarchical indexing**: Three-layer encoding ([[Katapayadi]] → Number → Scale)
 - **Hash function analogy**: Rāga name serves as deterministic key to complete scale structure
 
 **Information-theoretic properties**:

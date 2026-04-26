@@ -1,7 +1,7 @@
 # PanchaVayu
 	- ``{{embed ((6701f3ab-198a-4f8f-9240-8bc4c764868a)`)}}`
 		-
-- 1. Prana- [[Vayu]]
+- 1. [[Prana]]- [[Vayu]]
 - 2. Apana-Vayu
 - 3. Samana-Vayu
 - 4. Udana-Vayu

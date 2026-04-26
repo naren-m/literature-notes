@@ -92,7 +92,7 @@ the same flowing impermanence.
 - This curse restrains Rāvaṇa from touching Sītā directly
 
 ### Mahābhārata
-- Rambhā is sent by Indra to distract the sage Viśvāmitra
+- Rambhā is sent by [[indra|Indra]] to distract the sage Viśvāmitra
   from his tapas — she fails, and Viśvāmitra curses her
   to become stone for 10,000 years
 

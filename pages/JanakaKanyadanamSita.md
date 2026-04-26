@@ -1,4 +1,4 @@
-- #ramayanam
+- #[[ramayanam]]
 -
 - Marry my daughter and this will bring Bhadram to you
 	- इयं सीता मम सुता सहधर्मचरी तव।
@@ -11,7 +11,7 @@
 	- mama - the feeling or the sense of me and mine (mamakaaram)
 		- Opossite is nama: not me or not mine (namaskaaram)
 - सहधर्मचरी तव।
-	- One who walks with you in following dharma
+	- One who walks with you in following [[Dharma|dharma]]
 -
 - प्रतीच्छ चैनां भद्रं ते पाणिं गृह्णीष्व पाणिना।।1.73.27।।
 -

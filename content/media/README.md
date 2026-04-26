@@ -12,7 +12,7 @@ This domain contains **36 highlights** organized by source type:
 
 ### Self-Improvement
 - [[Books/Atomic Habits]] - James Clear on habit formation
-- One percent rule and aggregation of marginal gains
+- [[One percent rule]] and [[aggregation of marginal gains]]
 
 ### Biography
 - [[Books/Elon Musk]] - Ashlee Vance biography (if present)

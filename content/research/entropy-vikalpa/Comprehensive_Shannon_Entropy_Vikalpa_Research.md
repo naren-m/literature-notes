@@ -72,7 +72,7 @@ where vᵢ represents individual conceptual alternatives
 
 ### Detailed Analysis of Vikalpa in Yoga Sutras
 
-**Definition (Sutra 1.9)**: Vikalpa is verbal delusion or knowledge derived from words without corresponding reality (vastu-śūnya)
+**Definition ([[Sutra]] 1.9)**: Vikalpa is verbal delusion or knowledge derived from words without corresponding reality (vastu-śūnya)
 
 #### Core Characteristics:
 1. **Conceptual Construction**: Mental fabrications without direct referent in reality
@@ -84,7 +84,7 @@ where vᵢ represents individual conceptual alternatives
 
 **The Five Vrittis (Mental Modifications)**:
 1. **Pramana** (Valid Knowledge): Direct correspondence with reality
-2. **Viparyaya** (Misperception): False knowledge of existing objects
+2. **[[viparyaya|Viparyaya]]** (Misperception): False knowledge of existing objects
 3. **Vikalpa** (Conceptual Construction): Knowledge without real objects
 4. **Nidra** (Sleep): Absence of conscious content
 5. **Smrti** (Memory): Recall of past experiences

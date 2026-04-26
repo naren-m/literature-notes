@@ -29,7 +29,7 @@ The cornerstone of Ayurvedic medicine based on three fundamental energies:
 The fundamental building blocks of all matter:
 1. **Akasha (Space)** - Provides room for all processes
 2. **Vayu (Air)** - Movement and communication
-3. **Agni (Fire)** - Transformation and metabolism
+3. **[[Agni]] (Fire)** - Transformation and metabolism
 4. **Jal (Water)** - Fluidity and cohesion
 5. **Prithvi (Earth)** - Structure and stability
 
@@ -47,7 +47,7 @@ The fundamental building blocks of all matter:
 - **Focus**: Internal medicine and general principles
 - **Structure**: 8 sections, 120 chapters, 12,000 verses
 - **Key Topics**:
-  - Sutra Sthana: Basic principles
+  - [[Sutra]] Sthana: Basic principles
   - Nidana Sthana: Pathology
   - Vimana Sthana: Measurement and training
   - Sharira Sthana: Anatomy and physiology
@@ -228,7 +228,7 @@ Detoxification and purification therapies:
 - [[Manas]] - Mind-body connection
 - [[Vayu]] - Air element and Vata dosha
 - Bhagavad Gita - Philosophical foundations
-- Upanishads - Spiritual dimensions of health
+- [[Upanishads]] - Spiritual dimensions of health
 
 ## Fundamental Quotes
 

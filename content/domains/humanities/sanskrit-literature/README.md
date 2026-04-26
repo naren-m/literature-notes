@@ -36,7 +36,7 @@ This domain contains **43 notes** covering:
 ### Devotional Literature
 - [[VishnuSahasranamam]] - Thousand names of Vishnu
 - [[VishnuSahasranamamByDusyanthSridhar]] - Commentary by Dushyanth Sridhar
-- [[SivaSurta]] - Shiva compositions
+- [[SivaSurta]] - [[shiva|Shiva]] compositions
 
 ## 🎵 Music & Arts
 
@@ -46,7 +46,7 @@ This domain contains **43 notes** covering:
 
 ## 📖 Language & Grammar
 
-- [[Ashtadhyayi]] - Panini's Sanskrit grammar
+- [[Ashtadhyayi]] - [[Panini]]'s Sanskrit grammar
 - [[content/domains/humanities/sanskrit-literature/Sutra]] - Aphoristic style
 - [[Niruktha]] - Etymology and semantics
 - [[Sulba Sutras]] - Geometric mathematics
@@ -117,8 +117,8 @@ This domain contains **43 notes** covering:
 
 ## 🔗 Cross-Domain Connections
 
-- **Entropy & Vikalpa** - Information theory meets conceptual thought (see [[../research/entropy-vikalpa]])
-- **Cryptography & Sutras** - Conciseness and precision across domains
+- **[[ENTROPY|Entropy]] & Vikalpa** - Information theory meets conceptual thought (see [[../research/entropy-vikalpa]])
+- **[[Cryptography]] & Sutras** - Conciseness and precision across domains
 - **Design Patterns & Dharma** - Universal patterns in code and cosmos
 
 ## 🏷️ Common Tags

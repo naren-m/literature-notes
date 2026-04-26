@@ -8,11 +8,11 @@ Philosophy: “never trust, always verify”
 
 - Approach to security by eliminating implicit trust(based on Firewals, i-tables etc.,).
 - Core principle is “never trust, always verify”.
-- Uses strong authentication to verify the workloads.
+- Uses [[Strong Authentication|strong authentication]] to verify the workloads.
 
 ### From Articles
 
-A zero-trust networking is based on a security model that establishes trust through continuous authentication and monitoring of each network access attempt. It's different from the traditional model of assuming everything in a corporate network can be trusted.
+A zero-trust networking is based on a security model that establishes trust through continuous [[Authentication|authentication]] and monitoring of each network access attempt. It's different from the traditional model of assuming everything in a corporate network can be trusted.
 
 ### What are the benefits of a zero-trust network?
 

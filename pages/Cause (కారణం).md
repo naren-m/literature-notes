@@ -1,5 +1,5 @@
 -
-- In #vedanta there are 3 kinds of kaaranas
+- In #[[vedanta]] there are 3 kinds of kaaranas
 	- Instrumental Cause -  సహకార కారణం (Sahakaara Kaaranam)
 	- Material Cause - ఉపాదాన కారణం (Upaadaana kaaranam)
 	- Accessory Cause -  నిమిత్త కారణం (Nimitha kaaranam)

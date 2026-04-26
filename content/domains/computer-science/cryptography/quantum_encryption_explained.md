@@ -1,11 +1,11 @@
 # How Quantum Computers Break Encryption: First Principles
-- ## The Core Problem: Why Do We Need New Cryptography?
+- ## The Core Problem: Why Do We Need New [[Cryptography]]?
 - ### Today's internet security relies on "hard math problems"
   
   When you visit a website securely (HTTPS), two things happen:
   
   1. **Key Agreement** – You and the server secretly agree on a shared password that nobody else knows
-  2. **Authentication** – You verify you're actually talking to the real server, not an imposter
+  2. **[[Authentication]]** – You verify you're actually talking to the real server, not an imposter
   
   Both rely on mathematical problems that are *extremely hard* for regular computers to solve (like factoring huge numbers). This hardness is what keeps your data safe.
   
@@ -142,7 +142,7 @@
   
   **AES-256 is quantum-safe** because even "slightly faster guessing" doesn't help when there are 2²⁵⁶ possibilities.
   
-  The quantum threat is specifically about **key exchange** (RSA/ECC), not about **data encryption** (AES).
+  The quantum threat is specifically about **[[Key exchange|key exchange]]** (RSA/ECC), not about **[[Data encryption|data encryption]]** (AES).
   
   ---
 - ## Symmetric vs Asymmetric Summary

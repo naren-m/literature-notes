@@ -1,8 +1,8 @@
 # HMAC
 
 HMAC is a hash that is seeded with a secret key. The two elements of HMAC.
-• Hashing algorithm
-• Authentication
+• [[Hashing]] algorithm
+• [[Authentication]]
 HMAC can use a variety of hashing algorithms:
 
 md5 --- sha1

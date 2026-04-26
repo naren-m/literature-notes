@@ -1,6 +1,6 @@
 # NyayaSutra
 
-Nyaya Sutra states its own purpose right at the beginning: to study and describe the attainment of liberation of the soul from wrong knowledge, faults, and sorrow, through the application of sixteen categories of knowledge. These sixteen categories are:
+Nyaya [[Sutra]] states its own purpose right at the beginning: to study and describe the attainment of liberation of the soul from wrong knowledge, faults, and sorrow, through the application of sixteen categories of knowledge. These sixteen categories are:
 
 - Pramana (Epistemological methods/means of right knowledge)
 - Prameya (Objects of right knowledge)
@@ -9,7 +9,7 @@ Nyaya Sutra states its own purpose right at the beginning: to study and describe
 - Drishtanta (Familiar instances)
 - Siddhanta (Established tenets)
 - Avayava (Members of an inference)
-- Tarka (Reasoning and debate)
+- Tarka (Reasoning and [[Debate|debate]])
 - Nirnaya (Ascertainment of results)
 - Vada (Discussion)
 - Jalpa (Sophistic disputations)

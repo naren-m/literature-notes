@@ -3,7 +3,7 @@
 - Shabda gnana anupati vasthu shunyo Vikalpah
 - ## Definition and Core Concept
   
-  Vikalpa (Sanskrit: विकल्प) is one of the five vrittis (mental modifications) described in Patanjali's [[YogaSutras|Yoga Sutras]]. According to Sutra 1.9, vikalpa refers to verbal delusion or knowledge derived from words without a corresponding reality (vastu-śūnya).
+  Vikalpa (Sanskrit: विकल्प) is one of the five vrittis (mental modifications) described in Patanjali's [[YogaSutras|Yoga Sutras]]. According to [[Sutra]] 1.9, vikalpa refers to verbal delusion or knowledge derived from words without a corresponding reality (vastu-śūnya).
 - ## Etymology and Linguistic Analysis
 - **Vi-** (prefix): separation, distinction, alternative
 - **Kalpa** (root): arrangement, construction, possibility

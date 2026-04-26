@@ -53,13 +53,13 @@
   There's **no known shortcut** — not for classical computers, not for quantum computers.
   
   ---
-- ### How Lattice Crypto is Used for Encryption
+- ### How Lattice Crypto is Used for [[Encryption]]
   
   **Simplified idea:**
   
   1. Create a secret lattice structure (your private key)
   
-  2. Add noise/errors to hide it (your public key)
+  2. Add noise/errors to hide it (your [[Public Key|public key]])
   
   3. Someone encrypts a message using your noisy public key
   

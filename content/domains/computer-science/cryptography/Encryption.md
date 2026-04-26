@@ -1,6 +1,6 @@
 # Encryption
 
-Encryption is an important tool in [[Cryptography]] and provides [[Confidentiality]]. Encryption protects from unauthorized information disclosure.
+Encryption is an important tool in [[Cryptography]] and provides [[Confidentiality]]. Encryption protects from unauthorized [[Information Disclosure|information disclosure]].
 
 This is a two-way algorithm: encryption and decryption.
 

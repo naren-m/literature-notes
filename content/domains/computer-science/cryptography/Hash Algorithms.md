@@ -16,7 +16,7 @@ it is unlikely, if not impossible, for an attacker to uncover collision, where t
 hashes must be highly performant. Slow hashes are hard to scale which is necessary for many use cases.
 
 [[Hashing]] algorithms are also referred to as ciphers, where block ciphers are the most common. There are various approaches to creating hashes:
-- Block cipher
+- [[Block Cipher|Block cipher]]
 - Stream cipher
 - Keyed hash
 

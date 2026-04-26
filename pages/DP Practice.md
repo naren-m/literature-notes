@@ -1,5 +1,5 @@
 ## Mastery plan
-	- ## Dynamic Programming Mastery Plan
+	- ## [[Dynamic Programming]] Mastery Plan
 		- [Leetcode DP](https://leetcode.com/studyplan/dynamic-programming/)
 		- ## Phase 1: Foundation Building (Week 1-2) [[Aug 4th, 2025]]
 		  collapsed:: true

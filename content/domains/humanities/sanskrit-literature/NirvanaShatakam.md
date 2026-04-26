@@ -110,7 +110,7 @@ First recitation/writing of [[AdiShankaraCharya]]
   
   1. Ākāśa/Vyoma (Space) — sound
   2. Vāyu (Air) — touch
-  3. Tejas/Agni (Fire) — form
+  3. Tejas/[[Agni]] (Fire) — form
   4. Āpas/Jala (Water) — taste [not mentioned explicitly here]
   5. Pṛthivī/Bhūmi (Earth) — smell
 - #### **चिदानन्दरूपः (cid-ānanda-rūpaḥ)** — Of the form of consciousness-bliss
@@ -312,7 +312,7 @@ First recitation/writing of [[AdiShankaraCharya]]
   
   **Note on Puruṣārthas (Four Goals of Human Life):**
   
-  1. Dharma — Righteous conduct
+  1. [[Dharma]] — Righteous conduct
   2. Artha — Material prosperity
   3. Kāma — Pleasure and desire
   4. Mokṣa — Liberation
@@ -330,7 +330,7 @@ First recitation/writing of [[AdiShankaraCharya]]
 - #### **पुण्यम् (puṇyam)** — Merit/Virtue
 - **Root:** √पुण् (puṇ) — "to be pure, virtuous"
 - **Formation:** पुण् + य → पुण्य
-- **Meaning:** Meritorious deed; positive karma; virtue
+- **Meaning:** Meritorious deed; positive [[karma]]; virtue
 - #### **पापम् (pāpam)** — Sin/Demerit
 - **Root:** √पा (pā) — "to fall" (in the sense of falling from grace)
 - **Formation:** Connected to "falling"; पाप + अ
@@ -485,7 +485,7 @@ First recitation/writing of [[AdiShankaraCharya]]
 - **Grammatical Form:** Genitive plural
   
   **इन्द्रिय (indriya):**
-- **Root:** इन्द्र (Indra) + य → इन्द्रिय
+- **Root:** इन्द्र ([[indra|Indra]]) + य → इन्द्रिय
 - **Meaning:** Power, faculty; sense organ (named after Indra, lord of senses)
 - **Includes:** Both jñānendriyas (sense organs) and karmendriyas (organs of action)
 - #### **असङ्गतम् (asaṅgatam)** — Non-attachment
@@ -558,7 +558,7 @@ First recitation/writing of [[AdiShankaraCharya]]
 		  Sankalpaathmika [[Manas]], Nischayathmika [[budhi]]:
 		  సంకల్పాత్మిక మనస్, నిశ్చయాత్మక బుద్ధి:
 		- [[Manas]]su [[Budhi]] chittam ahamkaram - Chathustayam (group of 4)
-		  Allochana undeedhi Manassu, nischyam budhi, Chesina panini gurthu pettukunedhi Chittam. Neenu chesanu ani gurhtu techukovadam ahamkaaram.
+		  Allochana undeedhi Manassu, nischyam budhi, Chesina [[Panini|panini]] gurthu pettukunedhi Chittam. Neenu chesanu ani gurhtu techukovadam ahamkaaram.
 		  Chitta sudhi - alochana undadhi.
 		  
 		  [[Garikapati_Narasimha_rao]] explanation on Chathustayam - [good explanation](https://www.facebook.com/srigarikipatinarasimharaoofficial/videos/%E0%B0%AE%E0%B0%A8%E0%B0%B8%E0%B1%81-%E0%B0%AC%E0%B1%81%E0%B0%A6%E0%B1%8D%E0%B0%A7%E0%B0%BF-%E0%B0%9A%E0%B0%BF%E0%B0%A4%E0%B1%8D%E0%B0%A4%E0%B0%82-%E0%B0%B5%E0%B1%80%E0%B0%9F%E0%B0%BF-%E0%B0%AE%E0%B0%A7%E0%B1%8D%E0%B0%AF-%E0%B0%A4%E0%B1%87%E0%B0%A1%E0%B0%BE-%E0%B0%8F%E0%B0%AE%E0%B0%BF%E0%B0%9F%E0%B1%8B-%E0%B0%9A%E0%B1%82%E0%B0%A1%E0%B0%82%E0%B0%A1%E0%B0%BF/245100914115291/)

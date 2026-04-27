@@ -19,7 +19,7 @@
 - ## Distinctive Characteristics
 - ### Conceptual vs. Perceptual
 - **Unlike Pramana**: Does not correspond to direct experience or valid inference
-- **Unlike Viparyaya**: Does not involve misperception of real objects
+- **Unlike [[viparyaya|Viparyaya]]**: Does not involve misperception of real objects
 - **Unique Function**: Creates mental constructs that exist only in language and imagination
 - ### Examples of Vikalpa
   **Classical Examples**:
@@ -118,7 +118,7 @@
 - **Mindfulness Therapy**: Aims to reduce vikalpa through present-moment awareness
 - ## Bibliography and Further Reading
 - ### Primary Sources
-- **Patanjali**: Yoga Sutras, especially Sutras 1.6-1.11
+- **Patanjali**: [[YogaSutras|Yoga Sutras]], especially Sutras 1.6-1.11
 - **Vyasa**: Yogasūtrabhāṣya (Classical commentary)
 - **Vācaspatimiśra**: Tattvavaiśāradī (Sub-commentary)
 - ### Modern Translations and Studies

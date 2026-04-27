@@ -267,7 +267,7 @@ Vaiseshika presents one of the world's earliest systematic atomic theories, pred
 - **Critical thinking**: Analytical approach to reality
 - **Classification skills**: Systematic categorization abilities
 - **Historical perspective**: Understanding ancient scientific thinking
-- **Cultural appreciation**: India's contribution to world philosophy
+- **Cultural appreciation**: [[India]]'s contribution to world philosophy
 
 ### Interfaith Dialogue
 - **Rational approach**: Logic-based rather than revelation-based

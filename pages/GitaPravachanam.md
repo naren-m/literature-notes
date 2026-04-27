@@ -14,7 +14,7 @@
 				- Samhita
 			- Jnyana bhagam
 				- Veedanta or Upanishad
-	- Vedanta [[content/domains/humanities/sanskrit-literature/Sutra]]s or [[Brahma Sutra]] ``{{youtube-timestamp 78`0}}`
+	- [[vedanta|Vedanta]] [[content/domains/humanities/sanskrit-literature/Sutra]]s or [[Brahma Sutra]] ``{{youtube-timestamp 78`0}}`
 	- Essense of the [[Upanishads|upanishads]] [[Bhagavadgita]]
 - ``{{youtube-timestamp 151`3}}` Gita will be divided into 3 Shatkams
 	- Pradhama Shatkam
@@ -36,7 +36,7 @@
 					- Artha Arthi ``{{youtube-timestamp 195`1}}`
 					- Jignashu ``{{youtube-timestamp 196`6}}` Kevalam (alone) Kevala Jnanam ``{{youtube-timestamp 200`1}}`
 					- Jnyani Desiring god ``{{youtube-timestamp 203`0}}`
-			- Krishna talks about Swaroopam ``{{youtube-timestamp 230`0}}`
+			- [[krishna|Krishna]] talks about Swaroopam ``{{youtube-timestamp 230`0}}`
 				- Swaroopam - Nature, your own
 				- Parama purshasya
 				- Jnaaninam visesham

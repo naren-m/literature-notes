@@ -290,7 +290,7 @@ Achala - unmoved by enemies
 | 265  | shruti-saagarah              | The ocean for all scripture                                                                   |
 | 266  | subhujah                     | He who has graceful arms                                                                      |
 | 267  | durdurdharah                 | He who cannot be known by great yogis                                                         |
-| 268  | vaagmee                      | He who is eloquent in speech                                                                  |
+| 268  | vaagmee                      | He who is eloquent in [[speech]]                                                              |
 | 269  | mahendrah                    | The lord of Indra                                                                             |
 | 270  | vasudah                      | He who gives all wealth                                                                       |
 | 271  | vasuh                        | He who is Wealth                                                                              |
@@ -508,7 +508,7 @@ Achala - unmoved by enemies
 | 473  | vatsee                       | The father                                                                                    |
 | 474  | ratnagarbhah                 | The jewel-wombed                                                                              |
 | 475  | dhaneshvarah                 | The Lord of wealth                                                                            |
-| 476  | dharmagub                    | One who protects dharma                                                                       |
+| 476  | dharmagub                    | One who protects [[Dharma|dharma]]                                                            |
 | 477  | dharmakrit                   | One who acts according to dharma                                                              |
 | 478  | dharmee                      | The supporter of dharma                                                                       |
 | 479  | sat                          | existence                                                                                     |

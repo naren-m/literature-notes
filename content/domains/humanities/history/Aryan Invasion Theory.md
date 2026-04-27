@@ -7,7 +7,7 @@ The Aryan Invasion Theory (AIT) proposes that Indo-European speaking peoples inv
 
 ### 19th Century Origins
 - **[[Max Muller]]** (1860s): First systematic formulation based on linguistic similarities between Sanskrit and European languages
-- **Colonial Context**: Used to explain presence of Indo-European languages in India
+- **Colonial Context**: Used to explain presence of Indo-European languages in [[India]]
 - **Initial Assumptions**: 
   - Vedic texts indicated foreign origin of Aryans
   - Sanskrit closer to European languages than Dravidian

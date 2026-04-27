@@ -22,7 +22,7 @@ High-quality entropy exhibits these characteristics:
 ### Cryptographic Significance
 - **Key Generation**: Foundation for creating unbreakable cryptographic keys
 - **Random Number Generation**: Essential for secure system initialization
-- **Security Assumptions**: Many cryptographic proofs depend on entropy availability
+- **Security Assumptions**: Many cryptographic proofs depend on entropy [[Availability|availability]]
 
 ## Sources of Entropy
 

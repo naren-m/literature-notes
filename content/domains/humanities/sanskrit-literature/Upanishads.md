@@ -1,6 +1,6 @@
 # Upanishads
 
-The Upanishads (Sanskrit: उपनिषद्, "sitting down near") are a collection of ancient philosophical and mystical texts that form the theoretical foundation of Hindu philosophy. Dating from approximately 800-200 BCE, they represent the culmination of Vedic thought and the beginning of systematic philosophical inquiry in India.
+The Upanishads (Sanskrit: उपनिषद्, "sitting down near") are a collection of ancient philosophical and mystical texts that form the theoretical foundation of Hindu philosophy. Dating from approximately 800-200 BCE, they represent the culmination of Vedic thought and the beginning of systematic philosophical inquiry in [[India]].
 
 ## Etymology and Meaning
 

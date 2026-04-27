@@ -59,7 +59,7 @@ Mental conceptualization—the generation of alternatives without corresponding 
 
 **Information Entropy and Vikalpa: Mathematical Modeling of Mental Alternatives in Consciousness**
 
-*Background*: Ancient contemplative traditions offer sophisticated analyses of consciousness states largely unmeasured by contemporary neuroscience. Vikalpa, described in Patanjali's Yoga Sutras as mental alternatives or conceptual constructions without real-world referents, provides a precise category for abstract thinking, imagination, and verbal reasoning.
+*Background*: Ancient contemplative traditions offer sophisticated analyses of consciousness states largely unmeasured by contemporary neuroscience. Vikalpa, described in Patanjali's [[YogaSutras|Yoga Sutras]] as mental alternatives or conceptual constructions without real-world referents, provides a precise category for abstract thinking, imagination, and verbal reasoning.
 
 *Hypothesis*: Information entropy provides a mathematical framework for quantifying vikalpa activity, with higher conceptual proliferation increasing mental entropy and contemplative practices that reduce vikalpa correspondingly decreasing measurable brain entropy.
 

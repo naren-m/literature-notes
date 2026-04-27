@@ -1,5 +1,5 @@
 # Books
-- ## Good books to read regarding india
+- ## Good books to read regarding [[India|india]]
 - ### Books by title
 - Things hidden since the begining of the world,
 - Wanting

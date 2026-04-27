@@ -79,7 +79,7 @@ First recitation/writing of [[AdiShankaraCharya]]
   **नेत्रम् (netram):**
 - **Root:** √नी (nī) — "to lead"
 - **Formation:** नी + त्र (karaṇa pratyaya) → नेत्र
-- **Meaning:** "That which leads" — the eye guides/leads perception
+- **Meaning:** "That which leads" — the [[eye]] guides/leads perception
 - **Grammatical Form:** Dvandva compound, neuter dual
   
   **Note:** The five sense organs (pañca jñānendriyas) are śrotra (hearing), tvak (touch), cakṣus (sight), rasanā/jihvā (taste), ghrāṇa (smell). Only four are mentioned here; tvak (skin/touch) is implied.
@@ -173,7 +173,7 @@ First recitation/writing of [[AdiShankaraCharya]]
   1. **प्राण (prāṇa)** — Forward breath; respiration; seated in chest
   2. **अपान (apāna)** — Downward breath; excretion; seated in lower abdomen
   3. **व्यान (vyāna)** — Pervading breath; circulation; throughout body
-  4. **उदान (udāna)** — Upward breath; speech/death; seated in throat
+  4. **उदान (udāna)** — Upward breath; [[speech]]/death; seated in throat
   5. **समान (samāna)** — Equalizing breath; digestion; seated in navel
 - #### **सप्तधातुः (sapta-dhātuḥ)** — The Seven Bodily Constituents
   

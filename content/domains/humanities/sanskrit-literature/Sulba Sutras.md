@@ -113,7 +113,7 @@ The texts contain methods for solving simple linear equations in geometric conte
 - **Systematic Methodology**: Organized approach to geometric construction
 
 ### Modern Recognition
-- **"Pythagorean" Theorem**: Actually known earlier in India
+- **"Pythagorean" Theorem**: Actually known earlier in [[India]]
 - **Geometric Algebra**: Advanced understanding of algebraic-geometric relationships
 - **Approximation Methods**: Techniques that influenced later mathematical development
 - **Practical Geometry**: Foundation for Indian architectural and astronomical calculations

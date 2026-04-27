@@ -1,6 +1,6 @@
 # Ayurvedam
 
-Ayurveda ("Knowledge of Life") is the traditional system of medicine originating in India over 5,000 years ago. It represents one of the world's oldest medical systems, emphasizing prevention, holistic treatment, and the balance of mind, body, and spirit.
+Ayurveda ("Knowledge of Life") is the traditional system of medicine originating in [[India]] over 5,000 years ago. It represents one of the world's oldest medical systems, emphasizing prevention, holistic treatment, and the balance of mind, body, and spirit.
 
 ## Foundational Principles
 

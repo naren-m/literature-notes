@@ -13,7 +13,7 @@ Panini (c. 6th-4th century BCE) was an ancient Indian Sanskrit grammarian whose 
 
 ### Geographic Origins  
 - **Salatura**: Born in ancient Gandhara region (modern-day Pakistan/Afghanistan)
-- **Cultural Context**: Northwestern India, crossroads of Indian and Central Asian cultures
+- **Cultural Context**: Northwestern [[India]], crossroads of Indian and Central Asian cultures
 - **Intellectual Environment**: Region of philosophical and grammatical innovation
 - **Contemporary Traditions**: Buddhist and Vedic learning centers
 

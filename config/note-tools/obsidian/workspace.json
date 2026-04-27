@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "53c81a9b318ef110",
+        "id": "c4e9a62ed2821c0f",
         "type": "tabs",
         "children": [
           {
-            "id": "6ce072e55e3e358a",
+            "id": "f351e7c3b01a578b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,8 +166,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b89595c7e0596318",
+  "active": "f351e7c3b01a578b",
   "lastOpenFiles": [
+    "sabda-vrittis.md",
+    "Bantu reethi Kolu.md",
+    "vyañjanā.md",
+    "madam.md",
     "Untitled.base",
     "pages/aggregation of marginal gains.md",
     "pages/AdiShankaraCharya.md",
@@ -195,9 +199,6 @@
     "config/note-tools/logseq/bak/sanskrit-lit/Sutra/Sutra.md",
     "RULES.md",
     "AGENTS.md",
-    "music/Katapayadi_Melakarta_Chakra_Complete_Guide.md",
-    "music/Katapayadi_Melakarta_Guide.md",
-    "content/journal/gruthva.md",
     "Untitled 1.base",
     "Untitled 2.canvas",
     "Utharayana_Dakshanayan.jpg",

@@ -7,7 +7,7 @@
 - One that sustains. What does it sustain? Balance in the creation.
 -
 - Rita - Righteousness in thought
-- Satya - Righteousness in speech
+- Satya - Righteousness in [[speech]]
 - Dharma - Righteousness in actions
 -
 -

@@ -267,7 +267,7 @@ where vᵢ represents individual conceptual alternatives
 - **Various authors** (2024). "Exploring neural markers of dereification in meditation based on EEG and personalized models." *Scientific Reports*
 
 ### Sanskrit Philosophy:
-- **Patanjali**. *Yoga Sutras* (Classical commentaries by Vyasa, Vachaspati Mishra)
+- **Patanjali**. *[[YogaSutras|Yoga Sutras]]* (Classical commentaries by Vyasa, Vachaspati Mishra)
 - **Feuerstein, G.** (1989). *The Yoga-Sutra of Patanjali: A New Translation and Commentary*
 - **Bryant, E.F.** (2009). *The Yoga Sutras of Patañjali*
 

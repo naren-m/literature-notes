@@ -24,7 +24,7 @@ From Sanskrit root **कृ (kṛ)** meaning "to do" or "to make"
 ### Classical Systematization
 - **[[Bhagavad Gita]]**: Three types of action clarified
   - Karma (action), Akarma (inaction), Vikarma (wrong action)
-- **Yoga Sutras**: Karma as mental impressions ([[chitta]]) affecting consciousness
+- **[[YogaSutras|Yoga Sutras]]**: Karma as mental impressions ([[chitta]]) affecting consciousness
 
 ## Three Classifications of Karma
 

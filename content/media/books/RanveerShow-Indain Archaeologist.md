@@ -7,7 +7,7 @@
 - Link        : [Podcast link](https://www.youtube.com/watch?v=YiwPDyni0a8)
 - Host        : Ranveer
 - Guest       : Anica Mann
-- Guest creds : Indial Arcaeologist, Leads Globalxplorer  from India
+- Guest creds : Indial Arcaeologist, Leads Globalxplorer  from [[India]]
 
 ## Notes
 

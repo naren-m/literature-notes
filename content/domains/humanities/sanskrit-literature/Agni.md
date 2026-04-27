@@ -21,7 +21,7 @@ Agni (fire/energy) combines with [[Nada|Prana to form Nada]] (sound): Nāda = [[
 ## See Also
 - [[Sulba Sutras]] - Geometric construction of fire altars
 - [[Nada]] - Sound as combination of Prana and Agni
-- [[Sangitaratnakaram]] - Classical music theory text
+- [[Sangitaratnakaram]] - Classical [[Music Theory|music theory]] text
 - [[Katapayadi_Melakarta_Chakra_Complete_Guide]] - Agni Chakra in rāga classification
 
 #word #definition #vedic #music #fire #energy 

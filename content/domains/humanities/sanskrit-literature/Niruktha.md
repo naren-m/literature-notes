@@ -236,7 +236,7 @@ Yaska classifies all words into four categories:
 - **Root**: सूर् (sur) - "to shine, to illuminate"
 - **Yaska's Analysis**: "The brilliant one, the illuminator"
 - **Alternative Derivation**: सृ (sri) - "to move", the moving light
-- **Ritual Context**: The divine eye that sees all actions
+- **Ritual Context**: The divine [[eye]] that sees all actions
 - **Modern Understanding**: Cognate with Greek Helios, Latin Sol
 
 ### Example 2: Prithvi (पृथ्वी - Earth)

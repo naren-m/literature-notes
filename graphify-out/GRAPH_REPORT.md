@@ -1,7 +1,7 @@
-# Graph Report - literature-notes  (2026-04-24)
+# Graph Report - literature-notes  (2026-04-30)
 
 ## Corpus Check
-- 71 files · ~2,058,201 words
+- 71 files · ~2,059,540 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
@@ -86,7 +86,7 @@
 
 ### Community 0 - "Community 0"
 Cohesion: 0.01
-Nodes (14): buildHTML(), buildHTMLUnbreakable(), commonjsRequire(), createCommonjsModule(), htmltag(), isLetter$2(), leastCommonAncestor(), node_path() (+6 more)
+Nodes (14): buildHTML(), buildHTMLUnbreakable(), htmlblock(), htmltag(), isLetter$1(), isLetter$2(), mclass_mathmlBuilder(), newDocumentFragment() (+6 more)
 
 ### Community 1 - "Community 1"
 Cohesion: 0.03
@@ -202,7 +202,7 @@ Nodes (4): copyImageToClipboard(), createCanvas(), drawInlineSVG(), generateImag
 
 ### Community 31 - "Community 31"
 Cohesion: 0.67
-Nodes (3): emphasis(), isAlphaNum(), scanDelims()
+Nodes (3): assertNodeType(), getHLines(), parseArray()
 
 ### Community 32 - "Community 32"
 Cohesion: 0.67
@@ -210,86 +210,86 @@ Nodes (3): createSVG(), getComputedCss(), removeExistingSVG()
 
 ### Community 33 - "Community 33"
 Cohesion: 0.67
-Nodes (3): _arrayLikeToArray(), _createForOfIteratorHelperLoose(), _unsupportedIterableToArray()
+Nodes (3): constant$2(), link(), linkHorizontal()
 
 ### Community 34 - "Community 34"
 Cohesion: 0.67
-Nodes (3): isLetter(), replaceAt(), smartquotes()
+Nodes (3): _arrayLikeToArray(), _createForOfIteratorHelperLoose(), _unsupportedIterableToArray()
 
 ### Community 35 - "Community 35"
 Cohesion: 0.67
-Nodes (3): assertSymbolNodeType(), checkDelimiter(), checkSymbolNodeType()
+Nodes (3): addAfter(), matchGrammar(), removeRange()
 
 ### Community 36 - "Community 36"
 Cohesion: 0.67
-Nodes (3): assertNodeType(), getHLines(), parseArray()
+Nodes (3): emphasis(), isAlphaNum(), scanDelims()
 
 ### Community 37 - "Community 37"
 Cohesion: 0.67
-Nodes (3): constant$2(), link(), linkHorizontal()
+Nodes (3): layoutChildren(), positionRoot(), shiftChange()
 
 ### Community 38 - "Community 38"
 Cohesion: 0.67
-Nodes (3): decompose(), parseCss(), parseSvg()
+Nodes (3): deflist(), markTightParagraphs$1(), skipMarker()
 
 ### Community 39 - "Community 39"
 Cohesion: 0.67
-Nodes (3): addAfter(), matchGrammar(), removeRange()
+Nodes (3): isLetter(), replaceAt(), smartquotes()
 
 ### Community 40 - "Community 40"
 Cohesion: 0.67
-Nodes (3): deflist(), markTightParagraphs$1(), skipMarker()
+Nodes (3): assertSymbolNodeType(), checkDelimiter(), checkSymbolNodeType()
 
 ### Community 41 - "Community 41"
 Cohesion: 0.67
-Nodes (3): layoutChildren(), positionRoot(), shiftChange()
+Nodes (3): decompose(), parseCss(), parseSvg()
 
 ### Community 43 - "Community 43"
 Cohesion: 1.0
-Nodes (2): mclass_mathmlBuilder(), newDocumentFragment()
+Nodes (2): leastCommonAncestor(), node_path()
 
 ### Community 44 - "Community 44"
 Cohesion: 1.0
-Nodes (2): defineFunction(), defineFunctionBuilders()
+Nodes (2): commonjsRequire(), createCommonjsModule()
 
 ### Community 45 - "Community 45"
 Cohesion: 1.0
-Nodes (2): exponential(), gamma()
+Nodes (2): getCharacterMetrics(), supportedCodepoint()
 
 ### Community 46 - "Community 46"
 Cohesion: 1.0
-Nodes (2): getCharacterMetrics(), supportedCodepoint()
+Nodes (2): create(), Timer()
 
 ### Community 47 - "Community 47"
 Cohesion: 1.0
-Nodes (2): htmlblock(), isLetter$1()
+Nodes (2): pointer(), sourceEvent()
 
 ### Community 48 - "Community 48"
 Cohesion: 1.0
-Nodes (2): scriptFromCodepoint(), SymbolNode()
+Nodes (2): defineFunction(), defineFunctionBuilders()
 
 ### Community 49 - "Community 49"
 Cohesion: 1.0
-Nodes (2): create(), Timer()
+Nodes (2): exponential(), gamma()
 
 ## Knowledge Gaps
 - **214 isolated node(s):** `Count markdown notes in each domain, excluding system directories.`, `Extract note titles from markdown files in directory.`, `Generate main INDEX.md with current statistics.`, `Generate CSE/README.md with current counts.`, `Generate sanskrit-lit/README.md with current counts.` (+209 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 - **Thin community `Community 26`** (6 nodes): `add_to_bloom()`, `calculate_bits()`, `get_bit()`, `membership()`, `set_bit()`, `bloom2.py`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 43`** (2 nodes): `mclass_mathmlBuilder()`, `newDocumentFragment()`
+- **Thin community `Community 43`** (2 nodes): `leastCommonAncestor()`, `node_path()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 44`** (2 nodes): `defineFunction()`, `defineFunctionBuilders()`
+- **Thin community `Community 44`** (2 nodes): `commonjsRequire()`, `createCommonjsModule()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 45`** (2 nodes): `exponential()`, `gamma()`
+- **Thin community `Community 45`** (2 nodes): `getCharacterMetrics()`, `supportedCodepoint()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 46`** (2 nodes): `getCharacterMetrics()`, `supportedCodepoint()`
+- **Thin community `Community 46`** (2 nodes): `create()`, `Timer()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 47`** (2 nodes): `htmlblock()`, `isLetter$1()`
+- **Thin community `Community 47`** (2 nodes): `pointer()`, `sourceEvent()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 48`** (2 nodes): `scriptFromCodepoint()`, `SymbolNode()`
+- **Thin community `Community 48`** (2 nodes): `defineFunction()`, `defineFunctionBuilders()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 49`** (2 nodes): `create()`, `Timer()`
+- **Thin community `Community 49`** (2 nodes): `exponential()`, `gamma()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 
 ## Suggested Questions

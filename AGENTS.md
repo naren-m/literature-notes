@@ -10,6 +10,16 @@ This repository is a personal second-brain and Zettelkasten-style note system. W
 - Do not force raw captures, highlights, transcripts, or unfinished thinking into permanent notes.
 - Keep the vault useful as a second brain: capture, organize, distill, and connect.
 
+## LLM Wiki Operating Model
+
+Use this repository as a persistent, agent-maintained wiki rather than a stateless pile of retrieved files.
+
+- Source layer: source-bound material in `content/media/...`, source assets, recordings, imported highlights, transcripts, and external URLs. Treat this material as evidence. Preserve its source context and do not rewrite it into evergreen prose in place.
+- Wiki layer: distilled notes in `content/domains/...`, `content/people/...`, `content/research/...`, and `content/journal/...`. The agent may create and update these notes when doing ingestion, synthesis, cleanup, and linking.
+- Schema layer: `AGENTS.md`, `RULES.md`, templates, and tooling instructions. `RULES.md` remains the source of truth for note classification.
+
+The goal is compounding knowledge: each ingest or query should leave the vault better linked, less duplicative, and easier to query later.
+
 ## Where New Notes Go
 
 - Use `content/` for all new notes unless the user explicitly asks for a legacy location.
@@ -18,6 +28,42 @@ This repository is a personal second-brain and Zettelkasten-style note system. W
 - Literature/source notes belong in `content/media/books/`, `content/media/books/highlights/`, `content/media/articles/`, `content/media/podcasts/`, or `content/media/videos/`.
 - Research notes belong in `content/research/...`.
 - Fleeting or daily capture belongs in `content/journal/`.
+
+## Core Workflows
+
+### Ingest
+
+When given a source, URL, transcript, book excerpt, recording, or pasted raw material:
+
+- Classify the new material first using `RULES.md`.
+- Create or update a literature, research, or journal note before extracting permanent notes.
+- Preserve the source URL, author, date, timestamps, page references, or other provenance when known.
+- Update existing related permanent notes instead of creating near-duplicates.
+- Create a new permanent note only when one durable, standalone idea has been rewritten in your own words and can link into the existing vault.
+- Add meaningful wikilinks from the source note to the distilled note and from the distilled note back to the source.
+- Add a parseable activity entry to `content/journal/YYYY-MM-DD.md` using `## [YYYY-MM-DD] ingest | Source or Topic`.
+
+### Query
+
+When answering questions against the vault:
+
+- Use the graph, indexes, and search to find existing notes before reading broad folders.
+- Prefer answers grounded in existing note files and cite the note paths or wikilinks when useful.
+- If the answer produces reusable synthesis, ask whether to file it unless the user already asked to update the vault.
+- Do not treat chat-only synthesis as stored knowledge until it has been written into the right note type.
+
+### Lint
+
+When asked to clean up or health-check the vault, look for:
+
+- duplicate or near-duplicate concept notes
+- source-bound notes incorrectly promoted to permanent notes
+- orphan notes with no meaningful inbound or outbound links
+- stale claims, contradictions, broken wikilinks, and missing source provenance
+- important concepts repeatedly mentioned but lacking their own permanent note
+
+Log lint work in `content/journal/YYYY-MM-DD.md` using `## [YYYY-MM-DD] lint | Scope`.
+For schema or tooling changes, use `## [YYYY-MM-DD] schema | Scope` or `## [YYYY-MM-DD] maintenance | Scope`.
 
 ## Required Decision Before Writing
 

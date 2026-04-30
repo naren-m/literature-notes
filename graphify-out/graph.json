@@ -5337,7 +5337,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L147",
       "id": "main_createcommonjsmodule",
-      "community": 0,
+      "community": 44,
       "norm_label": "createcommonjsmodule()"
     },
     {
@@ -5346,7 +5346,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L157",
       "id": "main_commonjsrequire",
-      "community": 0,
+      "community": 44,
       "norm_label": "commonjsrequire()"
     },
     {
@@ -5652,7 +5652,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L3898",
       "id": "main_isletter",
-      "community": 34,
+      "community": 39,
       "norm_label": "isletter()"
     },
     {
@@ -5661,7 +5661,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L3904",
       "id": "main_replaceat",
-      "community": 34,
+      "community": 39,
       "norm_label": "replaceat()"
     },
     {
@@ -5670,7 +5670,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L3909",
       "id": "main_smartquotes",
-      "community": 34,
+      "community": 39,
       "norm_label": "smartquotes()"
     },
     {
@@ -5796,7 +5796,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L4996",
       "id": "main_isletter_1",
-      "community": 47,
+      "community": 0,
       "norm_label": "isletter$1()"
     },
     {
@@ -5805,7 +5805,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L5002",
       "id": "main_htmlblock",
-      "community": 47,
+      "community": 0,
       "norm_label": "htmlblock()"
     },
     {
@@ -5832,7 +5832,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L5200",
       "id": "main_skipmarker",
-      "community": 40,
+      "community": 38,
       "norm_label": "skipmarker()"
     },
     {
@@ -5841,7 +5841,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L5222",
       "id": "main_marktightparagraphs_1",
-      "community": 40,
+      "community": 38,
       "norm_label": "marktightparagraphs$1()"
     },
     {
@@ -5850,7 +5850,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L5235",
       "id": "main_deflist",
-      "community": 40,
+      "community": 38,
       "norm_label": "deflist()"
     },
     {
@@ -5949,7 +5949,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L6047",
       "id": "main_isalphanum",
-      "community": 31,
+      "community": 36,
       "norm_label": "isalphanum()"
     },
     {
@@ -5958,7 +5958,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L6055",
       "id": "main_scandelims",
-      "community": 31,
+      "community": 36,
       "norm_label": "scandelims()"
     },
     {
@@ -5967,7 +5967,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L6092",
       "id": "main_emphasis",
-      "community": 31,
+      "community": 36,
       "norm_label": "emphasis()"
     },
     {
@@ -6156,7 +6156,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L8181",
       "id": "main_scriptfromcodepoint",
-      "community": 48,
+      "community": 0,
       "norm_label": "scriptfromcodepoint()"
     },
     {
@@ -6165,7 +6165,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L8216",
       "id": "main_supportedcodepoint",
-      "community": 46,
+      "community": 45,
       "norm_label": "supportedcodepoint()"
     },
     {
@@ -6210,7 +6210,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L8773",
       "id": "main_symbolnode",
-      "community": 48,
+      "community": 0,
       "norm_label": "symbolnode()"
     },
     {
@@ -6273,7 +6273,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L11336",
       "id": "main_getcharactermetrics",
-      "community": 46,
+      "community": 45,
       "norm_label": "getcharactermetrics()"
     },
     {
@@ -6309,7 +6309,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L13593",
       "id": "main_definefunction",
-      "community": 44,
+      "community": 48,
       "norm_label": "definefunction()"
     },
     {
@@ -6318,7 +6318,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L13633",
       "id": "main_definefunctionbuilders",
-      "community": 44,
+      "community": 48,
       "norm_label": "definefunctionbuilders()"
     },
     {
@@ -6345,7 +6345,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L14030",
       "id": "main_newdocumentfragment",
-      "community": 43,
+      "community": 0,
       "norm_label": "newdocumentfragment()"
     },
     {
@@ -6399,7 +6399,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L14916",
       "id": "main_assertnodetype",
-      "community": 36,
+      "community": 31,
       "norm_label": "assertnodetype()"
     },
     {
@@ -6408,7 +6408,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L14928",
       "id": "main_assertsymbolnodetype",
-      "community": 35,
+      "community": 40,
       "norm_label": "assertsymbolnodetype()"
     },
     {
@@ -6417,7 +6417,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L14942",
       "id": "main_checksymbolnodetype",
-      "community": 35,
+      "community": 40,
       "norm_label": "checksymbolnodetype()"
     },
     {
@@ -6426,7 +6426,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L16529",
       "id": "main_checkdelimiter",
-      "community": 35,
+      "community": 40,
       "norm_label": "checkdelimiter()"
     },
     {
@@ -6453,7 +6453,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L17111",
       "id": "main_gethlines",
-      "community": 36,
+      "community": 31,
       "norm_label": "gethlines()"
     },
     {
@@ -6462,7 +6462,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L17135",
       "id": "main_parsearray",
-      "community": 36,
+      "community": 31,
       "norm_label": "parsearray()"
     },
     {
@@ -6498,7 +6498,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L18047",
       "id": "main_mclass_mathmlbuilder",
-      "community": 43,
+      "community": 0,
       "norm_label": "mclass_mathmlbuilder()"
     },
     {
@@ -6579,7 +6579,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L25753",
       "id": "main_matchgrammar",
-      "community": 39,
+      "community": 35,
       "norm_label": "matchgrammar()"
     },
     {
@@ -6597,7 +6597,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L25935",
       "id": "main_addafter",
-      "community": 39,
+      "community": 35,
       "norm_label": "addafter()"
     },
     {
@@ -6606,7 +6606,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L25953",
       "id": "main_removerange",
-      "community": 39,
+      "community": 35,
       "norm_label": "removerange()"
     },
     {
@@ -7722,7 +7722,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L28424",
       "id": "main_sourceevent",
-      "community": 0,
+      "community": 47,
       "norm_label": "sourceevent()"
     },
     {
@@ -7731,7 +7731,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L28430",
       "id": "main_pointer",
-      "community": 0,
+      "community": 47,
       "norm_label": "pointer()"
     },
     {
@@ -7929,7 +7929,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L28869",
       "id": "main_exponential",
-      "community": 45,
+      "community": 49,
       "norm_label": "exponential()"
     },
     {
@@ -7938,7 +7938,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L28875",
       "id": "main_gamma",
-      "community": 45,
+      "community": 49,
       "norm_label": "gamma()"
     },
     {
@@ -8001,7 +8001,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L28988",
       "id": "main_decompose",
-      "community": 38,
+      "community": 41,
       "norm_label": "decompose()"
     },
     {
@@ -8010,7 +8010,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L29007",
       "id": "main_parsecss",
-      "community": 38,
+      "community": 41,
       "norm_label": "parsecss()"
     },
     {
@@ -8019,7 +8019,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L29012",
       "id": "main_parsesvg",
-      "community": 38,
+      "community": 41,
       "norm_label": "parsesvg()"
     },
     {
@@ -8091,7 +8091,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L29174",
       "id": "main_timer",
-      "community": 49,
+      "community": 46,
       "norm_label": "timer()"
     },
     {
@@ -8190,7 +8190,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L29323",
       "id": "main_create",
-      "community": 49,
+      "community": 46,
       "norm_label": "create()"
     },
     {
@@ -8784,7 +8784,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L30335",
       "id": "main_constant_2",
-      "community": 37,
+      "community": 33,
       "norm_label": "constant$2()"
     },
     {
@@ -8829,7 +8829,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L30359",
       "id": "main_link",
-      "community": 37,
+      "community": 33,
       "norm_label": "link()"
     },
     {
@@ -8847,7 +8847,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L30401",
       "id": "main_linkhorizontal",
-      "community": 37,
+      "community": 33,
       "norm_label": "linkhorizontal()"
     },
     {
@@ -9009,7 +9009,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L31015",
       "id": "main_node_path",
-      "community": 0,
+      "community": 43,
       "norm_label": "node_path()"
     },
     {
@@ -9018,7 +9018,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L31035",
       "id": "main_leastcommonancestor",
-      "community": 0,
+      "community": 43,
       "norm_label": "leastcommonancestor()"
     },
     {
@@ -9126,7 +9126,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L31410",
       "id": "main_layoutchildren",
-      "community": 41,
+      "community": 37,
       "norm_label": "layoutchildren()"
     },
     {
@@ -9144,7 +9144,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L31449",
       "id": "main_shiftchange",
-      "community": 41,
+      "community": 37,
       "norm_label": "shiftchange()"
     },
     {
@@ -9216,7 +9216,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L31565",
       "id": "main_positionroot",
-      "community": 41,
+      "community": 37,
       "norm_label": "positionroot()"
     },
     {
@@ -9234,7 +9234,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L31596",
       "id": "main_createforofiteratorhelperloose",
-      "community": 33,
+      "community": 34,
       "norm_label": "_createforofiteratorhelperloose()"
     },
     {
@@ -9243,7 +9243,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L31621",
       "id": "main_unsupportediterabletoarray",
-      "community": 33,
+      "community": 34,
       "norm_label": "_unsupportediterabletoarray()"
     },
     {
@@ -9252,7 +9252,7 @@
       "source_file": "config/note-tools/obsidian/plugins/obsidian-mind-map/main.js",
       "source_location": "L31630",
       "id": "main_arrayliketoarray",
-      "community": 33,
+      "community": 34,
       "norm_label": "_arrayliketoarray()"
     },
     {
@@ -12624,8 +12624,8 @@
       "source_file": "tools/src/visualization/graphs.py",
       "source_location": "L642",
       "weight": 1.0,
-      "_src": "graphs_main",
-      "_tgt": "backfill_wikilinks_parse_args",
+      "_src": "backfill_wikilinks_parse_args",
+      "_tgt": "graphs_main",
       "source": "backfill_wikilinks_parse_args",
       "target": "graphs_main"
     },
@@ -12636,8 +12636,8 @@
       "source_file": "tools/src/knowledge_graph/forest_builder.py",
       "source_location": "L189",
       "weight": 1.0,
-      "_src": "forest_builder_main",
-      "_tgt": "backfill_wikilinks_parse_args",
+      "_src": "backfill_wikilinks_parse_args",
+      "_tgt": "forest_builder_main",
       "source": "backfill_wikilinks_parse_args",
       "target": "forest_builder_main"
     },
@@ -12648,8 +12648,8 @@
       "source_file": "tools/src/knowledge_graph/link_applier.py",
       "source_location": "L179",
       "weight": 1.0,
-      "_src": "link_applier_main",
-      "_tgt": "backfill_wikilinks_parse_args",
+      "_src": "backfill_wikilinks_parse_args",
+      "_tgt": "link_applier_main",
       "source": "backfill_wikilinks_parse_args",
       "target": "link_applier_main"
     },
@@ -12660,8 +12660,8 @@
       "source_file": "tools/src/knowledge_graph/simple_builder.py",
       "source_location": "L389",
       "weight": 1.0,
-      "_src": "simple_builder_main",
-      "_tgt": "backfill_wikilinks_parse_args",
+      "_src": "backfill_wikilinks_parse_args",
+      "_tgt": "simple_builder_main",
       "source": "backfill_wikilinks_parse_args",
       "target": "simple_builder_main"
     },
@@ -12672,8 +12672,8 @@
       "source_file": "tools/src/knowledge_graph/forest.py",
       "source_location": "L487",
       "weight": 1.0,
-      "_src": "forest_main",
-      "_tgt": "backfill_wikilinks_parse_args",
+      "_src": "backfill_wikilinks_parse_args",
+      "_tgt": "forest_main",
       "source": "backfill_wikilinks_parse_args",
       "target": "forest_main"
     },
@@ -12684,8 +12684,8 @@
       "source_file": "tools/src/knowledge_graph/clean_builder.py",
       "source_location": "L527",
       "weight": 1.0,
-      "_src": "clean_builder_main",
-      "_tgt": "backfill_wikilinks_parse_args",
+      "_src": "backfill_wikilinks_parse_args",
+      "_tgt": "clean_builder_main",
       "source": "backfill_wikilinks_parse_args",
       "target": "clean_builder_main"
     },
@@ -12696,8 +12696,8 @@
       "source_file": "tools/src/zettelkasten/core.py",
       "source_location": "L342",
       "weight": 1.0,
-      "_src": "core_main",
-      "_tgt": "backfill_wikilinks_parse_args",
+      "_src": "backfill_wikilinks_parse_args",
+      "_tgt": "core_main",
       "source": "backfill_wikilinks_parse_args",
       "target": "core_main"
     },
@@ -12708,8 +12708,8 @@
       "source_file": "tools/src/generators/search_index.py",
       "source_location": "L312",
       "weight": 1.0,
-      "_src": "search_index_main",
-      "_tgt": "backfill_wikilinks_parse_args",
+      "_src": "backfill_wikilinks_parse_args",
+      "_tgt": "search_index_main",
       "source": "backfill_wikilinks_parse_args",
       "target": "search_index_main"
     },
@@ -12720,8 +12720,8 @@
       "source_file": "tools/src/generators/github_pages.py",
       "source_location": "L1039",
       "weight": 1.0,
-      "_src": "github_pages_main",
-      "_tgt": "backfill_wikilinks_parse_args",
+      "_src": "backfill_wikilinks_parse_args",
+      "_tgt": "github_pages_main",
       "source": "backfill_wikilinks_parse_args",
       "target": "github_pages_main"
     },

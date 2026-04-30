@@ -20,6 +20,24 @@ These rules define how notes are classified and written in this repository so th
 - Distill: rewrite ideas in your own words before making them permanent.
 - Express: prefer notes that are reusable in writing, thinking, and connecting to other ideas.
 
+## LLM-Maintained Wiki Rules
+
+This vault should compound over time. LLM work should be written back into durable markdown only when it improves the vault's future usefulness.
+
+- Keep raw or source-bound material separate from distilled knowledge.
+- Treat literature notes as evidence records, not as polished evergreen claims.
+- Treat research notes as workbenches for unresolved synthesis.
+- Treat permanent notes as the compiled wiki layer: atomic, linkable, and understandable without reopening the source.
+- Treat `AGENTS.md`, `RULES.md`, templates, and tooling docs as the schema that tells agents how to maintain the wiki.
+- Do not let a convenient LLM summary erase provenance, uncertainty, or source boundaries.
+
+Recommended operating loop:
+
+1. Ingest source-bound material into the right non-permanent note type.
+2. Distill only the durable ideas that satisfy the permanent note standard.
+3. Link source notes, permanent notes, and related concepts both ways where useful.
+4. Record meaningful maintenance work in `content/journal/YYYY-MM-DD.md` with headings like `## [YYYY-MM-DD] ingest | Source`, `## [YYYY-MM-DD] query | Topic`, `## [YYYY-MM-DD] lint | Scope`, or `## [YYYY-MM-DD] schema | Scope`.
+
 ## Note Types
 
 ### 1. Permanent Notes

@@ -6,7 +6,7 @@ category: "Media/Articles"
 tags: [cryptography, post-quantum-cryptography, quantum-computing]
 status: complete
 source: "https://blog.cloudflare.com/pq-2025/"
-related: ["[[Cryptography]]", "[[Key exchange]]", "[[Encryption]]", "[[Lattice-based encryption]]"]
+related: ["[[Cryptography]]", "[[Key exchange]]", "[[Encryption]]", "[[Lattice-based encryption]]", "[[Quantum attacks depend on exploitable mathematical structure]]", "[[Harvest now decrypt later makes key exchange urgent]]", "[[Grover's algorithm weakens symmetric security quadratically]]", "[[Post-quantum signature migration is an ecosystem problem]]"]
 ---
 
 # How Quantum Computers Break Encryption: First Principles
@@ -166,3 +166,10 @@ related: ["[[Cryptography]]", "[[Key exchange]]", "[[Encryption]]", "[[Lattice-b
   ---
   
   Source: [Post-Quantum Cryptography](https://blog.cloudflare.com/pq-2025/)
+
+## Distilled permanent notes
+
+- [[Quantum attacks depend on exploitable mathematical structure]]
+- [[Harvest now decrypt later makes key exchange urgent]]
+- [[Grover's algorithm weakens symmetric security quadratically]]
+- [[Post-quantum signature migration is an ecosystem problem]]

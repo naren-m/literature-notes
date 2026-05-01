@@ -5,7 +5,7 @@ type: permanent
 category: "Computer Science/Cryptography"
 tags: [cryptography, encryption, authentication]
 status: draft
-related: ["[[Encryption]]", "[[Public Key]]", "[[Cryptography]]"]
+related: ["[[Encryption]]", "[[Public Key]]", "[[Cryptography]]", "[[Harvest now decrypt later makes key exchange urgent]]", "[[Quantum attacks depend on exploitable mathematical structure]]"]
 ---
 
 # Key exchange
@@ -21,3 +21,5 @@ This is why quantum attacks against RSA and elliptic-curve cryptography are urge
 - [[Encryption]]
 - [[Public Key]]
 - [[Cryptography]]
+- [[Harvest now decrypt later makes key exchange urgent]]
+- [[Quantum attacks depend on exploitable mathematical structure]]

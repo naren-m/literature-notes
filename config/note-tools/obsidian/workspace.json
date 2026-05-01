@@ -11,10 +11,14 @@
             "id": "f351e7c3b01a578b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/media/books/highlights/The Subtle Art of Not Giving a Fck.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Subtle Art of Not Giving a Fck"
             }
           }
         ],
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "content/media/books/highlights/The Subtle Art of Not Giving a Fck.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of The Subtle Art of Not Giving a Fck"
             }
           }
         ],
@@ -168,6 +173,19 @@
   },
   "active": "f351e7c3b01a578b",
   "lastOpenFiles": [
+    "zettelkasten.db-journal",
+    "content/journal/2026-05-01.md",
+    "pages/SuryaSidhantam.md",
+    "pages/Panchangam.md",
+    "config/note-tools/obsidian/community-plugins.json",
+    "docs/sanskrit-lit/howtospeaklikehanuma/index.md",
+    "docs/sanskrit-lit/howtospeaklikehanuma",
+    "docs/sanskrit-lit",
+    "docs",
+    "Untitled 1.canvas",
+    "content/media/books/highlights/Shoe Dog.md",
+    "INDEX.md",
+    "content/media/articles/LLM Wiki.md",
     "sabda-vrittis.md",
     "Bantu reethi Kolu.md",
     "vyañjanā.md",
@@ -179,10 +197,8 @@
     "content/empty/yoga_sutras.md",
     "content/empty/Dhatu Manjari.md",
     "content/empty",
-    "INDEX.md",
     "content/domains/computer-science/design-patterns/Decorator Pattern.md",
     "config/note-tools/logseq/bak/CSE/design_patterns/design_patterns/Design Patterns.md",
-    "Untitled 1.canvas",
     "content/domains/mathematics/general/Bhuja koti karani nyayam.md",
     "content/media/books/highlights/Introducing Game Theory.md",
     "content/domains/mathematics/general/Pythagorean Theorem.md",
@@ -190,15 +206,8 @@
     "pages/DP Practice.md",
     "pages/Dynamic Programming.md",
     "journals/2025_08_01.md",
-    "Dhatu Manjari.md",
-    "content/domains/computer-science/cryptography/Cryptography.md",
-    "yoga_sutras.md",
-    "config/note-tools/logseq/bak/sanskrit-lit/Dharma/2025-09-09T03_40_44.135Z.Desktop.md",
     "Recording 20260410231350.m4a",
     "Untitled.canvas",
-    "config/note-tools/logseq/bak/sanskrit-lit/Sutra/Sutra.md",
-    "RULES.md",
-    "AGENTS.md",
     "Untitled 1.base",
     "Untitled 2.canvas",
     "Utharayana_Dakshanayan.jpg",

@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "how to speak like hanuman",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,8 +173,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b89595c7e0596318",
+  "active": "f351e7c3b01a578b",
   "lastOpenFiles": [
+    "logseq/bak/INDEX/2026-05-01T23_31_53.103Z.Desktop.md",
+    "logseq/bak/INDEX",
+    "logseq/bak",
+    "logseq",
     "docs/sanskrit-lit/howtospeaklikehanuma/index.md",
     "finances/three_bucket_investment_strategy.md",
     "madam.md",
@@ -201,16 +205,12 @@
     "logseq/bak/music/Katapayadi_Melakarta_Chakra_Complete_Guide",
     "logseq/bak/music",
     "logseq/bak/INDEX/2026-05-01T23_19_48.528Z.Desktop.md",
-    "logseq/bak/INDEX",
     "logseq/bak/content/media/books/highlights/Shoe Dog/2026-05-01T23_19_48.508Z.Desktop.md",
     "logseq/bak/content/media/books/highlights/Shoe Dog",
-    "logseq/bak/content/media/books/highlights",
-    "logseq/bak/content/media/books",
     "logseq/bak/content/domains/humanities/sanskrit-literature/VishnuSahasranamam/2026-05-01T23_19_48.482Z.Desktop.md",
     "logseq/bak/content/domains/humanities/sanskrit-literature/Vaiseshika Darshanam/2026-05-01T23_19_48.481Z.Desktop.md",
     "logseq/bak/content/domains/humanities/sanskrit-literature/Sulba Sutras/2026-05-01T23_19_48.480Z.Desktop.md",
     "logseq/bak/content/domains/humanities/sanskrit-literature/Sangitaratnakaram/2026-05-01T23_19_48.480Z.Desktop.md",
-    "logseq/bak/content/domains/humanities/sanskrit-literature/Prana/2026-05-01T23_19_48.479Z.Desktop.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",

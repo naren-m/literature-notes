@@ -1,6 +1,6 @@
 
-**śabda-vṛtti** (the "functions" or powers of a word)
-## The three śabda-vṛttis
+**sabda-vṛtti** (the "functions" or powers of a word)
+## The three [[sabda]]-vṛttis
 
 A word in this tradition is said to carry meaning via three distinct functions:
 

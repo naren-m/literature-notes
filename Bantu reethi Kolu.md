@@ -1,4 +1,3 @@
-
 __Pallavi__: baNTu rIti koluv(i)yya(v)ayya rAma
 
 __Anupallavi__: tuNTa viNTi vAni modalaina [[mada]](A)dula goTTi nEla gUla jEyu nija (baNTu)

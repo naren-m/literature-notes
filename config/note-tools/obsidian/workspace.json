@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mada.md",
+                "file": "Sabda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mada"
+              "title": "Sabda"
             }
           }
         ],
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mada.md",
+                "file": "Sabda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for mada"
+              "title": "Backlinks for Sabda"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mada.md",
+                "file": "Sabda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from mada"
+              "title": "Outgoing links from Sabda"
             }
           },
           {
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mada.md",
+                "file": "Sabda.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of mada"
+              "title": "Outline of Sabda"
             }
           }
         ],
@@ -174,8 +174,14 @@
   },
   "active": "f351e7c3b01a578b",
   "lastOpenFiles": [
-    "Bantu reethi Kolu.md",
+    "sabda-vrittis.md",
+    "logseq/bak/sabda-vrittis/2026-05-01T23_25_18.120Z.Desktop.md",
+    "logseq/bak/sabda-vrittis/2026-05-01T23_25_14.091Z.Desktop.md",
+    "logseq/bak/sabda-vrittis",
+    "Sabda.md",
+    "madam.md",
     "mada.md",
+    "Bantu reethi Kolu.md",
     "AGENTS.md",
     "Readme.md",
     "vyañjanā.md",
@@ -196,7 +202,6 @@
     "logseq/bak/content/media/books/highlights/Shoe Dog",
     "logseq/bak/content/media/books/highlights",
     "logseq/bak/content/media/books",
-    "logseq/bak/content/media",
     "logseq/bak/content/domains/humanities/sanskrit-literature/VishnuSahasranamam/2026-05-01T23_19_48.482Z.Desktop.md",
     "logseq/bak/content/domains/humanities/sanskrit-literature/Vaiseshika Darshanam/2026-05-01T23_19_48.481Z.Desktop.md",
     "logseq/bak/content/domains/humanities/sanskrit-literature/Sulba Sutras/2026-05-01T23_19_48.480Z.Desktop.md",
@@ -205,11 +210,6 @@
     "logseq/bak/content/domains/humanities/sanskrit-literature/Dharma/2026-05-01T23_19_48.478Z.Desktop.md",
     "logseq/bak/content/domains/humanities/sanskrit-literature/Nada/2026-05-01T23_19_48.478Z.Desktop.md",
     "logseq/bak/content/domains/humanities/sanskrit-literature/Brihadesi/2026-05-01T23_19_48.478Z.Desktop.md",
-    "logseq/bak/content/domains/humanities/sanskrit-literature/Agni/2026-05-01T23_19_48.477Z.Desktop.md",
-    "logseq/bak/content/domains/computer-science/cryptography/Zero-Trust/2026-05-01T23_19_48.473Z.Desktop.md",
-    "logseq/bak/content/domains/computer-science/cryptography/Zero Day Attack/2026-05-01T23_19_48.415Z.Desktop.md",
-    "logseq/bak/content/domains/computer-science/cryptography/Strong Authentication/2026-05-01T23_19_48.401Z.Desktop.md",
-    "logseq/bak/content/domains/computer-science/cryptography/Side Channel Attack/2026-05-01T23_19_48.393Z.Desktop.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",

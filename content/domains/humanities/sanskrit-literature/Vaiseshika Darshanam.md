@@ -51,7 +51,7 @@ Properties that inhere in substances but cannot exist independently. Twenty-four
 2. **Rasa (Taste)** - Gustatory quality  
 3. **Gandha (Smell)** - Olfactory quality
 4. **Sparsha (Touch)** - Tactile quality
-5. **[[Shabda]] (Sound)** - Auditory quality
+5. **[[Sabda]] (Sound)** - Auditory quality
 
 #### Physical Qualities
 6. **Sankhya (Number)** - Numerical quantity

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c4e9a62ed2821c0f",
+        "id": "81c492d0a456bebc",
         "type": "tabs",
         "children": [
           {
-            "id": "f351e7c3b01a578b",
+            "id": "6788069b8ca70298",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "finances/three_bucket_investment_strategy.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "three_bucket_investment_strategy"
+              "title": "New tab"
             }
           }
         ],
@@ -96,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "finances/three_bucket_investment_strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +101,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for three_bucket_investment_strategy"
+              "title": "Backlinks"
             }
           },
           {
@@ -115,12 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "finances/three_bucket_investment_strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from three_bucket_investment_strategy"
+              "title": "Outgoing links"
             }
           },
           {
@@ -144,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "finances/three_bucket_investment_strategy.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of three_bucket_investment_strategy"
+              "title": "Outline"
             }
           }
         ],
@@ -173,14 +166,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f351e7c3b01a578b",
+  "active": "6788069b8ca70298",
   "lastOpenFiles": [
+    "finances/three_bucket_investment_strategy.md",
     "logseq/bak/INDEX/2026-05-01T23_31_53.103Z.Desktop.md",
     "logseq/bak/INDEX",
     "logseq/bak",
     "logseq",
     "docs/sanskrit-lit/howtospeaklikehanuma/index.md",
-    "finances/three_bucket_investment_strategy.md",
     "madam.md",
     "logseq/bak/content/domains/humanities/sanskrit-literature/Vaiseshika Darshanam/2026-05-01T23_25_26.938Z.Desktop.md",
     "Sabda.md",

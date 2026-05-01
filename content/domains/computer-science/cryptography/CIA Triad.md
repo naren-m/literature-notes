@@ -6,7 +6,7 @@ CIA Triad is a reference to [[Confidentiality]], [[Integrity]], and [[Availabili
 
 
 Each is a category of security:
-- ## Confidentiality
+- ## [[Confidentiality]]
 	- {{embed ((67046651-45a7-4880-9369-6c5895d3b254))}}
 -
 - ## [[Integrity]]

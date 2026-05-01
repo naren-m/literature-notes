@@ -1,20 +1,23 @@
+---
+title: "HMAC"
+date: 2026-04-30
+type: permanent
+category: "Computer Science/Cryptography"
+tags: [cryptography, authentication, hashing]
+status: draft
+related: ["[[Message Authentication Code]]", "[[Hashing]]", "[[Authentication]]"]
+---
+
 # HMAC
 
-HMAC is a hash that is seeded with a secret key. The two elements of HMAC.
-• [[Hashing]] algorithm
-• [[Authentication]]
-HMAC can use a variety of hashing algorithms:
+HMAC is a specific way to build a [[Message Authentication Code]] from a cryptographic hash function and a shared secret key.
 
-md5 --- sha1
-sha224 --- sha256
-sha384 --- black2b
-black2s --- and others
+The hash alone proves only that data maps to a digest. HMAC adds a secret, so only parties that know the key can produce the same authentication tag. That makes it useful for verifying message [[Integrity]] and origin in systems where both sides share a secret.
 
-Here is the implementation for HMAC in Python.
-Call the hmac.new function to great new hashing used the password and the designated hashing algorithm.
-hmac.new(plaintext, password, hashing algorithm)
-import hashlib import hmac
-hmac1 = hmac.new(b'info 1', b'1234', hashlib.md5)
-hmac2 = hmac.new(b'info 2', b'1234', hashlib.sha1)
-print("MD5", hmac1.hexdigest())
-print("SHA1", hmac2.hexdigest())
+The important distinction is that HMAC is not encryption. It does not hide the message; it helps detect tampering and authenticate who could have produced the tag.
+
+## Related
+
+- [[Message Authentication Code]]
+- [[Hashing]]
+- [[Authentication]]

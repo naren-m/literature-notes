@@ -1,18 +1,24 @@
+---
+title: "Repudiation"
+date: 2026-04-30
+type: permanent
+category: "Computer Science/Security"
+tags: [security, stride, logging]
+status: draft
+source: "https://capec.mitre.org/data/definitions/93.html"
+related: ["[[STRIDE]]", "[[Digital signatures]]", "[[Authentication]]"]
+---
+
 # Repudiation
 
-Repudiation is a process in which you cannot prove that a transaction took place between two entities.
-- [[Repudiation]]: repudiation of activity. Compromise of [[NonRepudiation]]. (Trying to hide who we are)
-  
-  Repudiation = rejection of a proposal or idea.
-  
-  A repudiation attack happens when an application or system does not adopt controls to properly track and log users’ actions, thus permitting malicious manipulation or forging the identification of new actions. This attack can be used to change the authoring information of actions executed by a malicious user in order to log wrong data to log files. Its usage can be extended to general data manipulation in the name of others, in a similar manner as [[Spoofing|spoofing]] mail messages. If this attack takes place, the data stored on log files can be considered invalid or misleading.
-  
-  Related Vulnerabilities
-  Category: Input Validation
-  Category: Access Control Vulnerability
-  Category: Logging and Auditing Vulnerability
-- ## References
-- [capec](https://capec.mitre.org/data/definitions/93.html)
-- [oswap repudition](https://owasp.org/www-community/attacks/Repudiation_Attack#:~:text=Description,the%20identification%20of%20new%20actions)
-- ## Tags
-- #security
+Repudiation is the security problem where someone can deny an action because the system cannot prove who did it or whether it happened.
+
+In [[STRIDE]], repudiation points to weak evidence: missing audit logs, mutable logs, poor identity binding, or actions that are not signed or otherwise attributable. The risk is not just that an event occurs, but that the record of responsibility cannot be trusted afterward.
+
+Controls include tamper-resistant audit trails, [[Authentication]], timestamps, authorization records, and [[Digital signatures]] when messages or transactions need stronger proof of origin.
+
+## Related
+
+- [[STRIDE]]
+- [[Digital signatures]]
+- [[Authentication]]

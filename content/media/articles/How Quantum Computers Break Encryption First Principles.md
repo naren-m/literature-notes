@@ -1,3 +1,14 @@
+---
+title: "How Quantum Computers Break Encryption: First Principles"
+date: 2026-04-30
+type: literature
+category: "Media/Articles"
+tags: [cryptography, post-quantum-cryptography, quantum-computing]
+status: complete
+source: "https://blog.cloudflare.com/pq-2025/"
+related: ["[[Cryptography]]", "[[Key exchange]]", "[[Encryption]]", "[[Lattice-based encryption]]"]
+---
+
 # How Quantum Computers Break Encryption: First Principles
 - ## The Core Problem: Why Do We Need New [[Cryptography]]?
 - ### Today's internet security relies on "hard math problems"
@@ -142,7 +153,7 @@
   
   **AES-256 is quantum-safe** because even "slightly faster guessing" doesn't help when there are 2²⁵⁶ possibilities.
   
-  The quantum threat is specifically about **[[Key exchange|key exchange]]** (RSA/ECC), not about **[[Data encryption|data encryption]]** (AES).
+  The quantum threat is specifically about **[[Key exchange|key exchange]]** (RSA/ECC), not about **[[Encryption|data encryption]]** (AES).
   
   ---
 - ## Symmetric vs Asymmetric Summary

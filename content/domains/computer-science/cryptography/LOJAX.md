@@ -1,34 +1,24 @@
-# LOJAX
+---
+title: "LoJax"
+date: 2026-04-30
+type: permanent
+category: "Computer Science/Security"
+tags: [security, firmware, rootkit, uefi]
+status: draft
+source: "https://attack.mitre.org/groups/G0007/"
+related: ["[[Root of trust]]", "[[Zero-Trust]]", "[[Security Vulnerabilities]]"]
+---
 
-UEFI ROOTKIT
+# LoJax
 
-SEDNIT, a cyberattack group, used LoJax malware to launch attacks against governments in Europe.
-Here is more information on SEDNIT:
+LoJax is a UEFI rootkit attack that shows why firmware belongs inside the security boundary.
 
-https://attack.mitre.org/groups/G0007/
+Unlike ordinary malware, a firmware implant can survive operating-system reinstallations because it lives below the OS. LoJax abused the legitimate LoJack/Computrace firmware persistence mechanism and redirected it toward attacker-controlled behavior.
 
-LoJax attacks are based on a legitimate product: Absolute Software LoJack product, originally called Computrace. LoJack allowed consumers to locate their computer to prevent theft. LoJax compromises the LoJack product.
-Unbeknownst to consumers, Lojack was preinstalled on computers from a variety of vendors.
+The durable lesson is that persistence below the operating system weakens ordinary detection and recovery assumptions. Secure Boot, firmware update controls, supply-chain trust, and a defensible [[Root of trust]] matter because the OS cannot fully protect itself from compromised firmware underneath it.
 
-https://bit.ly/3ACevzG
+## Related
 
-
-Lojack is installed in the UEFI firmware of a computer or device. It relies on networking to “call home” and provide location information. There are several vulnerabilities
-• UEFI is network enabled
-• Lojack is persistent
-• Since it is based on an actual product, most anti-virus programs and scanners do not detect a LoJax attack
-• And much more
-
-
-The security strategy of Absolute Software appeared to be –
-“Security by obscurity”
-Security by obscurity is rarely an adequate security defense. Worst of all, Absolute Software was made aware of potential problems in 2009. However, Absolute Software downplayed the problem for several years.
-
-
-SEDNIT leveraged the network capability of LoJack.
-• Dump system information to a file
-• Redirected data from the device to
-a server controlled by attackers
-• Save the image of the system firmware
-• Wrote a malicious module into the image and saved back to the SPI flash memory
-Important: Secure Boot may not prevent this attack.
+- [[Root of trust]]
+- [[Zero-Trust]]
+- [[Security Vulnerabilities]]

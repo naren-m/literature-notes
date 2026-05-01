@@ -1,25 +1,23 @@
+---
+title: "Side Channel Attack"
+date: 2026-04-30
+type: permanent
+category: "Computer Science/Security"
+tags: [security, cryptography, hardware]
+status: draft
+related: ["[[Cryptography]]", "[[Cache prefetching]]", "[[Rowhammer]]"]
+---
+
 # Side Channel Attack
 
-Side channel attacks are often the most creative sort of exploitation.
-A side channel attack exploits the unintended information exhaust of an application or device. For example, the electrical emissions of a computer monitor or integrated chip (IC).
+A side channel attack extracts secrets from indirect signals instead of from the intended input or output of a system.
 
-Side channel attacks can be avoided by [[Encryption]]
+Examples include timing differences, power use, electromagnetic radiation, sound, cache behavior, and memory disturbance. The attacker is not necessarily breaking the mathematical primitive; they are measuring the implementation or environment around it.
 
-[[Rowhammer]] attacks are an example of a side channel attack.
+This is why [[Cryptography]] must be implemented with attention to physical and operational behavior. A theoretically secure algorithm can still leak useful information through cache timing, branching, hardware effects, or repeated observable patterns.
 
+## Related
 
-When securing applications, the focus is on inputs and outputs, the conventional attack points. This is the traditional approach even for hardware and UEFI.
-However, hardware exists at a physical level. Computers can sometimes be attacked based on physical side effects, such as power, time, and sound. Hackers use Side Channel attacks to interpret these side effects. They can then obtain sensitive data and even secrets.
-
-The most common Side Channel attacks are:
-- Timing attack. An attack that measures the amount of time to complete a calculation or algorithm.
-- Power analysis attack. An attack that measures power consumption for various calculations, algorithms, or activities.
-- Electromagnetic attack. An attack that measures leaked electromagnetic radiation.
-- Acoustic attack. An attack that measures amount or deviation of sound related to a calculation, algorithm, or activity.
-- And many more
-
-
-Tel Aviv University has done significant research on side channel attacks. 
-For example: https://bit.ly/3xOfuLt
-
-What offers effective protection against a side channel attack? [[Cryptography]]!
+- [[Cryptography]]
+- [[Cache prefetching]]
+- [[Rowhammer]]

@@ -1,21 +1,24 @@
+---
+title: "Zero Day Attack"
+date: 2026-04-30
+type: permanent
+category: "Computer Science/Security"
+tags: [security, vulnerabilities]
+status: draft
+source: "https://www.trellix.com/en-us/security-awareness/cybersecurity/what-is-a-zero-day-exploit.html"
+related: ["[[Security Vulnerabilities]]", "[[Buffer Overflows]]", "[[STRIDE]]"]
+---
+
 # Zero Day Attack
 
+A zero day attack exploits a vulnerability before the defender has a patch or reliable mitigation available.
 
-If a hacker manages to exploit the vulnerability before software developers can find a fix, that exploit becomes known as a zero day attack.
+The vulnerability can be in many forms: missing [[Encryption|data encryption]], memory safety bugs such as [[Buffer Overflows]], broken authorization, unsafe redirects, parsing flaws, or other [[Security Vulnerabilities]]. What makes it "zero day" is the timing advantage, not the technical category.
 
-Zero day vulnerabilities can take almost any form, because they can manifest as
-any type of broader software vulnerability.
+The practical defense is layered resilience. Since unknown flaws cannot be patched in advance, systems need least privilege, monitoring, segmentation, rapid patching paths, and controls that reduce the blast radius when a new exploit appears.
 
-For example, they could take the form of missing
-- [[Data encryption]]
-- [[SQL injection]]
+## Related
+
+- [[Security Vulnerabilities]]
 - [[Buffer Overflows]]
-- missing authorizations
-- broken algorithms
-- URL redirects
-- bugs
-- or problems with password security.
-  
-  This makes zero day vulnerabilities difficult to proactively find—which in some ways is good news, because it also means hackers will have a hard time finding them. But it also means it’s difficult to guard against these vulnerabilities effectively.
-- ## References
-  [What is a zero-day exploit?](https://www.trellix.com/en-us/security-awareness/cybersecurity/what-is-a-zero-day-exploit.html)
+- [[STRIDE]]

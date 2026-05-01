@@ -1,50 +1,30 @@
+---
+title: "Cache prefetching"
+date: 2026-04-30
+type: permanent
+category: "Computer Science/Computer Architecture"
+tags: [computer-architecture, performance, security]
+status: draft
+source: "https://en.wikipedia.org/wiki/Cache_prefetching"
+related: ["[[Side Channel Attack]]", "[[Rowhammer]]", "[[Cryptography]]"]
+---
+
 # Cache prefetching
 
-It is a technique used by computer processors to boost the execution performance by fetching the Data or Instructions into the local memory "[[Cache]]"
+Cache prefetching is a performance technique where hardware or software brings data or instructions into cache before the processor asks for them.
 
-## Source
-<https://en.wikipedia.org/wiki/Cache_prefetching#:~:text=Cache%20prefetching%20is%20a%20technique>,hence%20the%20term%20'prefetch').
+The benefit is latency hiding. If the prefetcher predicts correctly, the data is already nearby when execution needs it, so the program avoids a slower memory access. If it predicts poorly, the prefetch can waste bandwidth, evict useful data, or expose access patterns.
 
-## Data vs. instruction cache prefetching
+Good prefetching balances three properties:
 
-Cache prefetching can either fetch data or instructions into cache.
+- Coverage: how many would-be cache misses are avoided.
+- Accuracy: how many prefetches are actually used.
+- Timeliness: whether the data arrives early enough to help but not so early that it is evicted.
 
-- Data prefetching fetches data before it is needed. Because data access patterns show less regularity than instruction patterns, accurate data prefetching is generally more challenging than instruction prefetching.
-- Instruction prefetching fetches instructions before they need to be executed. The first mainstream microprocessors to use some form of instruction prefetch were the Intel 8086 (six bytes) and the Motorola 68000 (four bytes). In recent years, all high-performance processors use prefetching techniques.
+The security connection is that caches make behavior observable. Timing differences from cache hits and misses can become inputs to a [[Side Channel Attack]], even when the original optimization was only meant to improve performance.
 
-## Hardware vs. software cache prefetching
+## Related
 
-Cache prefetching can be accomplished either by hardware or by software.[2]
-
-- Hardware based prefetching is typically accomplished by having a dedicated hardware mechanism in the processor that watches the stream of instructions or data being requested by the executing program, recognizes the next few elements that the program might need based on this stream and prefetches into the processor's cache.[3]
-- Software based prefetching is typically accomplished by having the compiler analyze the code and insert additional "prefetch" instructions in the program during compilation itself.[4]
-
-## Metrics of cache prefetching
-
-There are three main metrics to judge cache prefetching[2]
-
-### Coverage
-
-Coverage is the fraction of total misses that are eliminated because of prefetching, i.e.
-
-```math
-{\displaystyle Coverage={\frac {\text{Cache Misses eliminated by Prefetching}}{\text{Total Cache Misses}}}}{\displaystyle Coverage={\frac {\text{Cache Misses eliminated by Prefetching}}{\text{Total Cache Misses}}}},
-
-where, {\displaystyle {\text{Total Cache Misses}}=({\text{Cache misses eliminated by prefetching}})+({\text{Cache misses not eliminated by prefetching}})}{\displaystyle {\text{Total Cache Misses}}=({\text{Cache misses eliminated by prefetching}})+({\text{Cache misses not eliminated by prefetching}})}
-```
-
-### Accuracy
-
-Accuracy is the fraction of total prefetches that were useful - i.e. the ratio of the number of memory addresses prefetched were actually referenced by the program to the total prefetches done.
-
-```math
-{\displaystyle {\text{Prefetch Accuracy}}={\frac {\text{Cache Misses eliminated by prefetching}}{({\text{Useless Cache Prefetches}})+({\text{Cache Misses eliminated by prefetching}})}}}{\displaystyle {\text{Prefetch Accuracy}}={\frac {\text{Cache Misses eliminated by prefetching}}{({\text{Useless Cache Prefetches}})+({\text{Cache Misses eliminated by prefetching}})}}}
-```
-
-While it appears that having perfect accuracy might imply that there are no misses, this is not the case. The prefetches themselves might result in new misses if the prefetched blocks are placed directly into the cache. Although these may be a small fraction of the total number of misses we might see without any prefetching, this is a non-zero number of misses.
-
-### Timeliness
-
-The qualitative definition of timeliness is how early a block is prefetched versus when it is actually referenced. An example to further explain timeliness is as follows :
-
-Consider a for loop where each iteration takes 3 cycles to execute and the 'prefetch' operation takes 12 cycles. This implies that for the prefetched data to be useful, we must start the prefetch {\displaystyle 12/3=4}{\displaystyle 12/3=4} iterations prior to its usage to maintain timeliness.
+- [[Side Channel Attack]]
+- [[Rowhammer]]
+- [[Cryptography]]

@@ -1,3 +1,12 @@
+---
+title: "John Sinnott Application"
+date: 2026-04-30
+type: journal
+category: "Journal"
+tags: [journal, school, registration]
+status: archived
+---
+
 # John Sinnott Application
 
 [HOME](https://sinnott.musd.org/)

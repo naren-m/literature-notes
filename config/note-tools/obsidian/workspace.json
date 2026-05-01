@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sabda.md",
+                "file": "finances/three_bucket_investment_strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sabda"
+              "title": "three_bucket_investment_strategy"
             }
           }
         ],
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cia triad",
+                "query": "how to speak like hanuman",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sabda.md",
+                "file": "finances/three_bucket_investment_strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sabda"
+              "title": "Backlinks for three_bucket_investment_strategy"
             }
           },
           {
@@ -114,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sabda.md",
+                "file": "finances/three_bucket_investment_strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sabda"
+              "title": "Outgoing links from three_bucket_investment_strategy"
             }
           },
           {
@@ -143,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sabda.md",
+                "file": "finances/three_bucket_investment_strategy.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sabda"
+              "title": "Outline of three_bucket_investment_strategy"
             }
           }
         ],
@@ -172,14 +173,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f351e7c3b01a578b",
+  "active": "b89595c7e0596318",
   "lastOpenFiles": [
+    "docs/sanskrit-lit/howtospeaklikehanuma/index.md",
+    "finances/three_bucket_investment_strategy.md",
+    "madam.md",
+    "logseq/bak/content/domains/humanities/sanskrit-literature/Vaiseshika Darshanam/2026-05-01T23_25_26.938Z.Desktop.md",
+    "Sabda.md",
     "sabda-vrittis.md",
     "logseq/bak/sabda-vrittis/2026-05-01T23_25_18.120Z.Desktop.md",
     "logseq/bak/sabda-vrittis/2026-05-01T23_25_14.091Z.Desktop.md",
     "logseq/bak/sabda-vrittis",
-    "Sabda.md",
-    "madam.md",
     "mada.md",
     "Bantu reethi Kolu.md",
     "AGENTS.md",
@@ -207,9 +211,6 @@
     "logseq/bak/content/domains/humanities/sanskrit-literature/Sulba Sutras/2026-05-01T23_19_48.480Z.Desktop.md",
     "logseq/bak/content/domains/humanities/sanskrit-literature/Sangitaratnakaram/2026-05-01T23_19_48.480Z.Desktop.md",
     "logseq/bak/content/domains/humanities/sanskrit-literature/Prana/2026-05-01T23_19_48.479Z.Desktop.md",
-    "logseq/bak/content/domains/humanities/sanskrit-literature/Dharma/2026-05-01T23_19_48.478Z.Desktop.md",
-    "logseq/bak/content/domains/humanities/sanskrit-literature/Nada/2026-05-01T23_19_48.478Z.Desktop.md",
-    "logseq/bak/content/domains/humanities/sanskrit-literature/Brihadesi/2026-05-01T23_19_48.478Z.Desktop.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",

@@ -28,3 +28,7 @@ config/note-tools/logseq/bak/
 graphify-out/cache/
 graphify-out/.graphify_*
 graphify-out/.needs_update
+
+# MemPalace per-project files (issue #185)
+mempalace.yaml
+entities.json

@@ -11,14 +11,26 @@
             "id": "f351e7c3b01a578b",
             "type": "leaf",
             "state": {
+              "type": "audio",
+              "state": {
+                "file": "Recording 20260410231350.m4a"
+              },
+              "icon": "lucide-file-audio",
+              "title": "Recording 20260410231350"
+            }
+          },
+          {
+            "id": "65dcc8e112cf364f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "content/domains/computer-science/cryptography/CIA Triad.md",
+                "file": "content/domains/computer-science/cryptography/Confidentiality.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CIA Triad"
+              "title": "Confidentiality"
             }
           }
         ],
@@ -75,8 +87,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Recording 20260410231350.m4a",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +117,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Recording 20260410231350"
             }
           },
           {
@@ -114,11 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Recording 20260410231350.m4a",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Recording 20260410231350"
             }
           },
           {
@@ -142,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/domains/computer-science/cryptography/CIA Triad.md",
+                "file": "Recording 20260410231350.m4a",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CIA Triad"
+              "title": "Outline of Recording 20260410231350"
             }
           }
         ],
@@ -173,6 +186,11 @@
   },
   "active": "f351e7c3b01a578b",
   "lastOpenFiles": [
+    "vyañjanā.md",
+    "content/domains/computer-science/cryptography/CIA Triad.md",
+    "logseq/bak/content/domains/computer-science/cryptography/Confidentiality/2026-05-01T23_23_01.981Z.Desktop.md",
+    "logseq/bak/content/domains/computer-science/cryptography/Confidentiality",
+    "content/domains/computer-science/cryptography/Confidentiality.md",
     "pages/Decorator Pattern.md",
     "logseq/bak/music/Katapayadi_Melakarta_Guide/2026-05-01T23_19_49.592Z.Desktop.md",
     "logseq/bak/music/Katapayadi_Melakarta_Guide",
@@ -189,7 +207,6 @@
     "logseq/bak/content/domains/humanities/sanskrit-literature/VishnuSahasranamam/2026-05-01T23_19_48.482Z.Desktop.md",
     "logseq/bak/content/domains/humanities/sanskrit-literature/VishnuSahasranamam",
     "logseq/bak/content/domains/humanities/sanskrit-literature/Vaiseshika Darshanam/2026-05-01T23_19_48.481Z.Desktop.md",
-    "logseq/bak/content/domains/humanities/sanskrit-literature/Vaiseshika Darshanam",
     "logseq/bak/content/domains/humanities/sanskrit-literature/Sulba Sutras/2026-05-01T23_19_48.480Z.Desktop.md",
     "logseq/bak/content/domains/humanities/sanskrit-literature/Sangitaratnakaram/2026-05-01T23_19_48.480Z.Desktop.md",
     "logseq/bak/content/domains/humanities/sanskrit-literature/Prana/2026-05-01T23_19_48.479Z.Desktop.md",
@@ -205,10 +222,6 @@
     "logseq/bak/content/domains/computer-science/cryptography/Root of trust/2026-05-01T23_19_48.319Z.Desktop.md",
     "logseq/bak/content/domains/computer-science/cryptography/Repudiation/2026-05-01T23_19_48.312Z.Desktop.md",
     "logseq/bak/content/domains/computer-science/cryptography/Message Authentication Code/2026-05-01T23_19_48.286Z.Desktop.md",
-    "logseq/bak/content/domains/computer-science/cryptography/LOJAX/2026-05-01T23_19_48.280Z.Desktop.md",
-    "logseq/bak/content/domains/computer-science/cryptography/JSON/2026-05-01T23_19_48.248Z.Desktop.md",
-    "logseq/bak/content/domains/computer-science/cryptography/HMAC/2026-05-01T23_19_48.246Z.Desktop.md",
-    "logseq/bak/content/domains/computer-science/cryptography/ENTROPY/2026-05-01T23_19_48.228Z.Desktop.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",

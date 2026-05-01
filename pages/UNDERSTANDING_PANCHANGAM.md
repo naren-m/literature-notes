@@ -2,9 +2,9 @@
 
 ## Preface: Why This Matters
 
-Before GPS satellites, before atomic clocks, before even mechanical timepieces—humans needed reliable ways to track time for agriculture, navigation, and coordinating social activities. The Panchangam (Sanskrit: पञ्चाङ्ग, "five limbs") represents one of humanity's most sophisticated solutions: a timekeeping system derived entirely from observable celestial mechanics.
+Before GPS satellites, before atomic clocks, before even mechanical timepieces—humans needed reliable ways to track time for agriculture, navigation, and coordinating social activities. The Panchangam (Sanskrit: पञ्चाङ्ग, "five parts") represents one of humanity's most sophisticated solutions: a timekeeping system derived entirely from observable celestial mechanics.
 
-What makes this system remarkable from an engineering perspective is its **elegance**. Using only two observable quantities—the positions of the Sun and Moon—ancient astronomers derived five independent time metrics that capture different aspects of the lunar-solar relationship. No external references needed. No arbitrary conventions. Just geometry and observation.
+What makes this system remarkable from an engineering perspective is its **elegance**. Using only two observable quantities—the positions of the Sun and Moon—ancient astronomers derived five independent time metrics that capture different aspects of the lunar-solar relationship. No external references needed. No arbitrary conventions. Just geometry and observation. [[SuryaSidhantam]] had the details on how the calculations are done.
 
 ---
 

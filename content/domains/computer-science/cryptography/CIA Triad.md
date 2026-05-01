@@ -6,17 +6,14 @@ CIA Triad is a reference to [[Confidentiality]], [[Integrity]], and [[Availabili
 
 
 Each is a category of security:
-
-## Confidentiality
-	- ``{{embed ((67046651-45a7-4880-9369-6c5895d3b254)`)}}`
-
-## [[Integrity]]
+- ## Confidentiality
+	- `{{embed ((67046651-45a7-4880-9369-6c5895d3b254))}}
+- ## [[Integrity]]
   
-	[[Integrity]] is about trust. Knowing whether data is reliable is essential in preventing attacks.
+  [[Integrity]] is about trust. Knowing whether data is reliable is essential in preventing attacks.
   
   [[Hashing]] algorithms are used to confirm [[integrity]].
-
-## [[Availability]]
+- ## [[Availability]]
   
   [[Availability]] means resources and services are available as expected.
   

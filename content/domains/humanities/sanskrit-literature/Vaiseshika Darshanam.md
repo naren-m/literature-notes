@@ -18,7 +18,7 @@ The Vaiseshika Sutra consists of:
 
 ### Key Opening Sutra
 अथातो धर्मं व्याख्यास्यामः (1.1.1)
-*"Now we shall explain dharma (righteousness/natural law)"*
+*"Now we shall explain [[dharma]] (righteousness/natural law)"*
 
 धर्माद् अभ्युदयनिःश्रेयससिद्धिः (1.1.2)
 *"From dharma comes prosperity (abhyudaya) and the highest good (nihshreyasa)"*
@@ -51,7 +51,7 @@ Properties that inhere in substances but cannot exist independently. Twenty-four
 2. **Rasa (Taste)** - Gustatory quality  
 3. **Gandha (Smell)** - Olfactory quality
 4. **Sparsha (Touch)** - Tactile quality
-5. **Shabda (Sound)** - Auditory quality
+5. **[[Shabda]] (Sound)** - Auditory quality
 
 #### Physical Qualities
 6. **Sankhya (Number)** - Numerical quantity
@@ -288,8 +288,7 @@ Vaiseshika presents one of the world's earliest systematic atomic theories, pred
 - Advaita [[vedanta|Vedanta]] - Contrast in metaphysical approach
 
 ### Systematic Classification Parallels
-- [[Katapayadi_Melakarta_Guide]] - Musical rāgas organized into 72 scales using combinatorial constraints, paralleling Vaiseshika's systematic categorization
-- [[Katapayadi_Melakarta_Chakra_Complete_Guide]] - Hierarchical chakra system organizing rāgas, reflecting similar categorical thinking
+- [[Katapayadi_Melakarta_Guide]] - Musical rāgas organized into 72 scales and 12 chakras using combinatorial constraints, paralleling Vaiseshika's systematic categorization
 - **Sankhya (Number)** as Guna - The quality of number (line 56) relates to the mathematical foundation of rāga organization
 
 ## Study Resources

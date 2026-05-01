@@ -46,7 +46,6 @@
 - [[Sangitaratnakaram]] - Classical text defining Nada (1.3.6)
 - [[Brihadesi]] - Early treatise defining what Nada is
 - [[Carnatic music]] - Classical music tradition based on Nada theory
-- [[Katapayadi_Melakarta_Guide]] - Systematic organization of Carnatic rāgas
-- [[Katapayadi_Melakarta_Chakra_Complete_Guide]] - Complete chakra system for rāgas
+- [[Katapayadi_Melakarta_Guide]] - Systematic organization of Carnatic rāgas and their chakra groups
 
 #music #sound #nada #carnatic #theory #philosophy

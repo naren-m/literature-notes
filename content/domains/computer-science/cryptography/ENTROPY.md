@@ -194,7 +194,7 @@ The principles of information theory and entropy have ancient parallels in syste
 The [[Katapayadi_Melakarta_Guide|Katapayadi-Melakarta system]] demonstrates early information-theoretic thinking:
 - **Bijective encoding**: Sanskrit consonants ↔ digits (0-9) mapping
 - **Lossless compression**: 7-note musical scale encoded in 2 consonants
-- **Error detection**: [[Katapayadi_Melakarta_Chakra_Complete_Guide|Chakra names]] provide redundancy for validation
+- **Error detection**: [[Katapayadi_Melakarta_Guide|Chakra names]] provide redundancy for validation
 - **Hierarchical indexing**: Three-layer encoding ([[Katapayadi]] → Number → Scale)
 - **Hash function analogy**: Rāga name serves as deterministic key to complete scale structure
 
@@ -213,8 +213,7 @@ This 17th-century system embodies core information theory concepts:
 
 ## Related Concepts
 
-- [[Katapayadi_Melakarta_Guide]] - Historical encoding system with information-theoretic properties
-- [[Katapayadi_Melakarta_Chakra_Complete_Guide]] - Hierarchical information architecture
+- [[Katapayadi_Melakarta_Guide]] - Historical encoding system with hierarchical information architecture
 - [[Vaiseshika Darshanam]] - Ancient systematic categorization of reality
 
 #cryptography #security #information-theory #random-numbers #mathematics #nist-standards #encoding-systems

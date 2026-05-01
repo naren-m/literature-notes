@@ -14,8 +14,7 @@ Early classical treatise on [[Carnatic music]] theory.
 
 - [[Nada]] - Sound theory defined in Brihadesi
 - [[Sangitaratnakaram]] - Later comprehensive treatise building on Brihadesi
-- [[Katapayadi_Melakarta_Guide]] - Modern systematic rāga organization
-- [[Katapayadi_Melakarta_Chakra_Complete_Guide]] - Complete chakra-based classification system
+- [[Katapayadi_Melakarta_Guide]] - Modern systematic rāga organization, including the chakra-based classification system
 - [[Carnatic music]] - Classical music tradition
 
 #music #carnatic #treatise #classical-text #ancient #theory

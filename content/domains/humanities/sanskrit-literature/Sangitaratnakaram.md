@@ -12,8 +12,7 @@ Classical treatise on [[Carnatic music]] theory.
 ## Related Works
 
 - [[Brihadesi]] - Earlier treatise on Indian music
-- [[Katapayadi_Melakarta_Guide]] - Uses concepts from Sangitaratnakaram for rāga organization
-- [[Katapayadi_Melakarta_Chakra_Complete_Guide]] - Systematic chakra-based rāga classification
+- [[Katapayadi_Melakarta_Guide]] - Uses concepts from Sangitaratnakaram for systematic rāga and chakra organization
 - [[Agni]] - Fire/energy component in Nada definition
 
 #music #carnatic #treatise #classical-text #theory

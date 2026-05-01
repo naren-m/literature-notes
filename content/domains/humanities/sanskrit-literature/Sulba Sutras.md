@@ -182,7 +182,7 @@ Each Sulba Sutra typically contains:
 
 ### Fire Altar Construction & Cultural References
 - [[Agni]] - The three sacred fires (Āhavanīya, Dakṣiṇa, Gārhapatya) for which these geometric methods were developed
-- [[Katapayadi_Melakarta_Chakra_Complete_Guide]] - Agni Chakra (3rd chakra) named after the three sacred fires, reflecting the same systematic precision in music as in geometry
+- [[Katapayadi_Melakarta_Guide]] - Agni Chakra (3rd chakra) named after the three sacred fires, reflecting the same systematic precision in music as in geometry
 
 ## Tags
 

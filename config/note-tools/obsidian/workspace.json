@@ -16,6 +16,16 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "548411a3662a55e3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
         "stacked": true

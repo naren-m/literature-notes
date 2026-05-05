@@ -315,21 +315,25 @@ def should_keep_bullet(path: Path, content: str, indent: str) -> bool:
         return True
     if ORDERED_RE.match(content):
         return False
+    if content.startswith(("- ", "* ")):
+        return True
     if content.startswith(("[[", "[", "http://", "https://", "#")):
         return True
     if content.startswith("**") and ":" in content[:80]:
         return True
     if content.startswith(("Note:", "Tags:", "Source:", "Author:", "Title:", "Link:", "Host:", "Guest:")):
         return True
-    if parts[:3] == ("content", "media", "books") and "highlights" in parts:
+    if parts[:2] == ("content", "media"):
         return True
     if parts[:2] == ("content", "research"):
         return True
+    if parts and parts[0] in {"pages", "journals", "music", "finances"}:
+        return True
     if indent:
         return True
-    if len(content) <= 90 and not re.search(r"[.!?;:]$", content):
-        return True
-    return False
+    if parts[:2] in {("content", "domains"), ("content", "people")}:
+        return not (len(content) > 120 or re.search(r"[.!?:]$", content))
+    return True
 
 
 def clean_body(path: Path, body: str, ids: dict[str, str]) -> str:
@@ -339,6 +343,7 @@ def clean_body(path: Path, body: str, ids: dict[str, str]) -> str:
     out: list[str] = []
     in_fence = False
     current_heading_level = -1
+    list_base_level = 0
 
     for raw_line in lines:
         if CODE_FENCE_RE.match(raw_line):
@@ -358,7 +363,9 @@ def clean_body(path: Path, body: str, ids: dict[str, str]) -> str:
         match = LIST_RE.match(raw_line)
         if match:
             level = indent_level(match.group(1))
-            adjusted_level = max(0, level - current_heading_level - 1)
+            if level < list_base_level:
+                list_base_level = level
+            adjusted_level = max(0, level - list_base_level)
             indent = "  " * adjusted_level
             content = clean_inline(match.group(3).strip(), ids)
             if not content:
@@ -367,9 +374,13 @@ def clean_body(path: Path, body: str, ids: dict[str, str]) -> str:
             heading = HEADING_RE.match(content)
             if heading:
                 current_heading_level = level
+                list_base_level = level + 1
                 out.append(f"{heading.group(1)} {heading.group(2).strip()}")
                 continue
             if ORDERED_RE.match(content):
+                out.append(f"{indent}{content}")
+                continue
+            if content.startswith(("- ", "* ")):
                 out.append(f"{indent}{content}")
                 continue
             if should_keep_bullet(path, content, indent):
@@ -378,9 +389,10 @@ def clean_body(path: Path, body: str, ids: dict[str, str]) -> str:
                 out.append(content)
             continue
 
-        line = clean_inline(raw_line.rstrip().replace("\t", "  "), ids)
+        line = clean_inline(raw_line.rstrip().replace("\t", "  "), ids).strip()
         if HEADING_RE.match(line.strip()):
             current_heading_level = -1
+            list_base_level = 0
         if FRONTMATTER_KEY_RE.match(line.strip()) and line.startswith("  "):
             line = line.strip()
         out.append(line)

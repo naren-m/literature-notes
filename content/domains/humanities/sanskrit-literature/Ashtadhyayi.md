@@ -1,3 +1,13 @@
+---
+title: "Ashtadhyayi"
+date: "2026-05-05"
+type: "permanent"
+category: "Humanities/Sanskrit Literature"
+tags: ["book", "grammar", "sanskrit", "linguistics"]
+status: "draft"
+related: ["[[Panini]]", "[[content/domains/humanities/sanskrit-literature/Sutra]]", "[[shiva]]", "[[Niruktha]]", "[[Amarakosham]]", "[[Vaiseshika Darshanam]]"]
+---
+
 # Ashtadhyayi
 
 The Ashtadhyayi ("Eight Chapters") is a comprehensive Sanskrit grammar treatise composed by [[Panini]] around 5th-4th century BCE. It is considered one of the most systematic and scientific works on grammar in any language.
@@ -9,10 +19,14 @@ The Ashtadhyayi consists of approximately 4,000 [[content/domains/humanities/san
 ## Key Features
 
 ### Systematic Approach
-- Uses a highly efficient notation system
-- Employs metalinguistic markers and abbreviations
-- Follows logical progression from general to specific rules
-- Implements exception-based rule ordering
+
+Uses a highly efficient notation system
+
+Employs metalinguistic markers and abbreviations
+
+Follows logical progression from general to specific rules
+
+Implements exception-based rule ordering
 
 ### Shiva Sutras
 The work begins with 14 [[shiva|Shiva]] Sutras (Maheshvara Sutras) that serve as a mnemonic device for categorizing Sanskrit sounds:
@@ -41,10 +55,13 @@ The work begins with 14 [[shiva|Shiva]] Sutras (Maheshvara Sutras) that serve as
 
 ## Historical Significance
 
-- **Scientific Method**: Demonstrates early application of scientific methodology to linguistic analysis
-- **Influence on Modern Linguistics**: Inspired formal language theory and computational linguistics
-- **Cultural Impact**: Standardized Sanskrit for religious, philosophical, and literary works
-- **Mathematical Precision**: Uses techniques similar to modern mathematical notation
+**Scientific Method**: Demonstrates early application of scientific methodology to linguistic analysis
+
+**Influence on Modern Linguistics**: Inspired formal language theory and computational linguistics
+
+**Cultural Impact**: Standardized Sanskrit for religious, philosophical, and literary works
+
+**Mathematical Precision**: Uses techniques similar to modern mathematical notation
 
 ## Structure and Organization
 
@@ -60,10 +77,13 @@ The work begins with 14 [[shiva|Shiva]] Sutras (Maheshvara Sutras) that serve as
 
 ## Modern Relevance
 
-- **Computer Science**: Influences formal grammar theory and parsing algorithms
-- **Linguistics**: Provides foundation for morphological analysis
-- **Artificial Intelligence**: Inspires rule-based natural language processing
-- **Sanskrit Studies**: Remains the authoritative reference for Sanskrit grammar
+**Computer Science**: Influences formal grammar theory and parsing algorithms
+
+**Linguistics**: Provides foundation for morphological analysis
+
+**Artificial Intelligence**: Inspires rule-based natural language processing
+
+**Sanskrit Studies**: Remains the authoritative reference for Sanskrit grammar
 
 ## Related Texts
 
@@ -72,9 +92,7 @@ The work begins with 14 [[shiva|Shiva]] Sutras (Maheshvara Sutras) that serve as
 - [[Vaiseshika Darshanam]] - Philosophical categories
 - Mahabhashya by Patanjali - Commentary on Ashtadhyayi
 
-## Tags
-
-#book #grammar #sanskrit #linguistics #[[Panini]]
+#book #grammar #sanskrit #linguistics [[Panini]]
 
 ## References
 

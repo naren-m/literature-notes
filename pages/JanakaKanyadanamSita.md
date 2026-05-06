@@ -1,19 +1,27 @@
-- #[[ramayanam]]
--
+---
+title: "JanakaKanyadanamSita"
+date: "2026-05-05"
+type: "research"
+category: "Legacy/Pages"
+tags: []
+status: "draft"
+---
+
+# JanakaKanyadanamSita
+
+- [[ramayanam]]
+
 - Marry my daughter and this will bring Bhadram to you
-	- इयं सीता मम सुता सहधर्मचरी तव।
-	- प्रतीच्छ चैनां भद्रं ते पाणिं गृह्णीष्व पाणिना।।1.73.27।।
--
+  - इयं सीता मम सुता सहधर्मचरी तव।
+  - प्रतीच्छ चैनां भद्रं ते पाणिं गृह्णीष्व पाणिना।।1.73.27।।
+
 - इयं
-	- Representing para devi. When Tath (తత్) comes closer
+  - Representing para devi. When Tath (తత్) comes closer
 - सीता मम सुता
-	- My daughter, Janaka taking soo much pride on calling Sita mata his own (mama)
-	- mama - the feeling or the sense of me and mine (mamakaaram)
-		- Opossite is nama: not me or not mine (namaskaaram)
+  - My daughter, Janaka taking soo much pride on calling Sita mata his own (mama)
+  - mama - the feeling or the sense of me and mine (mamakaaram)
+    - Opossite is nama: not me or not mine (namaskaaram)
 - सहधर्मचरी तव।
-	- One who walks with you in following [[Dharma|dharma]]
--
+  - One who walks with you in following [[Dharma|dharma]]
+
 - प्रतीच्छ चैनां भद्रं ते पाणिं गृह्णीष्व पाणिना।।1.73.27।।
--
--
--

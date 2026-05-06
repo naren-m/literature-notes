@@ -1,5 +1,16 @@
+---
+title: "sabda-vrittis"
+date: "2026-05-05"
+type: "research"
+category: "Legacy"
+tags: []
+status: "draft"
+---
+
+# sabda-vrittis
 
 **sabda-vṛtti** (the "functions" or powers of a word)
+
 ## The three [[sabda]]-vṛttis
 
 A word in this tradition is said to carry meaning via three distinct functions:

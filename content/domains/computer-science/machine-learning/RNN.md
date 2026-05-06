@@ -1,10 +1,10 @@
 ---
 title: "RNN"
-date: 2026-05-04
-type: permanent
+date: "2026-05-04"
+type: "permanent"
 category: "Computer Science/Machine Learning"
-tags: [machine-learning, neural-networks, sequence-models]
-status: draft
+tags: ["machine-learning", "neural-networks", "sequence-models"]
+status: "draft"
 related: ["[[LSTM]]", "[[Time series]]", "[[Transformers]]"]
 ---
 

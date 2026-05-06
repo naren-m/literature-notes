@@ -1,10 +1,10 @@
 ---
 title: "HMAC"
-date: 2026-04-30
-type: permanent
+date: "2026-04-30"
+type: "permanent"
 category: "Computer Science/Cryptography"
-tags: [cryptography, authentication, hashing]
-status: draft
+tags: ["cryptography", "authentication", "hashing"]
+status: "draft"
 related: ["[[Message Authentication Code]]", "[[Hashing]]", "[[Authentication]]"]
 ---
 

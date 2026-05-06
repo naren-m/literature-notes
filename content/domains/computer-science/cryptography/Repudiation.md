@@ -1,10 +1,10 @@
 ---
 title: "Repudiation"
-date: 2026-04-30
-type: permanent
+date: "2026-04-30"
+type: "permanent"
 category: "Computer Science/Security"
-tags: [security, stride, logging]
-status: draft
+tags: ["security", "stride", "logging"]
+status: "draft"
 source: "https://capec.mitre.org/data/definitions/93.html"
 related: ["[[STRIDE]]", "[[Digital signatures]]", "[[Authentication]]"]
 ---

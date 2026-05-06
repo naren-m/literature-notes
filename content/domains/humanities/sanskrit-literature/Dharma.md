@@ -1,20 +1,32 @@
+---
+title: "Dharma"
+date: "2026-05-05"
+type: "permanent"
+category: "Humanities/Sanskrit Literature"
+tags: []
+status: "draft"
+related: ["[[Manas]]", "[[karma]]", "[[Vachana]]", "[[speech]]", "[[Hanuman Chalisa]]", "[[Apsaras]]", "[[Dharmanatha_Sloka]]", "[[Rambha]]"]
+---
+
 # Dharma
-- ధార యతి, ఇతి ధర్మ:
-- ధ్రియథేవ జనయరితి ధర్మ:
--
+ధార యతి, ఇతి ధర్మ:
+ధ్రియథేవ జనయరితి ధర్మ:
+
 - [[Manas]], [[karma]], [[Vachana]]
--
-- One that sustains. What does it sustain? Balance in the creation.
--
+
+One that sustains. What does it sustain? Balance in the creation.
+
 - Rita - Righteousness in thought
 - Satya - Righteousness in [[speech]]
 - Dharma - Righteousness in actions
--
--
+
 - [[Hanuman Chalisa]]
-- sankata te hanumāna chhudāvai।
-- mana krama vachana dhyāna jo lāvai॥ 26 ॥
-	- Having all 3 in at one moment is Dharma
+
+sankata te hanumāna chhudāvai।
+
+mana krama vachana dhyāna jo lāvai॥ 26 ॥
+
+  - Having all 3 in at one moment is Dharma
 
 ## Related Concepts
 

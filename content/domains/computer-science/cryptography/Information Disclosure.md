@@ -1,10 +1,10 @@
 ---
 title: "Information Disclosure"
-date: 2026-05-04
-type: permanent
+date: "2026-05-04"
+type: "permanent"
 category: "Computer Science/Security"
-tags: [security, threat-modeling, stride, confidentiality]
-status: draft
+tags: ["security", "threat-modeling", "stride", "confidentiality"]
+status: "draft"
 related: ["[[STRIDE]]", "[[Data Sensitivity]]", "[[Security Vulnerabilities]]"]
 ---
 

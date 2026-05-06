@@ -1,3 +1,12 @@
+---
+title: "How to Publish Your Own Python Package on PyPi"
+date: "2026-05-05"
+type: "literature"
+category: "Media/Articles"
+tags: ["articles"]
+status: "draft"
+---
+
 # How to Publish Your Own Python Package on PyPi
 
 ![img](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)

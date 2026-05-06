@@ -1,3 +1,12 @@
+---
+title: "Early Indians"
+date: "2026-05-05"
+type: "literature"
+category: "Media/Books"
+tags: []
+status: "draft"
+---
+
 # Early Indians
 
 ## Details

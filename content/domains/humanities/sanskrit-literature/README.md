@@ -1,3 +1,13 @@
+---
+title: "Sanskrit Literature & Philosophy"
+date: "2026-05-05"
+type: "permanent"
+category: "Humanities/Sanskrit Literature"
+tags: ["vedic", "yoga", "philosophy", "sanskrit", "upanishads", "sutras", "ayurveda", "devotional", "grammar", "music"]
+status: "draft"
+related: ["[[yoga_sutras]]", "[[Yogasutras]]", "[[NirvanaShatakam]]", "[[HanumaStuthi]]", "[[Hanuman Chalisa]]", "[[Upanishads]]", "[[Vaiseshika Darshanam]]", "[[VaishshikaSutra]]"]
+---
+
 # Sanskrit Literature & Philosophy
 
 > Vedic texts, yoga philosophy, Sanskrit language, and ancient Indian wisdom traditions.
@@ -84,7 +94,8 @@ This domain contains **43 notes** covering:
 
 ### Perception & Knowledge
 - [[eye]] - Organ of perception
-- Vision and insight
+
+Vision and insight
 
 ### Time & Astronomy
 - [[tithi]] - Lunar day
@@ -127,8 +138,9 @@ This domain contains **43 notes** covering:
 
 ## 📊 Statistics
 
-- **Total Notes**: 43
-- **Last Updated**: 2025-12-11
+**Total Notes**: 43
+
+**Last Updated**: 2025-12-11
 
 ## 🔄 Maintenance
 

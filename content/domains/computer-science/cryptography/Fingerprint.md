@@ -1,3 +1,13 @@
+---
+title: "Fingerprint"
+date: "2026-05-05"
+type: "permanent"
+category: "Computer Science/Cryptography"
+tags: []
+status: "draft"
+related: ["[[digital signatures]]", "[[public key]]", "[[Authentication]]"]
+---
+
 # Fingerprint
 
 What is a digital fingerprint?

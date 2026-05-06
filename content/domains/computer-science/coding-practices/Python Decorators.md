@@ -1,10 +1,10 @@
 ---
 title: "Python Decorators"
-date: 2026-05-04
-type: permanent
+date: "2026-05-04"
+type: "permanent"
 category: "Computer Science/Coding Practices"
-tags: [python, programming, functions]
-status: draft
+tags: ["python", "programming", "functions"]
+status: "draft"
 related: ["[[Decorator Pattern]]", "[[Python]]", "[[API Design]]"]
 ---
 

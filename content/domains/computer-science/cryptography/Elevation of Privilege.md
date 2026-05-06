@@ -1,10 +1,10 @@
 ---
 title: "Elevation of Privilege"
-date: 2026-05-04
-type: permanent
+date: "2026-05-04"
+type: "permanent"
 category: "Computer Science/Security"
-tags: [security, threat-modeling, stride]
-status: draft
+tags: ["security", "threat-modeling", "stride"]
+status: "draft"
 related: ["[[STRIDE]]", "[[Authorization]]", "[[Security Vulnerabilities]]"]
 ---
 

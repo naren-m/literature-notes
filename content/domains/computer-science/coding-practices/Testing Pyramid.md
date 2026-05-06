@@ -1,10 +1,10 @@
 ---
 title: "Testing Pyramid"
-date: 2026-04-30
-type: permanent
+date: "2026-04-30"
+type: "permanent"
 category: "Computer Science/Coding Practices"
-tags: [testing, software-engineering]
-status: draft
+tags: ["testing", "software-engineering"]
+status: "draft"
 source: "http://www.agilenutshell.com/episodes/41-testing-pyramid"
 related: ["[[Testing Principles]]", "[[Test Driven Dev]]", "[[Maintaining code base]]"]
 ---

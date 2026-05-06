@@ -1,10 +1,10 @@
 ---
 title: "JSON"
-date: 2026-04-30
-type: permanent
+date: "2026-04-30"
+type: "permanent"
 category: "Computer Science/Data Formats"
-tags: [data-format, web, programming]
-status: draft
+tags: ["data-format", "web", "programming"]
+status: "draft"
 related: ["[[Token Authentication]]", "[[Cryptography]]", "[[Public Key]]"]
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "Idempotence"
-date: 2026-04-30
-type: permanent
+date: "2026-04-30"
+type: "permanent"
 category: "Computer Science/Coding Practices"
-tags: [programming, reliability, distributed-systems]
-status: draft
+tags: ["programming", "reliability", "distributed-systems"]
+status: "draft"
 source: "https://en.wikipedia.org/wiki/Idempotence"
 related: ["[[Test Driven Dev]]", "[[Testing Principles]]", "[[DesigningDistributedSystems]]"]
 ---

@@ -1,9 +1,20 @@
+---
+title: "Digital signatures"
+date: "2026-05-05"
+type: "permanent"
+category: "Computer Science/Cryptography"
+tags: []
+status: "draft"
+related: ["[[Hashing]]", "[[Encryption]]", "[[Public Key]]", "[[Confidentiality]]", "[[Integrity]]", "[[STRIDE]]", "[[Spoofing]]", "[[Tampering]]"]
+---
+
 # Digital signatures
 
 Digital Signature = [[Hashing]] + [[Encryption]] (encrypted with Private key and decrypted by [[Public Key|Public key]])
-- Use asymmetric encryption.
-- Sender creates a digital signature while the receiver verifies the signature.
-- Does NOT provide [[Confidentiality|Confidentiality]]
+Use asymmetric encryption.
+Sender creates a digital signature while the receiver verifies the signature.
+
+Does NOT provide [[Confidentiality|Confidentiality]]
 
 Digital signatures are a combination of hashing and encryption to verify the identity of a sender and [[Integrity|integrity]] of the message.
 
@@ -18,7 +29,6 @@ Digital signatures are a combination of hashing and encryption. This potentially
 - [[Information Disclosure|Information disclosure]]*
 - [[Repudiation]]
 
-
 ## Sender
 
 Digital signatures are useful for sending data securely with identity. It is a combination of a hash and asymmetric encryption.
@@ -26,7 +36,6 @@ Here are the steps to create a digital signature for a message / data:
 1. Create a hash of the message
 2. Encrypt the hash with the private key. The result is a digital signature.
 3. Send the digital signature to the receiver with the message
-
 
 ## Receiver
 

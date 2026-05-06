@@ -1,3 +1,13 @@
+---
+title: "Authentication"
+date: "2026-05-05"
+type: "permanent"
+category: "Computer Science/Security"
+tags: []
+status: "draft"
+related: ["[[Spoofing]]", "[[STRIDE]]", "[[Strong Authentication]]", "[[Token Authentication]]", "[[Cryptography]]"]
+---
+
 # Authentication
 
 Authentication is the process of verifying that a user, service, or device is who it claims to be.

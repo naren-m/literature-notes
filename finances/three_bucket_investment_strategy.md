@@ -1,3 +1,14 @@
+---
+title: "three bucket investment strategy"
+date: "2026-05-05"
+type: "research"
+category: "Finances"
+tags: []
+status: "draft"
+---
+
+# three bucket investment strategy
+
 []()# The Three Bucket Strategy for Sustainable Cash Flow
 
 ---
@@ -53,13 +64,13 @@ flowchart LR
 ## How Much Do You Need?
 
 Use this formula:
-  
+
 ```text
 Corpus = Monthly Cash Flow × 12 × ISR
 ```
 
 [[Income Stability Ration(ISR)]]  is a multiplier based on your goal duration:
-  
+
 | Goal Type                        | Duration    | ISR   | Example              |
 | -------------------------------- | ----------- | ----- | -------------------- |
 | Indefinite (wealth preservation) | Forever     | 17.5  | Passive income       |
@@ -68,18 +79,18 @@ Corpus = Monthly Cash Flow × 12 × ISR
 | Short-term                       | 5-10 years  | 5-7   | Car loan, renovation |
 
 ### Examples
-  
+
 | Monthly Need | Goal             | ISR  | Corpus Required |
 | ------------ | ---------------- | ---- | --------------- |
 | ₹50,000      | Passive income   | 17.5 | ₹1.05 Crore     |
 | ₹50,000      | 15-year loan EMI | 12   | ₹72 Lakhs       |
 | ₹1,00,000    | Passive income   | 17.5 | ₹2.10 Crore     |
 | ₹1,00,000    | 15-year loan EMI | 12   | ₹1.44 Crore     |
-  
+
 ## The Three Buckets Explained
 
 ### Bucket 1: Stability (33% of corpus)
-  
+
 **Purpose:** Fund cash flow for the next 3 years, regardless of market conditions.
 
 **Investments:** Liquid funds, money market funds, short-term debt, FDs.
@@ -91,19 +102,19 @@ Corpus = Monthly Cash Flow × 12 × ISR
 ---
 
 ### Bucket 2: Income (33% of corpus)
-  
+
 **Purpose:** Generate stable returns. Refill Bucket 1 every year.
 
 **Investments:** Equity savings funds, conservative hybrid, balanced advantage funds.
-  
+
 **Expected return:** 8-10%
 
 **Rule:** Low volatility. This is your buffer zone.
-  
+
 ---
 
 ### Bucket 3: Growth (33% of corpus)
-  
+
 **Purpose:** Beat inflation. Refill Bucket 2 every few years.
 
 **Investments:** Flexi cap, mid cap, index funds.
@@ -111,19 +122,19 @@ Corpus = Monthly Cash Flow × 12 × ISR
 **Expected return:** 12-15%
 
 **Rule:** Never touch during a crash. Let it recover first.
-  
+
 ---
 
 ### How Money Flows
-  
+
 ```mermaid
   flowchart TB
     subgraph GOOD["GOOD YEARS"]
         G3["Bucket 3<br/>Growth"] --harvest gains--> G2["Bucket 2<br/>Income"]
         G2["Bucket 2<br/>Income"] --move returns--> G1["Bucket 1<br/>Stability"]
-  
+
     end
-    
+
     subgraph BAD["BAD YEARS"]
         B3["Bucket 3: Don't sell"]
         B2["Bucket 2: Don't sell"]
@@ -139,11 +150,11 @@ Corpus = Monthly Cash Flow × 12 × ISR
 
 - **Good years:** Harvest gains from higher buckets, move down.
 - **Bad years:** Don't sell. Bucket 1 has 3 years of buffer. Wait for recovery.
-  
+
   ---
 
 ## When to Move Money
-  
+
 | Trigger                        | Action                    |
 | ------------------------------ | ------------------------- |
 | Bucket 1 < 1 year of cash flow | Refill from Bucket 2      |
@@ -165,7 +176,7 @@ flowchart TB
 ---
 
 ## 15-Year Simulation: Paying Off a Loan
-  
+
 ₹3.5 Cr corpus, ₹50L annual EMI:
 
 ```text
@@ -173,32 +184,32 @@ YEAR    BUCKET 1        BUCKET 2        BUCKET 3        TOTAL       EMI PAID
 ────────────────────────────────────────────────────────────────────────────
 0     ₹1.20 Cr        ₹1.20 Cr        ₹1.10 Cr       ₹3.50 Cr      ₹0
       [████████]      [████████]      [███████]
-      
+
 1     ₹0.75 Cr        ₹1.30 Cr        ₹1.25 Cr       ₹3.30 Cr      ₹50L
       [█████]         [████████]      [████████]
       ▲ paid ₹50L     ▲ grew 8%       ▲ grew 14%
-        
+
 2     ₹0.30 Cr        ₹1.40 Cr        ₹1.43 Cr       ₹3.13 Cr      ₹1.0 Cr
       [██]            [█████████]     [█████████]
       ▲ running low
-      
+
 3     ₹0.90 Cr ◄──────₹1.00 Cr        ₹1.63 Cr       ₹3.53 Cr      ₹1.5 Cr
       [██████]  REFILL [██████]       [██████████]
-      
+
 5     ₹0.40 Cr        ₹1.20 Cr ◄──────₹1.50 Cr       ₹3.10 Cr      ₹2.5 Cr
       [███]           [████████]REFILL[█████████]
-      
+
 7     ₹0.85 Cr ◄──────₹0.95 Cr        ₹1.80 Cr       ₹3.60 Cr      ₹3.5 Cr
       [█████]  REFILL [██████]        [███████████]
-      
+
 ```
 
 **Result:** ₹7.5 Cr paid out over 15 years. ₹90L corpus remaining.
-  
+
 ---
 
 ## How Long Money Sits in Each Bucket
-  
+
 | Bucket   | Duration    | Why                   |
 | -------- | ----------- | --------------------- |
 | Bucket 1 | 1-3 years   | Gets spent monthly    |
@@ -208,10 +219,10 @@ YEAR    BUCKET 1        BUCKET 2        BUCKET 3        TOTAL       EMI PAID
 ```text
 🍇 GRAPES (New Money)     →  Put in BUCKET 3 (cellar)
  Age for 10+ years
- 
-🍷 YOUNG WINE             →  Move to BUCKET 2 (cabinet)  
+
+🍷 YOUNG WINE             →  Move to BUCKET 2 (cabinet)
  Age for 3-5 years
- 
+
 🥂 READY TO DRINK         →  Move to BUCKET 1 (table)
  Consume within 1-3 years
 ```
@@ -230,11 +241,11 @@ What happens when markets fall 35%?
 | Mar 2021 | ₹0.65 Cr | ₹1.30 Cr | ₹1.30 Cr | Harvest B3 gains.  |
 
 You never sold at the bottom. Bucket 1 had enough buffer to wait.
-  
+
 ---
 
 ## Handling Increasing Costs
-  
+
 If your cash flow needs grow 6% yearly:
 
 | Year | Monthly Need |
@@ -254,7 +265,7 @@ For fixed obligations like loan EMIs, this isn't needed—EMI stays constant.
 
 ### Bucket 1 (Stability)
 
-  **India:** HDFC Liquid, ICICI Money Market, Axis Short Term, Bank FD
+**India:** HDFC Liquid, ICICI Money Market, Axis Short Term, Bank FD
 
 **US:** SGOV, VGSH, Money Market (SPAXX), T-Bills
 
@@ -325,10 +336,10 @@ Indefinite income: 17.5
 
 ```
 Bucket 1: 33% (Debt)
-Bucket 2: 33% (Hybrid)  
+Bucket 2: 33% (Hybrid)
 Bucket 3: 33% (Equity)
 ```
-  
+
 **Refill rules:**
 
 ```

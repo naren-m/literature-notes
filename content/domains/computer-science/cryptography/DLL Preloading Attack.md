@@ -1,10 +1,10 @@
 ---
 title: "DLL Preloading Attack"
-date: 2026-04-30
-type: permanent
+date: "2026-04-30"
+type: "permanent"
 category: "Computer Science/Security"
-tags: [security, windows, vulnerabilities]
-status: draft
+tags: ["security", "windows", "vulnerabilities"]
+status: "draft"
 related: ["[[Elevation of Privilege]]", "[[Security Vulnerabilities]]", "[[STRIDE]]"]
 ---
 

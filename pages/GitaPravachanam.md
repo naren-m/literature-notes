@@ -1,50 +1,58 @@
+---
+title: "GitaPravachanam"
+date: "2026-05-05"
+type: "research"
+category: "Legacy/Pages"
+tags: ["pravachanam", "DusyanthSridhar", "gita", "vyuthpathi"]
+status: "draft"
+---
+
+# GitaPravachanam
+
 - #pravachanam #DusyanthSridhar
--
-- ## King among secrets #gita
+
+## King among secrets #gita
 - ``{{video https://www.youtube.com/watch?v=Cs7_AUG5CO`I}}`
-- ``{{youtube-timestamp 105`1}}`
-- Kaivalyam ``{{youtube-timestamp 42`5}}` - Kevala gyanama ithi kaivalyam #vyuthpathi
-- Maslos hieroricy ``{{youtube-timestamp 53`1}}`
-- Prasthana trayam - 3 highly considerate ``{{youtube-timestamp 80`9}}`
-	- ``{{youtube-timestamp 56`5}}` Upanishad Upa nishadeethi, ithi upanishad #vyuthpathi
-		- Every Veda is divided into two parts
-			- [[karma|Karma]] bhagam
-				- Bramhanam
-				- Aaranyakam
-				- Samhita
-			- Jnyana bhagam
-				- Veedanta or Upanishad
-	- [[vedanta|Vedanta]] [[content/domains/humanities/sanskrit-literature/Sutra]]s or [[Brahma Sutra]] ``{{youtube-timestamp 78`0}}`
-	- Essense of the [[Upanishads|upanishads]] [[Bhagavadgita]]
-- ``{{youtube-timestamp 151`3}}` Gita will be divided into 3 Shatkams
-	- Pradhama Shatkam
-		- karma, jnyana yogam
-	- 2nd Shatkam
-		- Bhakthi Yogam [[Oct 7th, 2024]] 15:28
-			- Upasana, Upasaka bhedha nibandhanath viseshapa pratipaditha ``{{youtube-timestamp 213`6}}`
-			- 4 Key words to understand ``{{youtube-timestamp 217`0}}`
-				- Prama: Quintessential knowledge
-				- Pramanam: Grandham that give prama ``{{youtube-timestamp 217`5}}`
-				- Prameyam: Object of your knowledge ``{{youtube-timestamp 219`0}}`
-				- Pramatha: Who understands the Prameyam through pramanam ``{{youtube-timestamp 219`6}}`
-			- Example: ``{{youtube-timestamp 222`0}}`
-			-
-			-
-		- 9th chapter - ``{{youtube-timestamp 179`4}}` Yoga kshemam vahamyamam
-			- Yogam - Bhrashtaishvaryam, Received something that you have Never expected to you in life.
-				- He who received mateis called `artha`` ``{{youtube-timestamp 192`0}}`
-					- Artha Arthi ``{{youtube-timestamp 195`1}}`
-					- Jignashu ``{{youtube-timestamp 196`6}}` Kevalam (alone) Kevala Jnanam ``{{youtube-timestamp 200`1}}`
-					- Jnyani Desiring god ``{{youtube-timestamp 203`0}}`
-			- [[krishna|Krishna]] talks about Swaroopam ``{{youtube-timestamp 230`0}}`
-				- Swaroopam - Nature, your own
-				- Parama purshasya
-				- Jnaaninam visesham
-				- Bhakthi roopa upanasasya
-			- Abhyasam ``{{youtube-timestamp 250`3}}`
-			-
-	- 3rd Shatkam
-		- Clears doubts from first two Shatkams
-	- Watched until ``{{youtube-timestamp 280`5}}`
-		-
-		-
+- (timestamp 105 1)
+- Kaivalyam (timestamp 42 5) - Kevala gyanama ithi kaivalyam #vyuthpathi
+- Maslos hieroricy (timestamp 53 1)
+- Prasthana trayam - 3 highly considerate (timestamp 80 9)
+  - (timestamp 56 5) Upanishad Upa nishadeethi, ithi upanishad #vyuthpathi
+    - Every Veda is divided into two parts
+      - [[karma|Karma]] bhagam
+        - Bramhanam
+        - Aaranyakam
+        - Samhita
+      - Jnyana bhagam
+        - Veedanta or Upanishad
+  - [[vedanta|Vedanta]] [[content/domains/humanities/sanskrit-literature/Sutra]]s or [[Brahma Sutra]] (timestamp 78 0)
+  - Essense of the [[Upanishads|upanishads]] [[Bhagavadgita]]
+- (timestamp 151 3) Gita will be divided into 3 Shatkams
+  - Pradhama Shatkam
+    - karma, jnyana yogam
+  - 2nd Shatkam
+    - Bhakthi Yogam [[Oct 7th, 2024]] 15:28
+      - Upasana, Upasaka bhedha nibandhanath viseshapa pratipaditha (timestamp 213 6)
+      - 4 Key words to understand (timestamp 217 0)
+        - Prama: Quintessential knowledge
+        - Pramanam: Grandham that give prama (timestamp 217 5)
+        - Prameyam: Object of your knowledge (timestamp 219 0)
+        - Pramatha: Who understands the Prameyam through pramanam (timestamp 219 6)
+      - Example: (timestamp 222 0)
+
+    - 9th chapter - (timestamp 179 4) Yoga kshemam vahamyamam
+      - Yogam - Bhrashtaishvaryam, Received something that you have Never expected to you in life.
+        - He who received mateis called `artha`` (timestamp 192 0)
+          - Artha Arthi (timestamp 195 1)
+          - Jignashu (timestamp 196 6) Kevalam (alone) Kevala Jnanam (timestamp 200 1)
+          - Jnyani Desiring god (timestamp 203 0)
+      - [[krishna|Krishna]] talks about Swaroopam (timestamp 230 0)
+        - Swaroopam - Nature, your own
+        - Parama purshasya
+        - Jnaaninam visesham
+        - Bhakthi roopa upanasasya
+      - Abhyasam (timestamp 250 3)
+
+  - 3rd Shatkam
+    - Clears doubts from first two Shatkams
+  - Watched until (timestamp 280 5)

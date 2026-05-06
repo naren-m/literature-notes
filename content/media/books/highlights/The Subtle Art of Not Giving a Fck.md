@@ -1,3 +1,12 @@
+---
+title: "The Subtle Art of Not Giving a F\\*ck"
+date: "2026-05-05"
+type: "literature"
+category: "Media/Books/Highlights"
+tags: []
+status: "draft"
+---
+
 # The Subtle Art of Not Giving a F\*ck
 
 ![img](https://images-na.ssl-images-amazon.com/images/I/51mN3bY0JjL._SL200_.jpg)
@@ -6,10 +15,10 @@
 
 - Author: Mark Manson
 - Full Title: The Subtle Art of Not Giving a F\*ck
-- Category: 
+- Category:
 
 ### Highlights
 
-- “Gee whiz, I sure do feel like a cow turd today. But hey, I guess that’s just life. Back to shoveling hay.” ([Location 279](https://readwise.io/to_kindle?action=open&asin=B019MMUA8S&location=279))
-- George Orwell said that to see what’s in front of one’s nose requires a constant struggle. ([Location 289](https://readwise.io/to_kindle?action=open&asin=B019MMUA8S&location=289))
+- “Gee whiz, I sure do feel like a cow turd today. But hey, I guess that’s just life. Back to shoveling hay.” ([Location 279](https://readwise.io/to_kindle?action=open&asin=B019MMUA8S&location=279))
+- George Orwell said that to see what’s in front of one’s nose requires a constant struggle. ([Location 289](https://readwise.io/to_kindle?action=open&asin=B019MMUA8S&location=289))
   - **Note:** What does it mean? Understanding people is hard ?

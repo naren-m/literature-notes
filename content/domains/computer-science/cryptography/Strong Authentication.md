@@ -1,10 +1,10 @@
 ---
 title: "Strong Authentication"
-date: 2026-04-30
-type: permanent
+date: "2026-04-30"
+type: "permanent"
 category: "Computer Science/Security"
-tags: [authentication, security]
-status: draft
+tags: ["authentication", "security"]
+status: "draft"
 source: "https://en.wikipedia.org/wiki/Strong_authentication"
 related: ["[[Authentication]]", "[[Token Authentication]]", "[[Zero-Trust]]"]
 ---

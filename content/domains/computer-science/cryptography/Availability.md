@@ -1,3 +1,13 @@
+---
+title: "Availability"
+date: "2026-05-05"
+type: "permanent"
+category: "Computer Science/Cryptography"
+tags: []
+status: "draft"
+related: ["[[CIA Triad]]", "[[STRIDE]]", "[[Denial of Service]]", "[[Cryptography]]"]
+---
+
 # Availability
 
 Availability means systems, data, and services are reachable when legitimate users need them.

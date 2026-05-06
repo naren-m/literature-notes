@@ -1,10 +1,10 @@
 ---
 title: "LoJax"
-date: 2026-04-30
-type: permanent
+date: "2026-04-30"
+type: "permanent"
 category: "Computer Science/Security"
-tags: [security, firmware, rootkit, uefi]
-status: draft
+tags: ["security", "firmware", "rootkit", "uefi"]
+status: "draft"
 source: "https://attack.mitre.org/groups/G0007/"
 related: ["[[Root of trust]]", "[[Zero-Trust]]", "[[Security Vulnerabilities]]"]
 ---

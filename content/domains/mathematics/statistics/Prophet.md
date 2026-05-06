@@ -1,10 +1,10 @@
 ---
 title: "Prophet"
-date: 2026-05-04
-type: permanent
+date: "2026-05-04"
+type: "permanent"
 category: "Mathematics/Statistics"
-tags: [statistics, forecasting, time-series]
-status: draft
+tags: ["statistics", "forecasting", "time-series"]
+status: "draft"
 related: ["[[Time series]]", "[[ARIMA]]", "[[Exponential Smoothing]]"]
 ---
 

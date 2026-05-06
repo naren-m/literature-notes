@@ -1,3 +1,14 @@
+---
+title: "Katapayadi"
+date: "2026-05-05"
+type: "research"
+category: "Legacy/Pages"
+tags: []
+status: "draft"
+---
+
+# Katapayadi
+
 ## The Katapayadi Mapping
 title:: Katapayadi
 
@@ -16,5 +27,5 @@ Multiple letters map to the same digit—this gives flexibility to construct mea
 - Only consonants attached to vowels count
 - For conjunct consonants, typically take the last one
 - Read digits in reverse order (Indian convention: least significant digit written first)
-  
+
   ---

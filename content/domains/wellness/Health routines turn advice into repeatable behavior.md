@@ -1,10 +1,10 @@
 ---
 title: "Health routines turn advice into repeatable behavior"
-date: 2026-05-04
-type: permanent
+date: "2026-05-04"
+type: "permanent"
 category: "Wellness"
-tags: [health, routines, habits]
-status: draft
+tags: ["health", "routines", "habits"]
+status: "draft"
 related: ["[[Andrew Huberman]]", "[[Why We Sleep]]", "[[Atomic Habits]]"]
 ---
 

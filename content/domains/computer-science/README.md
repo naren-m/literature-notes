@@ -1,3 +1,13 @@
+---
+title: "Computer Science & Engineering"
+date: "2026-05-05"
+type: "permanent"
+category: "Computer Science"
+tags: ["security", "cryptography", "hashing", "encryption", "authentication", "vulnerabilities", "algorithms", "design-patterns"]
+status: "draft"
+related: ["[[Encryption]]", "[[Cryptography/Cryptography]]", "[[Cryptography/Hashing]]", "[[Cryptography/Block Cipher]]", "[[Cryptography/Public Key]]", "[[Cryptography/Digital signatures]]", "[[Authentication]]", "[[Cryptography/CIA Triad]]"]
+---
+
 # Computer Science & Engineering
 
 > Technical notes covering cryptography, security, algorithms, design patterns, and software engineering concepts.
@@ -59,7 +69,8 @@ This domain contains **55 notes** across three main areas:
 
 - [[coding/Coding]] - Programming fundamentals
 - [[coding/Dynamic Programming]] - Optimization technique
-- Additional algorithm notes
+
+Additional algorithm notes
 
 ## 🏗️ Design Patterns
 
@@ -102,8 +113,9 @@ This domain contains **55 notes** across three main areas:
 
 ## 📊 Statistics
 
-- **Total Notes**: 55
-- **Last Updated**: 2025-12-11
+**Total Notes**: 55
+
+**Last Updated**: 2025-12-11
 
 ## 🔄 Maintenance
 

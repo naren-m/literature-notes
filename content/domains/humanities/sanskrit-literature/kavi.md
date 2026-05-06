@@ -1,27 +1,31 @@
+---
+title: "kavi"
+date: "2026-05-05"
+type: "permanent"
+category: "Humanities/Sanskrit Literature"
+tags: []
+status: "draft"
+---
+
 # kavi
 
 కవి - gifted with insight, intelligent, knowing, enlightened, wise, sensible, prudent, skilful, Thinking, thoughtful. -4 Praiseworthy. -विः 1 A wise man, a thinker, a sage;
 
-
-
-कविः कवित्वा दिवि रूपमासजत् 
+कविः कवित्वा दिवि रूपमासजत्
 కవిత్వం -> కవి + త్వం = kavi, he himself becomes the kavithvam.
 
 kavithvam != Lyrics
 
-
 ### Prayer from Rig Veda
 
-
-ऋषि    :    सौनकॊ गृत्समद
-दॆवता    :    ब्रह्मणस्पतिः
-छन्दस्    :    जगती
+ऋषि    :    सौनकॊ गृत्समद
+दॆवता    :    ब्रह्मणस्पतिः
+छन्दस्    :    जगती
 
 ॐ
 
 ग॒णाना॑ं त्वा ग॒णप॑तिं हवामहॆ क॒विं क॑वि॒णामु॑प॒मश्र॑वस्तमम् ।
 ज्यॆ॒ष्ठ॒राज॒ं ब्रह्म॑णां ब्रह्मनस्पत॒ आ नः॑ शृ॒ण्वन्नू॒तिभि॑ः सीद॒ साद॑नम् ॥ २.२३.१ ॥
-
 
 kaviṃ < kavim < kavi
 [noun], accusative, singular, masculine

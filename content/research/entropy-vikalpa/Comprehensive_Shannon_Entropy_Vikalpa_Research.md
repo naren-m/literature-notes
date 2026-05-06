@@ -1,3 +1,12 @@
+---
+title: "Comprehensive Research: Shannon Entropy and Vikalpa Connections"
+date: "2026-05-05"
+type: "research"
+category: "Research/Entropy Vikalpa"
+tags: []
+status: "draft"
+---
+
 # Comprehensive Research: Shannon Entropy and Vikalpa Connections
 
 ## Executive Summary
@@ -32,7 +41,7 @@ where vᵢ represents individual conceptual alternatives
 
 **Key Applications**:
 - **Pre-meditation State**: High entropy (many mental alternatives active)
-- **Focused Attention**: Reduced entropy (fewer active alternatives)  
+- **Focused Attention**: Reduced entropy (fewer active alternatives)
 - **Samadhi States**: Minimal entropy (single-pointed awareness)
 
 ---
@@ -138,19 +147,19 @@ where vᵢ represents individual conceptual alternatives
 
 #### Leading Figures:
 1. **Giulio Tononi** (University of Wisconsin-Madison)
-   - Integrated Information Theory
-   - Mathematical models of consciousness
-   - Sleep and consciousness research
+  - Integrated Information Theory
+  - Mathematical models of consciousness
+  - Sleep and consciousness research
 
 2. **Christof Koch** (Allen Institute for Brain Science)
-   - Consciousness theories
-   - Neural correlates of consciousness
-   - IIT development
+  - Consciousness theories
+  - Neural correlates of consciousness
+  - IIT development
 
 3. **Robin Carhart-Harris** (Imperial College London)
-   - Entropic brain theory
-   - Psychedelic neuroscience
-   - Consciousness research
+  - Entropic brain theory
+  - Psychedelic neuroscience
+  - Consciousness research
 
 ### Relevant Journals:
 - **Consciousness and Cognition**
@@ -198,7 +207,7 @@ where vᵢ represents individual conceptual alternatives
 ### Measuring Entropy-Vikalpa Correlations
 
 #### Phase 1: Baseline Measurements
-**Participants**: 
+**Participants**:
 - Expert meditators (>10 years experience)
 - Novice practitioners (<1 year)
 - Control group (no meditation experience)
@@ -206,11 +215,11 @@ where vᵢ represents individual conceptual alternatives
 **Methodology**:
 1. **EEG Recording**: 128-electrode arrays during different conditions
 2. **Conditions**:
-   - Baseline rest (eyes closed)
-   - Focused attention meditation (7 minutes)
-   - Open monitoring meditation (7 minutes)
-   - Mind-wandering control (7 minutes)
-   - Conceptual thinking task (7 minutes)
+  - Baseline rest (eyes closed)
+  - Focused attention meditation (7 minutes)
+  - Open monitoring meditation (7 minutes)
+  - Mind-wandering control (7 minutes)
+  - Conceptual thinking task (7 minutes)
 
 #### Phase 2: Entropy Analysis
 **Technical Specifications**:

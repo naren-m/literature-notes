@@ -1,10 +1,10 @@
 ---
 title: "Side Channel Attack"
-date: 2026-04-30
-type: permanent
+date: "2026-04-30"
+type: "permanent"
 category: "Computer Science/Security"
-tags: [security, cryptography, hardware]
-status: draft
+tags: ["security", "cryptography", "hardware"]
+status: "draft"
 related: ["[[Cryptography]]", "[[Cache prefetching]]", "[[Rowhammer]]"]
 ---
 

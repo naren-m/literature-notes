@@ -1,3 +1,13 @@
+---
+title: "Encryption"
+date: "2026-05-05"
+type: "permanent"
+category: "Computer Science/Cryptography"
+tags: []
+status: "draft"
+related: ["[[Cryptography]]", "[[Confidentiality]]", "[[Information Disclosure]]", "[[Digital signatures]]", "[[Key exchange]]", "[[Root of trust]]", "[[Multifernet]]"]
+---
+
 # Encryption
 
 Encryption is an important tool in [[Cryptography]] and provides [[Confidentiality]]. Encryption protects from unauthorized [[Information Disclosure|information disclosure]].
@@ -12,8 +22,10 @@ Encryption is a component in other cryptography features, including:
 - [[Root of trust]]: wrapper on top of the Private key
 
 Two kinds of encryption
-- Symmetric encryption: encrypts plaintext using a single key to create a cipher text
-- Asymmetric encryption: encrypts plaintext using paired key: Public and Private
+
+Symmetric encryption: encrypts plaintext using a single key to create a cipher text
+
+Asymmetric encryption: encrypts plaintext using paired key: Public and Private
 
 ## Asymmetric encryption
 
@@ -35,26 +47,26 @@ P1 = b'Goodbye and thanks for all of the fish'
 P2 = b'Goodbye and thanks for all of the blue fish'
 
 def prints(string):
-    print('Phrase:{}, Size: {}, Length: {}'.format(string, sys.getsizeof(string), len(string)))
+print('Phrase:{}, Size: {}, Length: {}'.format(string, sys.getsizeof(string), len(string)))
 
 prints(P1)
 prints(P2)
 
 def generate_keys():
-    modulus_len = 256*4
-    pk = RSA.generate(modulus_len, Random.new().read)
-    return pk, pk.publickey()
+modulus_len = 256*4
+pk = RSA.generate(modulus_len, Random.new().read)
+return pk, pk.publickey()
 
 def encrypt(string, key):
-    encryptor = PKCS1_OAEP.new(key)
-    encrypted = encryptor.encrypt(string)
+encryptor = PKCS1_OAEP.new(key)
+encrypted = encryptor.encrypt(string)
 
-    return encrypted
+return encrypted
 
 def decrypt(string, key):
-    decryptor = PKCS1_OAEP.new(key)
-    decrypted = decryptor.decrypt(ast.literal_eval(str(string)))
-    return decrypted
+decryptor = PKCS1_OAEP.new(key)
+decrypted = decryptor.decrypt(ast.literal_eval(str(string)))
+return decrypted
 
 privatekey, publickey = generate_keys()
 ep1 = encrypt(P1, publickey)

@@ -1,9 +1,20 @@
+---
+title: "Agni"
+date: "2026-05-05"
+type: "permanent"
+category: "Humanities/Sanskrit Literature"
+tags: ["word", "definition", "vedic", "music", "fire", "energy"]
+status: "draft"
+related: ["[[Sulba Sutras]]", "[[Katapayadi_Melakarta_Guide]]", "[[Nada]]", "[[Prana]]", "[[Sangitaratnakaram]]", "[[Music Theory]]"]
+---
+
 # Agni
 
 Agni is not Fire. Fire is just an example.
 
-- One that Engulfs whatever is given to it.
-- One that devours
+One that Engulfs whatever is given to it.
+
+One that devours
 
 ## Related Concepts
 
@@ -23,5 +34,3 @@ Agni (fire/energy) combines with [[Nada|Prana to form Nada]] (sound): Nāda = [[
 - [[Nada]] - Sound as combination of Prana and Agni
 - [[Sangitaratnakaram]] - Classical [[Music Theory|music theory]] text
 - [[Katapayadi_Melakarta_Guide]] - Agni Chakra in rāga classification
-
-#word #definition #vedic #music #fire #energy

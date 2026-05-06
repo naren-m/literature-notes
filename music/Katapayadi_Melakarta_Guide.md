@@ -1,3 +1,12 @@
+---
+title: "The Katapayadi-Melakarta System"
+date: "2026-05-05"
+type: "research"
+category: "Music"
+tags: ["music", "carnatic", "ragas", "melakarta", "katapayadi", "chakra", "bhuta-sankhya", "encoding", "mathematics", "combinatorics", "indian-classical-music", "systematic-knowledge", "information-theory", "hierarchical-systems"]
+status: "draft"
+---
+
 # The Katapayadi-Melakarta System
 
 *A complete guide to how rāga names, melakarta numbers, and chakras encode Carnatic scales*
@@ -168,16 +177,16 @@ Examples:
 Given a melakarta number from 1 to 72:
 
 1. Determine the chakra:
-   - `chakra = ceil(number / 6)`
+  - `chakra = ceil(number / 6)`
 2. Determine M:
-   - Chakras 1-6 use M1.
-   - Chakras 7-12 use M2.
+  - Chakras 1-6 use M1.
+  - Chakras 7-12 use M2.
 3. Determine R-G:
-   - `position_in_half = ((chakra - 1) mod 6) + 1`
-   - Look up that position in the R-G table.
+  - `position_in_half = ((chakra - 1) mod 6) + 1`
+  - Look up that position in the R-G table.
 4. Determine D-N:
-   - `position_in_chakra = ((number - 1) mod 6) + 1`
-   - Look up that position in the D-N table.
+  - `position_in_chakra = ((number - 1) mod 6) + 1`
+  - Look up that position in the D-N table.
 
 | Position in Chakra | D-N Combination |
 |--------------------|-----------------|

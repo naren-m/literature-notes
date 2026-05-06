@@ -1,10 +1,10 @@
 ---
 title: "Zero-Trust"
-date: 2026-04-30
-type: permanent
+date: "2026-04-30"
+type: "permanent"
 category: "Computer Science/Security"
-tags: [security, authentication, architecture]
-status: draft
+tags: ["security", "authentication", "architecture"]
+status: "draft"
 source: "https://www.paloaltonetworks.com/cyberpedia/what-is-a-zero-trust-architecture"
 related: ["[[Authentication]]", "[[Strong Authentication]]", "[[Data Sensitivity]]"]
 ---

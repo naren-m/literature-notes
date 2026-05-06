@@ -1,10 +1,10 @@
 ---
 title: "Root of trust"
-date: 2026-04-30
-type: permanent
+date: "2026-04-30"
+type: "permanent"
 category: "Computer Science/Security"
-tags: [security, firmware, trust]
-status: draft
+tags: ["security", "firmware", "trust"]
+status: "draft"
 source: "https://www.highintegritysystems.com/downloads/white_papers/ESM_Security_whitepaper.pdf"
 related: ["[[LOJAX]]", "[[Cryptography]]", "[[Zero-Trust]]"]
 ---

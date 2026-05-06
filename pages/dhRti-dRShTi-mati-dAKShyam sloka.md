@@ -1,20 +1,29 @@
+---
+title: "dhRti-dRShTi-mati-dAKShyam sloka"
+date: "2026-05-05"
+type: "research"
+category: "Legacy/Pages"
+tags: []
+status: "draft"
+---
+
+# dhRti-dRShTi-mati-dAKShyam sloka
+
 - యస్య త్వేతాని చత్వారి వానరేన్ద్ర యథా తవ৷৷5.1.198৷৷
 - ధృతిర్దృష్టిర్మతిర్దాక్ష్యం సః కర్మసు న సీదతి.
--
+
 - *Karmasu Na Sidanti* ("They don't fail in tasks")
 - The Four Pillars of Siddhi  - Chatvāri Lakṣaṇāni* (The Four Traits)
-	- ** [[dhRti]] ** (धृति) - Steadfast resolve
-	- **[[dRShTi]]** (दृष्टि) - Clear vision
-	- **mati** (मति) - Intelligence/discernment
-	- **dAKShyam** (दाक्ष्यं) - Skill to execute
--
--
+  - ** [[dhRti]] ** (धृति) - Steadfast resolve
+  - **[[dRShTi]]** (दृष्टि) - Clear vision
+  - **mati** (मति) - Intelligence/discernment
+  - **dAKShyam** (दाक्ष्यं) - Skill to execute
+
 - Yasya tvEtAni chatvAri vAnarEndra yathA tava|
 - dhRti-dRShTi-mati-dAKShyam sa karmasu na sIdati
--
+
 - [Source](https://www.youtube.com/watch?v=tcHYMmjKCyQ)
--
+
 - [Sundarakanda 1:198](https://www.valmiki.iitk.ac.in/content?language=dv&field_kanda_tid=5&field_sarga_value=1&field_sloka_value=198&scgr=1&etgr=1&etss=1&choose=1)
 - [[Sundarakanda]] **Sundara Kanda, Sarga 1 (Sāgara Laṅghanaṁ)**
 - [[hanuma]]
--

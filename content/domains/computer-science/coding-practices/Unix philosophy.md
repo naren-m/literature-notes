@@ -1,10 +1,10 @@
 ---
 title: "Unix philosophy"
-date: 2026-04-30
-type: permanent
+date: "2026-04-30"
+type: "permanent"
 category: "Computer Science/Coding Practices"
-tags: [software-design, unix, tools]
-status: draft
+tags: ["software-design", "unix", "tools"]
+status: "draft"
 source: "https://en.wikipedia.org/wiki/Unix_philosophy"
 related: ["[[Maintaining code base]]", "[[Persistent LLM wikis make synthesis compounding]]", "[[Decorator Pattern]]"]
 ---

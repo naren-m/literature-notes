@@ -1,10 +1,10 @@
 ---
 title: "Buffer Overflows"
-date: 2026-04-30
-type: permanent
+date: "2026-04-30"
+type: "permanent"
 category: "Computer Science/Security"
-tags: [security, memory-safety, vulnerabilities]
-status: draft
+tags: ["security", "memory-safety", "vulnerabilities"]
+status: "draft"
 related: ["[[Security Vulnerabilities]]", "[[Zero Day Attack]]", "[[Side Channel Attack]]"]
 ---
 

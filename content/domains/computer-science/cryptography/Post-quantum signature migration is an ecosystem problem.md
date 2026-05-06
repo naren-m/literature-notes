@@ -1,10 +1,10 @@
 ---
 title: "Post-quantum signature migration is an ecosystem problem"
-date: 2026-04-30
-type: permanent
+date: "2026-04-30"
+type: "permanent"
 category: "Computer Science/Cryptography"
-tags: [cryptography, post-quantum-cryptography, digital-signatures]
-status: draft
+tags: ["cryptography", "post-quantum-cryptography", "digital-signatures"]
+status: "draft"
 source: "[[How Quantum Computers Break Encryption: First Principles]]"
 related: ["[[Digital signatures]]", "[[Authentication]]", "[[Key exchange]]", "[[Lattice-based encryption]]"]
 ---

@@ -1,10 +1,10 @@
 ---
 title: "John Sinnott Application"
-date: 2026-04-30
-type: journal
+date: "2026-04-30"
+type: "journal"
 category: "Journal"
-tags: [journal, school, registration]
-status: archived
+tags: ["journal", "school", "registration"]
+status: "archived"
 ---
 
 # John Sinnott Application

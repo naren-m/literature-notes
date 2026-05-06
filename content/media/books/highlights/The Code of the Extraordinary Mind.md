@@ -1,3 +1,12 @@
+---
+title: "The Code of the Extraordinary Mind"
+date: "2026-05-05"
+type: "literature"
+category: "Media/Books/Highlights"
+tags: []
+status: "draft"
+---
+
 # The Code of the Extraordinary Mind
 
 ![img](https://images-na.ssl-images-amazon.com/images/I/41N68GraMKL._SL200_.jpg)
@@ -6,11 +15,11 @@
 
 - Author: Vishen Lakhiani
 - Full Title: The Code of the Extraordinary Mind
-- Category: 
+- Category:
 
 ### Highlights
 
-- extraordinary ([Location 103](https://readwise.io/to_kindle?action=open&asin=B0182SMOBE&location=103))
-  - **Tags:** 
-- Losing My Virginity, ([Location 108](https://readwise.io/to_kindle?action=open&asin=B0182SMOBE&location=108))
-  - **Tags:** 
+- extraordinary ([Location 103](https://readwise.io/to_kindle?action=open&asin=B0182SMOBE&location=103))
+  - **Tags:**
+- Losing My Virginity, ([Location 108](https://readwise.io/to_kindle?action=open&asin=B0182SMOBE&location=108))
+  - **Tags:**

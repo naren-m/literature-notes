@@ -1,10 +1,10 @@
 ---
 title: "LLM Wiki"
-date: 2026-04-30
-type: literature
+date: "2026-04-30"
+type: "literature"
 category: "Media/Articles"
-tags: [llm, knowledge-management, zettelkasten, rag, obsidian]
-status: complete
+tags: ["llm", "knowledge-management", "zettelkasten", "rag", "obsidian"]
+status: "complete"
 source: "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
 related: ["[[Persistent LLM wikis make synthesis compounding]]"]
 ---

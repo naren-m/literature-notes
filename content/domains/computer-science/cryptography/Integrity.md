@@ -1,3 +1,13 @@
+---
+title: "Integrity"
+date: "2026-05-05"
+type: "permanent"
+category: "Computer Science/Cryptography"
+tags: []
+status: "draft"
+related: ["[[CIA Triad]]", "[[STRIDE]]", "[[Tampering]]", "[[Hashing]]", "[[Message Authentication Code]]", "[[Digital signatures]]"]
+---
+
 # Integrity
 
 Integrity is the property that data remains correct, unmodified, and trustworthy.

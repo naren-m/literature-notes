@@ -1,8 +1,11 @@
 ---
-tags:
-  - Ashoka
-  - India
-  - History
+title: "Ashoka"
+date: "2026-05-05"
+type: "permanent"
+category: "People"
+tags: ["Ashoka", "India", "History"]
+status: "draft"
+related: ["[[India]]"]
 ---
 
 # Ashoka
@@ -13,13 +16,13 @@ https://www.youtube.com/watch?v=HvTdiKzQEKE&t=136
 
 ## some bad things
 
-- lead a genocide
+lead a genocide
 
-- killed all his brothers
+killed all his brothers
 
-- Nehru and co used Ashoka to crate a narrative that fits their needs at that moment.
+Nehru and co used Ashoka to crate a narrative that fits their needs at that moment.
 
   - Covering up the negative sides of it.
-    Killed all of his brothers to keep the throne to himself
+Killed all of his brothers to keep the throne to himself
 
-- He was a Short ugly looking guy,
+He was a Short ugly looking guy,

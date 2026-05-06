@@ -1,10 +1,10 @@
 ---
 title: "Zero Day Attack"
-date: 2026-04-30
-type: permanent
+date: "2026-04-30"
+type: "permanent"
 category: "Computer Science/Security"
-tags: [security, vulnerabilities]
-status: draft
+tags: ["security", "vulnerabilities"]
+status: "draft"
 source: "https://www.trellix.com/en-us/security-awareness/cybersecurity/what-is-a-zero-day-exploit.html"
 related: ["[[Security Vulnerabilities]]", "[[Buffer Overflows]]", "[[STRIDE]]"]
 ---

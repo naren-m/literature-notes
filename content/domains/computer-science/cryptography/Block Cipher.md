@@ -1,3 +1,13 @@
+---
+title: "Block Cipher"
+date: "2026-05-05"
+type: "permanent"
+category: "Computer Science/Cryptography"
+tags: []
+status: "draft"
+related: ["[[Encryption]]", "[[Cryptography]]", "[[Hashing]]", "[[Initialization Vector]]"]
+---
+
 # Block Cipher
 
 A block cipher is a symmetric [[Encryption]] primitive in [[Cryptography]] that decomposes the input and processes one chunk (block) at a time.

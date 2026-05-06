@@ -1,3 +1,12 @@
+---
+title: "Research Abstract: Information Entropy and Vikalpa - A Mathematical Bridge Between Consciousness Studies and Information Theory"
+date: "2026-05-05"
+type: "research"
+category: "Research/Entropy Vikalpa"
+tags: []
+status: "draft"
+---
+
 # Research Abstract: Information Entropy and Vikalpa - A Mathematical Bridge Between Consciousness Studies and Information Theory
 
 ## Structured Abstract

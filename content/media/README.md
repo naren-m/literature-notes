@@ -1,3 +1,12 @@
+---
+title: "Book & Article Highlights"
+date: "2026-05-05"
+type: "literature"
+category: "Media"
+tags: []
+status: "draft"
+---
+
 # Book & Article Highlights
 
 > Curated highlights and summaries from books, articles, and other reading materials.

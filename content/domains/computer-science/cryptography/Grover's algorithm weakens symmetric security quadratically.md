@@ -1,10 +1,10 @@
 ---
 title: "Grover's algorithm weakens symmetric security quadratically"
-date: 2026-04-30
-type: permanent
+date: "2026-04-30"
+type: "permanent"
 category: "Computer Science/Cryptography"
-tags: [cryptography, quantum-computing, encryption]
-status: draft
+tags: ["cryptography", "quantum-computing", "encryption"]
+status: "draft"
 source: "[[How Quantum Computers Break Encryption: First Principles]]"
 related: ["[[Encryption]]", "[[Block Cipher]]", "[[ENTROPY]]", "[[Quantum attacks depend on exploitable mathematical structure]]"]
 ---

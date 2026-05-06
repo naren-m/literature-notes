@@ -1,8 +1,9 @@
 ---
 title: "Apsaras"
-date: 2026-04-08
+date: "2026-04-08"
+type: "research"
 category: "sanskrit-lit/Deities"
-tags: [apsara, etymology, waters, maya, shakti, kalidasa, devibhagavata]
+tags: ["apsara", "etymology", "waters", "maya", "shakti", "kalidasa", "devibhagavata", "sanskrit", "beauty", "vikramorvasiyam"]
 status: "complete"
 source: "Amarakośa 1.1.122, Liṅgānuśāsanam, Devī Bhāgavata, Vikramorvaśīyam"
 ---

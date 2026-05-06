@@ -1,10 +1,10 @@
 ---
 title: "Persistent LLM wikis make synthesis compounding"
-date: 2026-04-30
-type: permanent
+date: "2026-04-30"
+type: "permanent"
 category: "Computer Science/Knowledge Management"
-tags: [llm, knowledge-management, zettelkasten, rag]
-status: draft
+tags: ["llm", "knowledge-management", "zettelkasten", "rag"]
+status: "draft"
 source: "[[LLM Wiki]]"
 related: ["[[LLM Wiki]]", "[[Unix philosophy]]", "[[Maintaining code base]]"]
 ---

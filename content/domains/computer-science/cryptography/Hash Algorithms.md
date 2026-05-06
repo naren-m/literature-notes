@@ -1,10 +1,22 @@
+---
+title: "Hash Algorithms"
+date: "2026-05-05"
+type: "permanent"
+category: "Computer Science/Cryptography"
+tags: []
+status: "draft"
+related: ["[[Hash Algorithms]]", "[[Hashing]]", "[[Block Cipher]]"]
+---
+
 # Hash Algorithms
 
 A [[Hash Algorithms]] will convert variable length data into a fixed length encoded result, which is called a digest. Any change to the data, even a single bit, can cause a radically different digest being generated using the hash algorithm.
 Here are the attributes of a secure hash algorithm:
 - One way – must use brute force to reverse
-- Should be fast
-- Memory efficient
+
+Should be fast
+
+Memory efficient
 
 ## One-way:
 as mentioned [[Hashing]] algorithms are one way.
@@ -17,8 +29,10 @@ hashes must be highly performant. Slow hashes are hard to scale which is necessa
 
 [[Hashing]] algorithms are also referred to as ciphers, where block ciphers are the most common. There are various approaches to creating hashes:
 - [[Block Cipher|Block cipher]]
-- Stream cipher
-- Keyed hash
+
+Stream cipher
+
+Keyed hash
 
 Hash Algorithms: SHA256(Good balance between compute and security), SHA512(more compute intense)
 At present, the most common hashing algorithm is SHA-256.

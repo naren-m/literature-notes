@@ -1,3 +1,13 @@
+---
+title: "tithi"
+date: "2026-05-05"
+type: "permanent"
+category: "Humanities/Sanskrit Literature"
+tags: []
+status: "draft"
+related: ["[[krishna]]"]
+---
+
 # tithi
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
@@ -15,7 +25,7 @@ According to Vedic perspective, "Tithi" is very important, as the Universal Time
 2. Formula to calculate Tithi = (Lunar Longitude – Solar Longitude) / 12 = {287.858 - 333.364} = {Minus 45.506 + 360}/12 = 26.207.
 
 3. In the formula, to calculate Tithi add 360⁰ if (Lunar Longitude – Solar Longitude) is less than zero or possesses negative value = {Minus 45.506 + 360}/12 = 26.207.
- 1. How to find Lunar Longitude and Solar Longitude
+1. How to find Lunar Longitude and Solar Longitude
 
 5. The final Tithi comes by rounding off (higher value) with the actual calculated value having decimal value.
 

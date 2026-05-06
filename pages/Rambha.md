@@ -1,8 +1,9 @@
 ---
 title: "Rambhā"
-date: 2026-04-08
+date: "2026-04-08"
+type: "research"
 category: "sanskrit-lit/Etymology"
-tags: [rambha, apsara, etymology, amarakosham, banana, beauty]
+tags: ["rambha", "apsara", "etymology", "amarakosham", "banana", "beauty", "sanskrit", "devibhagavata"]
 status: "complete"
 source: "Amarakośa 2.4.322, conversation analysis"
 ---

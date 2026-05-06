@@ -1,3 +1,12 @@
+---
+title: "Rudra"
+date: "2026-05-05"
+type: "permanent"
+category: "Humanities/Sanskrit Literature"
+tags: []
+status: "draft"
+---
+
 # Rudra
 
 रुक्  द्रावयथि  इथि  रुद्राह

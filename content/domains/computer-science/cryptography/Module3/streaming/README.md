@@ -1,3 +1,13 @@
+---
+title: "Cryptography Module3 Streaming"
+date: "2026-05-05"
+type: "permanent"
+category: "Computer Science/Cryptography/Module3/Streaming"
+tags: []
+status: "draft"
+related: ["[[Cryptography]]"]
+---
+
 # Cryptography Module3 Streaming
 
 [[Cryptography]]
@@ -8,21 +18,21 @@ Cobra is both a library for creating powerful modern CLI applications as well as
 
 Many of the most widely used Go projects are built using Cobra including:
 
-* [Kubernetes](http://kubernetes.io/)
-* [Hugo](http://gohugo.io)
-* [rkt](https://github.com/coreos/rkt)
-* [etcd](https://github.com/coreos/etcd)
-* [Docker](https://github.com/docker/docker)
-* [Docker (distribution)](https://github.com/docker/distribution)
-* [OpenShift](https://www.openshift.com/)
-* [Delve](https://github.com/derekparker/delve)
-* [GopherJS](http://www.gopherjs.org/)
-* [CockroachDB](http://www.cockroachlabs.com/)
-* [Bleve](http://www.blevesearch.com/)
-* [ProjectAtomic (enterprise)](http://www.projectatomic.io/)
-* [Parse (CLI)](https://parse.com/)
-* [GiantSwarm's swarm](https://github.com/giantswarm/cli)
-* [Nanobox](https://github.com/nanobox-io/nanobox)/[Nanopack](https://github.com/nanopack)
+- [Kubernetes](http://kubernetes.io/)
+- [Hugo](http://gohugo.io)
+- [rkt](https://github.com/coreos/rkt)
+- [etcd](https://github.com/coreos/etcd)
+- [Docker](https://github.com/docker/docker)
+- [Docker (distribution)](https://github.com/docker/distribution)
+- [OpenShift](https://www.openshift.com/)
+- [Delve](https://github.com/derekparker/delve)
+- [GopherJS](http://www.gopherjs.org/)
+- [CockroachDB](http://www.cockroachlabs.com/)
+- [Bleve](http://www.blevesearch.com/)
+- [ProjectAtomic (enterprise)](http://www.projectatomic.io/)
+- [Parse (CLI)](https://parse.com/)
+- [GiantSwarm's swarm](https://github.com/giantswarm/cli)
+- [Nanobox](https://github.com/nanobox-io/nanobox)/[Nanopack](https://github.com/nanopack)
 
 [![Build Status](https://travis-ci.org/spf13/cobra.svg "Travis CI status")](https://travis-ci.org/spf13/cobra)
 [![CircleCI status](https://circleci.com/gh/spf13/cobra.png?circle-token=:circle-token "CircleCI status")](https://circleci.com/gh/spf13/cobra)
@@ -40,20 +50,33 @@ develop a Cobra-based application.
 
 Cobra provides:
 
-* Easy subcommand-based CLIs: `app server`, `app fetch`, etc.
-* Fully POSIX-compliant flags (including short & long versions)
-* Nested subcommands
-* Global, local and cascading flags
-* Easy generation of applications & commands with `cobra create appname` & `cobra add cmdname`
-* Intelligent suggestions (`app srver`... did you mean `app server`?)
-* Automatic help generation for commands and flags
-* Automatic detailed help for `app help [command]`
-* Automatic help flag recognition of `-h`, `--help`, etc.
-* Automatically generated bash autocomplete for your application
-* Automatically generated man pages for your application
-* Command aliases so you can change things without breaking them
-* The flexibilty to define your own help, usage, etc.
-* Optional tight integration with [viper](http://github.com/spf13/viper) for 12-factor apps
+Easy subcommand-based CLIs: `app server`, `app fetch`, etc.
+
+Fully POSIX-compliant flags (including short & long versions)
+
+Nested subcommands
+
+Global, local and cascading flags
+
+Easy generation of applications & commands with `cobra create appname` & `cobra add cmdname`
+
+Intelligent suggestions (`app srver`... did you mean `app server`?)
+
+Automatic help generation for commands and flags
+
+Automatic detailed help for `app help [command]`
+
+Automatic help flag recognition of `-h`, `--help`, etc.
+
+Automatically generated bash autocomplete for your application
+
+Automatically generated man pages for your application
+
+Command aliases so you can change things without breaking them
+
+The flexibilty to define your own help, usage, etc.
+
+Optional tight integration with [viper](http://github.com/spf13/viper) for 12-factor apps
 
 Cobra has an exceptionally clean interface and simple design without needless
 constructors or initialization methods.
@@ -76,18 +99,18 @@ to use the application because they will natively understand how to use it.
 
 The pattern to follow is
 `APPNAME VERB NOUN --ADJECTIVE.`
-    or
+or
 `APPNAME COMMAND ARG --FLAG`
 
 A few good real world examples may better illustrate this point.
 
 In the following example, 'server' is a command, and 'port' is a flag:
 
-    > hugo server --port=1313
+> hugo server --port=1313
 
 In this command we are telling Git to clone the url bare.
 
-    > git clone URL --bare
+> git clone URL --bare
 
 ## Commands
 
@@ -101,10 +124,10 @@ A Command has the following structure:
 
 ```go
 type Command struct {
-    Use string // The one-line usage message.
-    Short string // The short description shown in the 'help' output.
-    Long string // The long message shown in the 'help <this-command>' output.
-    Run func(cmd *Command, args []string) // Run runs the command.
+Use string // The one-line usage message.
+Short string // The short description shown in the 'help' output.
+Long string // The long message shown in the 'help <this-command>' output.
+Run func(cmd *Command, args []string) // Run runs the command.
 }
 ```
 
@@ -135,7 +158,7 @@ Using Cobra is easy. First, use `go get` to install the latest version
 of the library. This command will install the `cobra` generator executible
 along with the library:
 
-    > go get -v github.com/spf13/cobra/cobra
+> go get -v github.com/spf13/cobra/cobra
 
 Next, include Cobra in your application:
 
@@ -149,13 +172,13 @@ While you are welcome to provide your own organization, typically a Cobra based
 application will follow the following organizational structure.
 
 ```
-  ▾ appName/
-    ▾ cmd/
-        add.go
-        your.go
-        commands.go
-        here.go
-      main.go
+▾ appName/
+▾ cmd/
+add.go
+your.go
+commands.go
+here.go
+main.go
 ```
 
 In a Cobra app, typically the main.go file is very bare. It serves, one purpose, to initialize Cobra.
@@ -164,17 +187,17 @@ In a Cobra app, typically the main.go file is very bare. It serves, one purpose,
 package main
 
 import (
- "fmt"
- "os"
+"fmt"
+"os"
 
- "{pathToYourApp}/cmd"
+"{pathToYourApp}/cmd"
 )
 
 func main() {
- if err := cmd.RootCmd.Execute(); err != nil {
-  fmt.Println(err)
-  os.Exit(1)
- }
+if err := cmd.RootCmd.Execute(); err != nil {
+fmt.Println(err)
+os.Exit(1)
+}
 }
 ```
 
@@ -185,7 +208,7 @@ commands you want. It's the easiest way to incorporate Cobra into your applicati
 
 In order to use the cobra command, compile it using the following command:
 
-    > go install github.com/spf13/cobra/cobra
+> go install github.com/spf13/cobra/cobra
 
 This will create the cobra executable under your go path bin directory!
 
@@ -208,9 +231,11 @@ cobra init github.com/spf13/newAppName
 Once an application is initialized Cobra can create additional commands for you.
 Let's say you created an app and you wanted the following commands for it:
 
-* app serve
-* app config
-* app config create
+app serve
+
+app config
+
+app config create
 
 In your project directory (where your main.go file is) you would run the following:
 
@@ -223,12 +248,12 @@ cobra add create -p 'configCmd'
 Once you have run these three commands you would have an app structure that would look like:
 
 ```
-  ▾ app/
-    ▾ cmd/
-        serve.go
-        config.go
-        create.go
-      main.go
+▾ app/
+▾ cmd/
+serve.go
+config.go
+create.go
+main.go
 ```
 
 at this point you can run `go run main.go` and it would run your app. `go run
@@ -256,13 +281,13 @@ a custom license:
 
 ```yaml
 license:
-  header: This file is part of `{{ .appName` }}.
-  text: |
-    `{{ .copyright` }}
+header: This file is part of `{{ .appName` }}.
+text: |
+`{{ .copyright` }}
 
-    This is my license. There are many like it, but this one is mine.
-    My license is my best friend. It is my life. I must master it as I must
-    master my life.  
+This is my license. There are many like it, but this one is mine.
+My license is my best friend. It is my life. I must master it as I must
+master my life.
 ```
 
 ## Manually implementing Cobra
@@ -282,14 +307,14 @@ Ideally you place this in app/cmd/root.go:
 
 ```go
 var RootCmd = &cobra.Command{
- Use:   "hugo",
- Short: "Hugo is a very fast static site generator",
- Long: `A Fast and Flexible Static Site Generator built with
-                love by spf13 and friends in Go.
-                Complete documentation is available at http://hugo.spf13.com`,
- Run: func(cmd *cobra.Command, args []string) {
-  // Do Stuff Here
- },
+Use:   "hugo",
+Short: "Hugo is a very fast static site generator",
+Long: `A Fast and Flexible Static Site Generator built with
+love by spf13 and friends in Go.
+Complete documentation is available at http://hugo.spf13.com`,
+Run: func(cmd *cobra.Command, args []string) {
+// Do Stuff Here
+},
 }
 ```
 
@@ -299,17 +324,17 @@ for example cmd/root.go:
 
 ```go
 func init() {
- cobra.OnInitialize(initConfig)
- RootCmd.PersistentFlags().StringVar(&cfgFile, "config", "", "config file (default is $HOME/.cobra.yaml)")
- RootCmd.PersistentFlags().StringVarP(&projectBase, "projectbase", "b", "", "base project directory eg. github.com/spf13/")
- RootCmd.PersistentFlags().StringP("author", "a", "YOUR NAME", "Author name for copyright attribution")
- RootCmd.PersistentFlags().StringVarP(&userLicense, "license", "l", "", "Name of license for the project (can provide `licensetext` in config)")
- RootCmd.PersistentFlags().Bool("viper", true, "Use Viper for configuration")
- viper.BindPFlag("author", RootCmd.PersistentFlags().Lookup("author"))
- viper.BindPFlag("projectbase", RootCmd.PersistentFlags().Lookup("projectbase"))
- viper.BindPFlag("useViper", RootCmd.PersistentFlags().Lookup("viper"))
- viper.SetDefault("author", "NAME HERE <EMAIL ADDRESS>")
- viper.SetDefault("license", "apache")
+cobra.OnInitialize(initConfig)
+RootCmd.PersistentFlags().StringVar(&cfgFile, "config", "", "config file (default is $HOME/.cobra.yaml)")
+RootCmd.PersistentFlags().StringVarP(&projectBase, "projectbase", "b", "", "base project directory eg. github.com/spf13/")
+RootCmd.PersistentFlags().StringP("author", "a", "YOUR NAME", "Author name for copyright attribution")
+RootCmd.PersistentFlags().StringVarP(&userLicense, "license", "l", "", "Name of license for the project (can provide `licensetext` in config)")
+RootCmd.PersistentFlags().Bool("viper", true, "Use Viper for configuration")
+viper.BindPFlag("author", RootCmd.PersistentFlags().Lookup("author"))
+viper.BindPFlag("projectbase", RootCmd.PersistentFlags().Lookup("projectbase"))
+viper.BindPFlag("useViper", RootCmd.PersistentFlags().Lookup("viper"))
+viper.SetDefault("author", "NAME HERE <EMAIL ADDRESS>")
+viper.SetDefault("license", "apache")
 }
 ```
 
@@ -324,17 +349,17 @@ In a Cobra app, typically the main.go file is very bare. It serves, one purpose,
 package main
 
 import (
- "fmt"
- "os"
+"fmt"
+"os"
 
- "{pathToYourApp}/cmd"
+"{pathToYourApp}/cmd"
 )
 
 func main() {
- if err := cmd.RootCmd.Execute(); err != nil {
-  fmt.Println(err)
-  os.Exit(1)
- }
+if err := cmd.RootCmd.Execute(); err != nil {
+fmt.Println(err)
+os.Exit(1)
+}
 }
 ```
 
@@ -350,21 +375,21 @@ populate it with the following:
 package cmd
 
 import (
- "github.com/spf13/cobra"
- "fmt"
+"github.com/spf13/cobra"
+"fmt"
 )
 
 func init() {
- RootCmd.AddCommand(versionCmd)
+RootCmd.AddCommand(versionCmd)
 }
 
 var versionCmd = &cobra.Command{
- Use:   "version",
- Short: "Print the version number of Hugo",
- Long:  `All software has versions. This is Hugo's`,
- Run: func(cmd *cobra.Command, args []string) {
-  fmt.Println("Hugo Static Site Generator v0.9 -- HEAD")
- },
+Use:   "version",
+Short: "Print the version number of Hugo",
+Long:  `All software has versions. This is Hugo's`,
+Run: func(cmd *cobra.Command, args []string) {
+fmt.Println("Hugo Static Site Generator v0.9 -- HEAD")
+},
 }
 ```
 
@@ -441,56 +466,56 @@ More documentation about flags is available at <https://github.com/spf13/pflag>
 package main
 
 import (
- "fmt"
- "strings"
+"fmt"
+"strings"
 
- "github.com/spf13/cobra"
+"github.com/spf13/cobra"
 )
 
 func main() {
 
- var echoTimes int
+var echoTimes int
 
- var cmdPrint = &cobra.Command{
-  Use:   "print [string to print]",
-  Short: "Print anything to the screen",
-  Long: `print is for printing anything back to the screen.
-            For many years people have printed back to the screen.
-            `,
-  Run: func(cmd *cobra.Command, args []string) {
-   fmt.Println("Print: " + strings.Join(args, " "))
-  },
- }
+var cmdPrint = &cobra.Command{
+Use:   "print [string to print]",
+Short: "Print anything to the screen",
+Long: `print is for printing anything back to the screen.
+For many years people have printed back to the screen.
+`,
+Run: func(cmd *cobra.Command, args []string) {
+fmt.Println("Print: " + strings.Join(args, " "))
+},
+}
 
- var cmdEcho = &cobra.Command{
-  Use:   "echo [string to echo]",
-  Short: "Echo anything to the screen",
-  Long: `echo is for echoing anything back.
-            Echo works a lot like print, except it has a child command.
-            `,
-  Run: func(cmd *cobra.Command, args []string) {
-   fmt.Println("Print: " + strings.Join(args, " "))
-  },
- }
+var cmdEcho = &cobra.Command{
+Use:   "echo [string to echo]",
+Short: "Echo anything to the screen",
+Long: `echo is for echoing anything back.
+Echo works a lot like print, except it has a child command.
+`,
+Run: func(cmd *cobra.Command, args []string) {
+fmt.Println("Print: " + strings.Join(args, " "))
+},
+}
 
- var cmdTimes = &cobra.Command{
-  Use:   "times [# times] [string to echo]",
-  Short: "Echo anything to the screen more times",
-  Long: `echo things multiple times back to the user by providing
-            a count and a string.`,
-  Run: func(cmd *cobra.Command, args []string) {
-   for i := 0; i < echoTimes; i++ {
-    fmt.Println("Echo: " + strings.Join(args, " "))
-   }
-  },
- }
+var cmdTimes = &cobra.Command{
+Use:   "times [# times] [string to echo]",
+Short: "Echo anything to the screen more times",
+Long: `echo things multiple times back to the user by providing
+a count and a string.`,
+Run: func(cmd *cobra.Command, args []string) {
+for i := 0; i < echoTimes; i++ {
+fmt.Println("Echo: " + strings.Join(args, " "))
+}
+},
+}
 
- cmdTimes.Flags().IntVarP(&echoTimes, "times", "t", 1, "times to echo the input")
+cmdTimes.Flags().IntVarP(&echoTimes, "times", "t", 1, "times to echo the input")
 
- var rootCmd = &cobra.Command{Use: "app"}
- rootCmd.AddCommand(cmdPrint, cmdEcho)
- cmdEcho.AddCommand(cmdTimes)
- rootCmd.Execute()
+var rootCmd = &cobra.Command{Use: "app"}
+rootCmd.AddCommand(cmdPrint, cmdEcho)
+cmdEcho.AddCommand(cmdTimes)
+rootCmd.Execute()
 }
 ```
 
@@ -509,60 +534,60 @@ create' is called.  Every command will automatically have the '--help' flag adde
 The following output is automatically generated by Cobra. Nothing beyond the
 command and flag definitions are needed.
 
-    > hugo help
+> hugo help
 
-    hugo is the main command, used to build your Hugo site.
+hugo is the main command, used to build your Hugo site.
 
-    Hugo is a Fast and Flexible Static Site Generator
-    built with love by spf13 and friends in Go.
+Hugo is a Fast and Flexible Static Site Generator
+built with love by spf13 and friends in Go.
 
-    Complete documentation is available at http://gohugo.io/.
+Complete documentation is available at http://gohugo.io/.
 
-    Usage:
-      hugo [flags]
-      hugo [command]
+Usage:
+hugo [flags]
+hugo [command]
 
-    Available Commands:
-      server          Hugo runs its own webserver to render the files
-      version         Print the version number of Hugo
-      config          Print the site configuration
-      check           Check content in the source directory
-      benchmark       Benchmark hugo by building a site a number of times.
-      convert         Convert your content to different formats
-      new             Create new content for your site
-      list            Listing out various types of content
-      undraft         Undraft changes the content's draft status from 'True' to 'False'
-      genautocomplete Generate shell autocompletion script for Hugo
-      gendoc          Generate Markdown documentation for the Hugo CLI.
-      genman          Generate man page for Hugo
-      import          Import your site from others.
+Available Commands:
+server          Hugo runs its own webserver to render the files
+version         Print the version number of Hugo
+config          Print the site configuration
+check           Check content in the source directory
+benchmark       Benchmark hugo by building a site a number of times.
+convert         Convert your content to different formats
+new             Create new content for your site
+list            Listing out various types of content
+undraft         Undraft changes the content's draft status from 'True' to 'False'
+genautocomplete Generate shell autocompletion script for Hugo
+gendoc          Generate Markdown documentation for the Hugo CLI.
+genman          Generate man page for Hugo
+import          Import your site from others.
 
-    Flags:
-      -b, --baseURL="": hostname (and path) to the root, e.g. http://spf13.com/
-      -D, --buildDrafts[=false]: include content marked as draft
-      -F, --buildFuture[=false]: include content with publishdate in the future
-          --cacheDir="": filesystem path to cache directory. Defaults: $TMPDIR/hugo_cache/
-          --canonifyURLs[=false]: if true, all relative URLs will be canonicalized using baseURL
-          --config="": config file (default is path/config.yaml|json|toml)
-      -d, --destination="": filesystem path to write files to
-          --disableRSS[=false]: Do not build RSS files
-          --disableSitemap[=false]: Do not build Sitemap file
-          --editor="": edit new content with this editor, if provided
-          --ignoreCache[=false]: Ignores the cache directory for reading but still writes to it
-          --log[=false]: Enable Logging
-          --logFile="": Log File path (if set, logging enabled automatically)
-          --noTimes[=false]: Don't sync modification time of files
-          --pluralizeListTitles[=true]: Pluralize titles in lists using inflect
-          --preserveTaxonomyNames[=false]: Preserve taxonomy names as written ("Gérard Depardieu" vs "gerard-depardieu")
-      -s, --source="": filesystem path to read files relative from
-          --stepAnalysis[=false]: display memory and timing of different steps of the program
-      -t, --theme="": theme to use (located in /themes/THEMENAME/)
-          --uglyURLs[=false]: if true, use /filename.html instead of /filename/
-      -v, --verbose[=false]: verbose output
-          --verboseLog[=false]: verbose logging
-      -w, --watch[=false]: watch filesystem for changes and recreate as needed
+Flags:
+-b, --baseURL="": hostname (and path) to the root, e.g. http://spf13.com/
+-D, --buildDrafts[=false]: include content marked as draft
+-F, --buildFuture[=false]: include content with publishdate in the future
+--cacheDir="": filesystem path to cache directory. Defaults: $TMPDIR/hugo_cache/
+--canonifyURLs[=false]: if true, all relative URLs will be canonicalized using baseURL
+--config="": config file (default is path/config.yaml|json|toml)
+-d, --destination="": filesystem path to write files to
+--disableRSS[=false]: Do not build RSS files
+--disableSitemap[=false]: Do not build Sitemap file
+--editor="": edit new content with this editor, if provided
+--ignoreCache[=false]: Ignores the cache directory for reading but still writes to it
+--log[=false]: Enable Logging
+--logFile="": Log File path (if set, logging enabled automatically)
+--noTimes[=false]: Don't sync modification time of files
+--pluralizeListTitles[=true]: Pluralize titles in lists using inflect
+--preserveTaxonomyNames[=false]: Preserve taxonomy names as written ("Gérard Depardieu" vs "gerard-depardieu")
+-s, --source="": filesystem path to read files relative from
+--stepAnalysis[=false]: display memory and timing of different steps of the program
+-t, --theme="": theme to use (located in /themes/THEMENAME/)
+--uglyURLs[=false]: if true, use /filename.html instead of /filename/
+-v, --verbose[=false]: verbose output
+--verboseLog[=false]: verbose logging
+-w, --watch[=false]: watch filesystem for changes and recreate as needed
 
-    Use "hugo [command] --help" for more information about a command.
+Use "hugo [command] --help" for more information about a command.
 
 Help is just a command like any other. There is no special logic or behavior
 around it. In fact, you can provide your own if you want.
@@ -575,16 +600,16 @@ The default help command is
 
 ```go
 func (c *Command) initHelp() {
- if c.helpCommand == nil {
-  c.helpCommand = &Command{
-   Use:   "help [command]",
-   Short: "Help about any command",
-   Long: `Help provides help for any command in the application.
-        Simply type ` + c.Name() + ` help [path to command] for full details.`,
-   Run: c.HelpFunc(),
-  }
- }
- c.AddCommand(c.helpCommand)
+if c.helpCommand == nil {
+c.helpCommand = &Command{
+Use:   "help [command]",
+Short: "Help about any command",
+Long: `Help provides help for any command in the application.
+Simply type ` + c.Name() + ` help [path to command] for full details.`,
+Run: c.HelpFunc(),
+}
+}
+c.AddCommand(c.helpCommand)
 }
 ```
 
@@ -610,49 +635,49 @@ showing the user the 'usage'.
 You may recognize this from the help above. That's because the default help
 embeds the usage as part of its output.
 
-    Usage:
-      hugo [flags]
-      hugo [command]
+Usage:
+hugo [flags]
+hugo [command]
 
-    Available Commands:
-      server          Hugo runs its own webserver to render the files
-      version         Print the version number of Hugo
-      config          Print the site configuration
-      check           Check content in the source directory
-      benchmark       Benchmark hugo by building a site a number of times.
-      convert         Convert your content to different formats
-      new             Create new content for your site
-      list            Listing out various types of content
-      undraft         Undraft changes the content's draft status from 'True' to 'False'
-      genautocomplete Generate shell autocompletion script for Hugo
-      gendoc          Generate Markdown documentation for the Hugo CLI.
-      genman          Generate man page for Hugo
-      import          Import your site from others.
+Available Commands:
+server          Hugo runs its own webserver to render the files
+version         Print the version number of Hugo
+config          Print the site configuration
+check           Check content in the source directory
+benchmark       Benchmark hugo by building a site a number of times.
+convert         Convert your content to different formats
+new             Create new content for your site
+list            Listing out various types of content
+undraft         Undraft changes the content's draft status from 'True' to 'False'
+genautocomplete Generate shell autocompletion script for Hugo
+gendoc          Generate Markdown documentation for the Hugo CLI.
+genman          Generate man page for Hugo
+import          Import your site from others.
 
-    Flags:
-      -b, --baseURL="": hostname (and path) to the root, e.g. http://spf13.com/
-      -D, --buildDrafts[=false]: include content marked as draft
-      -F, --buildFuture[=false]: include content with publishdate in the future
-          --cacheDir="": filesystem path to cache directory. Defaults: $TMPDIR/hugo_cache/
-          --canonifyURLs[=false]: if true, all relative URLs will be canonicalized using baseURL
-          --config="": config file (default is path/config.yaml|json|toml)
-      -d, --destination="": filesystem path to write files to
-          --disableRSS[=false]: Do not build RSS files
-          --disableSitemap[=false]: Do not build Sitemap file
-          --editor="": edit new content with this editor, if provided
-          --ignoreCache[=false]: Ignores the cache directory for reading but still writes to it
-          --log[=false]: Enable Logging
-          --logFile="": Log File path (if set, logging enabled automatically)
-          --noTimes[=false]: Don't sync modification time of files
-          --pluralizeListTitles[=true]: Pluralize titles in lists using inflect
-          --preserveTaxonomyNames[=false]: Preserve taxonomy names as written ("Gérard Depardieu" vs "gerard-depardieu")
-      -s, --source="": filesystem path to read files relative from
-          --stepAnalysis[=false]: display memory and timing of different steps of the program
-      -t, --theme="": theme to use (located in /themes/THEMENAME/)
-          --uglyURLs[=false]: if true, use /filename.html instead of /filename/
-      -v, --verbose[=false]: verbose output
-          --verboseLog[=false]: verbose logging
-      -w, --watch[=false]: watch filesystem for changes and recreate as needed
+Flags:
+-b, --baseURL="": hostname (and path) to the root, e.g. http://spf13.com/
+-D, --buildDrafts[=false]: include content marked as draft
+-F, --buildFuture[=false]: include content with publishdate in the future
+--cacheDir="": filesystem path to cache directory. Defaults: $TMPDIR/hugo_cache/
+--canonifyURLs[=false]: if true, all relative URLs will be canonicalized using baseURL
+--config="": config file (default is path/config.yaml|json|toml)
+-d, --destination="": filesystem path to write files to
+--disableRSS[=false]: Do not build RSS files
+--disableSitemap[=false]: Do not build Sitemap file
+--editor="": edit new content with this editor, if provided
+--ignoreCache[=false]: Ignores the cache directory for reading but still writes to it
+--log[=false]: Enable Logging
+--logFile="": Log File path (if set, logging enabled automatically)
+--noTimes[=false]: Don't sync modification time of files
+--pluralizeListTitles[=true]: Pluralize titles in lists using inflect
+--preserveTaxonomyNames[=false]: Preserve taxonomy names as written ("Gérard Depardieu" vs "gerard-depardieu")
+-s, --source="": filesystem path to read files relative from
+--stepAnalysis[=false]: display memory and timing of different steps of the program
+-t, --theme="": theme to use (located in /themes/THEMENAME/)
+--uglyURLs[=false]: if true, use /filename.html instead of /filename/
+-v, --verbose[=false]: verbose output
+--verboseLog[=false]: verbose logging
+-w, --watch[=false]: watch filesystem for changes and recreate as needed
 
 ### Defining your own usage
 
@@ -662,8 +687,8 @@ The default usage function is:
 
 ```go
 return func(c *Command) error {
- err := tmpl(c.Out(), c.UsageTemplate(), c)
- return err
+err := tmpl(c.Out(), c.UsageTemplate(), c)
+return err
 }
 ```
 
@@ -679,11 +704,15 @@ command.SetUsageTemplate(s string)
 
 It is possible to run functions before or after the main `Run` function of your command. The `PersistentPreRun` and `PreRun` functions will be executed before `Run`. `PersistentPostRun` and `PostRun` will be executed after `Run`.  The `Persistent*Run` functions will be inherited by children if they do not declare their own.  These functions are run in the following order:
 
-* `PersistentPreRun`
-* `PreRun`
-* `Run`
-* `PostRun`
-* `PersistentPostRun`
+`PersistentPreRun`
+
+`PreRun`
+
+`Run`
+
+`PostRun`
+
+`PersistentPostRun`
 
 An example of two commands which use all of these features is below.  When the subcommand is executed, it will run the root command's `PersistentPreRun` but not the root command's `PersistentPostRun`:
 
@@ -691,57 +720,57 @@ An example of two commands which use all of these features is below.  When the s
 package main
 
 import (
- "fmt"
+"fmt"
 
- "github.com/spf13/cobra"
+"github.com/spf13/cobra"
 )
 
 func main() {
 
- var rootCmd = &cobra.Command{
-  Use:   "root [sub]",
-  Short: "My root command",
-  PersistentPreRun: func(cmd *cobra.Command, args []string) {
-   fmt.Printf("Inside rootCmd PersistentPreRun with args: %v\n", args)
-  },
-  PreRun: func(cmd *cobra.Command, args []string) {
-   fmt.Printf("Inside rootCmd PreRun with args: %v\n", args)
-  },
-  Run: func(cmd *cobra.Command, args []string) {
-   fmt.Printf("Inside rootCmd Run with args: %v\n", args)
-  },
-  PostRun: func(cmd *cobra.Command, args []string) {
-   fmt.Printf("Inside rootCmd PostRun with args: %v\n", args)
-  },
-  PersistentPostRun: func(cmd *cobra.Command, args []string) {
-   fmt.Printf("Inside rootCmd PersistentPostRun with args: %v\n", args)
-  },
- }
+var rootCmd = &cobra.Command{
+Use:   "root [sub]",
+Short: "My root command",
+PersistentPreRun: func(cmd *cobra.Command, args []string) {
+fmt.Printf("Inside rootCmd PersistentPreRun with args: %v\n", args)
+},
+PreRun: func(cmd *cobra.Command, args []string) {
+fmt.Printf("Inside rootCmd PreRun with args: %v\n", args)
+},
+Run: func(cmd *cobra.Command, args []string) {
+fmt.Printf("Inside rootCmd Run with args: %v\n", args)
+},
+PostRun: func(cmd *cobra.Command, args []string) {
+fmt.Printf("Inside rootCmd PostRun with args: %v\n", args)
+},
+PersistentPostRun: func(cmd *cobra.Command, args []string) {
+fmt.Printf("Inside rootCmd PersistentPostRun with args: %v\n", args)
+},
+}
 
- var subCmd = &cobra.Command{
-  Use:   "sub [no options!]",
-  Short: "My subcommand",
-  PreRun: func(cmd *cobra.Command, args []string) {
-   fmt.Printf("Inside subCmd PreRun with args: %v\n", args)
-  },
-  Run: func(cmd *cobra.Command, args []string) {
-   fmt.Printf("Inside subCmd Run with args: %v\n", args)
-  },
-  PostRun: func(cmd *cobra.Command, args []string) {
-   fmt.Printf("Inside subCmd PostRun with args: %v\n", args)
-  },
-  PersistentPostRun: func(cmd *cobra.Command, args []string) {
-   fmt.Printf("Inside subCmd PersistentPostRun with args: %v\n", args)
-  },
- }
+var subCmd = &cobra.Command{
+Use:   "sub [no options!]",
+Short: "My subcommand",
+PreRun: func(cmd *cobra.Command, args []string) {
+fmt.Printf("Inside subCmd PreRun with args: %v\n", args)
+},
+Run: func(cmd *cobra.Command, args []string) {
+fmt.Printf("Inside subCmd Run with args: %v\n", args)
+},
+PostRun: func(cmd *cobra.Command, args []string) {
+fmt.Printf("Inside subCmd PostRun with args: %v\n", args)
+},
+PersistentPostRun: func(cmd *cobra.Command, args []string) {
+fmt.Printf("Inside subCmd PersistentPostRun with args: %v\n", args)
+},
+}
 
- rootCmd.AddCommand(subCmd)
+rootCmd.AddCommand(subCmd)
 
- rootCmd.SetArgs([]string{""})
- _ = rootCmd.Execute()
- fmt.Print("\n")
- rootCmd.SetArgs([]string{"sub", "arg1", "arg2"})
- _ = rootCmd.Execute()
+rootCmd.SetArgs([]string{""})
+_ = rootCmd.Execute()
+fmt.Print("\n")
+rootCmd.SetArgs([]string{"sub", "arg1", "arg2"})
+_ = rootCmd.Execute()
 }
 ```
 
@@ -750,11 +779,15 @@ func main() {
 Cobra also has functions where the return signature is an error. This allows for errors to bubble up to the top,
 providing a way to handle the errors in one location. The current list of functions that return an error is:
 
-* PersistentPreRunE
-* PreRunE
-* RunE
-* PostRunE
-* PersistentPostRunE
+PersistentPreRunE
+
+PreRunE
+
+RunE
+
+PostRunE
+
+PersistentPostRunE
 
 If you would like to silence the default `error` and `usage` output in favor of your own, you can set `SilenceUsage`
 and `SilenceErrors` to `true` on the command. A child command respects these flags if they are set on the parent
@@ -766,28 +799,28 @@ command.
 package main
 
 import (
- "errors"
- "log"
+"errors"
+"log"
 
- "github.com/spf13/cobra"
+"github.com/spf13/cobra"
 )
 
 func main() {
- var rootCmd = &cobra.Command{
-  Use:   "hugo",
-  Short: "Hugo is a very fast static site generator",
-  Long: `A Fast and Flexible Static Site Generator built with
-                love by spf13 and friends in Go.
-                Complete documentation is available at http://hugo.spf13.com`,
-  RunE: func(cmd *cobra.Command, args []string) error {
-   // Do Stuff Here
-   return errors.New("some random error")
-  },
- }
+var rootCmd = &cobra.Command{
+Use:   "hugo",
+Short: "Hugo is a very fast static site generator",
+Long: `A Fast and Flexible Static Site Generator built with
+love by spf13 and friends in Go.
+Complete documentation is available at http://hugo.spf13.com`,
+RunE: func(cmd *cobra.Command, args []string) error {
+// Do Stuff Here
+return errors.New("some random error")
+},
+}
 
- if err := rootCmd.Execute(); err != nil {
-  log.Fatal(err)
- }
+if err := rootCmd.Execute(); err != nil {
+log.Fatal(err)
+}
 }
 ```
 
@@ -800,7 +833,7 @@ $ hugo srever
 Error: unknown command "srever" for "hugo"
 
 Did you mean this?
-        server
+server
 
 Run 'hugo --help' for usage.
 ```
@@ -826,7 +859,7 @@ $ kubectl remove
 Error: unknown command "remove" for "kubectl"
 
 Did you mean this?
-        delete
+delete
 
 Run 'kubectl help' for usage.
 ```
@@ -856,38 +889,45 @@ command.DebugFlags()
 
 ## Release Notes
 
-* **0.9.0** June 17, 2014
-  * flags can appears anywhere in the args (provided they are unambiguous)
-  * --help prints usage screen for app or command
-  * Prefix matching for commands
-  * Cleaner looking help and usage output
-  * Extensive test suite
-* **0.8.0** Nov 5, 2013
-  * Reworked interface to remove commander completely
-  * Command now primary structure
-  * No initialization needed
-  * Usage & Help templates & functions definable at any level
-  * Updated Readme
-* **0.7.0** Sept 24, 2013
-  * Needs more eyes
-  * Test suite
-  * Support for automatic error messages
-  * Support for help command
-  * Support for printing to any io.Writer instead of os.Stderr
-  * Support for persistent flags which cascade down tree
-  * Ready for integration into Hugo
-* **0.1.0** Sept 3, 2013
-  * Implement first draft
+**0.9.0** June 17, 2014
+
+  - flags can appears anywhere in the args (provided they are unambiguous)
+  - --help prints usage screen for app or command
+  - Prefix matching for commands
+  - Cleaner looking help and usage output
+  - Extensive test suite
+
+**0.8.0** Nov 5, 2013
+
+  - Reworked interface to remove commander completely
+  - Command now primary structure
+  - No initialization needed
+  - Usage & Help templates & functions definable at any level
+  - Updated Readme
+
+**0.7.0** Sept 24, 2013
+
+  - Needs more eyes
+  - Test suite
+  - Support for automatic error messages
+  - Support for help command
+  - Support for printing to any io.Writer instead of os.Stderr
+  - Support for persistent flags which cascade down tree
+  - Ready for integration into Hugo
+
+**0.1.0** Sept 3, 2013
+
+  - Implement first draft
 
 ## Extensions
 
 Libraries for extending Cobra:
 
-* [cmdns](https://github.com/gosuri/cmdns): Enables name spacing a command's immediate children. It provides an alternative way to structure subcommands, similar to `heroku apps:create` and `ovrclk clusters:launch`.
+- [cmdns](https://github.com/gosuri/cmdns): Enables name spacing a command's immediate children. It provides an alternative way to structure subcommands, similar to `heroku apps:create` and `ovrclk clusters:launch`.
 
 ## ToDo
 
-* Launch proper documentation site
+Launch proper documentation site
 
 ## Contributing
 
@@ -901,7 +941,7 @@ Libraries for extending Cobra:
 
 Names in no particular order:
 
-* [spf13](https://github.com/spf13),
+- [spf13](https://github.com/spf13),
 [eparis](https://github.com/eparis),
 [bep](https://github.com/bep), and many more!
 

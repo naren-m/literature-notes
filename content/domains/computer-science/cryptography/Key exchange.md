@@ -1,10 +1,10 @@
 ---
 title: "Key exchange"
-date: 2026-04-30
-type: permanent
+date: "2026-04-30"
+type: "permanent"
 category: "Computer Science/Cryptography"
-tags: [cryptography, encryption, authentication]
-status: draft
+tags: ["cryptography", "encryption", "authentication"]
+status: "draft"
 related: ["[[Encryption]]", "[[Public Key]]", "[[Cryptography]]", "[[Harvest now decrypt later makes key exchange urgent]]", "[[Quantum attacks depend on exploitable mathematical structure]]"]
 ---
 

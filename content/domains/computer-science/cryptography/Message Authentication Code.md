@@ -1,10 +1,10 @@
 ---
 title: "Message Authentication Code"
-date: 2026-04-30
-type: permanent
+date: "2026-04-30"
+type: "permanent"
 category: "Computer Science/Cryptography"
-tags: [cryptography, authentication, integrity]
-status: draft
+tags: ["cryptography", "authentication", "integrity"]
+status: "draft"
 related: ["[[HMAC]]", "[[Integrity]]", "[[Authentication]]"]
 ---
 

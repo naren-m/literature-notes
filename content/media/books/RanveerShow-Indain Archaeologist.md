@@ -1,3 +1,12 @@
+---
+title: "RanveerShow-Indain Archaeologist"
+date: "2026-05-05"
+type: "literature"
+category: "Media/Books"
+tags: []
+status: "draft"
+---
+
 # RanveerShow-Indain Archaeologist
 
 ## Details
@@ -16,7 +25,6 @@
 - Archeological survey of India was established by [[Alexander Cunningham]]
 - Dholavira, Gujarat - Center of the decert back in 1500 BCE, Man stayed there and has civilization
   - Found a way to filter Salt from water and made it drinkable
-  -
 
 - [[Havan]] is [[Soma]] ?
 - [[Indology]] Study of india by it's primary sources. Shastras not commetaries of english people understanding.

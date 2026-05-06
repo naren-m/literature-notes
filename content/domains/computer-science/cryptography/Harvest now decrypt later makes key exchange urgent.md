@@ -1,10 +1,10 @@
 ---
 title: "Harvest now decrypt later makes key exchange urgent"
-date: 2026-04-30
-type: permanent
+date: "2026-04-30"
+type: "permanent"
 category: "Computer Science/Cryptography"
-tags: [cryptography, post-quantum-cryptography, key-exchange]
-status: draft
+tags: ["cryptography", "post-quantum-cryptography", "key-exchange"]
+status: "draft"
 source: "[[How Quantum Computers Break Encryption: First Principles]]"
 related: ["[[Key exchange]]", "[[Confidentiality]]", "[[Data Sensitivity]]", "[[Lattice-based encryption]]"]
 ---

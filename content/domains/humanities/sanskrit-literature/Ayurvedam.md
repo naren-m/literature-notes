@@ -1,3 +1,13 @@
+---
+title: "Ayurvedam"
+date: "2026-05-05"
+type: "permanent"
+category: "Humanities/Sanskrit Literature"
+tags: ["ayurveda", "medicine", "health", "holistic", "traditional", "wellness", "prevention"]
+status: "draft"
+related: ["[[India]]", "[[Agni]]", "[[charaka_samhitha]]", "[[Sutra]]", "[[AyurvedicRemedies]]", "[[dadhi]]", "[[Dharma]]", "[[karma]]"]
+---
+
 # Ayurvedam
 
 Ayurveda ("Knowledge of Life") is the traditional system of medicine originating in [[India]] over 5,000 years ago. It represents one of the world's oldest medical systems, emphasizing prevention, holistic treatment, and the balance of mind, body, and spirit.
@@ -8,22 +18,34 @@ Ayurveda ("Knowledge of Life") is the traditional system of medicine originating
 The cornerstone of Ayurvedic medicine based on three fundamental energies:
 
 #### 1. Vata (Air + Space)
-- **Functions**: Movement, circulation, breathing, nervous system
-- **Characteristics**: Dry, light, cold, rough, subtle, mobile
-- **Imbalance symptoms**: Anxiety, insomnia, constipation, joint pain
-- **Location**: Colon, thighs, bones, joints, ears
+
+**Functions**: Movement, circulation, breathing, nervous system
+
+**Characteristics**: Dry, light, cold, rough, subtle, mobile
+
+**Imbalance symptoms**: Anxiety, insomnia, constipation, joint pain
+
+**Location**: Colon, thighs, bones, joints, ears
 
 #### 2. Pitta (Fire + Water)
-- **Functions**: Metabolism, digestion, transformation, intelligence
-- **Characteristics**: Hot, sharp, light, oily, liquid, mobile
-- **Imbalance symptoms**: Anger, inflammation, acidity, skin disorders
-- **Location**: Small intestine, liver, heart, brain, eyes
+
+**Functions**: Metabolism, digestion, transformation, intelligence
+
+**Characteristics**: Hot, sharp, light, oily, liquid, mobile
+
+**Imbalance symptoms**: Anger, inflammation, acidity, skin disorders
+
+**Location**: Small intestine, liver, heart, brain, eyes
 
 #### 3. Kapha (Earth + Water)
-- **Functions**: Structure, immunity, lubrication, stability
-- **Characteristics**: Heavy, slow, steady, solid, cold, soft, oily
-- **Imbalance symptoms**: Depression, obesity, congestion, diabetes
-- **Location**: Chest, throat, head, sinuses, joints
+
+**Functions**: Structure, immunity, lubrication, stability
+
+**Characteristics**: Heavy, slow, steady, solid, cold, soft, oily
+
+**Imbalance symptoms**: Depression, obesity, congestion, diabetes
+
+**Location**: Chest, throat, head, sinuses, joints
 
 ### Panchamahabhuta (Five Elements)
 The fundamental building blocks of all matter:
@@ -34,19 +56,27 @@ The fundamental building blocks of all matter:
 5. **Prithvi (Earth)** - Structure and stability
 
 ### Prakriti and Vikriti
-- **Prakriti**: Individual's natural constitution (genetic blueprint)
-- **Vikriti**: Current state of doshic balance/imbalance
-- **Goal**: Align Vikriti with Prakriti for optimal health
+
+**Prakriti**: Individual's natural constitution (genetic blueprint)
+
+**Vikriti**: Current state of doshic balance/imbalance
+
+**Goal**: Align Vikriti with Prakriti for optimal health
 
 ## Classical Texts
 
 ### Major Treatises (Brihat-Trayi)
 
 #### 1. [[charaka_samhitha]] (Charaka Samhita)
-- **Author**: Charaka (2nd century CE)
-- **Focus**: Internal medicine and general principles
-- **Structure**: 8 sections, 120 chapters, 12,000 verses
-- **Key Topics**:
+
+**Author**: Charaka (2nd century CE)
+
+**Focus**: Internal medicine and general principles
+
+**Structure**: 8 sections, 120 chapters, 12,000 verses
+
+**Key Topics**:
+
   - [[Sutra]] Sthana: Basic principles
   - Nidana Sthana: Pathology
   - Vimana Sthana: Measurement and training
@@ -57,22 +87,34 @@ The fundamental building blocks of all matter:
   - Siddhi Sthana: Success in treatment
 
 #### 2. Sushruta Samhita
-- **Author**: Sushruta (6th century BCE)
-- **Focus**: Surgery, anatomy, and trauma medicine
-- **Innovations**: Surgical procedures, plastic surgery, cataract surgery
-- **Structure**: 6 sections, 186 chapters
-- **Significance**: First systematic treatise on surgery
+
+**Author**: Sushruta (6th century BCE)
+
+**Focus**: Surgery, anatomy, and trauma medicine
+
+**Innovations**: Surgical procedures, plastic surgery, cataract surgery
+
+**Structure**: 6 sections, 186 chapters
+
+**Significance**: First systematic treatise on surgery
 
 #### 3. Ashtanga Hridaya
-- **Author**: Vagbhata (7th century CE)
-- **Focus**: Comprehensive medical compilation
-- **Structure**: Synthesis of Charaka and Sushruta
-- **Accessibility**: More concise and practical approach
+
+**Author**: Vagbhata (7th century CE)
+
+**Focus**: Comprehensive medical compilation
+
+**Structure**: Synthesis of Charaka and Sushruta
+
+**Accessibility**: More concise and practical approach
 
 ### Lesser Treatises (Laghu-Trayi)
-- **Madhava Nidana**: Diagnostic text focusing on disease pathology
-- **Sharangdhara Samhita**: Pharmaceutical preparations
-- **Bhava Prakasha**: Materia medica and drug descriptions
+
+**Madhava Nidana**: Diagnostic text focusing on disease pathology
+
+**Sharangdhara Samhita**: Pharmaceutical preparations
+
+**Bhava Prakasha**: Materia medica and drug descriptions
 
 ## Diagnostic Methods (Ashtasthana Pariksha)
 
@@ -87,10 +129,14 @@ The fundamental building blocks of all matter:
 8. **Akriti (General Appearance)**: Overall constitution and vitality
 
 ### Advanced Diagnostic Techniques
-- **Prakriti Analysis**: Constitutional assessment
-- **Dashavidha Pariksha**: Ten-fold examination
-- **Rogapariksha**: Disease-specific investigations
-- **Rogipariksha**: Patient-specific evaluations
+
+**Prakriti Analysis**: Constitutional assessment
+
+**Dashavidha Pariksha**: Ten-fold examination
+
+**Rogapariksha**: Disease-specific investigations
+
+**Rogipariksha**: Patient-specific evaluations
 
 ## Treatment Modalities
 
@@ -105,46 +151,74 @@ Detoxification and purification therapies:
 5. **Raktamokshana**: Bloodletting for blood-related disorders
 
 #### Shamana (Pacification)
-- Oral medications
-- Dietary modifications
-- Lifestyle adjustments
-- Herbal preparations
+
+Oral medications
+
+Dietary modifications
+
+Lifestyle adjustments
+
+Herbal preparations
 
 ### 2. Aushadhi (Medications)
 
 #### Herbal Classifications
-- **Rasayana**: Rejuvenative tonics
-- **Vajikarna**: Aphrodisiacs and reproductive health
-- **Medhya**: Brain tonics and nootropics
-- **Hridaya**: Cardiac tonics
-- **Deepana**: Digestive stimulants
-- **Pachana**: Digestive aids
+
+**Rasayana**: Rejuvenative tonics
+
+**Vajikarna**: Aphrodisiacs and reproductive health
+
+**Medhya**: Brain tonics and nootropics
+
+**Hridaya**: Cardiac tonics
+
+**Deepana**: Digestive stimulants
+
+**Pachana**: Digestive aids
 
 #### Preparation Methods
-- **Kvatha**: Decoctions
-- **Churna**: Powders
-- **Vati/Gutika**: Tablets/Pills
-- **Avaleha**: Herbal jams
-- **Asava/Arishta**: Fermented preparations
-- **Ghrita**: Medicated ghee
-- **Taila**: Medicated oils
+
+**Kvatha**: Decoctions
+
+**Churna**: Powders
+
+**Vati/Gutika**: Tablets/Pills
+
+**Avaleha**: Herbal jams
+
+**Asava/Arishta**: Fermented preparations
+
+**Ghrita**: Medicated ghee
+
+**Taila**: Medicated oils
 
 ### 3. Pathya (Lifestyle Medicine)
 
 #### Dinacharya (Daily Routine)
-- **Brahma Muhurta**: Early morning awakening (3:30-5:30 AM)
-- **Abhyanga**: Daily oil massage
-- **Vyayama**: Regular exercise appropriate to constitution
-- **Pranayama**: Breathing practices
-- **Meditation**: Mental discipline and clarity
+
+**Brahma Muhurta**: Early morning awakening (3:30-5:30 AM)
+
+**Abhyanga**: Daily oil massage
+
+**Vyayama**: Regular exercise appropriate to constitution
+
+**Pranayama**: Breathing practices
+
+**Meditation**: Mental discipline and clarity
 
 #### Ritucharya (Seasonal Regimen)
-- **Shishira/Shita**: Late winter dietary and lifestyle adjustments
-- **Vasanta**: Spring detoxification practices
-- **Grishma**: Summer cooling regimens
-- **Varsha**: Monsoon digestive care
-- **Sharada**: Autumn balancing routines
-- **Hemanta**: Early winter strengthening practices
+
+**Shishira/Shita**: Late winter dietary and lifestyle adjustments
+
+**Vasanta**: Spring detoxification practices
+
+**Grishma**: Summer cooling regimens
+
+**Varsha**: Monsoon digestive care
+
+**Sharada**: Autumn balancing routines
+
+**Hemanta**: Early winter strengthening practices
 
 ## Specialized Branches
 
@@ -159,64 +233,100 @@ Detoxification and purification therapies:
 8. **Bhuta Vidya**: Psychiatry and spiritual healing
 
 ### Modern Specializations
-- **Striroga**: Gynecology
-- **Prasutitantra**: Obstetrics
-- **Kaumarabhritya**: Pediatrics
-- **Manovaha Srotas**: Psychotherapy
-- **Swasthavritta**: Preventive medicine
+
+**Striroga**: Gynecology
+
+**Prasutitantra**: Obstetrics
+
+**Kaumarabhritya**: Pediatrics
+
+**Manovaha Srotas**: Psychotherapy
+
+**Swasthavritta**: Preventive medicine
 
 ## Philosophical Foundations
 
 ### Samkhya Philosophy Integration
-- **Purusha**: Consciousness, the observer
-- **Prakriti**: Nature, the observed
-- **Gunas**: Three fundamental qualities
+
+**Purusha**: Consciousness, the observer
+
+**Prakriti**: Nature, the observed
+
+**Gunas**: Three fundamental qualities
+
   - Sattva: Balance, clarity, harmony
   - Rajas: Activity, passion, movement
   - Tamas: Inertia, darkness, obstruction
 
 ### Yoga Connection
-- **Asanas**: Physical postures for health
-- **Pranayama**: Breath regulation
-- **Dharana**: Concentration practices
-- **Dhyana**: Meditation techniques
-- **Samadhi**: States of absorption
+
+**Asanas**: Physical postures for health
+
+**Pranayama**: Breath regulation
+
+**Dharana**: Concentration practices
+
+**Dhyana**: Meditation techniques
+
+**Samadhi**: States of absorption
 
 ## Contemporary Relevance
 
 ### Modern Applications
-- **Integrative Medicine**: Complement to conventional treatment
-- **Preventive Healthcare**: Emphasis on health maintenance
-- **Chronic Disease Management**: Holistic approach to lifestyle diseases
-- **Mental Health**: Stress management and psychological well-being
-- **Nutrition**: Personalized dietary approaches
+
+**Integrative Medicine**: Complement to conventional treatment
+
+**Preventive Healthcare**: Emphasis on health maintenance
+
+**Chronic Disease Management**: Holistic approach to lifestyle diseases
+
+**Mental Health**: Stress management and psychological well-being
+
+**Nutrition**: Personalized dietary approaches
 
 ### Scientific Research
-- **Pharmacological Studies**: Active compounds in medicinal plants
-- **Clinical Trials**: Efficacy of Ayurvedic treatments
-- **Systems Biology**: Understanding constitutional medicine
-- **Genomics**: Prakriti and genetic correlations
-- **Personalized Medicine**: Individual-specific treatments
+
+**Pharmacological Studies**: Active compounds in medicinal plants
+
+**Clinical Trials**: Efficacy of Ayurvedic treatments
+
+**Systems Biology**: Understanding constitutional medicine
+
+**Genomics**: Prakriti and genetic correlations
+
+**Personalized Medicine**: Individual-specific treatments
 
 ### Global Adoption
-- **WHO Recognition**: Traditional medicine system acknowledgment
-- **Educational Institutions**: Ayurvedic colleges worldwide
-- **Research Centers**: Scientific investigation facilities
-- **Clinical Practice**: Licensed practitioners globally
+
+**WHO Recognition**: Traditional medicine system acknowledgment
+
+**Educational Institutions**: Ayurvedic colleges worldwide
+
+**Research Centers**: Scientific investigation facilities
+
+**Clinical Practice**: Licensed practitioners globally
 
 ## Educational Tradition
 
 ### Traditional Learning
-- **Gurukula System**: Teacher-student residential learning
-- **Oral Tradition**: Memorization and recitation
-- **Practical Training**: Clinical experience under guidance
-- **Spiritual Discipline**: Character development and ethics
+
+**Gurukula System**: Teacher-student residential learning
+
+**Oral Tradition**: Memorization and recitation
+
+**Practical Training**: Clinical experience under guidance
+
+**Spiritual Discipline**: Character development and ethics
 
 ### Modern Curriculum
-- **BAMS**: Bachelor of Ayurvedic Medicine and Surgery
-- **MS/MD**: Postgraduate specializations
-- **PhD**: Research degrees in Ayurveda
-- **Certificate Courses**: Short-term training programs
+
+**BAMS**: Bachelor of Ayurvedic Medicine and Surgery
+
+**MS/MD**: Postgraduate specializations
+
+**PhD**: Research degrees in Ayurveda
+
+**Certificate Courses**: Short-term training programs
 
 ## Related Concepts and Texts
 
@@ -241,9 +351,7 @@ Detoxification and purification therapies:
 > *"That which deals with beneficial and harmful, happy and sorrowful life, what is good and bad for life, and the measurement of life itself - that is called Ayurveda"*
 > - Charaka Samhita
 
-## Tags
-
-#ayurveda #medicine #health #holistic #traditional #[[charaka_samhitha]] #[[AyurvedicRemedies]] #[[dadhi]] #wellness #prevention
+#ayurveda #medicine #health #holistic #traditional [[charaka_samhitha]] [[AyurvedicRemedies]] [[dadhi]] #wellness #prevention
 
 ## References
 

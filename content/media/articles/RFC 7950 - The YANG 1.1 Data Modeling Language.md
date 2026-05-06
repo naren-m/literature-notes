@@ -1,3 +1,12 @@
+---
+title: "RFC 7950 - The YANG 1.1 Data Modeling Language"
+date: "2026-05-05"
+type: "literature"
+category: "Media/Articles"
+tags: ["articles"]
+status: "draft"
+---
+
 # RFC 7950 - The YANG 1.1 Data Modeling Language
 
 ![img](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)

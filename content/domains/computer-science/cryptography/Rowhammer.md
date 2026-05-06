@@ -1,10 +1,10 @@
 ---
 title: "Rowhammer"
-date: 2026-04-30
-type: permanent
+date: "2026-04-30"
+type: "permanent"
 category: "Computer Science/Security"
-tags: [security, hardware, memory]
-status: draft
+tags: ["security", "hardware", "memory"]
+status: "draft"
 related: ["[[Side Channel Attack]]", "[[ECC memory]]", "[[Tampering]]"]
 ---
 

@@ -1,3 +1,12 @@
+---
+title: "Understanding Panchangam: Celestial Mathematics for the Engineering Mind"
+date: "2026-05-05"
+type: "research"
+category: "Legacy/Pages"
+tags: []
+status: "draft"
+---
+
 # Understanding Panchangam: Celestial Mathematics for the Engineering Mind
 
 ## Preface: Why This Matters
@@ -31,6 +40,7 @@ The ecliptic is tilted 23.4° relative to the celestial equator (the projection 
 <img src="../assets/EclipticScene_ManimCE_v0.19.1_1767508813101_0.gif" alt="EclipticScene_ManimCE_v0.19.1.gif" width="100%" />
 
 **Why does this matter?** The ecliptic becomes our reference plane. All Panchangam calculations use positions measured along this path.
+
 ### 1.3 Measuring Position: Ecliptic Longitude
 
 To describe where something is on the ecliptic, we need a coordinate system. We use **ecliptic longitude** (λ), measured in degrees from 0° to 360°.
@@ -38,8 +48,6 @@ To describe where something is on the ecliptic, we need a coordinate system. We 
 But where is 0°? We need a reference point.
 
 Ancient astronomers chose the **Vernal Equinox**—the point where the Sun crosses the celestial equator moving northward (around March 20-21). This is a naturally observable event: day and night are equal length everywhere on Earth.
-
-
 
 **Convention**: All angles in Panchangam calculations are normalized to the range [0°, 360°):
 
@@ -88,7 +96,7 @@ This is the **synodic month**—the time from New Moon to New Moon. It's longer 
 
 ```text
   Why the synodic month is longer than the sidereal month:
-  
+
   Position at Day 0:        Position at Day 27.3:      Position at Day 29.5:
   (New Moon)              (Moon completes orbit)      (New Moon again)
      │                           │                         │
@@ -126,14 +134,14 @@ Since the Moon gains on the Sun at approximately 12.2° per day, Δ increases co
 
   ```
   The Lunar Phase Cycle:
-  
+
   Δ:  0°        90°        180°        270°        360°/0°
       │          │          │           │           │
       ▼          ▼          ▼           ▼           ▼
      🌑         🌓         🌕          🌗          🌑
   New Moon   Quarter    Full Moon   Quarter    New Moon
             (waxing)               (waning)
-  
+
   Time:  0d        7.4d       14.8d       22.1d       29.5d
   ```
 
@@ -177,14 +185,14 @@ Moon is waning (growing dimmer)
 
   ```
   The complete Tithi cycle:
-  
+
   Shukla Paksha (Δ: 0° → 180°)
   ┌─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┐
   │  1  │  2  │  3  │  4  │  5  │  6  │  7  │  8  │  9  │ 10  │ 11  │ 12  │ 13  │ 14  │ 15  │
   └─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┘
   🌑                             🌓                                                    🌕
   New                          Quarter                                                Full
-  
+
   Krishna Paksha (Δ: 180° → 360°)
   ┌─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┐
   │ 16  │ 17  │ 18  │ 19  │ 20  │ 21  │ 22  │ 23  │ 24  │ 25  │ 26  │ 27  │ 28  │ 29  │ 30  │
@@ -205,7 +213,7 @@ But the Moon's orbit is **elliptical**, not circular. According to Kepler's Seco
 
 ```
   Moon's elliptical orbit:
-  
+
                   Apogee (Moon moves slowest)
                          ●
                        ╱   ╲
@@ -215,7 +223,7 @@ But the Moon's orbit is **elliptical**, not circular. According to Kepler's Seco
                ╲             ╱
                  ●─────────●
                   Perigee (Moon moves fastest)
-  
+
   Orbital velocity at perigee:  ~15.5°/day
   Orbital velocity at apogee:   ~11.5°/day
 ```
@@ -259,7 +267,7 @@ The Moon is in the 4th nakshatra (Rohini).
 
   ```text
   Nakshatra layout on the ecliptic:
-  
+
    0°      13.3°     26.7°     40°      53.3°      66.7°
    │         │         │        │         │         │
    ▼         ▼         ▼        ▼         ▼         ▼
@@ -267,7 +275,7 @@ The Moon is in the 4th nakshatra (Rohini).
   │ Ashwini │ Bharani │Krittika │ Rohini  │Mrigashira│ Ardra   │...
   │    1    │    2    │    3    │    4    │    5     │    6    │
   └─────────┴─────────┴─────────┴─────────┴──────────┴─────────┴─
-  
+
   Continuing around the circle:
   7. Punarvasu    14. Chitra       21. Uttara Ashadha
   8. Pushya       15. Swati        22. Shravana
@@ -385,7 +393,7 @@ Bava → Balava → Kaulava → Taitila → Gara → Vanija → Vishti
 
     ```text
   Vara = (Julian Day Number + 1) mod 7
-  
+
   0 → Ravivara    (Sunday)     ☀️ Sun
   1 → Somavara    (Monday)     ☽ Moon
   2 → Mangalavara (Tuesday)    ♂ Mars
@@ -444,38 +452,38 @@ PANCHANGAM ELEMENTS:
   ```text
   Given:
   Date: January 15, 2025, 12:00 UTC
-  
+
   Step 1: Get planetary positions (from ephemeris tables)
   λₛ (sidereal) = 270.67°   [Sun in Capricorn]
   λₘ (sidereal) = 63.24°    [Moon in Taurus]
   Julian Day = 2460691.0
-  
+
   Step 2: Calculate intermediate values
   Δ = normalize(63.24° - 270.67°)
   = normalize(-207.43°)
   = 360° - 207.43°
   = 152.57°
-  
+
   Σ = normalize(63.24° + 270.67°)
   = normalize(333.91°)
   = 333.91°
-  
+
   Step 3: Calculate Panchangam elements
   Tithi:     T = floor(152.57° / 12°) + 1 = 12 + 1 = 13
            → Shukla Trayodashi (13th tithi, waxing phase)
-  
+
   Nakshatra: N = floor(63.24° / 13.333°) + 1 = 4 + 1 = 5
            → Mrigashira
-  
+
   Yoga:      Y = floor(333.91° / 13.333°) + 1 = 25 + 1 = 26
            → Indra
-  
+
   Karana:    K = floor(152.57° / 6°) + 1 = 25 + 1 = 26
            → Rotating index: (26-2) mod 7 = 3 → Taitila
-  
+
   Vara:      V = (2460691 + 1) mod 7 = 3
            → Budhavara (Wednesday)
-  
+
   RESULT:
   Tithi:     Shukla Trayodashi
   Nakshatra: Mrigashira
@@ -494,9 +502,9 @@ There's a subtle issue we glossed over. The Vernal Equinox point—our 0° refer
 
   ```text
   Earth's Precession:
-  
+
      Axis wobbles in a circle over ~26,000 years
-  
+
             ↺ ←──────────────── Direction of precession
             │
             │
@@ -535,7 +543,7 @@ Because tithis can be shorter than a solar day, it's possible for a tithi to beg
 
   ```text
   Timeline showing Tithi Kshaya:
-  
+
   Sunrise₁     Sunrise₂     Sunrise₃
   │           │           │
   ▼           ▼           ▼
@@ -549,7 +557,6 @@ Because tithis can be shorter than a solar day, it's possible for a tithi to beg
             ↑        same pair of sunrises)
           Short tithi
   ```
-
 
 ### 11.2 Adhika Tithi (Extra Tithi)
 

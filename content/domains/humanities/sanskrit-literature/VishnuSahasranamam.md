@@ -1,3 +1,13 @@
+---
+title: "VishnuSahasranamam"
+date: "2026-05-05"
+type: "permanent"
+category: "Humanities/Sanskrit Literature"
+tags: ["Pravachanam"]
+status: "draft"
+related: ["[[VishnuSahasranamamByDusyanthSridhar]]", "[[Shatprashni]]", "[[Akshara]]", "[[krishna]]", "[[dharma]]", "[[indra]]", "[[speech]]", "[[Prana]]"]
+---
+
 # VishnuSahasranamam
 
 #Pravachanam [[VishnuSahasranamamByDusyanthSridhar]]
@@ -386,7 +396,7 @@ Achala - unmoved by enemies
 | 356  | atulah                       | Incomparable                                                                                  |
 | 357  | sharabhah                    | One who dwells and shines forth through the bodies                                            |
 | 358  | bheemah                      | The terrible                                                                                  |
-| 359  | samayajnah                   | One whose worship is nothing more than keeping an equal vision of the mind  by equal devotees |
+| 359  | samayajnah                   | One whose worship is nothing more than keeping an equal vision of the mind  by equal devotees |
 | 360  | havirharih                   | The receiver of all oblation                                                                  |
 | 361  | sarva-lakshana-lakshanyah    | Known through all proofs                                                                      |
 | 362  | lakshmeevaan                 | The consort of Laksmi                                                                         |
@@ -533,7 +543,6 @@ Achala - unmoved by enemies
 | 498  | jnaanagamyah                 | One who is experienced through pure knowledge                                                 |
 | 499  | puraatanah                   | He who was even before time                                                                   |
 | 500  | shareera-bhootabhrit         | One who nourishes the nature from which the bodies came                                       |
-
 
 ## Fifth 100
 

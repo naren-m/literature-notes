@@ -26,6 +26,7 @@ EXCLUDED_DIRS = {
     "graphify-out",
     "logseq",
     "node_modules",
+    "reports",
 }
 
 EXCLUDED_ROOT_FILES = {

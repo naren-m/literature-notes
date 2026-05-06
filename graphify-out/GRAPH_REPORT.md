@@ -1,7 +1,7 @@
-# Graph Report - literature-notes  (2026-05-05)
+# Graph Report - literature-notes  (2026-05-06)
 
 ## Corpus Check
-- 35 files · ~2,216,743 words
+- 35 files · ~2,218,993 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
@@ -342,23 +342,23 @@ Nodes (3): assertSymbolNodeType(), checkDelimiter(), checkSymbolNodeType()
 
 ### Community 20 - "Community 20"
 Cohesion: 0.67
-Nodes (3): constant$2(), link(), linkHorizontal()
+Nodes (3): createSVG(), getComputedCss(), removeExistingSVG()
 
 ### Community 21 - "Community 21"
 Cohesion: 0.67
-Nodes (3): createSVG(), getComputedCss(), removeExistingSVG()
+Nodes (3): layoutChildren(), positionRoot(), shiftChange()
 
 ### Community 22 - "Community 22"
 Cohesion: 0.67
-Nodes (3): decompose(), parseCss(), parseSvg()
+Nodes (3): isLetter(), replaceAt(), smartquotes()
 
 ### Community 23 - "Community 23"
 Cohesion: 0.67
-Nodes (3): isLetter(), replaceAt(), smartquotes()
+Nodes (3): emphasis(), isAlphaNum(), scanDelims()
 
 ### Community 24 - "Community 24"
 Cohesion: 0.67
-Nodes (3): deflist(), markTightParagraphs$1(), skipMarker()
+Nodes (3): constant$2(), link(), linkHorizontal()
 
 ### Community 25 - "Community 25"
 Cohesion: 0.67
@@ -366,39 +366,39 @@ Nodes (3): addAfter(), matchGrammar(), removeRange()
 
 ### Community 26 - "Community 26"
 Cohesion: 0.67
-Nodes (3): layoutChildren(), positionRoot(), shiftChange()
+Nodes (3): decompose(), parseCss(), parseSvg()
 
 ### Community 27 - "Community 27"
 Cohesion: 0.67
-Nodes (3): emphasis(), isAlphaNum(), scanDelims()
+Nodes (3): deflist(), markTightParagraphs$1(), skipMarker()
 
 ### Community 29 - "Community 29"
 Cohesion: 1.0
-Nodes (2): commonjsRequire(), createCommonjsModule()
+Nodes (2): htmlblock(), isLetter$1()
 
 ### Community 30 - "Community 30"
 Cohesion: 1.0
-Nodes (2): mclass_mathmlBuilder(), newDocumentFragment()
+Nodes (2): removeFunction(), transition_remove()
 
 ### Community 31 - "Community 31"
 Cohesion: 1.0
-Nodes (2): textTween(), transition_textTween()
+Nodes (2): pointer(), sourceEvent()
 
 ### Community 32 - "Community 32"
 Cohesion: 1.0
-Nodes (2): htmlblock(), isLetter$1()
+Nodes (2): create(), Timer()
 
 ### Community 33 - "Community 33"
 Cohesion: 1.0
-Nodes (2): exponential(), gamma()
+Nodes (2): htmltag(), isLetter$2()
 
 ### Community 34 - "Community 34"
 Cohesion: 1.0
-Nodes (2): create(), Timer()
+Nodes (2): getCharacterMetrics(), supportedCodepoint()
 
 ### Community 35 - "Community 35"
 Cohesion: 1.0
-Nodes (2): defineFunction(), defineFunctionBuilders()
+Nodes (2): mclass_mathmlBuilder(), newDocumentFragment()
 
 ### Community 36 - "Community 36"
 Cohesion: 1.0
@@ -406,23 +406,23 @@ Nodes (2): buildHTML(), buildHTMLUnbreakable()
 
 ### Community 37 - "Community 37"
 Cohesion: 1.0
-Nodes (2): leastCommonAncestor(), node_path()
+Nodes (2): exponential(), gamma()
 
 ### Community 38 - "Community 38"
 Cohesion: 1.0
-Nodes (2): pointer(), sourceEvent()
+Nodes (2): commonjsRequire(), createCommonjsModule()
 
 ### Community 39 - "Community 39"
 Cohesion: 1.0
-Nodes (2): getCharacterMetrics(), supportedCodepoint()
+Nodes (2): leastCommonAncestor(), node_path()
 
 ### Community 40 - "Community 40"
 Cohesion: 1.0
-Nodes (2): removeFunction(), transition_remove()
+Nodes (2): defineFunction(), defineFunctionBuilders()
 
 ### Community 41 - "Community 41"
 Cohesion: 1.0
-Nodes (2): htmltag(), isLetter$2()
+Nodes (2): textTween(), transition_textTween()
 
 ### Community 42 - "Community 42"
 Cohesion: 1.0
@@ -1217,31 +1217,31 @@ Nodes (1): Main function to generate daily synthesis
   These have ≤1 connection - possible missing edges or undocumented components.
 - **Thin community `Community 15`** (6 nodes): `add_to_bloom()`, `calculate_bits()`, `get_bit()`, `membership()`, `set_bit()`, `bloom2.py`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 29`** (2 nodes): `commonjsRequire()`, `createCommonjsModule()`
+- **Thin community `Community 29`** (2 nodes): `htmlblock()`, `isLetter$1()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 30`** (2 nodes): `mclass_mathmlBuilder()`, `newDocumentFragment()`
+- **Thin community `Community 30`** (2 nodes): `removeFunction()`, `transition_remove()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 31`** (2 nodes): `textTween()`, `transition_textTween()`
+- **Thin community `Community 31`** (2 nodes): `pointer()`, `sourceEvent()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 32`** (2 nodes): `htmlblock()`, `isLetter$1()`
+- **Thin community `Community 32`** (2 nodes): `create()`, `Timer()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 33`** (2 nodes): `exponential()`, `gamma()`
+- **Thin community `Community 33`** (2 nodes): `htmltag()`, `isLetter$2()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 34`** (2 nodes): `create()`, `Timer()`
+- **Thin community `Community 34`** (2 nodes): `getCharacterMetrics()`, `supportedCodepoint()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 35`** (2 nodes): `defineFunction()`, `defineFunctionBuilders()`
+- **Thin community `Community 35`** (2 nodes): `mclass_mathmlBuilder()`, `newDocumentFragment()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 - **Thin community `Community 36`** (2 nodes): `buildHTML()`, `buildHTMLUnbreakable()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 37`** (2 nodes): `leastCommonAncestor()`, `node_path()`
+- **Thin community `Community 37`** (2 nodes): `exponential()`, `gamma()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 38`** (2 nodes): `pointer()`, `sourceEvent()`
+- **Thin community `Community 38`** (2 nodes): `commonjsRequire()`, `createCommonjsModule()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 39`** (2 nodes): `getCharacterMetrics()`, `supportedCodepoint()`
+- **Thin community `Community 39`** (2 nodes): `leastCommonAncestor()`, `node_path()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 40`** (2 nodes): `removeFunction()`, `transition_remove()`
+- **Thin community `Community 40`** (2 nodes): `defineFunction()`, `defineFunctionBuilders()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 41`** (2 nodes): `htmltag()`, `isLetter$2()`
+- **Thin community `Community 41`** (2 nodes): `textTween()`, `transition_textTween()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 - **Thin community `Community 42`** (2 nodes): `scriptFromCodepoint()`, `SymbolNode()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.

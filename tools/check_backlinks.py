@@ -26,6 +26,7 @@ SKIP_DIRS = {
     "assets",
     "config",
     "graphify-out",
+    "logseq",
     "node_modules",
     "reports",
 }
@@ -314,7 +315,7 @@ def render_report(state: dict[str, object]) -> str:
         "",
         f"Date: {dt.date.today().isoformat()}",
         "",
-        "Scope: markdown notes in the vault, excluding generated/config/assets directories. Strict backlink coverage is focused on permanent-note candidates under `content/domains/` and `content/people/`.",
+        "Scope: markdown notes in the maintained vault, excluding generated output, local config, assets, reports, and Logseq backups. Strict backlink coverage is focused on permanent-note candidates under `content/domains/` and `content/people/`.",
         "",
         "## Summary",
         "",

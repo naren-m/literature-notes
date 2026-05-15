@@ -4,44 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "c84579dbb9b295e1",
+        "id": "cbe51ea061ef8f32",
         "type": "split",
         "children": [
           {
-            "id": "1c18e4bed18a336b",
+            "id": "7c0ef8a1c5e5ae76",
             "type": "tabs",
-            "dimension": 12.698412698412698,
+            "dimension": 41.38257575757576,
             "children": [
               {
-                "id": "d88580de91426899",
+                "id": "ad5a0af48eee020e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "pages/Rambha.md",
+                    "file": "content/domains/humanities/sanskrit-literature/Sulba Sutras.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Rambha"
+                  "title": "Sulba Sutras"
                 }
               }
             ],
             "stacked": true
           },
           {
-            "id": "d080878266be70e2",
+            "id": "199705423c361014",
             "type": "tabs",
-            "dimension": 87.3015873015873,
+            "dimension": 58.61742424242424,
             "children": [
               {
-                "id": "a0878d535b34d9ba",
+                "id": "d8794f951ae77ad0",
                 "type": "leaf",
                 "state": {
                   "type": "mindmap",
                   "state": {},
                   "icon": "dot-network",
-                  "title": "Mind Map of Rambha"
+                  "title": "Mind Map of Sulba Sutras"
                 }
               }
             ]
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Krishna",
+                "query": "tag:#10000-hours",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,43 +195,49 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d88580de91426899",
+  "active": "ad5a0af48eee020e",
   "lastOpenFiles": [
+    "content/media/books/outliers.md",
+    "content/domains/humanities/sanskrit/sanskrit-parsing.md",
+    "content/domains/humanities/sanskrit/india-max-muller-highlights.md",
+    "content/domains/humanities/sanskrit/ayurveda-health-verses.md",
+    "content/domains/humanities/sanskrit/planetary-linguistics.md",
+    "content/domains/humanities/sanskrit/katapayadi-scheme.md",
+    "content/domains/humanities/sanskrit/sanskrit-chandas-meters.md",
+    "content/domains/humanities/sanskrit/sanskrit-dhatus.md",
+    "content/domains/humanities/sanskrit/kanakadhara-stotram.md",
+    "content/domains/humanities/sanskrit/mahishasura-mardini-telugu.md",
+    "content/domains/humanities/sanskrit/mahishasura-mardini-stotram.md",
+    "content/domains/humanities/sanskrit/maheshvara-sutras.md",
+    "content/domains/humanities/sanskrit/niruktam.md",
+    "content/domains/humanities/sanskrit/amarakosha-chapter-3.md",
+    "content/domains/humanities/sanskrit/amarakosha-chapter-2.md",
+    "content/domains/humanities/sanskrit/amarakosha-chapter-1.md",
+    "content/domains/humanities/sanskrit/amara-kosham-hub.md",
+    "content/domains/humanities/sanskrit/sanskrit-scholarship.md",
+    "content/domains/humanities/sanskrit",
+    "content/operational/cs-fundamentals-preparation-plan.md",
+    "content/media/articles/pipes-and-filters-unix-shell.md",
+    "content/operational/todo-library.md",
+    "content/operational/journal-library.md",
+    "content/operational/projects-library.md",
+    "content/operational/meeting-notes-library.md",
+    "content/operational/tutorials-library.md",
+    "content/operational/tutorials/introduction-to-python.md",
+    "content/operational/tutorials",
+    "content/operational",
+    "content/media/courses",
+    "Untitled 1.base",
     "Untitled 4.canvas",
-    "2026-04-19.md",
     "Untitled 3.canvas",
     "Untitled.base",
-    "content/domains/humanities/sanskrit-literature/chitta.md",
     "Untitled 2.canvas",
-    "pages/shiva.md",
-    "pages/Rambha.md",
-    "pages/Memetic Desire.md",
-    "pages/Dharmanatha_Sloka.md",
-    "pages/Apsaras.md",
-    "journals/2026_01_21.md",
-    "journals/2026_01_07.md",
-    "content/empty/yoga_sutras.md",
-    "content/empty/Dhatu Manjari.md",
     "content/empty",
-    "content/domains/computer-science/cryptography/quantum_encryption_explained.md",
-    "content/domains/computer-science/cryptography/Lattice-based encryption.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Recording 20260410231350.m4a",
-    "RULES.md",
-    "AGENTS.md",
     "config/note-tools/obsidian/community-plugins.json",
-    "2024-09-23.md",
-    "sanskrit-lit/Sutra.md",
-    "sanskrit-lit/krishna.md",
-    "sanskrit-lit/acharya.md",
-    "How Sanskrit unlocks your spiritual growth.md",
-    "sanskrit-lit/test.md",
-    "quotes.md",
-    "sanskrit-lit/tithi.md",
-    "CSE/design_patterns/DesigningDistributedSystems.md",
     "Utharayana_Dakshanayan.jpg",
-    "people/Ashoka.md",
     "CSE/design_patterns/DesigningDistributedSystems.pdf",
     "books/ashtangahrydayam/ayurvedavataranam.jpg",
     "books/ashtangahrydayam/8AspectsOfAyurveda.jpg"

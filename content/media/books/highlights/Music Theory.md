@@ -16,7 +16,7 @@ status: "draft"
 - Full Title: Music Theory
 - Category:
 
-  [[Carnatic music]] [[prana]]
+  [[Carnatic music]] [[Prana]]
 
 ### Highlights
 - Scientific theories propose that even reality itself at its tiniest layers is just that – a vibration in the quantum field. ([Location 328](https://readwise.io/to_kindle?action=open&asin=B01JX6EFKW&location=328))

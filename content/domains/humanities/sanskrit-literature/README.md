@@ -14,7 +14,7 @@ related: ["[[yoga_sutras]]", "[[Yogasutras]]", "[[NirvanaShatakam]]", "[[HanumaS
 
 ## 📚 Overview
 
-This domain contains **43 notes** covering:
+This domain contains **50 notes** covering:
 - **Vedic Texts** - Vedas, Upanishads, Puranas
 - **Yoga Philosophy** - Sutras, practices, concepts
 - **Sanskrit Language** - Grammar, phonetics, literature
@@ -72,14 +72,21 @@ This domain contains **43 notes** covering:
 - [[Dharma]] - Universal law and duty
 - [[Karma]] - Action and consequence
 - [[Manas]] - Mind and consciousness
+- [[Buddhi]] - Determinative intellect
+- [[Ahamkara]] - Ego-sense and ownership
 - [[chitta]] - Mental modifications
 - [[Vikalpa]] - Conceptual thought
+- [[Moksha]] - Liberation
+- [[Purushartha]] - Aims of human life
+- [[Chidananda]] - Consciousness-bliss
 
 ### Elements & Energy
 - [[Agni]] - Fire element
 - [[Vayu]] - Air/wind element
 - [[Prana]] - Life force
 - [[Concepts/PanchaVayu]] - Five vital airs
+- [[Concepts/PanchaKosha]] - Five sheaths
+- [[Concepts/SaptaDhatu]] - Seven bodily constituents
 - [[Nada]] - Cosmic sound
 
 ### Language & Expression

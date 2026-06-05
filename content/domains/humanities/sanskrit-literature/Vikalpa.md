@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: []
 status: "draft"
-related: ["[[YogaSutras]]", "[[Sutra]]", "[[Pramana]]", "[[Viparyaya]]", "[[Nidra]]", "[[Smrti]]", "[[ENTROPY]]", "[[Kalpana]]"]
+related: ["[[YogaSutras]]", "[[Sutra]]", "[[Pramana]]", "[[Viparyaya]]", "[[Nidra]]", "[[Smrti]]", "[[ENTROPY]]", "[[Kalpana]]", "[[NirvanaShatakam]]", "[[Chidananda]]"]
 ---
 
 # Vikalpa
@@ -15,6 +15,8 @@ Shabda gnana anupati vasthu shunyo Vikalpah
 ## Definition and Core Concept
 
 Vikalpa (Sanskrit: विकल्प) is one of the five vrittis (mental modifications) described in Patanjali's [[YogaSutras|Yoga Sutras]]. According to [[Sutra]] 1.9, vikalpa refers to verbal delusion or knowledge derived from words without a corresponding reality (vastu-śūnya).
+
+[[NirvanaShatakam]] uses "nirvikalpa" to point beyond mental alternatives and conceptual constructions.
 
 ## Etymology and Linguistic Analysis
 

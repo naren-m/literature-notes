@@ -32375,7 +32375,11 @@ var MindmapView = /** @class */ (function (_super) {
         });
     };
     MindmapView.prototype.readFilePath = function () {
-        var fileInfo = this.getLeafTarget().view.file;
+        var leaf = this.getLeafTarget();
+        var fileInfo = leaf && leaf.view && leaf.view.file;
+        if (!fileInfo) {
+            return false;
+        }
         var pathHasChanged = this.filePath != fileInfo.path;
         this.filePath = fileInfo.path;
         this.fileName = fileInfo.basename;
@@ -32615,12 +32619,25 @@ var MindMap = /** @class */ (function (_super) {
         console.log("Unloading Mind Map plugin");
     };
     MindMap.prototype.activeLeafPath = function (workspace) {
-        var _a;
-        return (_a = workspace.activeLeaf) === null || _a === void 0 ? void 0 : _a.view.getState().file;
+        var view = workspace.activeLeaf && workspace.activeLeaf.view;
+        var state = view && view.getState ? view.getState() : {};
+        if (view && view.file && view.file.path) {
+            return view.file.path;
+        }
+        if (state && state.file) {
+            return state.file;
+        }
+        if (state && state.state && state.state.file) {
+            return state.state.file;
+        }
+        return undefined;
     };
     MindMap.prototype.activeLeafName = function (workspace) {
-        var _a;
-        return (_a = workspace.activeLeaf) === null || _a === void 0 ? void 0 : _a.getDisplayText();
+        var view = workspace.activeLeaf && workspace.activeLeaf.view;
+        if (view && view.file && view.file.basename) {
+            return view.file.basename;
+        }
+        return workspace.activeLeaf ? workspace.activeLeaf.getDisplayText() : undefined;
     };
     return MindMap;
 }(obsidian.Plugin));

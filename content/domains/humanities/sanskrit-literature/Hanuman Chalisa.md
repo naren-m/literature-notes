@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: []
 status: "draft"
-related: ["[[Awadhi]]", "[[Tulsidas]]", "[[Shri Ram Charit Manas]]", "[[grit]]", "[[Manas]]", "[[Budhi]]"]
+related: ["[[Awadhi]]", "[[Tulsidas]]", "[[Shri Ram Charit Manas]]", "[[grit]]", "[[Manas]]", "[[Buddhi]]"]
 ---
 
 # Hanuman Chalisa
@@ -25,4 +25,4 @@ The reality is that most people have an inner fixed-mindset pessimist in them ri
 sankata te hanumāna chhudāvai।
 mana krama bachana dhyāna jo lāvai॥ 26 ॥
 
-[[Budhi]] hinathanu Janke, sumirav pavana kumar|
+[[Buddhi]] hinathanu Janke, sumirav pavana kumar|

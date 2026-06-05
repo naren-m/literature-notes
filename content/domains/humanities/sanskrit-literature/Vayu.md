@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: []
 status: "draft"
-related: ["[[PanchaPranas]]", "[[PanchaVayu]]", "[[Prana]]"]
+related: ["[[PanchaVayu]]", "[[Prana]]", "[[NirvanaShatakam]]"]
 ---
 
 # Vayu
@@ -19,7 +19,9 @@ energetic force that moves in a specific direction to control bodily functions a
 
 The ancient yogis found 49 distinct types of Vayus in the body.
 
-Only five of the main Vayus or [[PanchaPranas]] [[PanchaVayu]] are important for yoga practitioners to understand.
+Only five of the main Vayus, also treated as [[PanchaVayu|Pancha Pranas]], are important for yoga practitioners to understand.
+
+[[NirvanaShatakam]] mentions Vayu both as an element and through the five vital airs, then negates those as the final Self.
 
 These five primary currents of vital force are
 

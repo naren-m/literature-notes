@@ -4,6 +4,10 @@ This repository is a personal second-brain and Zettelkasten-style note system. W
 
 `RULES.md` is the source of truth for note classification. If anything here is ambiguous, follow `RULES.md` conservatively.
 
+A
+	b
+		q
+		
 ## Mission
 
 - Default to evergreen, permanent notes for stable ideas that can stand on their own.

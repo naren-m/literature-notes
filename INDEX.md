@@ -1,6 +1,6 @@
 ---
 title: "Literature Notes - Complete Index"
-date: "2026-05-06"
+date: "2026-05-12"
 type: "research"
 category: "Index"
 tags: ["wiki", "index", "zettelkasten"]
@@ -13,12 +13,12 @@ This is the maintained navigation index for the active literature-notes vault. I
 
 ## Summary
 
-- Total indexed notes: 260
-- Permanent notes: 128
+- Total indexed notes: 269
+- Permanent notes: 136
 - Literature notes: 49
 - Research notes: 54
-- Journal notes: 29
-- Last updated: 2026-05-06
+- Journal notes: 30
+- Last updated: 2026-05-12
 
 ## Maintainer Notes
 
@@ -128,6 +128,7 @@ This is the maintained navigation index for the active literature-notes vault. I
 
 - [acharya](content/domains/humanities/sanskrit-literature/acharya.md)
 - [Agni](content/domains/humanities/sanskrit-literature/Agni.md)
+- [Ahamkara](content/domains/humanities/sanskrit-literature/Ahamkara.md)
 - [Akshara](content/domains/humanities/sanskrit-literature/Akshara.md)
 - [Amarakosham](content/domains/humanities/sanskrit-literature/Amarakosham.md)
 - [Ashtadhyayi](content/domains/humanities/sanskrit-literature/Ashtadhyayi.md)
@@ -135,6 +136,8 @@ This is the maintained navigation index for the active literature-notes vault. I
 - [Ayurvedam](content/domains/humanities/sanskrit-literature/Ayurvedam.md)
 - [AyurvedicRemedies](content/domains/humanities/sanskrit-literature/AyurvedicRemedies.md)
 - [Brihadesi](content/domains/humanities/sanskrit-literature/Brihadesi.md)
+- [Buddhi](content/domains/humanities/sanskrit-literature/Buddhi.md)
+- [Chidananda](content/domains/humanities/sanskrit-literature/Chidananda.md)
 - [chitta](content/domains/humanities/sanskrit-literature/chitta.md)
 - [Dharma](content/domains/humanities/sanskrit-literature/Dharma.md)
 - [eye](content/domains/humanities/sanskrit-literature/eye.md)
@@ -147,10 +150,12 @@ This is the maintained navigation index for the active literature-notes vault. I
 - [Krishna](content/domains/humanities/sanskrit-literature/krishna.md)
 - [Manas](content/domains/humanities/sanskrit-literature/Manas.md)
 - [mathsya purana](content/domains/humanities/sanskrit-literature/mathsya%20purana.md)
+- [Moksha](content/domains/humanities/sanskrit-literature/Moksha.md)
 - [Nada](content/domains/humanities/sanskrit-literature/Nada.md)
 - [Niruktha](content/domains/humanities/sanskrit-literature/Niruktha.md)
 - [NyayaSutra](content/domains/humanities/sanskrit-literature/NyayaSutra.md)
 - [Prana](content/domains/humanities/sanskrit-literature/Prana.md)
+- [Purushartha](content/domains/humanities/sanskrit-literature/Purushartha.md)
 - [Rudra](content/domains/humanities/sanskrit-literature/Rudra.md)
 - [Sangitaratnakaram](content/domains/humanities/sanskrit-literature/Sangitaratnakaram.md)
 - [Sanskrit Literature & Philosophy](content/domains/humanities/sanskrit-literature/README.md)
@@ -170,7 +175,9 @@ This is the maintained navigation index for the active literature-notes vault. I
 
 ### Humanities / Sanskrit Literature / Concepts
 
+- [Pancha Kosha](content/domains/humanities/sanskrit-literature/Concepts/PanchaKosha.md)
 - [PanchaVayu](content/domains/humanities/sanskrit-literature/Concepts/PanchaVayu.md)
+- [Sapta Dhatu](content/domains/humanities/sanskrit-literature/Concepts/SaptaDhatu.md)
 
 ### Humanities / Sanskrit Literature / Yoga Sutras
 
@@ -196,6 +203,7 @@ This is the maintained navigation index for the active literature-notes vault. I
 - [Bill joy](content/people/Bill%20joy.md)
 - [Brian Kernighan](content/people/Brian%20Kernighan.md)
 - [Brian Kernighan interview](content/people/Brian%20Kernighan%20interview.md)
+- [Garikapati Narasimha Rao](content/people/Garikapati%20Narasimha%20Rao.md)
 - [J Sai Deepak](content/people/J%20Sai%20Deepak.md)
 - [Marthanda Varma](content/people/Marthanda%20Varma.md)
 - [Max Muller](content/people/Max%20Muller.md)
@@ -290,6 +298,7 @@ This is the maintained navigation index for the active literature-notes vault. I
 - [2026-05-01](content/journal/2026-05-01.md)
 - [2026-05-04](content/journal/2026-05-04.md)
 - [2026-05-06](content/journal/2026-05-06.md)
+- [2026-05-12](content/journal/2026-05-12.md)
 - [gruthva](content/journal/gruthva.md)
 - [John Sinnott Application](content/journal/John%20Sinnott%20Application.md)
 - [Title of my New Note](content/journal/Title%20of%20my%20New%20Note.md)

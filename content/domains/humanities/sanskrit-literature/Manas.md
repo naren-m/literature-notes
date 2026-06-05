@@ -5,11 +5,11 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: []
 status: "draft"
-related: ["[[Manas]]", "[[Budhi]]", "[[NirvanaShatakam]]", "[[HanumaStuthi]]", "[[Hanuman Chalisa]]"]
+related: ["[[Buddhi]]", "[[Ahamkara]]", "[[chitta]]", "[[NirvanaShatakam]]", "[[HanumaStuthi]]", "[[Hanuman Chalisa]]"]
 ---
 
 # Manas
 
-Sankalpathmika [[Manas]], Nischayathmika [[Budhi]]
+Sankalpathmika [[Manas]], Nischayathmika [[Buddhi]]
 
 [[NirvanaShatakam]], [[HanumaStuthi]], [[Hanuman Chalisa]]

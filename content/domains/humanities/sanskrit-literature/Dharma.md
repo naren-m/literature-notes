@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: []
 status: "draft"
-related: ["[[Manas]]", "[[karma]]", "[[Vachana]]", "[[speech]]", "[[Hanuman Chalisa]]", "[[Apsaras]]", "[[Dharmanatha_Sloka]]", "[[Rambha]]"]
+related: ["[[Manas]]", "[[karma]]", "[[Purushartha]]", "[[Moksha]]", "[[NirvanaShatakam]]", "[[Vachana]]", "[[speech]]", "[[Hanuman Chalisa]]", "[[Apsaras]]", "[[Dharmanatha_Sloka]]", "[[Rambha]]"]
 ---
 
 # Dharma
@@ -21,6 +21,7 @@ One that sustains. What does it sustain? Balance in the creation.
 - Dharma - Righteousness in actions
 
 - [[Hanuman Chalisa]]
+- [[NirvanaShatakam]] places Dharma among the aims and statuses that are negated as final identity.
 
 sankata te hanumāna chhudāvai।
 
@@ -31,6 +32,8 @@ mana krama vachana dhyāna jo lāvai॥ 26 ॥
 ## Related Concepts
 
 - [[karma]] - action aligned or misaligned with sustaining order
+- [[Purushartha]] - dharma as one of the aims of life
+- [[NirvanaShatakam]] - negates identification with dharma
 - [[Manas]] - thought is one of the channels through which dharma is expressed
 - [[Apsaras]] - figures that test dharma through enchantment
 - [[Dharmanatha_Sloka]] - applied ethical framing around dharma

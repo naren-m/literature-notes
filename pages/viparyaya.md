@@ -9,4 +9,4 @@ status: "draft"
 
 # viparyaya
 
-- [[Viparyaya]] Mithya Gnanam ata drUpa pratiShTham
+- [[Viparyaya]] [[Mithya]] [[Gnanam]] ata drUpa pratiShTham

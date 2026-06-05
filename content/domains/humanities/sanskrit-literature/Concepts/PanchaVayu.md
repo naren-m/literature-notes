@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature/Concepts"
 tags: []
 status: "draft"
-related: ["[[Vayu]]", "[[Prana]]"]
+related: ["[[Vayu]]", "[[Prana]]", "[[NirvanaShatakam]]"]
 ---
 
 # PanchaVayu
@@ -16,6 +16,8 @@ related: ["[[Vayu]]", "[[Prana]]"]
 3. Samana-Vayu
 4. Udana-Vayu
 5. Vyana-Vayu
+
+[[NirvanaShatakam]] mentions the five vital airs in verse 2 as part of what the Self is not.
 
 ## Prana Vayu
 To strengthen Prana-Vayu:

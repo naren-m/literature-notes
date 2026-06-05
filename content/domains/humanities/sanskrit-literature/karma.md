@@ -5,13 +5,15 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["sanskrit", "philosophy", "action", "consciousness", "buddhism", "ethics"]
 status: "draft"
-related: ["[[Bhagavad Gita]]", "[[YogaSutras]]", "[[chitta]]", "[[Dharma]]", "[[Vikalpa]]", "[[Yoga Sutras]]", "[[Sutra]]", "[[vedanta]]"]
+related: ["[[Bhagavad Gita]]", "[[YogaSutras]]", "[[chitta]]", "[[Dharma]]", "[[Purushartha]]", "[[Moksha]]", "[[NirvanaShatakam]]", "[[Vikalpa]]", "[[Yoga Sutras]]", "[[Sutra]]", "[[vedanta]]"]
 ---
 
 # karma
 
 ## Core Concept
 Action with the influence of memory - the principle that all actions create impressions that influence future actions and experiences.
+
+[[NirvanaShatakam]] mentions karma-related merit and demerit while denying that the Self is defined by accumulated action or moral result.
 
 ## Etymology
 From Sanskrit root **कृ (kṛ)** meaning "to do" or "to make"

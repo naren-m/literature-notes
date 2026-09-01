@@ -9,6 +9,6 @@ status: "draft"
 
 # VivekaChudamani
 
-- [[AdiShankaraCharya]]
-- VivekaChudamani - Peaks of logic
-- vivekam - vich dhatu, that divides [[VivekaChudamani]]
+[[VivekaChudamani]] is linked to [[AdiShankaraCharya]] in this vault.
+
+The name is recorded here as a reference to *viveka*, discernment or the ability to distinguish.

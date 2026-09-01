@@ -9,4 +9,6 @@ status: "draft"
 
 # Mahakali charitram
 
-- [Makahali Charitram Youtube video](https://www.youtube.com/watch?v=6hl-eOkRVYY)
+This note records a video source about the story of Mahākālī:
+
+[Mahakali Charitram](https://www.youtube.com/watch?v=6hl-eOkRVYY)

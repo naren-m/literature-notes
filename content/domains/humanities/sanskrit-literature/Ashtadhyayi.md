@@ -3,99 +3,23 @@ title: "Ashtadhyayi"
 date: "2026-05-05"
 type: "permanent"
 category: "Humanities/Sanskrit Literature"
-tags: ["book", "grammar", "sanskrit", "linguistics"]
-status: "draft"
-related: ["[[Panini]]", "[[content/domains/humanities/sanskrit-literature/Sutra]]", "[[shiva]]", "[[Niruktha]]", "[[Amarakosham]]", "[[Vaiseshika Darshanam]]"]
+tags: ["sanskrit", "grammar", "linguistics"]
+status: "complete"
+related: ["[[Panini]]", "[[SivaSurta]]", "[[Niruktha]]"]
 ---
 
 # Ashtadhyayi
 
-The Ashtadhyayi ("Eight Chapters") is a comprehensive Sanskrit grammar treatise composed by [[Panini]] around 5th-4th century BCE. It is considered one of the most systematic and scientific works on grammar in any language.
+The *Aṣṭādhyāyī* is Panini's compact grammar of Sanskrit. Its name means "eight chapters." The text contains roughly 4,000 short rules covering sound changes, word formation, inflection, and sentence construction.
 
-## Overview
+The rules work as a system. Technical markers, rule order, and exceptions let a small amount of text describe many valid forms. The [[SivaSurta|Śiva Sūtras]] provide the sound groupings used by the grammar.
 
-The Ashtadhyayi consists of approximately 4,000 [[content/domains/humanities/sanskrit-literature/Sutra]]s (aphorisms) organized into eight chapters (adhyayas), each containing four sections (padas). It establishes the fundamental rules of Sanskrit morphology, syntax, and phonetics.
+The work remains important because it treats grammar as a formal rule system. It is studied in Sanskrit scholarship and is often compared with later work in formal language theory and computational linguistics.
 
-## Key Features
+## Related
 
-### Systematic Approach
+- [[Panini]] - author and grammatical method
+- [[Niruktha]] - word meaning and etymology
+- [[SivaSurta]] - sound groupings used by the grammar
 
-Uses a highly efficient notation system
-
-Employs metalinguistic markers and abbreviations
-
-Follows logical progression from general to specific rules
-
-Implements exception-based rule ordering
-
-### Shiva Sutras
-The work begins with 14 [[shiva|Shiva]] Sutras (Maheshvara Sutras) that serve as a mnemonic device for categorizing Sanskrit sounds:
-
-1. अ इ उ ण्
-2. ऋ ऌ क्
-3. ए ओ ङ्
-4. ऐ औ च्
-5. ह य व र ट्
-6. ल ण्
-7. ञ म ङ ण न म्
-8. झ भ ञ्
-9. घ ढ ध ष्
-10. ज ब ग ड द श्
-11. ख फ छ ठ थ च ट त व्
-12. क प य्
-13. श ष स र्
-14. ह ल्
-
-### Rule Categories
-1. **Sandhi Rules** - Sound combination rules
-2. **Declension** - Nominal inflection patterns
-3. **Conjugation** - Verbal inflection systems
-4. **Derivation** - Word formation processes
-5. **Accent Rules** - Stress and tone patterns
-
-## Historical Significance
-
-**Scientific Method**: Demonstrates early application of scientific methodology to linguistic analysis
-
-**Influence on Modern Linguistics**: Inspired formal language theory and computational linguistics
-
-**Cultural Impact**: Standardized Sanskrit for religious, philosophical, and literary works
-
-**Mathematical Precision**: Uses techniques similar to modern mathematical notation
-
-## Structure and Organization
-
-### Eight Chapters (Adhyayas)
-1. **Chapter 1**: Basic definitions and technical terms
-2. **Chapter 2**: Compound formation rules
-3. **Chapter 3**: Verbal suffixes and tense formation
-4. **Chapter 4**: Nominal suffixes and word formation
-5. **Chapter 5**: Secondary suffixes and derivatives
-6. **Chapter 6**: Accent rules and phonetic changes
-7. **Chapter 7**: Verbal forms and conjugations
-8. **Chapter 8**: Final phonetic modifications
-
-## Modern Relevance
-
-**Computer Science**: Influences formal grammar theory and parsing algorithms
-
-**Linguistics**: Provides foundation for morphological analysis
-
-**Artificial Intelligence**: Inspires rule-based natural language processing
-
-**Sanskrit Studies**: Remains the authoritative reference for Sanskrit grammar
-
-## Related Texts
-
-- [[Niruktha]] - Etymology and word analysis
-- [[Amarakosham]] - Sanskrit lexicon
-- [[Vaiseshika Darshanam]] - Philosophical categories
-- Mahabhashya by Patanjali - Commentary on Ashtadhyayi
-
-#book #grammar #sanskrit #linguistics [[Panini]]
-
-## References
-
-https://ashtadhyayi.com/shivasutra
-
-"The grammar of Panini is at once the shortest and the fullest grammar in the world." - Ferdinand de Saussure
+Reference: https://ashtadhyayi.com/shivasutra

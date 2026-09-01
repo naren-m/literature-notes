@@ -3,57 +3,34 @@ title: "Nada"
 date: "2026-05-05"
 type: "permanent"
 category: "Humanities/Sanskrit Literature"
-tags: ["music", "sound", "nada", "carnatic", "theory", "philosophy"]
-status: "draft"
-related: ["[[tyagaraja swamy]]", "[[speech]]", "[[Prana]]", "[[Agni]]", "[[Sangitaratnakara]]", "[[Brihadesi]]", "[[Sound]]", "[[Carnatic music]]"]
+tags: ["music", "sound", "nada", "carnatic", "philosophy"]
+status: "complete"
+related: ["[[Sangitaratnakaram]]", "[[Brihadesi]]", "[[speech]]", "[[Prana]]", "[[Agni]]"]
 ---
 
 # Nada
-నకారం ప్రాణనామనం డకారమణలంవిధు:
 
-జాత: ప్రాణాగ్ని సంయోగా త్తేననాదో అభిధీయతే 1.3.6
+**Nāda** is the concept of sound used in Indian music and philosophical writing. Some traditions describe it as arising from the relation of **prāṇa**, vital energy, and **agni**, fire or energy.
 
-అహాతోనాహతశ్చేతి  ద్విధానాదోనిగద్యతే
+Texts such as the [[Sangitaratnakaram]] and [[Brihadesi]] distinguish between **āhata nāda**, produced by an audible contact or vibration, and **anāhata nāda**, described as unstruck or inward sound.
 
-సో అ యాంప్రకాశ తే పిండేతసమాత్పిండో అభిధేయతే 1.2.3
+Nāda is a technical idea within music theory and should not be treated as identical to the entire modern physics category of sound. The exact interpretation varies by text.
 
-praanaanala samyogamu valana
+## Source evidence
 
-- [[tyagaraja swamy]] one of the krithis
-  - nabhi hruth kamala naasadula yandhu.
-    - [[speech]] types
-      - Para.          -  Supress and dont think ? This is wrong,  para is out of the world.
-      - Pasyanthi. - See it in mind
-      - Madhyama - Think of it in mind
-      - vaikhari      - Speak out loud
+The original note recorded these verses and numbering. The transcription and translation still need verification.
 
-Nåda = [[Prana]] + [[Agni]] (Anala)
+> నకారం ప్రాణనామనం డకారమణలంవిధు:
+> జాత: ప్రాణాగ్ని సంయోగా త్తేననాదో అభిధీయతే 1.3.6
 
-Defined in [[Sangitaratnakara]] 1.3.6
+> అహాతోనాహతశ్చేతి ద్విధానాదోనిగద్యతే
+> సో అ యాంప్రకాశ తే పిండేతసమాత్పిండో అభిధేయతే 1.2.3
 
-[[Brihadesi]] also defines what Nada is
+- [Recorded video source](https://www.youtube.com/watch?v=QBiDqqXtR-c)
+- [Additional source to verify](https://www.youtube.com/watch?v=gfSFt_ul4Ag)
 
-Nåda is not [[Sound]].
+## Related
 
-Nada is of two types.
-  - Ahata and
-  - Anahata Nadas (Non Vibratary sound is this right ?)
-
-There are called Paribhashika Padas of Sangita Shastras.
-
-Tyagaraja Krithis have good usage of the phylosophy of [[Carnatic music]]
-
-Source: https://www.youtube.com/watch?v=QBiDqqXtR-c
-
-TODO: https://www.youtube.com/watch?v=gfSFt_ul4Ag
-
----
-
-## Related Concepts
-
-- [[Agni]] - Fire/energy component of Nada (Nāda = Prana + Agni)
-- [[Apsaras]] - celestial dancers and musicians associated with divine sound
-- [[Sangitaratnakaram]] - Classical text defining Nada (1.3.6)
-- [[Brihadesi]] - Early treatise defining what Nada is
-- [[Carnatic music]] - Classical music tradition based on Nada theory
-- [[Katapayadi_Melakarta_Guide]] - Systematic organization of Carnatic rāgas and their chakra groups
+- [[Sangitaratnakaram]]
+- [[Brihadesi]]
+- [[speech]]

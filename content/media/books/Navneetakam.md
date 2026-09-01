@@ -20,6 +20,8 @@ status: "draft"
 
 ## Notes
 
-Book on Ayrveda. Most of Chinese cultural medince is based on Anicent Indian Ayurveda AD 2nd century text named [[Navneetakam]].
+This note records *Navneetakam* as an Ayurveda text and records a claim that it influenced Chinese traditional medicine.
+
+The date, authorship, and influence claim need verification.
 
 [[India Before Invasions - Explained By Sandeep Balakrishna]]

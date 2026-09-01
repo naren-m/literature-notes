@@ -3,30 +3,20 @@ title: "Vayu"
 date: "2026-05-05"
 type: "permanent"
 category: "Humanities/Sanskrit Literature"
-tags: []
-status: "draft"
+tags: ["sanskrit", "yoga", "ayurveda", "vitality"]
+status: "complete"
 related: ["[[PanchaVayu]]", "[[Prana]]", "[[NirvanaShatakam]]"]
 ---
 
 # Vayu
 
-The Sanskrit word Vayu translates as “wind,”
+**Vāyu** means wind or moving force. In yoga and Ayurveda, the word also describes vital movement in the body.
 
-  - root word `va` =“that which flows.”
-  - yu = what ?
+These traditions distinguish several forms of vāyu and give special attention to the five movements collected in [[PanchaVayu]]. **Prāṇa** is one of those movements; it is also used more broadly for vital energy, as described in [[Prana]].
 
-energetic force that moves in a specific direction to control bodily functions and activities.
+[[NirvanaShatakam]] names the vital airs and then distinguishes them from the final Self. The exact word derivation depends on the source and should be checked separately.
 
-The ancient yogis found 49 distinct types of Vayus in the body.
+## Related
 
-Only five of the main Vayus, also treated as [[PanchaVayu|Pancha Pranas]], are important for yoga practitioners to understand.
-
-[[NirvanaShatakam]] mentions Vayu both as an element and through the five vital airs, then negates those as the final Self.
-
-These five primary currents of vital force are
-
-  - [[Prana]]-Vayu,
-  - Apana-Vayu,
-  - Samana-Vayu,
-  - Udana-Vayu,
-  - Vyana-Vayu
+- [[PanchaVayu]]
+- [[Prana]]

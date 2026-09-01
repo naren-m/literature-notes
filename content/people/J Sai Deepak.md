@@ -1,7 +1,7 @@
 ---
 title: "J Sai Deepak"
 date: "2026-05-04"
-type: "permanent"
+type: "research"
 category: "People"
 tags: ["history", "law", "india"]
 status: "draft"

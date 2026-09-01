@@ -1,10 +1,11 @@
 ---
 title: "Andrew Huberman"
 date: "2026-05-05"
-type: "permanent"
+type: "literature"
 category: "People"
 tags: []
-status: "draft"
+status: "incomplete"
+source: "https://www.youtube.com/watch?v=Ag27Lf7-ZBc"
 related: ["[[Health routines turn advice into repeatable behavior]]", "[[Why We Sleep]]"]
 ---
 

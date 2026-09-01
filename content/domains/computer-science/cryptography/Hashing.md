@@ -3,34 +3,15 @@ title: "Hashing"
 date: "2026-05-05"
 type: "permanent"
 category: "Computer Science/Cryptography"
-tags: []
-status: "draft"
+tags: ["cryptography", "hashing", "integrity"]
+status: "complete"
 related: ["[[Hash Algorithms]]", "[[Integrity]]", "[[Tampering]]", "[[Checksum]]"]
 ---
 
 # Hashing
 
-Hashing is the process of converting a given key into another value. A hash function is used to generate the new value according to a mathematical algorithm. The result of a hash function is known as a hash value or simply, a hash.
+Hashing applies a hash function to input data and produces a fixed-length digest.
 
-Hashing -> Security
+The digest is useful for detecting whether data changed. A receiver hashes the data again and compares the result. If an attacker can modify both the data and the digest, a plain hash does not prove who created the data; use a [[Message Authentication Code]] or [[Digital signatures]] for that requirement.
 
-A good hash function uses a one-way [[Hash Algorithms]], or in other words, the hash cannot be converted back into the original key.
-
-Hashing is a one-way algorithm that creates a fixed length digest (transformation) from input data.
-Features of hashing include:
-
-Hashing is conducted in sequential blocks
-
-There is no detectable pattern
-
-The results are both unpredictable and predictable
-
-Longer digests tend to be more secure
-
-Hashing protects the [[Integrity]] of data. With a hash, you can detect [[Tampering|tampering]]
-
-Hashing is different than [[Checksum]].
-
-## References
-
-- [What is hashing](https://www.educative.io/answers/what-is-hashing)
+Hashing is different from a [[Checksum]]. A cryptographic hash is designed to resist deliberate attacks, while a checksum is mainly designed to detect accidental corruption.

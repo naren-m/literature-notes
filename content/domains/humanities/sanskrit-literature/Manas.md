@@ -10,6 +10,6 @@ related: ["[[Buddhi]]", "[[Ahamkara]]", "[[chitta]]", "[[NirvanaShatakam]]", "[[
 
 # Manas
 
-Sankalpathmika [[Manas]], Nischayathmika [[Buddhi]]
+[[Manas]] is the faculty that considers options and forms intentions. [[Buddhi]] is the faculty that makes a decision.
 
-[[NirvanaShatakam]], [[HanumaStuthi]], [[Hanuman Chalisa]]
+This distinction is used in [[NirvanaShatakam]], [[HanumaStuthi]], and [[Hanuman Chalisa]].

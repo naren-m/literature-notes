@@ -9,7 +9,9 @@ status: "draft"
 
 # speed of light
 
-- Why cant you go faster than light
-  - {{video https://www.youtube.com/watch?v=Vitf8YaVXhc}}
+This research note collects explanations for why an object with mass cannot be accelerated beyond the speed of light.
 
-- {{video https://www.youtube.com/watch?v=6wXwfcFYKLE}}
+Sources:
+
+- https://www.youtube.com/watch?v=Vitf8YaVXhc
+- https://www.youtube.com/watch?v=6wXwfcFYKLE

@@ -3,49 +3,20 @@ title: "NyayaSutra"
 date: "2026-05-05"
 type: "permanent"
 category: "Humanities/Sanskrit Literature"
-tags: []
-status: "draft"
-related: ["[[Sutra]]", "[[Debate]]"]
+tags: ["logic", "epistemology", "debate", "sanskrit"]
+status: "complete"
+related: ["[[Sutra]]", "[[Debate]]", "[[Vaiseshika Darshanam]]"]
 ---
 
 # NyayaSutra
 
-Nyaya [[Sutra]] states its own purpose right at the beginning: to study and describe the attainment of liberation of the soul from wrong knowledge, faults, and sorrow, through the application of sixteen categories of knowledge. These sixteen categories are:
+The **Nyaya Sutra** is a foundational text of the Nyaya school of Indian philosophy. Its main concern is how valid knowledge can remove error and support liberation.
 
-Pramana (Epistemological methods/means of right knowledge)
+The text organizes inquiry through categories such as means of knowledge, objects of knowledge, doubt, inference, debate, fallacies, and ways an argument can fail. This makes reasoning a practical discipline rather than only a list of abstract rules.
 
-Prameya (Objects of right knowledge)
+Nyaya is closely related to Vaiśeṣika, which supplies a related account of reality and its categories. The exact history of that relationship should be checked against a scholarly edition.
 
-Samsaya (Doubt)
+## Related
 
-Prayojana (Purpose)
-
-Drishtanta (Familiar instances)
-
-Siddhanta (Established tenets)
-
-Avayava (Members of an inference)
-
-Tarka (Reasoning and [[Debate|debate]])
-
-Nirnaya (Ascertainment of results)
-
-Vada (Discussion)
-
-Jalpa (Sophistic disputations)
-
-Vitanda (Petty or unnecessary objections)
-
-Hetwabhasa (Fallacies)
-
-Chala (Quibbles)
-
-Jati (Futile rejoinders)
-
-Nigrahasthana (Methods of losing an argument)
-
-In simpler terms, its purpose is to discuss philosophy to establish rules of reason, logic, epistemology, and metaphysics, to better understand the nature of knowledge. Specifically it extends the earlier Vaisheshika epistemological and metaphysical system. It establishes the empirical theory of validity and truth, opposing uncritical appeals to intuition or scriptural authority.
-
-## Referance
-
-<https://qr.ae/p24j8Y>
+- [[Sutra]]
+- [[Debate]]

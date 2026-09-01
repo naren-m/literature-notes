@@ -3,30 +3,19 @@ title: "CIA Triad"
 date: "2026-05-05"
 type: "permanent"
 category: "Computer Science/Cryptography"
-tags: ["security"]
-status: "draft"
-related: ["[[Confidentiality]]", "[[Integrity]]", "[[Availability]]", "[[STRIDE]]", "[[Hashing]]", "[[Denial of Service]]"]
+tags: ["security", "confidentiality", "integrity", "availability"]
+status: "complete"
+related: ["[[Confidentiality]]", "[[Integrity]]", "[[Availability]]", "[[STRIDE]]"]
 ---
 
 # CIA Triad
 
-CIA Triad is a reference to [[Confidentiality]], [[Integrity]], and [[Availability]], which are the pillars of security.
+The **CIA triad** is a simple way to state three security goals:
 
-[[STRIDE]] describes common threat categories that attack these properties.
+- **Confidentiality**: only authorized parties can read the data.
+- **Integrity**: data and actions remain correct and changes are detectable.
+- **Availability**: authorized users can reach the service or data when needed.
 
-Each is a category of security:
+The three goals are related but not interchangeable. Encryption mainly supports confidentiality, authentication and integrity controls help detect unauthorized change, and capacity, redundancy, and recovery controls support availability.
 
-## [[Confidentiality]]
-![[Confidentiality]]
-
-## [[Integrity]]
-
-[[Integrity]] is about trust. Knowing whether data is reliable is essential in preventing attacks.
-
-[[Hashing]] algorithms are used to confirm [[integrity]].
-
-## [[Availability]]
-
-[[Availability]] means resources and services are available as expected.
-
-Threats to availability often appear as [[Denial of Service]] or resource exhaustion.
+[[STRIDE]] is a threat-modeling framework that helps identify attacks against these properties.

@@ -1,10 +1,10 @@
 ---
 title: "Sapta Dhatu"
-date: 2026-05-12
-type: permanent
+date: "2026-05-12"
+type: "permanent"
 category: "Humanities/Sanskrit Literature/Concepts"
 tags: ["ayurveda", "body", "sanskrit"]
-status: draft
+status: "draft"
 related: ["[[Ayurvedam]]", "[[Prana]]", "[[NirvanaShatakam]]"]
 ---
 

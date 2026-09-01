@@ -9,10 +9,6 @@ status: "draft"
 
 # Memetic Desire
 
-- The idea that people desire things not independently but by imitating the desire of others.
+Memetic desire is the idea that people often want things by imitating what other people want, rather than forming the desire independently.
 
-- [[Rene Girard]]'s
-
-- [[Books]]
-  - Things hidden since the begining of the world,
-  - Wanting
+The note connects this idea to [[Rene Girard]] and the books *Things hidden since the beginning of the world* and *Wanting*.

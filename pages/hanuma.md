@@ -9,6 +9,8 @@ status: "draft"
 
 # hanuma
 
+This legacy index collects notes about Hanuman's qualities, speech, and devotional practice:
+
 - [[dhRti-dRShTi-mati-dAKShyam sloka]]
 - [[HowToSpeakLikeHanuma]]
 - [[Hanuman Chalisa]]

@@ -1,28 +1,26 @@
 ---
 title: "Ashoka"
 date: "2026-05-05"
-type: "permanent"
+type: "research"
 category: "People"
 tags: ["Ashoka", "India", "History"]
 status: "draft"
+source: "https://www.youtube.com/watch?v=HvTdiKzQEKE&t=136"
 related: ["[[India]]"]
 ---
 
 # Ashoka
 
-Good or Evil, may be a regular human used by Nehru and Co to build a False Narrative for [[India]]. And he might be the closed they can find.
+This note records a critical view of Ashoka and of how later writers may have used his image in narratives about [[India]]. The claims below are source-bound and need independent verification.
 
 https://www.youtube.com/watch?v=HvTdiKzQEKE&t=136
 
-## some bad things
+## Claims recorded in the source
 
-lead a genocide
+led a genocide;
 
-killed all his brothers
+killed his brothers to secure the throne; and
 
-Nehru and co used Ashoka to crate a narrative that fits their needs at that moment.
+was presented selectively in later political narratives.
 
-  - Covering up the negative sides of it.
-Killed all of his brothers to keep the throne to himself
-
-He was a Short ugly looking guy,
+Source: https://www.youtube.com/watch?v=HvTdiKzQEKE&t=136

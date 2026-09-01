@@ -1,10 +1,10 @@
 ---
 title: "Purushartha"
-date: 2026-05-12
-type: permanent
+date: "2026-05-12"
+type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["sanskrit", "ethics", "vedanta"]
-status: draft
+status: "draft"
 related: ["[[Dharma]]", "[[karma]]", "[[Moksha]]", "[[NirvanaShatakam]]"]
 ---
 

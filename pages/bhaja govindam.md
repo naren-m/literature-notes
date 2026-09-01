@@ -9,4 +9,6 @@ status: "draft"
 
 # bhaja govindam
 
-- {{video https://www.youtube.com/watch?v=KWbuqC3xVD4&t=5420s}}
+This note records a video source for Bhaja Govindam:
+
+https://www.youtube.com/watch?v=KWbuqC3xVD4&t=5420s

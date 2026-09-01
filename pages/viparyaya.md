@@ -7,6 +7,8 @@ tags: []
 status: "draft"
 ---
 
-# viparyaya
+# Viparyaya
 
-- [[Viparyaya]] [[Mithya]] [[Gnanam]] ata drUpa pratiShTham
+This note records **viparyaya** as mistaken knowledge: knowledge that is based on a false form or appearance.
+
+It connects the idea to [[Mithya]] and [[Gnanam]]. The Sanskrit wording in the source note needs verification.

@@ -10,4 +10,4 @@ related: ["[[India]]"]
 
 # Marthanda Varma
 
-Indian king fought Dutch in it's initial attempts to conqure [[India]]
+Marthanda Varma was an Indian king who fought Dutch attempts to expand in [[India]].

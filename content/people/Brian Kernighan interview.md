@@ -1,10 +1,11 @@
 ---
 title: "Brian Kernighan interview"
 date: "2026-05-05"
-type: "permanent"
+type: "literature"
 category: "People"
 tags: ["book", "programming", "theory", "cse"]
-status: "draft"
+status: "incomplete"
+source: "https://www.youtube.com/watch?v=O9upVbGSBFo"
 related: ["[[Brian Kernighan]]", "[[CTSS]]", "[[Multics]]", "[[AMPL]]", "[[Unix philosophy]]", "[[Hello World]]", "[[GraphTheory]]", "[[Jeff Dean]]"]
 ---
 

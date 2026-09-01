@@ -3,58 +3,21 @@ title: "Data Sensitivity"
 date: "2026-05-05"
 type: "permanent"
 category: "Computer Science/Cryptography"
-tags: []
-status: "draft"
-related: ["[[Information Disclosure]]"]
+tags: ["security", "data-classification", "privacy"]
+status: "complete"
+related: ["[[Information Disclosure]]", "[[Cryptography]]"]
 ---
 
 # Data Sensitivity
 
-The most frequent goal of the attackers is data. This includes:
+Data sensitivity is the level of harm that could result if data is exposed, changed, or lost. Classification lets a team choose protection based on impact instead of treating every field the same way.
 
-Identity theft
+A simple working scheme is:
 
-Stealing data
+- **P1**: highly sensitive data that directly identifies or enables harm to a person, such as government identifiers or payment data;
+- **P2**: data that is less direct but can still identify, profile, or help compromise someone; and
+- **P3**: data with limited personal impact when disclosed.
 
-Modifying data
+The exact labels and examples belong to the organization's policy. A field must not be placed in a lower class merely because it looks harmless in isolation.
 
-Ransomware
-
-- [[Information Disclosure|Information disclosure]]
-
-Protect data in all states
-
-At rest
-
-At transit
-
-In memory
-
-#### P1
-P1 data is personally identifiable information (PII). This is highly sensitive personal data that identifies a specific individual.
-
-Government ID
-
-Credit card
-
-Email address
-
-Ocular
-
-Secure with the highest level of security.
-
-#### P2
-P2 is personally anonymous data. These are attributes that can identify you but also others.
-
-Hair color
-
-Address
-
-Mother maiden name
-
-Name of High School
-
-This data is semi sensitive.
-
-#### P3
-P3 data does not have personal significance. Be sure that the data is not miscategorized, which has been the source of several attacks.
+Protect sensitive data in all states: at rest, in transit, and in memory. [[Information Disclosure]] is the threat this classification helps prevent; controls may include access limits, encryption, logging, retention rules, and careful redaction.

@@ -8,3 +8,5 @@ status: "draft"
 ---
 
 # Atharvanaveda
+
+This note is a placeholder for research about the Atharvaveda. No explanation or source has been added yet.

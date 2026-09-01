@@ -81,8 +81,8 @@ This knowledge base emphasizes interconnections across domains:
 
 ## 📈 Statistics
 
-- **Total Notes**: 242
-- **Domains**: 6 major areas
+- **Total Notes**: 240
+- **Domains**: 5 major areas
 - **Last Updated**: 2026-09-01
 
 ## 🔄 Maintenance

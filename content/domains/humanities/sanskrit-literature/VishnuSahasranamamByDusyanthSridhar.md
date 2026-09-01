@@ -1,10 +1,11 @@
 ---
 title: "VishnuSahasranamamByDusyanthSridhar"
 date: "2026-05-05"
-type: "permanent"
+type: "literature"
 category: "Humanities/Sanskrit Literature"
 tags: ["DusyanthSridhar"]
-status: "draft"
+status: "incomplete"
+source: "https://www.youtube.com/watch?v=C49xUHEHrHk"
 related: ["[[VishnuSahasranamam]]", "[[Dharma]]", "[[acharya]]", "[[vedanta]]", "[[karma]]", "[[Agni]]", "[[Krishna]]"]
 ---
 

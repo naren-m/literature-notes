@@ -10,8 +10,6 @@ related: ["[[Digital signatures]]", "[[Cryptography]]"]
 
 # Token Authentication
 
-Token represents the credentials of the user.
+Token authentication uses a token as evidence that a user or service has already been authenticated.
 
-Uses [[Digital signatures|digital signatures]] with supports [[Cryptography]]
-
-Mostly used in web services
+Web services commonly send the token with later requests. The token may be protected with [[Digital signatures|digital signatures]] or another cryptographic mechanism so the service can verify its origin and validity.

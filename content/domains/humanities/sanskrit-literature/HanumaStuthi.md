@@ -10,10 +10,12 @@ related: ["[[hanuma]]", "[[Buddhi]]"]
 
 # HanumaStuthi
 
-[[hanuma]]
+This note records a prayer to [[hanuma]].
 
 ## Budhirbalam
 
 [[Buddhi]]r Balam Yasho dhairya, nirbhayathvam arogatham ajaadyam vaakpatuthvam cha, Hanumanth Smaranath Bhavaeth
 
 బుదిర్బలం యశో ధైర్యం నిర్భయత్వం ఆరోగతాం అజాడ్యం వాక్పాటుత్వం చ హనుమత్ స్మరణాత్ భవీత్
+
+The verse associates remembrance of Hanuman with intelligence, strength, reputation, courage, fearlessness, health, alertness, and clear speech.

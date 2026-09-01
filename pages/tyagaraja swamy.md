@@ -9,7 +9,6 @@ status: "draft"
 
 # tyagaraja swamy
 
-- [[speech]]
-- [[Nada]]
+Tyāgarāja is linked in this vault to the musical treatment of [[speech]] and [[Nada]].
 
-- [[jagadaananda kaararaka]]
+The song notes are collected in [[jagadaananda kaararaka]].

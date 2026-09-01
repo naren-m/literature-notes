@@ -3,34 +3,21 @@ title: "Agni"
 date: "2026-05-05"
 type: "permanent"
 category: "Humanities/Sanskrit Literature"
-tags: ["word", "definition", "vedic", "music", "fire", "energy"]
-status: "draft"
-related: ["[[Sulba Sutras]]", "[[Katapayadi_Melakarta_Guide]]", "[[Nada]]", "[[Prana]]", "[[Sangitaratnakaram]]", "[[Music Theory]]"]
+tags: ["word", "definition", "vedic", "fire", "energy"]
+status: "complete"
+related: ["[[Sulba Sutras]]", "[[Nada]]", "[[Prana]]"]
 ---
 
 # Agni
 
-Agni is not Fire. Fire is just an example.
+**Agni** is the principle of fire: that which consumes and transforms what is given to it.
 
-One that Engulfs whatever is given to it.
+In Vedic ritual, fire is both a physical element and the medium through which an offering is transformed. The three sacred fires and the precise construction of fire altars are discussed in the [[Sulba Sutras]].
 
-One that devours
+The same word is used by other traditions for energy or transformation. In the sound theory recorded in [[Sangitaratnakaram]], [[Nada]] is described as a relation between [[Prana]] and Agni. Those are related uses, not one definition that replaces the others.
 
-## Related Concepts
+## Related
 
-### In Vedic Tradition
-The three sacred fires (Āhavanīya, Dakṣiṇa, Gārhapatya) are central to Vedic ritual practice. The geometric precision required for constructing fire altars (agni-chayana) is detailed in [[Sulba Sutras]].
-
-### In Music Theory
-**Agni Chakra** is the 3rd chakra in the [[Katapayadi_Melakarta_Guide|Melakarta system]], named after the three sacred fires. It contains rāgas 13-18, all using R1-G3-M1 (Śuddha Madhyama).
-
-### In Sound Theory
-Agni (fire/energy) combines with [[Nada|Prana to form Nada]] (sound): Nāda = [[Prana]] + Agni, as defined in [[Sangitaratnakaram]] 1.3.6.
-
----
-
-## See Also
-- [[Sulba Sutras]] - Geometric construction of fire altars
-- [[Nada]] - Sound as combination of Prana and Agni
-- [[Sangitaratnakaram]] - Classical [[Music Theory|music theory]] text
-- [[Katapayadi_Melakarta_Guide]] - Agni Chakra in rāga classification
+- [[Sulba Sutras]]
+- [[Nada]]
+- [[Prana]]

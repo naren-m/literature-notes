@@ -1,10 +1,10 @@
 ---
 title: "Garikapati Narasimha Rao"
-date: 2026-05-12
-type: permanent
+date: "2026-05-12"
+type: "literature"
 category: "People"
 tags: ["sanskrit", "telugu", "speaker"]
-status: draft
+status: "incomplete"
 source: "Referenced from NirvanaShatakam note"
 related: ["[[NirvanaShatakam]]", "[[Manas]]", "[[Buddhi]]", "[[chitta]]", "[[Ahamkara]]"]
 ---

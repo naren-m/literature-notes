@@ -9,7 +9,7 @@ related: ["[[Friday cleaning]]", "[[aggregation of marginal gains]]", "[[One per
 ---
 
 # Maintaining code base
-- [[Friday cleaning]]
-  - [[aggregation of marginal gains]]
-  - [[One percent rule]]
-- [[Testing Principles]]
+
+Codebase maintenance is the repeated work that keeps software readable, testable, and easy to change.
+
+It includes small cleanups, documentation, tests, and automation. [[Friday cleaning]] is one way to schedule this work. [[Testing Principles]] describes the quality checks that support it.

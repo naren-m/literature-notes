@@ -9,4 +9,4 @@ status: "draft"
 
 # SuryaSidhantam
 
-- [[Panchangam]]
+This note connects the Sūrya Siddhānta to the calendar calculations collected in [[Panchangam]].

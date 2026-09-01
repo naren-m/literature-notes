@@ -1,10 +1,10 @@
 ---
 title: "Krishna"
 date: "2025-12-11"
-type: "permanent"
+type: "literature"
 category: "sanskrit-lit/Deities"
 tags: ["krishna", "vishnu", "devotional", "vedic"]
-status: "complete"
+status: "incomplete"
 source: "Vishnusahasranamam by Dushyanth Sridhar"
 related: ["[[acharya]]", "[[content/domains/humanities/sanskrit-literature/Sutra]]", "[[literature-notes/VishnuSahasranamamByDusyanthSridhar]]", "[[VishnuSahasranamam]]"]
 ---

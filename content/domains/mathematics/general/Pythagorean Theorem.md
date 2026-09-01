@@ -10,4 +10,6 @@ related: ["[[Bhuja koti karani nyayam]]"]
 
 # Pythagorean Theorem
 
-The Sanskrit framing of the same geometric relation is captured in [[Bhuja koti karani nyayam]].
+For a right triangle, the square of the hypotenuse equals the sum of the squares of the other two sides.
+
+The Sanskrit framing of this relation is captured in [[Bhuja koti karani nyayam]].

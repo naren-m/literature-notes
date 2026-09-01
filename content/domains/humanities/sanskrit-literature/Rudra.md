@@ -9,14 +9,10 @@ status: "draft"
 
 # Rudra
 
-रुक्  द्रावयथि  इथि  रुद्राह
-रु  द्रावयथि  इथि  रुद्राह
+This note records two proposed explanations of **Rudra**:
 
-Ruk Dra -> Ruk draavayathi ithi Rudraha
+*ruk* + *dravayati*: that which causes pain or suffering to flow away; and
 
-A flow of pain and suffering
+*ru* + *dra*: an interpretation connecting knowledge with flow.
 
-Ru Dra -> Ru Draavayathi ithi Rudraha
-
-Ru -> Knowledge
-Dra -> Flow
+The Sanskrit derivation and translations need to be checked against a reliable source.

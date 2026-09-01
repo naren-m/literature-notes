@@ -1,10 +1,10 @@
 ---
 title: "Moksha"
-date: 2026-05-12
-type: permanent
+date: "2026-05-12"
+type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["vedanta", "liberation", "sanskrit"]
-status: draft
+status: "draft"
 related: ["[[Dharma]]", "[[karma]]", "[[Purushartha]]", "[[NirvanaShatakam]]", "[[Vikalpa]]"]
 ---
 

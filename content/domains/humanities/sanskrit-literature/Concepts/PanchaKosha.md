@@ -1,10 +1,10 @@
 ---
 title: "Pancha Kosha"
-date: 2026-05-12
-type: permanent
+date: "2026-05-12"
+type: "permanent"
 category: "Humanities/Sanskrit Literature/Concepts"
 tags: ["vedanta", "upanishads", "self"]
-status: draft
+status: "draft"
 related: ["[[Prana]]", "[[Manas]]", "[[Buddhi]]", "[[Chidananda]]", "[[NirvanaShatakam]]", "[[Upanishads]]"]
 ---
 

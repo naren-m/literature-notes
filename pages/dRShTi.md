@@ -8,3 +8,5 @@ status: "draft"
 ---
 
 # dRShTi
+
+This note is a placeholder for research about **dṛṣṭi**, commonly translated as sight, view, or perspective.

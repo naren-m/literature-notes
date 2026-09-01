@@ -10,7 +10,6 @@ related: ["[[digital signatures]]", "[[public key]]", "[[Authentication]]"]
 
 # Fingerprint
 
-What is a digital fingerprint?
-There is often confusion about the definition of a digital fingerprint versus [[digital signatures]].
-A digital fingerprint is a hash of a [[public key]] (discussed shortly).
-Two parties with shared knowledge of a [[public key]] can exchange the key using the hash. The hash becomes a factor for [[Authentication|authentication]].
+A digital fingerprint is a short hash that identifies larger data, such as a [[Public Key]].
+
+Two parties can compare the fingerprint through a trusted channel before accepting the full key. This helps detect key substitution during [[Authentication]]. A fingerprint is different from a [[Digital signatures|digital signature]]: it identifies data, while a signature proves possession of a private key and protects message integrity.

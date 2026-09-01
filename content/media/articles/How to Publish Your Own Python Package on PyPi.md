@@ -23,4 +23,4 @@ status: "draft"
 
 ### Highlights
 
-- author='M. Massenzio
+- The article is by Marco Massenzio and explains how to publish a Python package on PyPI.

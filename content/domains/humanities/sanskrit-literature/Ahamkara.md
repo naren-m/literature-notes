@@ -1,10 +1,10 @@
 ---
 title: "Ahamkara"
-date: 2026-05-12
-type: permanent
+date: "2026-05-12"
+type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["sanskrit", "vedanta", "self"]
-status: draft
+status: "draft"
 related: ["[[Manas]]", "[[Buddhi]]", "[[chitta]]", "[[NirvanaShatakam]]"]
 ---
 

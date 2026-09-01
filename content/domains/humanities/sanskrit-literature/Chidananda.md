@@ -1,10 +1,10 @@
 ---
 title: "Chidananda"
-date: 2026-05-12
-type: permanent
+date: "2026-05-12"
+type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["vedanta", "consciousness", "sanskrit"]
-status: draft
+status: "draft"
 related: ["[[NirvanaShatakam]]", "[[shiva]]", "[[Moksha]]", "[[Vikalpa]]"]
 ---
 

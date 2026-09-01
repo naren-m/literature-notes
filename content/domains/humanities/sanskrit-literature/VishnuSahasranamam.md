@@ -1,10 +1,11 @@
 ---
 title: "VishnuSahasranamam"
 date: "2026-05-05"
-type: "permanent"
+type: "literature"
 category: "Humanities/Sanskrit Literature"
 tags: ["Pravachanam"]
-status: "draft"
+status: "incomplete"
+source: "https://www.templepurohit.com/vishnu-sahasranamam-1008-names-of-lord-vishnu/"
 related: ["[[VishnuSahasranamamByDusyanthSridhar]]", "[[Shatprashni]]", "[[Akshara]]", "[[krishna]]", "[[dharma]]", "[[indra]]", "[[speech]]", "[[Prana]]"]
 ---
 

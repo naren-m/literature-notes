@@ -23,4 +23,4 @@ status: "draft"
 
 ### Highlights
 
-- The "when" statement makes its parent data definition statement conditional
+- The YANG `when` statement makes its parent data definition conditional.

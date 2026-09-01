@@ -10,6 +10,6 @@ related: ["[[Pythagorean Theorem]]", "[[Bhuja koti karani nyayam]]", "[[Sulba Su
 
 # Bhuja koti karani nyayam
 
-[[Pythagorean Theorem]] is nothing but [[Bhuja koti karani nyayam]], used in Yaga setup.
+[[Bhuja koti karani nyayam]] is presented here as the geometric relation known in English as the [[Pythagorean Theorem]]. The note connects it to the construction of a Yaga setup.
 
-Is this defined in [[Sulba Sutras]] ?
+Open question: is this relation defined in the [[Sulba Sutras]]?

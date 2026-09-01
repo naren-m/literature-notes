@@ -3,27 +3,20 @@ title: "STRIDE"
 date: "2026-05-05"
 type: "permanent"
 category: "Computer Science/Cryptography"
-tags: ["TODO"]
-status: "draft"
-related: ["[[Spoofing]]", "[[Authentication]]", "[[Tampering]]", "[[Integrity]]", "[[Repudiation]]", "[[Information Disclosure]]", "[[Confidentiality]]", "[[Denial of Service]]"]
+tags: ["security", "threat-modeling"]
+status: "complete"
+related: ["[[Spoofing]]", "[[Tampering]]", "[[Repudiation]]", "[[Information Disclosure]]", "[[Denial of Service]]", "[[Elevation of Privilege]]", "[[CIA Triad]]"]
 ---
 
 # STRIDE
 
-STRIDE(acronym) is categorization of vulnerabilities.
-  - [[Spoofing]]: theft of user credentials.
-    - Compromise of [[Authentication]]
-  - [[Tampering]]: unauthorized data modification.
-    - Compromise of [[Integrity]].
-  - [[Repudiation]]: repudiation of activity.
-    - Compromise of non-repudiation. (Trying to hide who we are) #TODO Circular definition fix it.
-  - [[Information Disclosure]]: unauthorized access to data.
-    - Compromise of [[Confidentiality]].
-  - [[Denial of Service]]: prevent correct access to data or services.
-    - Compromise of [[Availability]].
-  - [[Elevation of Privilege]]: unauthorized upgrade in privilege.
-    - Compromise of [[authorization]] .
+**STRIDE** is a threat-modeling checklist. It asks whether a design is exposed to six common threat classes:
 
-Notes:
-  - These [[Security Vulnerabilities]] effect the core principles of [[Cryptography]], the [[CIA Triad]]
-  - Useful in deciding, based on the categorization, the best practices of how to defend or mitigate against current or future problems.
+- **Spoofing**: pretending to be another identity;
+- **Tampering**: changing data or code without authorization;
+- **Repudiation**: denying an action when the system cannot provide reliable evidence;
+- **Information disclosure**: exposing data to an unauthorized party;
+- **Denial of service**: preventing legitimate use; and
+- **Elevation of privilege**: gaining permissions beyond what was granted.
+
+Use STRIDE while tracing trust boundaries and data flows. Map each threat to a concrete control and an observable failure signal. The categories support the [[CIA Triad]], but they do not replace detailed risk analysis.

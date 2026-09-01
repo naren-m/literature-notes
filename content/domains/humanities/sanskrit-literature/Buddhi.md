@@ -1,10 +1,10 @@
 ---
 title: "Buddhi"
-date: 2026-05-12
-type: permanent
+date: "2026-05-12"
+type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["sanskrit", "vedanta", "mind"]
-status: draft
+status: "draft"
 related: ["[[Manas]]", "[[Ahamkara]]", "[[chitta]]", "[[NirvanaShatakam]]", "[[HanumaStuthi]]", "[[Hanuman Chalisa]]"]
 ---
 

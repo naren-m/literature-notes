@@ -9,5 +9,4 @@ status: "draft"
 
 # AdiShankaraCharya
 
-- [[NirvanaShatakam]]
-- [[VivekaChudamani]]
+Adi Shankaracharya is the teacher associated in this vault with [[NirvanaShatakam]] and [[VivekaChudamani]].

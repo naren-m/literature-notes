@@ -1,10 +1,11 @@
 ---
 title: "निर्वाणषट्कम् (Nirvāṇa Ṣaṭkam) — Word-by-Word Analysis"
 date: "2026-05-05"
-type: "permanent"
+type: "literature"
 category: "Humanities/Sanskrit Literature"
 tags: []
-status: "draft"
+status: "incomplete"
+source: "https://youtu.be/C9XlxIzbvZ4"
 related: ["[[AdiShankaraCharya]]", "[[Manas]]", "[[Buddhi]]", "[[Ahamkara]]", "[[chitta]]", "[[Prana]]", "[[Vayu]]", "[[PanchaVayu]]", "[[PanchaKosha]]", "[[SaptaDhatu]]", "[[Purushartha]]", "[[Moksha]]", "[[Vikalpa]]", "[[Chidananda]]", "[[Agni]]", "[[speech]]", "[[Dharma]]", "[[karma]]", "[[shiva]]"]
 ---
 
@@ -25,12 +26,17 @@ Said to [govinda bhagavathpadulu](https://youtu.be/C9XlxIzbvZ4?t=2186)
 
 Nirvana Shatakam uses repeated negation to separate the Self from several layers of identity:
 
-- Inner instrument: [[Manas]], [[Buddhi]], [[Ahamkara]], and [[chitta]]
-- Senses and expression: [[eye]], [[speech]], and the indriyas
-- Elements and vital functions: [[Agni]], [[Vayu]], [[Prana]], and [[PanchaVayu]]
-- Body and sheaths: [[SaptaDhatu]] and [[PanchaKosha]]
-- Ethical and life aims: [[Dharma]], [[karma]], [[Purushartha]], and [[Moksha]]
-- Vedantic culmination: [[Vikalpa]], [[Chidananda]], and [[shiva]]
+Inner instrument: [[Manas]], [[Buddhi]], [[Ahamkara]], and [[chitta]]
+
+Senses and expression: [[eye]], [[speech]], and the indriyas
+
+Elements and vital functions: [[Agni]], [[Vayu]], [[Prana]], and [[PanchaVayu]]
+
+Body and sheaths: [[SaptaDhatu]] and [[PanchaKosha]]
+
+Ethical and life aims: [[Dharma]], [[karma]], [[Purushartha]], and [[Moksha]]
+
+Vedantic culmination: [[Vikalpa]], [[Chidananda]], and [[shiva]]
 
 ---
 

@@ -9,4 +9,4 @@ status: "draft"
 
 # Bhagavadgita
 
-- [[GitaPravachanam]]
+This note points to the recorded study notes in [[GitaPravachanam]].

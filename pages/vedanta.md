@@ -7,8 +7,10 @@ tags: []
 status: "draft"
 ---
 
-# vedanta
+# Vedānta
 
-- {{video https://www.youtube.com/watch?v=udNCevZS5QM}}
+This research note points to a video about Vedānta:
 
-- Talked about [[Ahimsa]], [[Maana]] from [["Bhagavadgita"]] [[Upaasana]] [[Upanishads]] [[advaita]]
+https://www.youtube.com/watch?v=udNCevZS5QM
+
+Topics recorded from the talk include [[Ahimsa]], [[Maana]], [[Bhagavadgita]], [[Upaasana]], [[Upanishads]], and [[advaita]].

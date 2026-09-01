@@ -9,7 +9,8 @@ status: "draft"
 
 # Debate
 
-- 3 kinds of debate
-  - Jalpam
-  - Vitandam
-  - Vaadam
+This note records three debate forms:
+
+- **Jalpa**: debate aimed at winning;
+- **Vitanda**: debate that attacks an opponent's position without presenting its own; and
+- **Vada**: debate aimed at finding the truth.

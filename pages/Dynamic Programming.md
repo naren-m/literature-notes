@@ -9,4 +9,6 @@ status: "draft"
 
 # Dynamic Programming
 
-- [[DP Practice]]
+Dynamic programming solves a problem by reusing solutions to overlapping subproblems instead of solving the same subproblem repeatedly.
+
+The worked examples are collected in [[DP Practice]].

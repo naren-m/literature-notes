@@ -10,7 +10,9 @@ related: ["[[Manas]]", "[[Ahamkara]]", "[[chitta]]", "[[NirvanaShatakam]]", "[[H
 
 # Buddhi
 
-Nischayathmika Buddhi (నిశ్చయాత్మక బుద్ధి) - one that decides.
+Sankalpathmika [[Manas]], Nischayathmika Buddhi (నిశ్చయాత్మక బుద్ధి) - one that decides.
+
+Also written Budhi.
 
 - [[Manas]] deliberates. Buddhi says "this is so".
 - Rest of the inner instrument: [[Ahamkara]] claims, [[chitta]] stores.

@@ -12,7 +12,7 @@ related: ["[[karma]]", "[[Purushartha]]", "[[Moksha]]", "[[Manas]]", "[[speech]]
 ధార యతి, ఇతి ధర్మ:
 ధ్రియథేవ జనయరితి ధర్మ:
 
-- [[Manas]], [[karma]], [[Vachana]]
+- [[Manas]], [[karma]], Vachana
 
 One that sustains. What does it sustain? Balance in the creation.
 

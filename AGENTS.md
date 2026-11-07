@@ -188,6 +188,31 @@ Notes are written in Naren's voice, not in generic LLM prose.
 - Do not write robotic filler: "In practical terms", "This matters because", "It is important to note", "Examples include", "Its meaning depends on", "rule of thumb", "Overview / Core Concept / Key Takeaways" sections, or `[[Link]] - one-line description` lists.
 - When cleaning a note, do not flatten it into encyclopedic prose. Shorter and sharper beats complete and bland.
 
+## Maintaining Links and Backlinks
+
+`tools/check_backlinks.py` resolves a `[[wikilink]]` by filename stem, frontmatter `title`, or path suffix (e.g. `[[sanskrit-etymology/Rambha]]`), case-insensitively, treating `_` as a space. A link that matches no note is unresolved; a link that matches two or more notes is ambiguous.
+
+When writing links:
+
+- Link to a note that exists, using its real name: `[[Apsaras]]`, not `[[apsara]]`. Use `[[Target|display text]]` when the wording should differ.
+- Give every new note at least one inbound link from a related existing note. A note's own outbound links do not count as backlinks.
+- When a link carries a real relationship, add the reciprocal link on the target note too (its "Related" section or `related:` frontmatter).
+- Do not create a second note with the same filename stem or title as an existing one, because that makes links ambiguous. If two such notes must exist, link by path.
+- Do not add links to notes that do not exist as placeholders. If a concept needs a note, create it or list it as a missing concept during lint.
+
+When moving, renaming, merging, or deleting notes:
+
+- Use `git mv` so history follows the file.
+- When moving between folders, keep the filename stem so existing links keep resolving.
+- When renaming, search the vault for `[[Old Name`, the old `title`, `related:` entries, and markdown links to `Old_Name.md`, and update every one.
+- When merging or deleting, point inbound links at the surviving note before removing the old one.
+
+Verify every change:
+
+- Run `make backlink-check` (or `python3 tools/check_backlinks.py --summary`) before and after the change. Unresolved and ambiguous counts must not go up, and permanent-note orphans must stay at 0.
+- Use `make backlink-report` for a full report listing each broken, ambiguous, or orphaned link.
+- The pre-commit hook (`make install-hooks`) runs the strict check on staged files. Do not bypass it with `SKIP_BACKLINK_CHECK=1` unless the user asks.
+
 ## Output Quality Bar
 
 - Favor clarity over completeness.

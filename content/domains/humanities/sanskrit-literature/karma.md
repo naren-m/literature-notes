@@ -10,12 +10,14 @@ related: ["[[Dharma]]", "[[Bhagavadgita]]", "[[Moksha]]", "[[YogaSutras]]"]
 
 # karma
 
-कृ (kṛ) = to do. कर्म = action.
+कृ (kṛ) = to do. कर्म (karma) = action. कार्य (kārya) = effect.
 
 Action with the influence of memory.
 
 - Every action leaves an impression. Impression shapes the next action.
-- Sanchita = accumulated. Prarabdha = running in this life. Agami / Kriyamana = being made now.
+- संचित (Sanchita) = accumulated
+- प्रारब्ध (Prarabdha) = running in this life
+- क्रियमाण/आगामि (Kriyamana/Agami) = being made now
 - [[Bhagavadgita]]: karma, akarma, vikarma. Do the action, drop attachment to the fruit.
 - [[YogaSutras]]: karma → samskaras in [[chitta]]
 - Not simple reward-and-punishment bookkeeping.

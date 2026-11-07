@@ -10,8 +10,20 @@ related: ["[[Hashing]]", "[[Checksum]]", "[[Block Cipher]]"]
 
 # Hash Algorithms
 
-A hash algorithm maps input data of any length to a fixed-length digest.
+Variable length data → fixed length digest. Change one bit → radically different digest.
 
-A cryptographic hash should make it difficult to recover the input from the digest, difficult to find two inputs with the same digest, and sensitive to even a small input change. These properties make hashes useful for checking [[Integrity]], but a plain hash does not authenticate who produced the data.
+Secure hash algorithm:
+- One-way → must use brute force to reverse. (as in [[Hashing]])
+- Collision resistant → unlikely, if not impossible, to find two inputs with the same hash.
+- Performant + memory efficient → slow hashes are hard to scale.
 
-SHA-256 and SHA-512 are members of the SHA-2 family. SHA-3 is another modern hash family. The correct choice depends on the protocol and its security requirements; a checksum is sufficient only when the threat is accidental corruption.
+Plain hash checks [[Integrity]]. It does not say who produced the data.
+
+Approaches to creating hashes: [[Block Cipher|block cipher]], stream cipher, keyed hash.
+
+Algorithms:
+- SHA-256 → most common today. SHA-2 family, 256-bit digest. Good balance between compute and security.
+- SHA-384, SHA-512 → also SHA-2. More secure, more compute.
+- SHA-3 → available, not widely used.
+
+Only accidental corruption to worry about? A [[Checksum]] is enough.

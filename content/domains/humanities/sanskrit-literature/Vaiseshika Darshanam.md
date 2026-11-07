@@ -29,7 +29,7 @@ Reality = padarthas:
 
 Dravya = 9: prithvi, ap, tejas, vayu, akasha, kala, dik, atman, manas.
 
-Paramanu → dvyanuka (2) → tryanuka (3) = smallest visible.
+परमाणु (Paramanu) → dvyanuka (2) → tryanuka (3) = smallest visible.
 
 Gurutva = heaviness. संयोगाभावे गुरुत्वात् पतनम् (5.1.7) - no contact, it falls.
 

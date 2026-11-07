@@ -11,15 +11,12 @@ related: ["[[Key exchange]]", "[[Confidentiality]]", "[[Data Sensitivity]]", "[[
 
 # Harvest now decrypt later makes key exchange urgent
 
-Harvest-now-decrypt-later attacks make post-quantum [[Key exchange]] urgent even before large quantum computers exist.
+Here is the thing. You don't need a quantum computer to exist today to get hurt by one.
 
-An attacker can record encrypted traffic today and wait. If the session's key agreement later becomes breakable, the attacker may recover the old session key and decrypt stored traffic. The exposure depends on the lifetime of the protected data, not just the date when quantum computers become practical.
+An attacker records encrypted traffic now. Stores it. Waits. The day the session's key agreement becomes breakable, they recover the old session key and decrypt everything they stored. Harvest now, decrypt later.
 
-This changes migration priority. Data with long-lived [[Confidentiality]] requirements needs quantum-resistant key agreement before the cryptographic break arrives. Short-lived data may tolerate a slower migration path, but medical, legal, financial, government, or trade-secret material cannot assume that "safe today" means "safe for its whole useful life."
+So the real question is not "when do quantum computers become practical?" It is "how long does this data need to stay secret?" That's why post-quantum [[Key exchange]] is urgent already.
 
-## Related
+This changes migration priority. Long-lived [[Confidentiality]] → move to quantum-resistant key agreement before the break arrives. Short-lived data can take the slower path. Medical, legal, financial, government, trade secrets → "safe today" doesn't mean "safe for its whole useful life". Same thinking as [[Data Sensitivity]]: protect by impact.
 
-- [[Key exchange]]
-- [[Confidentiality]]
-- [[Data Sensitivity]]
 - [[Lattice-based encryption]]

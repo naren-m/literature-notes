@@ -9,4 +9,6 @@ status: "draft"
 
 # dRShTi
 
-This note is a placeholder for research about **dṛṣṭi**, commonly translated as sight, view, or perspective.
+దృష్టి / दृष्टि = sight. Clear vision.
+
+- One of the four in [[dhRti-dRShTi-mati-dAKShyam sloka]]

@@ -9,14 +9,13 @@ status: "draft"
 
 # Māyā
 
-This research note records a Vedānta explanation of **māyā** as that which is different from both the existing and the non-existing.
+- [Maaya tu prakruthim vidhi, Mayinam thu maheswara](https://youtu.be/KWbuqC3xVD4?t=6131)
+  - Maaya, Maayi
+- **"māyāṃ tu prakuryāt vidhiḥ"** or **"māyāṃ tu prakaraṇaṃ vidhiḥ"** (transcription not verified)
 
-The note also records the claim that māyā obscures knowledge of the self and connects the topic to [[advaita]]. The quoted Sanskrit and its source need verification.
-
-## Source evidence
-
-The original note linked this transcription to a timestamped video:
-
-> [Maaya tu prakruthim vidhi, Mayinam thu maheswara](https://youtu.be/KWbuqC3xVD4?t=6131)
-
-It also recorded the variant transcription **"māyāṃ tu prakuryāt vidhiḥ"** or **"māyāṃ tu prakaraṇaṃ vidhiḥ"**. The Sanskrit transcription and translation need verification against the source.
+- Maaya in [[advaita]] - SathasasthVilakshanam
+  - Sath - Existing
+  - Asath - Non Existing
+  - Sathasath - Existing and non existing
+  - SathasasthVilakshanam - Different from what is existing and non existing
+- Maaya envelops the athma gnyana

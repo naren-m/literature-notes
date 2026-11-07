@@ -9,4 +9,6 @@ status: "draft"
 
 # ramayanam
 
-The Ramayana notes in this legacy folder currently focus on the Bālakāṇḍa account of [[SitaKalyanam]] and [[JanakaKanyadanamSita]].
+## Balakanda
+- [[SitaKalyanam]]
+  - [[JanakaKanyadanamSita]]

@@ -9,4 +9,4 @@ status: "draft"
 
 # contents
 
-This legacy note is a placeholder for page contents. The maintained index is [INDEX](../INDEX.md).
+- [INDEX](../INDEX.md)

@@ -10,13 +10,9 @@ related: ["[[Manas]]", "[[Buddhi]]", "[[chitta]]", "[[NirvanaShatakam]]"]
 
 # Ahamkara
 
-Ahamkara is the ego-sense, the function that turns experience into "I" and "mine."
+Aham + kāra = "I-maker".
 
-In the inner instrument model, [[Manas]] considers, [[Buddhi]] decides, [[chitta]] stores impressions, and Ahamkara claims ownership. [[NirvanaShatakam]] negates Ahamkara because the witnessing Self is not the same as the mental habit of ownership.
-
-## Related Concepts
-
-- [[Manas]]
-- [[Buddhi]]
-- [[chitta]]
-- [[NirvanaShatakam]]
+- Takes every experience and stamps it "I" / "mine".
+- Inner instrument: [[Manas]] considers → [[Buddhi]] decides → [[chitta]] stores → Ahamkara claims ownership.
+- मनो बुद्धिः अहङ्कारः चित्तानि नाहं → [[NirvanaShatakam]] verse 1.
+- The witness is not the owner.

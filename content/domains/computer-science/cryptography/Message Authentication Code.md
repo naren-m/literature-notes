@@ -8,16 +8,12 @@ status: "draft"
 related: ["[[HMAC]]", "[[Integrity]]", "[[Authentication]]"]
 ---
 
-# Message Authentication Code
+# Message Authentication Code (MAC)
 
-A message authentication code, or MAC, is a short tag that lets someone verify that a message came from a party with the shared secret and was not changed in transit.
+MAC = keyed hash. A hash seeded with a secret key both sides share.
 
-The MAC does not provide [[Confidentiality]]. Anyone may still read the message if it is sent in cleartext. Its job is [[Integrity]] and [[Authentication]]: the verifier recomputes the tag with the shared key and rejects the message if the tag does not match.
-
-[[HMAC]] is one common MAC construction that combines a hash function with a secret key.
-
-## Related
-
-- [[HMAC]]
-- [[Integrity]]
-- [[Authentication]]
+- Verifies both [[Integrity]] and identity ([[Authentication]]) of a message.
+- Three aspects: create the key → sign the hash → verify the MAC.
+- Verifier recomputes the tag with the same key. Mismatch → reject.
+- No [[Confidentiality]]. Message in cleartext is still readable by anyone.
+- [[HMAC]] = common construction: hash function + secret key.

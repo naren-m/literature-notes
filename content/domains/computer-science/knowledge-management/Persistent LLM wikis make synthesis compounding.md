@@ -11,17 +11,23 @@ related: ["[[LLM Wiki]]", "[[Unix philosophy]]", "[[Maintaining code base]]"]
 
 # Persistent LLM wikis make synthesis compounding
 
-An LLM becomes more useful as a knowledge partner when its work is written into a persistent wiki instead of disappearing into chat history or being recomputed from raw documents on every question.
+An LLM gets a lot more useful as a thinking partner when its work lands in a wiki that sticks around. Not lost in chat history. Not recomputed from raw documents every time you ask.
 
-In a pure retrieval workflow, each answer starts almost from zero. The system searches source material, extracts relevant fragments, and assembles a response for the immediate prompt. That can answer the current question, but the structure discovered during the answer is not necessarily preserved. The next subtle question may require the same synthesis again.
+## Retrieval starts from zero
 
-A maintained wiki changes the unit of accumulation. Sources still matter as evidence, but the reusable product is an interlinked set of notes: concepts, entities, comparisons, contradictions, summaries, and open questions. Each ingest can update the compiled layer. Each useful query can become a new note or improve an existing one. The knowledge base therefore becomes easier to navigate over time rather than merely larger.
+Pure retrieval works like this. Search the sources, pull out fragments, stitch an answer for this one prompt. It answers the question. But the structure it figured out along the way? Gone. Ask the next subtle question and it does the same synthesis all over again.
 
-This matters because the hard part of a personal knowledge system is usually maintenance, not storage. Cross-references, provenance, duplicate prevention, and stale-claim cleanup are exactly the kinds of bookkeeping that people often avoid and LLM agents can perform consistently when given a clear schema.
+## A wiki changes what accumulates
 
-The practical constraint is note type discipline. Source-bound material should stay in literature notes, unresolved exploration should stay in research notes, and only distilled ideas should become permanent notes. Without that boundary, the wiki grows quickly but becomes less trustworthy.
+Sources are still the evidence. But what you keep is the interlinked notes: concepts, entities, comparisons, contradictions, summaries, open questions. Every ingest updates that compiled layer. Every good query becomes a new note or makes an old one better. So the vault gets easier to navigate over time, not just bigger.
 
-## Related
+## Maintenance is the hard part
+
+Storage is cheap. Upkeep is what kills a personal knowledge system. Cross-references, provenance, killing duplicates, cleaning up stale claims. That's exactly the bookkeeping people skip, and an LLM agent will do it consistently if you give it a clear schema.
+
+## Keep the note types honest
+
+The catch is discipline. Source material stays in literature notes. Open exploration stays in research notes. Only distilled ideas become permanent notes. Lose that boundary and the wiki grows fast but you stop trusting it.
 
 - [[LLM Wiki]]
 - [[Unix philosophy]]

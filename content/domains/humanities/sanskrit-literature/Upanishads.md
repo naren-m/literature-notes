@@ -10,26 +10,19 @@ related: ["[[vedanta]]", "[[Moksha]]", "[[Prana]]", "[[Rudra]]", "[[India]]"]
 
 # Upanishads
 
-The Upanishads are philosophical teachings attached to the Vedic tradition. Their central question is the relationship between the individual self, or **Atman**, and ultimate reality, or **Brahman**.
+उपनिषद् = upa (near) + ni (down) + shad (sit). Sitting down near the teacher.
 
-Different Upanishads approach that question through dialogues, stories, meditation, ritual reflection, and analysis of consciousness. Important examples include the Brihadaranyaka, Chandogya, Katha, Taittiriya, Mundaka, and Mandukya Upanishads.
+One question: Atman vs Brahman. Me vs the whole.
 
-Common themes include:
+- Brihadaranyaka - "Aham Brahmasmi", "Neti Neti"
+- Chandogya - "Tat tvam asi"
+- Aitareya - "Prajnanam Brahma"
+- Isha - "Ishavasyam idam sarvam"
+- Katha - Nachiketa asks Yama about death. shreyas vs preyas.
+- Prashna - six questions. [[Prana]], Om, dream.
+- Mundaka - two birds on one tree. Para vs Apara vidya.
+- Mandukya - waking, dream, deep sleep.
 
-knowledge of the Self;
+Not one system. Advaita, Vishishtadvaita, Dvaita - all read the same texts, differently → [[vedanta]].
 
-the limits of ordinary perception and language;
-
-the relation between action, knowledge, and liberation; and
-
-the states of waking, dreaming, and deep sleep.
-
-The teaching is not a single uniform system. Later schools of [[vedanta]], including Advaita, Vishishtadvaita, and Dvaita, interpret the Upanishadic texts differently. Claims about dates, counts, translations, and historical influence should be checked against the specific text and edition.
-
-The Upanishads matter because they make self-knowledge and the nature of consciousness central philosophical problems. [[Moksha]] is the related idea of release from the cycle of suffering and rebirth.
-
-## Related
-
-- [[vedanta]]
-- [[Moksha]]
-- [[Prana]]
+Goal = [[Moksha]].

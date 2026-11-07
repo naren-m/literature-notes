@@ -10,12 +10,9 @@ related: ["[[Ayurvedam]]", "[[Prana]]", "[[NirvanaShatakam]]"]
 
 # Sapta Dhatu
 
-Sapta Dhatu refers to the seven bodily constituents used in Ayurveda to describe the maintained structure of the body.
+Seven dhātus = seven tissues that hold up the body. ([[Ayurvedam]])
 
-[[NirvanaShatakam]] names the sapta dhatus while negating bodily identity. In that context, the dhatus belong to the body and its support system, not to the witnessing Self.
-
-## Related Concepts
-
-- [[Ayurvedam]]
-- [[Prana]]
-- [[NirvanaShatakam]]
+- Dhātu = that which holds / supports (dhṛ).
+- Rasa, Rakta, Māṃsa, Medas, Asthi, Majjā, Śukra.
+- Related: [[Prana]]
+- na va sapta dhatur → [[NirvanaShatakam]]. Dhātus belong to the body, not to the witness.

@@ -10,14 +10,14 @@ related: ["[[Pythagorean Theorem]]", "[[Agni]]", "[[Sutra]]"]
 
 # Sulba Sutras
 
-The *Śulba Sūtras* are instruction texts for measuring and constructing Vedic fire altars. Their use of ropes, pegs, proportions, and shape transformations makes them important sources for the history of geometry.
+Sulba = rope. Geometry with rope and pegs, to build fire altars for [[Agni]].
 
-The texts describe squares, rectangles, circles, right angles, area-preserving transformations, and approximations such as the value of √2. The relation now called the [[Pythagorean Theorem]] also appears in this tradition.
+- Maths was not the goal. Accurate altar was the goal. Maths came out of it.
+- Written in [[Sutra]] form.
+- Baudhayana: "The diagonal of a rectangle produces by itself the same area as produced by its length and breadth together" → what we now call [[Pythagorean Theorem]]
+- √2 ≈ 1 + 1/3 + 1/(3×4) - 1/(3×4×34) = 1.4142156...
+- Right angle → rope with knots at 3:4:5
+- Square ↔ circle of same area. Shapes transformed, area preserved.
+- Main texts: Baudhayana, Apastamba, Katyayana, Manava
 
-The mathematics is practical. It exists to produce accurate ritual constructions, especially those connected with [[Agni]]. Claims about exact dates and priority should be checked against the individual Sulba texts and modern scholarship.
-
-## Related
-
-- [[Pythagorean Theorem]] - right-triangle relation
-- [[Agni]] - fire and altar context
-- [[Sutra]] - aphoristic instruction format
+Dates and "who was first" claims - check against the texts and scholarship.

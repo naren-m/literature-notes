@@ -11,14 +11,20 @@ related: ["[[Root of trust]]", "[[Zero-Trust]]", "[[Security Vulnerabilities]]"]
 
 # LoJax
 
-LoJax is a UEFI rootkit attack that shows why firmware belongs inside the security boundary.
+UEFI ROOTKIT.
 
-Unlike ordinary malware, a firmware implant can survive operating-system reinstallations because it lives below the OS. LoJax abused the legitimate LoJack/Computrace firmware persistence mechanism and redirected it toward attacker-controlled behavior.
-
-The durable lesson is that persistence below the operating system weakens ordinary detection and recovery assumptions. Secure Boot, firmware update controls, supply-chain trust, and a defensible [[Root of trust]] matter because the OS cannot fully protect itself from compromised firmware underneath it.
-
-## Related
-
-- [[Root of trust]]
-- [[Zero-Trust]]
-- [[Security Vulnerabilities]]
+- SEDNIT, a cyberattack group, used LoJax against governments in Europe. https://attack.mitre.org/groups/G0007/
+- Built on a legit product: Absolute Software LoJack, originally Computrace. Lets you locate a stolen computer. Preinstalled by many vendors, users didn't know. https://bit.ly/3ACevzG
+- LoJack lives in UEFI firmware and "calls home" over the network.
+- Why it hurts:
+  - UEFI is network enabled
+  - LoJack is persistent → survives OS reinstall
+  - real product → most anti-virus and scanners don't flag it
+- Absolute Software's strategy = "Security by obscurity". Rarely enough. They knew about the problems in 2009 and downplayed them for years.
+- What SEDNIT did with it:
+  - dump system information to a file
+  - redirect data from the device to an attacker server
+  - save the image of the system firmware
+  - write a malicious module into the image, save it back to SPI flash
+- Important: Secure Boot may not prevent this attack.
+- Lesson: firmware is inside the security boundary. The OS can't protect itself from what runs beneath it → [[Root of trust]], [[Zero-Trust]], [[Security Vulnerabilities]].

@@ -10,10 +10,12 @@ related: ["[[charaka_samhitha]]", "[[AyurvedicRemedies]]", "[[Prana]]", "[[Vayu]
 
 # Ayurvedam
 
-Āyurveda is a traditional Indian health system organized around maintaining balance in the body, mind, and daily life.
+Āyuḥ + Veda = knowledge of life.
 
-Its central model describes three *doṣas*: vāta, pitta, and kapha. It also uses the five elements, individual constitution (*prakṛti*), current imbalance (*vikṛti*), diet, daily routine, seasonal routine, medicines, and clinical treatment.
-
-The tradition is preserved in texts such as the [[charaka_samhitha]], the *Suśruta Saṃhitā*, and *Aṣṭāṅga Hṛdaya*. It also describes specialized areas such as internal medicine, surgery, pediatrics, toxicology, and rejuvenation.
-
-This note describes a traditional framework, not medical advice. The safety and effectiveness of any remedy require advice from a qualified clinician and evidence for the specific treatment.
+- Health = balance. Disease = imbalance.
+- Tridoṣa: Vāta (air + space), Pitta (fire + water), Kapha (earth + water).
+- Built on the five elements. Vāta ↔ [[Vayu]] / [[Prana]].
+- Prakṛti = your nature. Vikṛti = your current state. Goal: bring vikṛti back to prakṛti.
+- Tools: diet, dinacharya (daily routine), ṛtucharya (seasonal routine), medicine.
+- Bṛhat-trayī: [[charaka_samhitha]] (internal medicine), Suśruta Saṃhitā (surgery), Aṣṭāṅga Hṛdaya.
+- Home remedies → [[AyurvedicRemedies]]. Traditional framework, not medical advice.

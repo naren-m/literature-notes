@@ -10,12 +10,11 @@ related: ["[[CIA Triad]]", "[[STRIDE]]", "[[Tampering]]", "[[Hashing]]", "[[Mess
 
 # Integrity
 
-Integrity is the property that data remains correct, unmodified, and trustworthy.
+Data is what it says it is. Unchanged, trustworthy.
 
-In the [[CIA Triad]], integrity is the guarantee that a system can detect unauthorized change. In [[STRIDE]], [[Tampering]] is the primary threat against integrity.
-
-## Related Concepts
-
-- [[Hashing]] - detects whether content has changed
-- [[Message Authentication Code]] - keyed integrity check for a message
-- [[Digital signatures]] - integrity plus sender verification
+- The I in [[CIA Triad]]. Can the system detect unauthorized change?
+- [[STRIDE]] → [[Tampering]] is the attack on it.
+- How do we check?
+  - [[Hashing]] → did the fingerprint change?
+  - [[Message Authentication Code]] → hash + shared key
+  - [[Digital signatures]] → integrity + who sent it

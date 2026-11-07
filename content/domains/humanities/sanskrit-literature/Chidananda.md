@@ -10,13 +10,9 @@ related: ["[[NirvanaShatakam]]", "[[shiva]]", "[[Moksha]]", "[[Vikalpa]]"]
 
 # Chidananda
 
-Chidananda means consciousness-bliss. It points to awareness as self-luminous and not dependent on body, senses, or mental states.
+Chit + Ānanda = consciousness + bliss.
 
-In [[NirvanaShatakam]], each verse ends with the refrain "chidananda rupah shivo'ham." The repeated structure makes Chidananda the positive statement that remains after the negations.
-
-## Related Concepts
-
-- [[NirvanaShatakam]]
-- [[shiva]]
-- [[Moksha]]
-- [[Vikalpa]]
+- Self-luminous. Does not need body, senses or mind to shine.
+- Every verse of [[NirvanaShatakam]] ends: chidananda rupah shivo'ham shivo'ham.
+- Five lines of "na" (not this, not this). Then one line of what remains → Chidananda.
+- Links: [[shiva]], [[Moksha]], [[Vikalpa]]

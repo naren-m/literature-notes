@@ -9,6 +9,7 @@ status: "draft"
 
 # Multifernet
 
-MultiFernet supports key rotation for Fernet-encrypted data.
+MultiFernet = key rotation for Fernet.
 
-New data can be encrypted with the current key while older keys remain available to decrypt data created before the rotation. The code example is [MultiFernet Example](Cryptography/Module4/multi/multi.py).
+- Encrypt new data with the current key. Old keys stay around to decrypt old data.
+- Example: look at [MultiFernet Example](Cryptography/Module4/multi/multi.py)

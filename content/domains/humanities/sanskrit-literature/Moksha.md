@@ -10,14 +10,10 @@ related: ["[[Dharma]]", "[[karma]]", "[[Purushartha]]", "[[NirvanaShatakam]]", "
 
 # Moksha
 
-Moksha is liberation from mistaken identity and bondage. In Vedantic usage, it is not just a better experience, but freedom from taking the limited body-mind as the Self.
+Freedom from mistaken identity. Not a better experience.
 
-[[NirvanaShatakam]] even negates moksha as something possessed by the empirical "me." The verse points beyond achievement language toward the recognition expressed as "shivo'ham."
-
-## Related Concepts
-
-- [[Purushartha]]
-- [[Dharma]]
-- [[karma]]
-- [[Vikalpa]]
-- [[NirvanaShatakam]]
+- Bondage = taking this body-mind as "me".
+- Last of the 4 [[Purushartha]]: [[Dharma]], Artha, Kāma, Moksha.
+- Beyond [[karma]] and [[Vikalpa]].
+- na dharmo na chartho na kamo na mokshaha → [[NirvanaShatakam]] verse 3.
+- Even moksha is negated. Who is the "me" that gets liberated? → shivo'ham.

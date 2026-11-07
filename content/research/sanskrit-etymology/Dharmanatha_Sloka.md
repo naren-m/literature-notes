@@ -2,7 +2,7 @@
 title: "Dharmanātha Śloka — Six Qualities of an Ideal Husband"
 date: "2026-05-05"
 type: "research"
-category: "Legacy/Pages"
+category: "sanskrit-lit/Niti"
 tags: ["sanskrit", "sloka", "etymology", "niti", "dharma", "roots", "husband", "relationship", "krishna", "rama"]
 status: "draft"
 ---

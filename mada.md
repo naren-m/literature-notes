@@ -10,6 +10,8 @@ related: ["[[Bantu reethi Kolu]]"]
 
 # Mada
 
-**Mada** means arrogance or pride. It is the state of being carried away by status, ability, possession, or success.
+Mada = arrogance, pride.
+Being carried away by what you have: status, ability, possessions, success.
 
-In [[Bantu reethi Kolu]], mada appears among the tendencies Hanuman is described as defeating.
+Comes in the list: kaama, krodha, moha, mada, matsaryam.
+In [[Bantu reethi Kolu]], Hanuman beats mada and the rest down to the ground.

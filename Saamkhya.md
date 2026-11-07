@@ -9,9 +9,6 @@ status: "draft"
 
 # Sāṃkhya
 
-This note records an interpretation of **Sāṃkhya** as the effort to realize truth:
-
-- *sat* → truth
-- *khyā* → to know or make known
-
-The etymology needs to be checked against a reliable Sanskrit source.
+- to realize truth is Saamkhya
+	- Sath -> truth
+	- Khya -> to realize

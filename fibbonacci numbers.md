@@ -9,16 +9,15 @@ status: "draft"
 
 # fibbonacci numbers
 
-The Fibonacci sequence is associated with *Liber Abaci* (1202 CE), where it is used to describe rabbit population growth.
+Written in Liber Abaci, 1202 CE, defined as growth in number of rabbits
 
-This note also records earlier or related Indian references:
-
-- [[Hemachandra numbers]], associated with Hemachandra around 1150 CE;
-- a rule in *Chandonushasanam* described as the sum of the previous two numbers; and
-- earlier references connected to Pingala and Bharata's *Natya Sastra*.
-
-Source: https://www.youtube.com/shorts/gB9WENCKw5Q
-
-The historical priority and the exact Sanskrit citations still need verification.
+- [[Hemachandra numbers]] defined by [[Hemachnadra]]
+- around 50 years before fibbonacci, 1150 CE
+- in Chandonushasanam
+	- Ankaantyopaantyayogah pare pare matranam,
+	- translates to sum of last two numbers
+- Much before Hemachandra, in Pingala's and Bharata's Natya sastra.
+- much before him by [[Pingala numbers]] by [[Pingala]]
+- Source https://www.youtube.com/shorts/gB9WENCKw5Q
 
 ![[Screenshot 2026-05-21 at 12.35.26 AM.png]]

@@ -9,6 +9,8 @@ status: "draft"
 
 # Leaky abstraction
 
-A leaky abstraction is an abstraction that exposes some of the complexity it was meant to hide.
-
-Users then need to understand implementation details to use the abstraction correctly. Joel Spolsky popularized the term and summarized the idea as: all non-trivial abstractions leak to some degree.
+- A design flaw where an abstraction, meant to simplify and hide the underlying complexity of the system, fails to completely do so.
+- Some implementation details get exposed, `leaking` through the abstraction, forcing users to know the underlying complexity to use it well.
+- Concept popularized by Joel Spolsky, who coined the term.
+- Law of leaky Abstractions
+  - All non-trivial abstractions, to some degree, are leaky.

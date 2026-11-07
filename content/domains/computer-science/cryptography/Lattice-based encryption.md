@@ -10,10 +10,53 @@ related: ["[[Encryption]]", "[[Public Key]]", "[[Key exchange]]"]
 
 # Lattice-based encryption
 
-Lattice-based cryptography builds public-key systems from hard problems on mathematical lattices, which are regular sets of points in high-dimensional space.
+Lattice = regular grid of points, a pattern repeated forever. Like tiles on a bathroom floor.
 
-The construction hides a secret using a public problem with carefully controlled noise. The intended user can remove the noise with the private key, while an attacker must solve the underlying lattice problem.
+```
+  •       •       •       •       •
+      •       •       •       •       •
+  •       •       •       •       •
+      •       •       •       •       •
+```
 
-Lattice-based schemes are important in post-quantum cryptography because no practical quantum shortcut comparable to Shor's algorithm is known for the hard lattice problems used by current designs. This is a security assumption, not a proof that every lattice construction is safe.
+Hard problem: find the shortest vector in the lattice.
 
-The main operational trade-off is size. Lattice-based keys, ciphertexts, and signatures can be larger than their RSA or elliptic-curve equivalents, which affects bandwidth, storage, and protocol compatibility.
+```
+2D lattice:    Easy (you can see it)
+3D lattice:    Still manageable
+500D lattice:  Astronomically hard
+```
+
+- Shortest Vector Problem (SVP), Learning With Errors (LWE).
+- Can't visualize 500 dimensions. Grid is slightly "noisy". More paths than atoms in the universe.
+- No known shortcut. Not classical, not quantum.
+
+[[Encryption]] idea:
+
+```
+Private Key:  Clean lattice structure
+Public Key:   Noisy version of that structure
+Encryption:   Hide message in the noise
+Decryption:   Use clean structure to remove noise → reveal message
+```
+
+Publish the noisy one as the [[Public Key]]. Only you know the clean one.
+
+| Problem Type       | Quantum Attack                                    |
+| ------------------ | ------------------------------------------------- |
+| Factoring (RSA)    | Shor's algorithm finds the structure → **Broken** |
+| Discrete log (ECC) | Shor's algorithm finds the structure → **Broken** |
+| Lattice problems   | No known quantum shortcut → **Safe**              |
+
+- RSA/ECC = needle in a haystack, but quantum computers have a magnet.
+- Lattice = needle in a haystack in 500 dimensions. No magnet works here.
+- "Safe" = assumption, not proof. No shortcut *known*.
+
+Trade-off: bigger keys and signatures.
+
+| Scheme              | Public Key + Signature |
+| ------------------- | ---------------------- |
+| Ed25519 (ECC)       | ~96 bytes              |
+| ML-DSA-44 (Lattice) | ~3,800 bytes           |
+
+Quantum safety costs extra bytes → bandwidth, storage, protocol compatibility. Matters for [[Key exchange]] and signatures.

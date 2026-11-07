@@ -9,6 +9,9 @@ status: "draft"
 
 # Akshara
 
-Akshara is traditionally explained as **that which does not perish**: *na kṣarati iti akṣaraḥ*.
+न क्षराथि इथि अक्षराह
 
-In language, an akṣara is also a basic written or spoken unit. The note connects this unit to the way language becomes a building block of knowledge.
+Akshara -> Na Ksharathi ithi Aksharaha = one that cannot be destroyed
+
+- Akshara is the entity that has no end.
+- Building block of language and inturn building blocks of Knowledge.

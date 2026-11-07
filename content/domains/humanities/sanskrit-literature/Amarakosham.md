@@ -10,15 +10,12 @@ related: ["[[Ashtadhyayi]]", "[[Niruktha]]"]
 
 # Amarakosham
 
-*Amarakośa* is a Sanskrit lexicon arranged as memorisable verses. It is also known as *Nāmaliṅgānuśāsana* because it records names and grammatical gender.
+Sanskrit thesaurus in verse. Amarasimha.
 
-The work groups synonyms by subject instead of presenting them as an alphabetic dictionary. Its three main sections cover celestial subjects, earthly subjects, and general words.
-
-Its value is both practical and cultural: students use it to build Sanskrit vocabulary, while the grouped synonyms preserve distinctions in the older language.
+- Also called *Nāmaliṅgānuśāsana* = names + their gender.
+- Synonyms grouped by subject, not alphabet.
+- 3 kāṇḍas: Svarga (heaven), Bhūmi (earth), Sāmānya (general).
+- Verse form → memorise it, vocabulary comes with it.
+- Words = [[Niruktha]]. Grammar = [[Ashtadhyayi]]. Vocabulary = Amarakosham.
 
 Reference: https://ashtadhyayi.com/amara
-
-## Related
-
-- [[Niruktha]] - word origins and interpretation
-- [[Ashtadhyayi]] - Sanskrit grammar

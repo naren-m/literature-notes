@@ -10,8 +10,11 @@ related: ["[[Encryption]]", "[[Block Cipher]]", "[[Confidentiality]]"]
 
 # Initialization Vector
 
-An initialization vector (IV) is a value supplied to some encryption modes to make the encryption of the same plaintext depend on fresh input.
+IV = fresh input to the cipher, so same plaintext → different ciphertext.
 
-An IV is not a secret key. Its required properties depend on the encryption mode: it may need to be unique, unpredictable, or both. Reusing an IV when a mode requires uniqueness can expose plaintext relationships or break security.
-
-The IV is part of the encrypted message's protocol format and must be handled according to the mode's specification.
+- Not a key. Not a secret.
+- Predictability is what adversaries feed on. Patterns leak → [[Security Vulnerabilities]].
+- Mode decides the rule: unique, unpredictable, or both.
+- Reuse an IV where the mode wants unique → plaintext relationships leak. Security gone.
+- IV travels with the ciphertext. Handle it exactly as the mode's spec says.
+- Used by [[Block Cipher]] modes of [[Encryption]] → protects [[Confidentiality]].

@@ -10,14 +10,14 @@ related: ["[[YogaSutras]]", "[[karma]]", "[[Dharma]]", "[[Apsaras]]", "[[Dharman
 
 # chitta
 
-Chitta is the mind-stuff or mental field that stores impressions and conditions perception.
+చేసిన పనిని గుర్తు పెట్టుకునేది చిత్తం - that which remembers deeds done.
 
-It is central to [[YogaSutras]], where thought patterns, memory, and conditioning shape experience. It also connects to [[karma]], [[Dharma]], and source-specific notes like [[Apsaras]], [[Dharmanatha_Sloka]], and [[NirvanaShatakam]].
+Mind-stuff. Impressions sit here and color what we see.
 
-## Related Concepts
+- [[YogaSutras]] 1.2 - yogas chitta vritti nirodha
+- [[Manas]] - thinks, [[Buddhi]] - decides, [[Ahamkara]] - "I did it", chitta - remembers
+- [[NirvanaShatakam]]: mano buddhi ahankara chittani naaham - not these four
+- Impressions of [[karma]] stored in chitta
+- Chitta sudhi - alochana undadhi.
 
-- [[YogaSutras]]
-- [[karma]]
-- [[Nada]]
-- [[Dharma]]
-- [[NirvanaShatakam]]
+Also: [[Nada]], [[Dharma]], [[Apsaras]], [[Dharmanatha_Sloka]]

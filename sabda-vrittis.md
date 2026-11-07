@@ -9,11 +9,11 @@ status: "draft"
 
 # sabda-vrittis
 
-**Śabda-vṛtti** means the function or power by which a word conveys meaning.
+**sabda-vṛtti** = the "functions" or powers of a word. How a word carries meaning.
 
 ## The three [[sabda]]-vṛttis
 
-A word in this tradition is said to carry meaning through three functions:
+Three of them:
 
 **1. अभिधा — _abhidhā_ — the denotative / primary function.** The word's conventional, direct, dictionary meaning. _gauḥ_ → the animal "cow." The meaning delivered is called the **vācyārtha** ("expressed meaning") or _mukhyārtha_ (primary meaning). Mammaṭa's definition (Kāvyaprakāśa 2.6): _sākṣāt saṅketitaṃ yo'rtham abhidhatte sā abhidhā_ — "abhidhā is that which directly expresses the conventionally-agreed-upon meaning."
 
@@ -31,4 +31,5 @@ The standard illustration: a young woman tells a traveler, "Wander freely, noble
 2. **Abhinavagupta**, _Dhvanyāloka-locana_ commentary on Ānandavardhana (10th–11th c.)
 3. **Mammaṭa**, _Kāvyaprakāśa_ (11th c.) — the standard textbook; the three-vṛtti framework is laid out crisply in its **Ullāsa 2**
 
-Viśvanātha's *Sāhityadarpaṇa* (14th c.) is another textbook that restates the doctrine. Bhartṛhari's *Vākyapadīya* (c. 5th c.) provides an earlier philosophy-of-language context.
+- Viśvanātha's _Sāhityadarpaṇa_ (14th c.) — the other standard textbook
+- Bhartṛhari's _Vākyapadīya_ (c. 5th c.) — earlier philosophy-of-language base

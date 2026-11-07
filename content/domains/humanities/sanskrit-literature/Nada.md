@@ -9,28 +9,40 @@ related: ["[[Sangitaratnakaram]]", "[[Brihadesi]]", "[[speech]]", "[[Prana]]", "
 ---
 
 # Nada
+నకారం ప్రాణనామనం డకారమణలంవిధు:
 
-**Nāda** is the concept of sound used in Indian music and philosophical writing. Some traditions describe it as arising from the relation of **prāṇa**, vital energy, and **agni**, fire or energy.
+జాత: ప్రాణాగ్ని సంయోగా త్తేననాదో అభిధీయతే 1.3.6
 
-Texts such as the [[Sangitaratnakaram]] and [[Brihadesi]] distinguish between **āhata nāda**, produced by an audible contact or vibration, and **anāhata nāda**, described as unstruck or inward sound.
+అహాతోనాహతశ్చేతి  ద్విధానాదోనిగద్యతే
 
-Nāda is a technical idea within music theory and should not be treated as identical to the entire modern physics category of sound. The exact interpretation varies by text.
+సో అ యాంప్రకాశ తే పిండేతసమాత్పిండో అభిధేయతే 1.2.3
 
-## Source evidence
+praanaanala samyogamu valana
 
-The original note recorded these verses and numbering. The transcription and translation still need verification.
+- tyagaraja swamy one of the krithis
+  - nabhi hruth kamala naasadula yandhu.
+    - [[speech]] types
+      - Para.          -  Supress and dont think ? This is wrong,  para is out of the world.
+      - Pasyanthi. - See it in mind
+      - Madhyama - Think of it in mind
+      - vaikhari      - Speak out loud
 
-> నకారం ప్రాణనామనం డకారమణలంవిధు:
-> జాత: ప్రాణాగ్ని సంయోగా త్తేననాదో అభిధీయతే 1.3.6
+Nåda = [[Prana]] + [[Agni]] (Anala)
 
-> అహాతోనాహతశ్చేతి ద్విధానాదోనిగద్యతే
-> సో అ యాంప్రకాశ తే పిండేతసమాత్పిండో అభిధేయతే 1.2.3
+Defined in [[Sangitaratnakaram|Sangitaratnakara]] 1.3.6
 
-- [Recorded video source](https://www.youtube.com/watch?v=QBiDqqXtR-c)
-- [Additional source to verify](https://www.youtube.com/watch?v=gfSFt_ul4Ag)
+[[Brihadesi]] also defines what Nada is
 
-## Related
+Nåda is not Sound.
 
-- [[Sangitaratnakaram]]
-- [[Brihadesi]]
-- [[speech]]
+Nada is of two types.
+  - Ahata and
+  - Anahata Nadas (Non Vibratary sound is this right ?)
+
+There are called Paribhashika Padas of Sangita Shastras.
+
+Tyagaraja Krithis have good usage of the phylosophy of [[Carnatic music]]
+
+Source: https://www.youtube.com/watch?v=QBiDqqXtR-c
+
+TODO: https://www.youtube.com/watch?v=gfSFt_ul4Ag

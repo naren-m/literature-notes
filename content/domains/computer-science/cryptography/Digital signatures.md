@@ -10,8 +10,28 @@ related: ["[[Hashing]]", "[[Encryption]]", "[[Public Key]]", "[[Confidentiality]
 
 # Digital signatures
 
-A digital signature lets a receiver verify the origin and [[Integrity]] of a message using asymmetric cryptography.
+Digital Signature = [[Hashing]] + [[Encryption]] (encrypted with Private key, decrypted with [[Public Key|Public key]])
 
-The sender signs a digest of the message with a private key. The receiver uses the matching [[Public Key]] to verify the signature against a newly calculated digest.
+- Asymmetric encryption.
+- Sender creates the signature, receiver verifies it.
+- Verifies identity of the sender + [[Integrity|integrity]] of the message.
+- Does NOT provide [[Confidentiality|Confidentiality]]
 
-Digital signatures do not provide [[Confidentiality]]. They help defend against [[Spoofing]], [[Tampering]], and [[Repudiation]] when the key and identity binding are managed correctly.
+Defends against several [[STRIDE]] threats:
+- [[Spoofing]]
+- [[Tampering]]
+- [[Repudiation]]
+- [[Information Disclosure|Information disclosure]]* (?) signature does not hide the message
+
+Only as good as the key and identity binding.
+
+## Sender
+1. Create a hash of the message
+2. Encrypt the hash with the private key. Result = digital signature.
+3. Send the signature to the receiver with the message
+
+## Receiver
+Before using the plaintext, verify the signature.
+1. Hash the plaintext (hash 1)
+2. Decrypt the signature and extract the hash (hash 2)
+3. Compare. Same → signature verified.

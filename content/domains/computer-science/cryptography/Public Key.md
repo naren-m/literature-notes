@@ -10,11 +10,8 @@ related: ["[[Cryptography]]", "[[Digital signatures]]", "[[Encryption]]"]
 
 # Public Key
 
-A public key is the shareable half of an asymmetric key pair.
+Shareable half of an asymmetric key pair. Private half stays with you.
 
-In [[Cryptography]], it is used to encrypt data for the matching private key holder or to verify [[Digital signatures]] created with the corresponding private key.
-
-## Related Concepts
-
-- [[Encryption]]
-- [[Digital signatures]]
+- Encrypt with public key → only the private key holder can read it. [[Encryption]]
+- Sign with private key → anyone with the public key can verify. [[Digital signatures]]
+- [[Cryptography]]

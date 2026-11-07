@@ -11,20 +11,26 @@ related: ["[[Side Channel Attack]]", "[[Rowhammer]]", "[[Cryptography]]"]
 
 # Cache prefetching
 
-Cache prefetching is a performance technique where hardware or software brings data or instructions into cache before the processor asks for them.
+Bring data or instructions into cache before the processor asks for them. Goal = hide memory latency.
 
-The benefit is latency hiding. If the prefetcher predicts correctly, the data is already nearby when execution needs it, so the program avoids a slower memory access. If it predicts poorly, the prefetch can waste bandwidth, evict useful data, or expose access patterns.
+- Data vs instruction prefetching. Data is harder, access patterns are less regular. (Intel 8086 had a 6-byte instruction prefetch, Motorola 68000 had 4.)
+- Hardware prefetching: processor watches the access stream, guesses the next few elements, pulls them in.
+- Software prefetching: compiler inserts extra "prefetch" instructions.
+- Bad guess → wasted bandwidth, useful data evicted.
 
-Good prefetching balances three properties:
+## Metrics
 
-Coverage: how many would-be cache misses are avoided.
-Accuracy: how many prefetches are actually used.
-Timeliness: whether the data arrives early enough to help but not so early that it is evicted.
+- Coverage = cache misses eliminated by prefetching / total cache misses
+- Accuracy = misses eliminated / (useless prefetches + misses eliminated)
+  - Perfect accuracy ≠ zero misses. Prefetched blocks can themselves cause new misses.
+- Timeliness = how early the block arrives vs when it is actually used.
+  - Loop iteration = 3 cycles, prefetch = 12 cycles → start the prefetch 12/3 = 4 iterations ahead.
 
-The security connection is that caches make behavior observable. Timing differences from cache hits and misses can become inputs to a [[Side Channel Attack]], even when the original optimization was only meant to improve performance.
+## Security angle
 
-## Related
+Cache hit vs miss = timing difference = something an attacker can measure → [[Side Channel Attack]]. A performance trick becomes a leak.
 
-- [[Side Channel Attack]]
 - [[Rowhammer]]
 - [[Cryptography]]
+
+Source: https://en.wikipedia.org/wiki/Cache_prefetching

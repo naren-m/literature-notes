@@ -11,15 +11,13 @@ related: ["[[Encryption]]", "[[Block Cipher]]", "[[ENTROPY]]", "[[Quantum attack
 
 # Grover's algorithm weakens symmetric security quadratically
 
-Grover's algorithm gives quantum computers a square-root speedup for brute-force search, not a complete break of symmetric encryption.
+Grover gives a quantum computer a square-root speedup on brute-force search. That's it. It does not break symmetric encryption.
 
-For an n-bit key, exhaustive search classically costs about 2^n trials. Grover's algorithm lowers that to about 2^(n/2) quantum search steps. That is a real reduction, but it is very different from the structural break Shor's algorithm gives against RSA and ECC.
+Simple math. n-bit key. Classical brute force is about 2^n tries. Grover brings it down to about 2^(n/2) quantum search steps. A real reduction. But nothing like what Shor does to RSA and ECC. Shor exploits structure and breaks them outright. Grover just searches faster. (More on that in [[Quantum attacks depend on exploitable mathematical structure]].)
 
-The practical result is that key sizes matter. AES-128 has a quantum brute-force work factor roughly comparable to 64-bit classical security, while AES-256 restores the margin to roughly 128-bit quantum search. This is why strong symmetric [[Encryption]] can remain viable in a post-quantum world when configured with sufficient key length.
+So what do we do? Use bigger keys. AES-128 under Grover is roughly 64-bit classical security. AES-256 brings the margin back to roughly 128-bit quantum search.
 
-## Related
+That's why strong symmetric [[Encryption]] survives the post-quantum world. Just pick enough key length.
 
-- [[Encryption]]
 - [[Block Cipher]]
 - [[ENTROPY]]
-- [[Quantum attacks depend on exploitable mathematical structure]]

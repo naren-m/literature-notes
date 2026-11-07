@@ -10,6 +10,6 @@ related: ["[[DesigningDistributedSystems.pdf]]"]
 
 # DesigningDistributedSystems
 
-This note points to the reference material for designing distributed systems: [[DesigningDistributedSystems.pdf]].
+[[DesigningDistributedSystems.pdf]]
 
-The note does not yet contain a distilled concept from that material.
+- TODO: distill.

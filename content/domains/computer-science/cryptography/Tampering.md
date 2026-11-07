@@ -10,6 +10,6 @@ related: ["[[Tampering]]", "[[Integrity]]"]
 
 # Tampering
 
-Tampering is an unauthorized change to data, code, or system state.
+Unauthorized modification of data, code or system state.
 
-It compromises [[Integrity]] because the receiver can no longer trust that the data is unchanged.
+- Receiver can't trust the data is unchanged → compromise of [[Integrity]].

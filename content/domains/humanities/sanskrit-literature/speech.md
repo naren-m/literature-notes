@@ -10,21 +10,22 @@ related: ["[[Nada]]", "[[HowToSpeakLikeHanuma]]", "[[tyagaraja swamy]]"]
 
 # speech
 
-Some Indian language and music traditions describe speech in four layers:
+- Para.          -  Supress and dont think ? This is wrong,  para is out of the world.
+- Pasyanthi. - See it in mind
+- Madhyama - Think of it in mind
+- vaikhari      - Speak out loud
 
-**Parā**: the most subtle or unexpressed level;
+- [[Nada]]
 
-**Paśyantī**: meaning or intention taking shape;
+Para, pasyanthi, madhyama, Vaikhari
 
-**Madhyamā**: thought formulated internally; and
+  - [[tyagaraja swamy]] had sung this
+    - nabhi hruth kamala naasadula yandhu.
+  - Muthu swamy dikshitar says
+    - Paradi chatvari vagathmaka pranava swaroopa vakrathundam
+  - Lalita sahasranamanm
+  - [[HowToSpeakLikeHanuma]]
 
-**Vaikharī**: spoken, audible expression.
-
-The four-layer model connects thought, meaning, and spoken language. It is a traditional framework, not a modern measurement of separate physical speech signals.
-
-The model appears in source-specific discussions of [[Nada]] and in references to [[tyagaraja swamy]]. [[HowToSpeakLikeHanuma]] applies the related practical question of how speech should be delivered.
-
-## Sources
-
+## Source
 - [Tyagaraja Ramayana](https://www.youtube.com/watch?v=tpe2uvuLWJU)
-- [Four layers of speech or music](https://youtu.be/tpe2uvuLWJU?t=687)
+- 4 [Layers of speech or Music](https://youtu.be/tpe2uvuLWJU?t=687)

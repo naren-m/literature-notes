@@ -10,12 +10,8 @@ related: ["[[Indology]]", "[[India]]", "[[Aryan Invasion Theory]]"]
 
 # J Sai Deepak
 
-J Sai Deepak is a lawyer and author whose public talks often connect Indian history, law, constitutional questions, and civilizational identity.
+Lawyer, author. Talks connect Indian history, law, constitution and civilizational identity.
 
-In this vault, references to him are usually useful as pointers into [[Indology]], Indian historiography, and debates about how [[India]] is represented in colonial, postcolonial, and contemporary narratives.
-
-## Related
-
-- [[Indology]]
-- [[India]]
+- Pointer into [[Indology]] and Indian historiography.
+- How [[India]] is represented: colonial vs postcolonial vs contemporary narratives.
 - [[Aryan Invasion Theory]]

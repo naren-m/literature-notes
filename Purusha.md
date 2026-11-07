@@ -9,10 +9,8 @@ status: "draft"
 
 # Purusha
 
-This note records an etymological explanation of **purusha**:
+#vyuthpathi
 
-- *pura* means a city;
-- the body is described as a city of the senses; and
-- the awareness within that city is called *purusha*.
-
-The Sanskrit derivation still needs to be checked against a reliable source.
+- Puraou shete, ithi saha purusha
+- Pura is City, body is city of senses
+- Pure awareness in that city is called purusha

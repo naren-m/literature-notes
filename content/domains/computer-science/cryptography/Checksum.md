@@ -10,8 +10,18 @@ related: ["[[Integrity]]", "[[Hashing]]"]
 
 # Checksum
 
-Checksums are small values used to detect accidental changes to data.
+Checksum = lightweight hash. Highly performant and insecure.
 
-They are useful after compression, network transmission, file transfer, or another data transformation. The receiver calculates the checksum again and compares it with the original value. A mismatch shows that the data changed.
+Checksum → [[Integrity]]
 
-A checksum is not a security control. An attacker who can change the data can usually change the checksum too. Use a [[Message Authentication Code]], a digital signature, or a cryptographic digest delivered through a trusted channel when an attacker is part of the threat model.
+Not every target of hashing needs a security-level hash like SHA-256.
+
+LOST BITS. Bits lost during some transformation is the frequent scenario for checksums:
+- Compressing / decompressing
+- Network transmission
+- File transfer
+- Data transformation
+
+No attacker in these use cases. But [[Integrity]] is still required. MD5 should be enough.
+
+[[Hashing]] is different from Checksum. An attacker who can change the data can change the checksum too. Attacker in the threat model → [[Message Authentication Code]], digital signature, or a digest delivered over a trusted channel.

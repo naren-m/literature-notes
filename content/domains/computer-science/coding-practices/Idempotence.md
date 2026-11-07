@@ -11,13 +11,12 @@ related: ["[[Test Driven Dev]]", "[[Testing Principles]]", "[[DesigningDistribut
 
 # Idempotence
 
-An operation is idempotent when running it more than once has the same durable effect as running it once.
+Run it once or run it ten times → same result.
 
-This matters in software because retries are unavoidable. Networks fail, jobs restart, and users resubmit requests. If an operation is idempotent, the system can safely repeat it without creating duplicate side effects such as double charges, duplicate records, or inconsistent state.
-
-Idempotence is therefore a reliability property, not just a mathematical curiosity. It makes systems easier to test, reason about, and recover after partial failure.
-
-## Related
+- Retries are unavoidable. Networks fail, jobs restart, users click submit twice.
+- Idempotent op = safe to retry. No double charges, no duplicate records.
+- Reliability property, not a math curiosity.
+- Easier to test, easier to reason about, easier to recover after partial failure.
 
 - [[Test Driven Dev]]
 - [[Testing Principles]]

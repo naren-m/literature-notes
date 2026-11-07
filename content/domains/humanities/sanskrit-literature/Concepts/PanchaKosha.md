@@ -10,14 +10,9 @@ related: ["[[Prana]]", "[[Manas]]", "[[Buddhi]]", "[[Chidananda]]", "[[NirvanaSh
 
 # Pancha Kosha
 
-Pancha Kosha means the five sheaths through which the embodied person is commonly understood: physical, vital, mental, intellectual, and bliss sheaths.
+Five sheaths. Body → breath → mind → intellect → bliss.
 
-In [[NirvanaShatakam]], the line "na va pancha koshah" negates identification with these sheaths. The point is that the Self is not any layer of body, breath, mind, intellect, or experienced bliss.
-
-## Related Concepts
-
-- [[Prana]] - vital-breath layer
-- [[Manas]] - mental layer
-- [[Buddhi]] - intellectual layer
-- [[Chidananda]] - consciousness-bliss beyond the sheaths
-- [[Upanishads]] - source context for the kosha model
+- Annamaya, Prāṇamaya ([[Prana]]), Manomaya ([[Manas]]), Vijñānamaya ([[Buddhi]]), Ānandamaya.
+- Model comes from the [[Upanishads]].
+- na va sapta dhatur na va pancha koshah → [[NirvanaShatakam]] verse 2.
+- Even the bliss sheath is a sheath. Not the Self. → [[Chidananda]]

@@ -24,19 +24,14 @@ Said to [govinda bhagavathpadulu](https://youtu.be/C9XlxIzbvZ4?t=2186)
 
 ## Concept Map
 
-Nirvana Shatakam uses repeated negation to separate the Self from several layers of identity:
+Not this, not this. What remains → chidananda rupah shivo'ham.
 
-Inner instrument: [[Manas]], [[Buddhi]], [[Ahamkara]], and [[chitta]]
-
-Senses and expression: [[eye]], [[speech]], and the indriyas
-
-Elements and vital functions: [[Agni]], [[Vayu]], [[Prana]], and [[PanchaVayu]]
-
-Body and sheaths: [[SaptaDhatu]] and [[PanchaKosha]]
-
-Ethical and life aims: [[Dharma]], [[karma]], [[Purushartha]], and [[Moksha]]
-
-Vedantic culmination: [[Vikalpa]], [[Chidananda]], and [[shiva]]
+- Inner instrument: [[Manas]], [[Buddhi]], [[Ahamkara]], [[chitta]]
+- Senses and expression: [[eye]], [[speech]], indriyas
+- Elements and vital airs: [[Agni]], [[Vayu]], [[Prana]], [[PanchaVayu]]
+- Body and sheaths: [[SaptaDhatu]], [[PanchaKosha]]
+- Aims of life: [[Dharma]], [[karma]], [[Purushartha]], [[Moksha]]
+- What remains: [[Vikalpa]] (nirvikalpa), [[Chidananda]], [[shiva]]
 
 ---
 
@@ -935,7 +930,7 @@ chidananda rupah shivo'ham shivo'ham
 Sankalpaathmika [[Manas]], Nischayathmika [[Buddhi]]:
 సంకల్పాత్మిక మనస్, నిశ్చయాత్మక బుద్ధి:
   - [[Manas]]su [[Buddhi]] [[chitta]] [[Ahamkara]] - Chathustayam (group of 4)
-Allochana undeedhi Manassu, nischyam budhi, Chesina [[Panini|panini]] gurthu pettukunedhi Chittam. Neenu chesanu ani gurhtu techukovadam ahamkaaram.
+Allochana undeedhi Manassu, nischyam budhi, Chesina panini gurthu pettukunedhi Chittam. Neenu chesanu ani gurhtu techukovadam ahamkaaram.
 Chitta sudhi - alochana undadhi.
 
 [[Garikapati Narasimha Rao]] explanation on Chathustayam - [good explanation](https://www.facebook.com/srigarikipatinarasimharaoofficial/videos/%E0%B0%AE%E0%B0%A8%E0%B0%B8%E0%B1%81-%E0%B0%AC%E0%B1%81%E0%B0%A6%E0%B1%8D%E0%B0%A7%E0%B0%BF-%E0%B0%9A%E0%B0%BF%E0%B0%A4%E0%B1%8D%E0%B0%A4%E0%B0%82-%E0%B0%B5%E0%B1%80%E0%B0%9F%E0%B0%BF-%E0%B0%AE%E0%B0%A7%E0%B1%8D%E0%B0%AF-%E0%B0%A4%E0%B1%87%E0%B0%A1%E0%B0%BE-%E0%B0%8F%E0%B0%AE%E0%B0%BF%E0%B0%9F%E0%B1%8B-%E0%B0%9A%E0%B1%82%E0%B0%A1%E0%B0%82%E0%B0%A1%E0%B0%BF/245100914115291/)

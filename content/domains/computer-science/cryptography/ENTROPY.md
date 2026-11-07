@@ -10,20 +10,16 @@ related: ["[[Cryptography]]", "[[Hashing]]", "[[Block Cipher]]", "[[Digital sign
 
 # Entropy
 
-Entropy measures uncertainty in a random variable. For a variable (X) with possible values (x), Shannon entropy is:
+Entropy = uncertainty. How hard is the next value to guess?
 
-\[
-H(X) = -\sum_x p(x)\log_2 p(x)
-\]
+H(X) = -Σ p(x) log₂ p(x)   (Shannon, measured in bits)
 
-The result is measured in bits. A uniform variable has more uncertainty than a variable whose next value is easy to predict.
+- Uniform → max uncertainty. Predictable → low entropy.
+- Good entropy: disordered, unpredictable, not discoverable, not repeatable, uniformly distributed.
+- [[Cryptography]] eats entropy: keys, nonces, IVs for [[Block Cipher]] modes, salts for password [[Hashing]], fresh randomness per signature in [[Digital signatures]] (DSA / ECDSA).
+- Lots of values ≠ secure. If the attacker can predict them, useless.
+- Passing statistical tests ≠ cryptographically unpredictable. Estimating entropy and checking source health are separate jobs.
 
-Cryptographic systems need unpredictable input when generating keys, nonces, initialization vectors, and password salts. A source can produce many values and still be insecure if an attacker can predict those values.
+Entropy vs [[Vikalpa]]? Both are about many possible states. Hypothesis only, not an equivalence. Open work in [[Comprehensive_Shannon_Entropy_Vikalpa_Research]].
 
-Statistical tests can find obvious bias, but passing a test does not prove that a source is cryptographically unpredictable. Entropy estimation and source health checks are separate parts of the design.
-
-The comparison between information entropy and [[Vikalpa]] is a research hypothesis, not an equivalence between cryptographic randomness and mental states. See [[Comprehensive_Shannon_Entropy_Vikalpa_Research]] for that unresolved work.
-
-## Reference
-
-- RFC 4086, *Randomness Requirements for Security*
+Ref: RFC 4086, *Randomness Requirements for Security*

@@ -10,10 +10,29 @@ related: ["[[VaishshikaSutra]]", "[[NyayaSutra]]", "[[Dharma]]"]
 
 # Vaiseshika Darshanam
 
-Vaiśeṣika is a philosophical system that explains reality by classifying it into fundamental categories, or *padārthas*.
+वैशेषिक < विशेष = particularity. What makes one thing different from another.
 
-Its categories include substance, quality, action, universality, particularity, inherence, and—in later accounts—absence. The system uses these categories to describe physical objects, properties, motion, and the relations between things.
+Kanada. Text = [[VaishshikaSutra]].
 
-The school is also known for its theory of atoms and for its emphasis on perception and inference as means of knowledge. Its foundational text is the [[VaishshikaSutra]]. Its later history is closely connected with [[NyayaSutra]], which contributes the logical method to the combined Nyāya–Vaiśeṣika tradition.
+अथातो धर्मं व्याख्यास्यामः (1.1.1)
+धर्माद् अभ्युदयनिःश्रेयससिद्धिः (1.1.2)
+From [[Dharma]] → prosperity (abhyudaya) and highest good (nihshreyasa).
 
-The category system is the durable idea. Comparisons with modern physics are analogies, not evidence that the two systems use the same theories.
+Reality = padarthas:
+- Dravya - substance
+- Guna - quality
+- Karma - motion
+- Samanya - universal
+- Vishesha - particular
+- Samavaya - inherence
+- Abhava - absence (added later)
+
+Dravya = 9: prithvi, ap, tejas, vayu, akasha, kala, dik, atman, manas.
+
+परमाणु (Paramanu) → dvyanuka (2) → tryanuka (3) = smallest visible.
+
+Gurutva = heaviness. संयोगाभावे गुरुत्वात् पतनम् (5.1.7) - no contact, it falls.
+
+[[NyayaSutra]] gives the logic, Vaiseshika gives the categories → Nyaya-Vaiseshika.
+
+Comparing with modern physics = analogy, not proof.

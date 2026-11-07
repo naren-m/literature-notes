@@ -9,9 +9,13 @@ related: ["[[jyothisha]]", "[[Uthrayana]]", "[[Dakshinayana]]", "[[jyothisha_raj
 ---
 
 # mathsya purana
-This note records the connection between the Moon's 27 wives and the 27 *nakṣatras* used in [[jyothisha]].
+- [[jyothisha]]
 
-The original note also links this topic to [[Uthrayana]] and [[Dakshinayana]].
+27 wives of moon
+
+27 nakshatras
+
+- [[Uthrayana]] and [[Dakshinayana]]
 
 ## References
 - [[jyothisha_rajvedam_beerbiceps]]

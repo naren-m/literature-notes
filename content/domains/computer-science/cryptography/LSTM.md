@@ -10,9 +10,7 @@ related: ["[[RNN]]", "[[Time series]]"]
 
 # LSTM
 
-Long Short-Term Memory (LSTM) is a type of [[RNN]] that is well-suited for [[Time series]] forecasting. LSTMs are able to handle long-term dependencies in the data, which is a common problem in time series forecasting.
+Long Short-Term Memory = a kind of [[RNN]].
 
-## Related
-
-- [[Time series]]
-- [[RNN]]
+- Holds long-term dependencies in the data. Plain RNNs struggle here.
+- Good fit for [[Time series]] forecasting.

@@ -10,6 +10,6 @@ related: ["[[Bhuja koti karani nyayam]]"]
 
 # Pythagorean Theorem
 
-For a right triangle, the square of the hypotenuse equals the sum of the squares of the other two sides.
+Right triangle → hypotenuse² = side² + side².
 
-The Sanskrit framing of this relation is captured in [[Bhuja koti karani nyayam]].
+Same thing in Sanskrit = [[Bhuja koti karani nyayam]].

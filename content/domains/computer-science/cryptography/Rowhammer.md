@@ -10,14 +10,24 @@ related: ["[[Side Channel Attack]]", "[[ECC memory]]", "[[Tampering]]"]
 
 # Rowhammer
 
-Rowhammer is a hardware attack where repeatedly accessing one row of DRAM can disturb nearby rows and flip bits.
+Hammer one DRAM row again and again → charge leaks → bits flip in neighbouring rows.
 
-The attack matters because it crosses an isolation boundary that software usually assumes is enforced by hardware. If an attacker can induce chosen bit flips, the result can become [[Tampering]], privilege escalation, or corruption of security-critical state.
+- Cause: high cell density in modern DRAM. Isolation between memory cells breaks.
+- Example of a [[Side Channel Attack]].
+- Combine bit flips → [[Tampering]], privilege escalation, malicious code. Network-based attacks theoretically possible.
+- Software assumes hardware enforces isolation. Rowhammer breaks that assumption.
 
-[[ECC memory]] can reduce some memory corruption risk, but it is not a complete answer. The defensive lesson is that hardware behavior is part of the threat model: density, timing, refresh behavior, and error correction can all affect security.
+"Necessity is the mother of invention." – Plato
+Adversaries keep finding creative ways in. Rowhammer is a perfect example.
 
-## Related
+[[ECC memory]] was supposed to fix it: detects bit tampering and corrects it. Attack replicated on ECC anyway. Surprise!
 
-- [[Side Channel Attack]]
-- [[ECC memory]]
-- [[Tampering]]
+Rowhammer on ECC:
+1. Templating to locate vulnerable bits. ECC doesn't detect tampering of three consecutive bits.
+2. Access time differs for unaltered vs tampered bits. In poker, a tell. Now you know where to hammer.
+3. Slow. But templating is virtually undetectable. Map for days, weeks, then launch.
+
+ECC is used in sensitive systems (financial, IoT), so this hurts.
+Hardware behaviour is part of the threat model.
+
+More: https://bit.ly/2U4EYTg

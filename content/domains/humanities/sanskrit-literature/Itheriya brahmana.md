@@ -9,4 +9,4 @@ status: "draft"
 
 # Itheriya brahmana
 
-This note is a placeholder for research about the Aitareya Brāhmaṇa. No explanation or source has been added yet.
+TODO - Aitareya Brāhmaṇa

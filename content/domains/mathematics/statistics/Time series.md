@@ -10,12 +10,10 @@ related: ["[[ARIMA]]", "[[Exponential Smoothing]]", "[[LSTM]]"]
 
 # Time series
 
-A time series is data ordered by time, where the order is part of the meaning. Forecasting a time series means using its past values, trend, seasonality, and noise to estimate future values.
+Data ordered by time. The order is the meaning.
 
-Different methods make different assumptions. [[ARIMA]] models linear autocorrelation and differencing, [[Exponential Smoothing]] emphasizes recent observations through weighted averages, and [[LSTM]] uses a neural network to learn longer-range temporal dependencies.
+Forecast = past values + trend + seasonality + noise → future values.
 
-## Related
-
-- [[ARIMA]]
-- [[Exponential Smoothing]]
-- [[LSTM]]
+- [[ARIMA]] → linear autocorrelation + differencing
+- [[Exponential Smoothing]] → weighted average, recent points count more
+- [[LSTM]] → neural net, learns longer-range dependencies

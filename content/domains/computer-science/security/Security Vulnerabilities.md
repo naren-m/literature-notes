@@ -10,22 +10,13 @@ related: ["[[Cryptography]]", "[[STRIDE]]"]
 
 # Security Vulnerabilities
 
-Weak cryptography and poor cryptographic handling can create security vulnerabilities.
+[[Cryptography]] is sometimes the source of security vulnerabilities. Common ones:
+- Weak random number generation
+- Improper key storage
+- Deprecated algorithms
+- Misconfiguration
+- Poor policies
+- Self-signed certificates
+- Invalid certificates
 
-Common examples include:
-
-weak random-number generation;
-
-improper key storage;
-
-deprecated algorithms;
-
-insecure configuration;
-
-poor security policies;
-
-self-signed certificates; and
-
-invalid certificates.
-
-[[STRIDE]] provides a separate way to categorize common security threats.
+Categories of Vulnerabilities → [[STRIDE]]

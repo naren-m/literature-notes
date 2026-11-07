@@ -10,14 +10,17 @@ related: ["[[Dharma]]", "[[Bhagavadgita]]", "[[Moksha]]", "[[YogaSutras]]"]
 
 # karma
 
-**Karma** means action or deed. In Indian philosophical traditions, it also refers to the consequences that actions produce for the actor.
+कृ (kṛ) = to do. कर्म (karma) = action. कार्य (kārya) = effect.
 
-The idea connects conduct with future experience. The exact explanation differs by tradition: some accounts emphasize ritual action, some moral causation, and some the mental impressions left by action. It should not be reduced to the claim that every event is a simple reward or punishment.
+Action with the influence of memory.
 
-The [[Bhagavadgita]] discusses action, inaction, and action done without attachment to its results. The [[YogaSutras]] connect action with impressions in [[chitta]]. In these contexts, understanding karma supports [[Dharma]] and the pursuit of [[Moksha]].
+- Every action leaves an impression. Impression shapes the next action.
+- संचित (Sanchita) = accumulated
+- प्रारब्ध (Prarabdha) = running in this life
+- क्रियमाण/आगामि (Kriyamana/Agami) = being made now
+- [[Bhagavadgita]]: karma, akarma, vikarma. Do the action, drop attachment to the fruit.
+- [[YogaSutras]]: karma → samskaras in [[chitta]]
+- Not simple reward-and-punishment bookkeeping.
+- [[NirvanaShatakam]]: merit and demerit - not the Self.
 
-## Related
-
-- [[Dharma]]
-- [[Bhagavadgita]]
-- [[Moksha]]
+Right action supports [[Dharma]] → path to [[Moksha]].

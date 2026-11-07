@@ -10,17 +10,11 @@ related: ["[[Nada]]", "[[Agni]]", "[[Vayu]]", "[[PanchaVayu]]", "[[PanchaKosha]]
 
 # Prana
 
-Prana is the animating life-force or vital movement in the body and mind.
+What is Prana?
 
-In sound theory, [[Nada]] is described as the union of prana and [[Agni]].
+Life-force. Vital movement in body and mind.
 
-In [[NirvanaShatakam]], prana is named and then negated as the Self. This connects prana to the vital-body layer without making it the final identity.
-
-## Related Concepts
-
-- [[Vayu]]
-- [[PanchaVayu]]
-- [[PanchaKosha]]
-- [[Nada]]
-- [[Agni]]
-- [[NirvanaShatakam]]
+- [[Nada]] = Prana + [[Agni]] (Sangitaratnakara 1.3.6)
+- Moves as [[Vayu]] → five currents = [[PanchaVayu]]
+- Belongs to the vital layer of [[PanchaKosha]]
+- [[NirvanaShatakam]] names prana, then negates it. Prana is not the Self.

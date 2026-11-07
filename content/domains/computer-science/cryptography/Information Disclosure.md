@@ -10,12 +10,16 @@ related: ["[[STRIDE]]", "[[Data Sensitivity]]", "[[Security Vulnerabilities]]"]
 
 # Information Disclosure
 
-Information disclosure is a threat where data is exposed to someone who should not be able to see it.
+Unauthorized access to data. Compromise of [[Confidentiality]].
 
-In [[STRIDE]], it is the threat category most directly tied to confidentiality. It can come from broad permissions, weak encryption boundaries, verbose logs, accidental API fields, cache leakage, or failing to classify and handle sensitive data according to [[Data Sensitivity]].
+The I in [[STRIDE]].
 
-## Related
+Leaks come from:
+- broad permissions
+- weak encryption boundaries
+- verbose logs
+- accidental API fields
+- cache leakage
+- not classifying data → [[Data Sensitivity]]
 
-- [[STRIDE]]
-- [[Data Sensitivity]]
 - [[Security Vulnerabilities]]

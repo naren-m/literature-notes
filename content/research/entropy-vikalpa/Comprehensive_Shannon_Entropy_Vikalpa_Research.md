@@ -10,23 +10,26 @@ related: ["[[ENTROPY]]", "[[Vikalpa]]", "[[YogaSutras]]"]
 
 # Shannon Entropy and Vikalpa
 
-This note tests a possible analogy between Shannon entropy in information theory and **vikalpa** in the [[YogaSutras]]. It is an open research question, not an established equivalence.
+Is there a real link between Shannon entropy and **vikalpa** in the [[YogaSutras]]? Open question. Not an equivalence.
 
 ## Established ideas
 
-Shannon entropy measures uncertainty in a probability distribution:
+Shannon entropy = uncertainty in a probability distribution:
 
 ~~~
 H(X) = -Σ p(x) log₂ p(x)
 ~~~
 
-Vikalpa is a mental modification produced by words without a corresponding object. It is different from valid knowledge, mistaken knowledge, sleep, and memory.
+Vikalpa = a mental modification made of words, with no object behind it. Not valid knowledge, not mistaken knowledge, not sleep, not memory.
 
 ## Proposed analogy
 
-One possible model treats competing conceptual alternatives as a distribution and measures its uncertainty. A larger value could mean that more alternatives are active or less predictable.
+Treat competing conceptual alternatives as a distribution. Measure its uncertainty. Higher value → more alternatives active, or less predictable.
 
-That model has serious limits. A probability distribution over mental alternatives must be defined and measured. Shannon entropy describes a formal distribution; vikalpa is a philosophical category. Similar language about uncertainty does not prove that the two concepts are the same.
+Limits:
+- Someone has to define and measure that distribution over mental alternatives.
+- Shannon entropy is a formal thing. Vikalpa is a philosophical category.
+- Both talk about "uncertainty" ≠ they are the same.
 
 ## Questions to test
 
@@ -36,7 +39,7 @@ That model has serious limits. A probability distribution over mental alternativ
 - Does the measure change reliably across attention or meditation conditions?
 - Can independent researchers reproduce the result?
 
-Any experiment would need preregistered definitions, behavioral or subjective measures, a comparison group, and clear separation between correlation and interpretation. Claims about meditation, neuroscience, clinical use, or AI consciousness require separate evidence.
+Any experiment needs: preregistered definitions, behavioral or subjective measures, a comparison group, and a clean line between correlation and interpretation. Claims about meditation, neuroscience, clinical use or AI consciousness need their own evidence.
 
 ## References to verify
 

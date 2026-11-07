@@ -13,15 +13,23 @@ related: ["[[Testing Principles]]", "[[Test Driven Dev]]", "[[Maintaining code b
 
 ![Testing pyramid: many unit tests at the base, fewer integration tests, fewest end-to-end tests at the top](https://raw.githubusercontent.com/naren-m/literature-notes/main/content/domains/computer-science/coding-practices/assets/testing-pyramid.svg)
 
-The testing pyramid is a rule of thumb for balancing automated tests by cost and feedback speed.
+Simple idea. Balance your automated tests by cost and how fast they give you feedback.
 
-The base should contain many fast unit tests because they isolate small behavior and can run constantly. The middle contains fewer integration tests because they check collaboration between components but cost more to set up and debug. The top contains the smallest number of end-to-end tests because they exercise real workflows but are slower, more brittle, and harder to diagnose.
+## The three layers
 
-The pyramid is not saying that higher-level tests are unimportant. It is saying that expensive tests should prove only what cheaper tests cannot. Repeating the same assertion at every layer creates a slow test suite without adding much confidence.
+**Unit tests at the base. Lots of them.** They test one small piece in isolation. Fast. Run them all the time.
+
+**Integration tests in the middle. Fewer.** They check that components talk to each other correctly. More setup, harder to debug.
+
+**End-to-end tests at the top. Fewest.** They run the real workflow. That is the confidence you want, but they are slow, brittle, and when one fails you go digging.
+
+## Here is the thing
+
+Higher-level tests still matter. But an expensive test should only prove what a cheaper test can't. If you repeat the same assertion at every layer, you get a slow suite and almost no extra confidence.
+
+Think of it as the cost of a bug. Catch it in a unit test, it's tiny. In an integration test, you're on a call with another team. In an end-to-end test, it eats your afternoon. Club all the layers into one giant test and the pyramid flips over and melts. Nobody knows what failed.
 
 ![Comic: a bug caught in a unit test is tiny and cheap, in an integration test it needs a team call, in an end-to-end test it eats the afternoon; clubbing all layers into one giant test makes a melting upside-down pyramid where nobody knows what failed](https://raw.githubusercontent.com/naren-m/literature-notes/main/content/domains/computer-science/coding-practices/assets/testing-pyramid-bug-cost.svg)
-
-## Related
 
 - [[Testing Principles]]
 - [[Test Driven Dev]]

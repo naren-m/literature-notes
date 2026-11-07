@@ -10,6 +10,6 @@ related: ["[[Kent Beck]]"]
 
 # Test Driven Dev
 
-Test-driven development (TDD) starts with a test for the behavior the code must provide.
+TDD coined by [[Kent Beck]]
 
-The developer then writes the smallest implementation that passes the test and refactors without changing the behavior. The note records TDD's association with [[Kent Beck]].
+- Write the test first → smallest code that passes → refactor.

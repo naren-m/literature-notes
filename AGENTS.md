@@ -178,6 +178,16 @@ When promoting, create a new permanent note rather than silently rebranding the 
 - Do not move large sets of existing notes between folders unless the user asks for migration work.
 - Prefer adding links, cleanup, and synthesis over rewriting a source note into an evergreen note in place.
 
+## Writing Voice
+
+Notes are written in Naren's voice, not in generic LLM prose.
+
+- Concept notes are sutra-style: the fewest words that carry the idea, one line per idea, each line worth remembering. Lead with the essence (`Nāda = Prāṇa + Agni.`, `One that sustains. What does it sustain? Balance in the creation.`), not a hedged dictionary definition.
+- Article-style notes stay articles, but read like an engineer talking to a friend: short sentences, direct opinions, concrete examples, no filler.
+- Keep Telugu/Sanskrit verses, verse references, open questions and TODOs verbatim.
+- Do not write robotic filler: "In practical terms", "This matters because", "It is important to note", "Examples include", "Its meaning depends on", "rule of thumb", "Overview / Core Concept / Key Takeaways" sections, or `[[Link]] - one-line description` lists.
+- When cleaning a note, do not flatten it into encyclopedic prose. Shorter and sharper beats complete and bland.
+
 ## Maintaining Links and Backlinks
 
 `tools/check_backlinks.py` resolves a `[[wikilink]]` by filename stem, frontmatter `title`, or path suffix (e.g. `[[sanskrit-etymology/Rambha]]`), case-insensitively, treating `_` as a space. A link that matches no note is unresolved; a link that matches two or more notes is ambiguous.

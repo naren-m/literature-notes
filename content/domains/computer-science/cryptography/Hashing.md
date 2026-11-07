@@ -10,8 +10,21 @@ related: ["[[Hash Algorithms]]", "[[Integrity]]", "[[Tampering]]", "[[Checksum]]
 
 # Hashing
 
-Hashing applies a hash function to input data and produces a fixed-length digest.
+Input → hash function → fixed length digest. One-way.
 
-The digest is useful for detecting whether data changed. A receiver hashes the data again and compares the result. If an attacker can modify both the data and the digest, a plain hash does not prove who created the data; use a [[Message Authentication Code]] or [[Digital signatures]] for that requirement.
+Hashing → Security
 
-Hashing is different from a [[Checksum]]. A cryptographic hash is designed to resist deliberate attacks, while a checksum is mainly designed to detect accidental corruption.
+- A good hash uses a one-way [[Hash Algorithms|hash algorithm]]. Can't convert the hash back to the original.
+- Conducted in sequential blocks.
+- No detectable pattern.
+- Results are both unpredictable and predictable (same input → same hash).
+- Longer digests tend to be more secure.
+
+Hashing protects the [[Integrity]] of data. With a hash, you can detect [[Tampering|tampering]]. Hash again, compare.
+
+But if the attacker can change both data and digest, a plain hash proves nothing about who made it → [[Message Authentication Code]] or [[Digital signatures]].
+
+Hashing is different from [[Checksum]]. Hash resists deliberate attacks. Checksum catches accidental corruption.
+
+## References
+- [What is hashing](https://www.educative.io/answers/what-is-hashing)

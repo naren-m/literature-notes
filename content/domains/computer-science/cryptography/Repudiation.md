@@ -11,14 +11,16 @@ related: ["[[STRIDE]]", "[[Digital signatures]]", "[[Authentication]]"]
 
 # Repudiation
 
-Repudiation is the security problem where someone can deny an action because the system cannot prove who did it or whether it happened.
+You cannot prove that a transaction took place between two entities.
 
-In [[STRIDE]], repudiation points to weak evidence: missing audit logs, mutable logs, poor identity binding, or actions that are not signed or otherwise attributable. The risk is not just that an event occurs, but that the record of responsibility cannot be trusted afterward.
+- Repudiation = rejection of a proposal or idea. Here: "I didn't do that."
+- Compromise of non-repudiation. (Trying to hide who we are). The R in [[STRIDE]].
+- Attack: system doesn't track and log users' actions properly → attacker forges or changes who did what. Log files become invalid or misleading. Like spoofing mail in someone else's name.
+- Root cause = weak evidence: missing logs, mutable logs, poor identity binding, unsigned actions.
+- Defend: tamper-resistant audit trails, [[Authentication]], timestamps, authorization records, [[Digital signatures]] for stronger proof of origin.
+- Related vulnerability categories: Input Validation, Access Control, Logging and Auditing.
 
-Controls include tamper-resistant audit trails, [[Authentication]], timestamps, authorization records, and [[Digital signatures]] when messages or transactions need stronger proof of origin.
+## References
 
-## Related
-
-- [[STRIDE]]
-- [[Digital signatures]]
-- [[Authentication]]
+- [capec](https://capec.mitre.org/data/definitions/93.html)
+- [owasp repudiation](https://owasp.org/www-community/attacks/Repudiation_Attack#:~:text=Description,the%20identification%20of%20new%20actions)

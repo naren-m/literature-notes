@@ -10,12 +10,15 @@ related: ["[[STRIDE]]", "[[Authorization]]", "[[Security Vulnerabilities]]"]
 
 # Elevation of Privilege
 
-Elevation of privilege is a threat where an actor gains permissions beyond what they should have.
+Unauthorized upgrade in privilege. Compromise of [[Authorization]].
 
-In [[STRIDE]], it is the category that asks whether a user, process, or service can cross an authorization boundary. Typical causes include missing authorization checks, confused-deputy behavior, unsafe defaults, excessive roles, or trusting data from a lower-privilege context.
+The E in [[STRIDE]]. Can a user, process or service cross an authorization boundary?
 
-## Related
+How it happens:
+- missing authorization checks
+- confused deputy
+- unsafe defaults
+- excessive roles
+- trusting data from a lower-privilege context
 
-- [[STRIDE]]
-- [[Authorization]]
 - [[Security Vulnerabilities]]

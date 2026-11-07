@@ -10,11 +10,9 @@ related: ["[[Andrew Huberman]]", "[[Why We Sleep]]", "[[Atomic Habits]]"]
 
 # Health routines turn advice into repeatable behavior
 
-Health advice only compounds when it becomes a repeatable routine. A routine turns a general recommendation, such as sleeping earlier or exercising regularly, into a concrete sequence of cues, actions, and feedback.
+Health advice does nothing until it becomes a routine. "Sleep earlier." "Exercise regularly." Fine. But that's just advice. A routine turns it into something concrete: a cue, an action, some feedback. Then you repeat it, and that's when it compounds.
 
-This connects behavior design from [[Atomic Habits]] with health and sleep material from [[Why We Sleep]]. Public health educators such as [[Andrew Huberman]] often make this bridge explicit by translating research into daily protocols.
-
-## Related
+This is where [[Atomic Habits]] (behavior design) meets [[Why We Sleep]] (sleep and health). People like [[Andrew Huberman]] make that bridge explicit. They take the research and turn it into daily protocols.
 
 - [[Andrew Huberman]]
 - [[Why We Sleep]]

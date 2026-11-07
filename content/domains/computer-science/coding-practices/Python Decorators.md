@@ -10,11 +10,10 @@ related: ["[[Decorator Pattern]]", "[[Python]]", "[[API Design]]"]
 
 # Python Decorators
 
-A Python decorator wraps a function or class with additional behavior while leaving the decorated object usable through the same name.
+Decorator = wrap a function/class with extra behavior, keep the same name.
 
-Decorators are common when cross-cutting behavior should be applied declaratively: route registration in web frameworks, authentication checks, caching, tracing, retries, timing, or validation. The key idea is that behavior is attached at definition time instead of being repeated inside every function body.
-
-## Related
+- Route registration, auth checks, caching, tracing, retries, timing, validation.
+- Cross-cutting behavior attached at definition time, not copy-pasted into every function body.
 
 - [[Decorator Pattern]]
 - [[Python]]

@@ -11,15 +11,12 @@ related: ["[[Digital signatures]]", "[[Authentication]]", "[[Key exchange]]", "[
 
 # Post-quantum signature migration is an ecosystem problem
 
-Post-quantum signature migration is not only about choosing a quantum-resistant signature algorithm. It also requires changing the systems that carry, store, verify, and cache signatures.
+Picking a quantum-resistant signature algorithm is the easy part. The hard part is everything that carries, stores, verifies and caches signatures.
 
-[[Digital signatures]] appear in certificates, package registries, update systems, identity systems, logs, and protocols. If new signatures or public keys are much larger, then bandwidth, storage, latency, certificate formats, hardware limits, and compatibility all become part of the migration.
+Think about where [[Digital signatures]] actually live. Certificates. Package registries. Update systems. Identity systems. Logs. Protocols. Every one of them was built assuming signatures and public keys are small.
 
-This makes signature migration different from many [[Key exchange]] upgrades. Key exchange can often be negotiated inside a live protocol session, while signature formats are embedded in longer-lived ecosystems and trust chains. The cryptography can be ready before the surrounding infrastructure is ready.
+Now make them much bigger, as with [[Lattice-based encryption]] schemes. Suddenly bandwidth, storage, latency, certificate formats, hardware limits and compatibility are all part of the migration. Not just the crypto library.
 
-## Related
+Compare with [[Key exchange]]. Key exchange can often be negotiated inside a live session: both sides agree, upgrade, done. Signatures don't work like that. They are baked into long-lived ecosystems and trust chains used for [[Authentication]].
 
-- [[Digital signatures]]
-- [[Authentication]]
-- [[Key exchange]]
-- [[Lattice-based encryption]]
+So the cryptography can be ready long before the infrastructure around it is. That gap is the real migration problem.

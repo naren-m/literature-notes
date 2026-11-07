@@ -10,8 +10,19 @@ related: ["[[YogaSutras]]", "[[Pramana]]", "[[Viparyaya]]", "[[NirvanaShatakam]]
 
 # Vikalpa
 
-In Patañjali's *Yoga Sūtras* 1.9, **vikalpa** is a mental modification produced by words without a corresponding object in reality: *śabda-jñānānupātī vastu-śūnyaḥ vikalpaḥ*.
+Shabda gnana anupati vasthu shunyo Vikalpah - [[YogaSutras]] 1.9
 
-Vikalpa is different from [[Pramana]], which is valid knowledge, and [[Viparyaya]], which is mistaken knowledge about an existing object. Vikalpa is a conceptual construction that has no matching object.
+śabda-jñānānupātī vastu-śūnyaḥ vikalpaḥ
 
-The idea matters because language can create a thought that feels like knowledge even when nothing in experience corresponds to it. The original note's comparison with information-theory entropy is an unresolved research hypothesis; see [[ENTROPY]] and [[Comprehensive_Shannon_Entropy_Vikalpa_Research]].
+Knowledge from words. Nothing behind it.
+
+- [[Pramana]] = right knowledge of a real thing
+- [[Viparyaya]] = wrong knowledge of a real thing
+- Vikalpa = no thing at all. Only words.
+- vi + kalpa = construction, alternative
+- "Time flies", "the sun rises" - sounds like knowledge, isn't.
+- Nirvikalpa in [[NirvanaShatakam]] = beyond these constructions.
+
+Language can make a thought feel like knowledge.
+
+More vikalpa → more alternatives in the mind → higher entropy? (hypothesis, not settled) - [[ENTROPY]], [[Comprehensive_Shannon_Entropy_Vikalpa_Research]]

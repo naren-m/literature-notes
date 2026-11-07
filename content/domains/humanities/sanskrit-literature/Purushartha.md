@@ -10,13 +10,8 @@ related: ["[[Dharma]]", "[[karma]]", "[[Moksha]]", "[[NirvanaShatakam]]"]
 
 # Purushartha
 
-Purushartha means the aims of human life. The classical set is dharma, artha, kama, and moksha.
+Aims of human life = [[Dharma]], artha, kama, [[Moksha]].
 
-[[NirvanaShatakam]] names these aims while negating identification with them. The verse does not deny their practical role; it denies that the Self is defined by moral status, wealth, desire, or liberation as an object to own.
-
-## Related Concepts
-
-- [[Dharma]]
+- [[NirvanaShatakam]] names all four, then says: not me.
+- Not denying them. Just - the Self is not defined by merit, wealth, desire, or even liberation as something to own.
 - [[karma]]
-- [[Moksha]]
-- [[NirvanaShatakam]]

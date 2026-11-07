@@ -21,11 +21,11 @@ A #memoir by the Creator of Nike. #business #life
 
 ### Related notes
 
-- [[Grit]] - passion, perseverance, and continuing through repeated setbacks.
-- [[Atomic Habits]] - identity, belief, and repeated action as engines of growth.
-- [[No Rules Rules]] - business leadership through trust, candor, and context over control.
-- [[The Ride of a Lifetime]] - leadership memoir focused on responsibility, risk, and product excellence.
-- [[YogaSutras]] and [[Upanishads]] - useful contrasts for the passages on self, mind, and oneness.
+- [[Grit]]
+- [[Atomic Habits]]
+- [[No Rules Rules]]
+- [[The Ride of a Lifetime]]
+- [[YogaSutras]], [[Upanishads]] - self, mind, oneness passages
 
 ### Highlights
 

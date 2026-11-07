@@ -10,14 +10,10 @@ related: ["[[Sulba Sutras]]", "[[Nada]]", "[[Prana]]"]
 
 # Agni
 
-**Agni** is the principle of fire: that which consumes and transforms what is given to it.
+Agni is not Fire. Fire is just an example.
 
-In Vedic ritual, fire is both a physical element and the medium through which an offering is transformed. The three sacred fires and the precise construction of fire altars are discussed in the [[Sulba Sutras]].
-
-The same word is used by other traditions for energy or transformation. In the sound theory recorded in [[Sangitaratnakaram]], [[Nada]] is described as a relation between [[Prana]] and Agni. Those are related uses, not one definition that replaces the others.
-
-## Related
-
-- [[Sulba Sutras]]
-- [[Nada]]
-- [[Prana]]
+- One that Engulfs whatever is given to it.
+- One that devours.
+- Vedic ritual: 3 sacred fires (Āhavanīya, Dakṣiṇa, Gārhapatya). Altar construction → [[Sulba Sutras]].
+- Sound: Nāda = [[Prana]] + Agni → [[Nada]], [[Sangitaratnakaram]] 1.3.6.
+- Music: Agni Chakra = 3rd chakra of the Melakarta system, rāgas 13-18 (R1-G3-M1).

@@ -10,18 +10,13 @@ related: ["[[Carnatic music]]", "[[Nada]]", "[[Prana]]", "[[Brihadesi]]", "[[Kat
 
 # Sangitaratnakaram
 
-*Sangīta Ratnākara* is a classical treatise on Indian [[Carnatic music]] theory.
+Classical treatise on [[Carnatic music]] theory.
 
-## Key Concepts Defined
-
-- [[Nada]] - Defined in verse 1.3.6 as the union of [[Prana]] (life force) and [[Agni]] (fire/energy)
-
-Systematic organization of musical knowledge
-
-Theoretical foundation for rāga classification
+- [[Nada]] = [[Prana]] + [[Agni]] (verse 1.3.6)
+- Systematic organization of musical knowledge
+- Theoretical foundation for rāga classification
 
 ## Related Works
 
-- [[Brihadesi]] - Earlier treatise on Indian music
-- [[Katapayadi_Melakarta_Guide]] - Uses concepts from Sangitaratnakaram for systematic rāga and chakra organization
-- [[Agni]] - Fire/energy component in Nada definition
+- [[Brihadesi]] - earlier treatise
+- [[Katapayadi_Melakarta_Guide]]

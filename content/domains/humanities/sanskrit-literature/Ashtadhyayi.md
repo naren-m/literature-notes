@@ -10,16 +10,27 @@ related: ["[[Panini]]", "[[SivaSurta]]", "[[Niruktha]]"]
 
 # Ashtadhyayi
 
-The *Aṣṭādhyāyī* is Panini's compact grammar of Sanskrit. Its name means "eight chapters." The text contains roughly 4,000 short rules covering sound changes, word formation, inflection, and sentence construction.
+[[Panini]]'s grammar of Sanskrit. Aṣṭa + adhyāya = eight chapters.
 
-The rules work as a system. Technical markers, rule order, and exceptions let a small amount of text describe many valid forms. The [[SivaSurta|Śiva Sūtras]] provide the sound groupings used by the grammar.
+- ~4,000 sūtras. Sandhi, word formation, inflection, sentences.
+- Grammar as a formal rule system: markers + rule order + exceptions → tiny text, huge language.
+- Starts from the 14 [[SivaSurta|Śiva Sūtras]] = sound groupings:
 
-The work remains important because it treats grammar as a formal rule system. It is studied in Sanskrit scholarship and is often compared with later work in formal language theory and computational linguistics.
+1. अ इ उ ण्
+2. ऋ ऌ क्
+3. ए ओ ङ्
+4. ऐ औ च्
+5. ह य व र ट्
+6. ल ण्
+7. ञ म ङ ण न म्
+8. झ भ ञ्
+9. घ ढ ध ष्
+10. ज ब ग ड द श्
+11. ख फ छ ठ थ च ट त व्
+12. क प य्
+13. श ष स र्
+14. ह ल्
 
-## Related
-
-- [[Panini]] - author and grammatical method
-- [[Niruktha]] - word meaning and etymology
-- [[SivaSurta]] - sound groupings used by the grammar
+- Meaning / etymology side → [[Niruktha]].
 
 Reference: https://ashtadhyayi.com/shivasutra

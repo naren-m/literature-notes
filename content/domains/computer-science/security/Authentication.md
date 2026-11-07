@@ -10,12 +10,9 @@ related: ["[[Spoofing]]", "[[STRIDE]]", "[[Strong Authentication]]", "[[Token Au
 
 # Authentication
 
-Authentication is the process of verifying that a user, service, or device is who it claims to be.
+Are you who you say you are? User, service or device.
 
-It is the control that [[Spoofing]] tries to defeat, and it is one of the security boundaries described in [[STRIDE]].
-
-## Related Concepts
-
-- [[Strong Authentication]] - stronger verification methods and challenge-response patterns
-- [[Token Authentication]] - issued credentials or signed tokens used for verification
-- [[Cryptography]] - supports authentication through keys, signatures, and protocols
+- What [[Spoofing]] tries to break. The S in [[STRIDE]].
+- [[Strong Authentication]]
+- [[Token Authentication]]
+- [[Cryptography]] → keys, signatures, protocols.

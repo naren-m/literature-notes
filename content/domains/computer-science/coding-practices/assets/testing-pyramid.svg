@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 460" role="img" aria-labelledby="t d" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
+  <title id="t">Testing Pyramid</title>
+  <desc id="d">Many fast unit tests at the base, fewer integration tests in the middle, and the fewest end-to-end tests at the top. Higher layers are slower, more brittle and costlier; lower layers are faster and isolated.</desc>
+  <rect width="760" height="460" rx="12" fill="#ffffff"/>
+  <text x="380" y="40" text-anchor="middle" font-size="24" font-weight="600" fill="#1f2937">The Testing Pyramid</text>
+
+  <!-- Layers: apex (330,70) base 70..590 at y=400 -->
+  <polygon points="330,70 403,170 257,170" fill="#fde2e1" stroke="#dc4c43" stroke-width="2.5" stroke-linejoin="round"/>
+  <polygon points="257,174 403,174 494,298 166,298" fill="#fef3d6" stroke="#d9a21b" stroke-width="2.5" stroke-linejoin="round"/>
+  <polygon points="166,302 494,302 568,400 92,400" fill="#e3f2df" stroke="#3f8f3a" stroke-width="2.5" stroke-linejoin="round"/>
+
+  <text x="330" y="140" text-anchor="middle" font-size="16" font-weight="600" fill="#7f1d1d">End-to-End</text>
+  <text x="330" y="158" text-anchor="middle" font-size="12" fill="#7f1d1d">fewest</text>
+  <text x="330" y="234" text-anchor="middle" font-size="17" font-weight="600" fill="#78350f">Integration</text>
+  <text x="330" y="254" text-anchor="middle" font-size="12.5" fill="#78350f">fewer · components working together</text>
+  <text x="330" y="348" text-anchor="middle" font-size="18" font-weight="600" fill="#14532d">Unit</text>
+  <text x="330" y="370" text-anchor="middle" font-size="13" fill="#14532d">many · small isolated behaviour, run constantly</text>
+
+  <!-- Volume arrow -->
+  <line x1="96" y1="428" x2="564" y2="428" stroke="#6b7280" stroke-width="1.5"/>
+  <path d="M96 428 l9 -5 v10 z M564 428 l-9 -5 v10 z" fill="#6b7280"/>
+  <text x="330" y="450" text-anchor="middle" font-size="13" fill="#4b5563">Number of tests</text>
+
+  <!-- Cost / speed arrow -->
+  <line x1="630" y1="82" x2="630" y2="392" stroke="#6b7280" stroke-width="1.5"/>
+  <path d="M630 76 l-5 10 h10 z M630 398 l-5 -10 h10 z" fill="#6b7280"/>
+  <text x="645" y="88" font-size="13" font-weight="600" fill="#b91c1c">Slower, costlier</text>
+  <text x="645" y="106" font-size="12.5" fill="#4b5563">more brittle,</text>
+  <text x="645" y="122" font-size="12.5" fill="#4b5563">harder to diagnose</text>
+  <text x="645" y="372" font-size="13" font-weight="600" fill="#15803d">Faster, cheaper</text>
+  <text x="645" y="390" font-size="12.5" fill="#4b5563">isolated, precise</text>
+</svg>

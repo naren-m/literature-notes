@@ -57,10 +57,10 @@ related: ["[[Testing Pyramid]]", "[[Test Driven Dev]]"]
 
 ### Testing Guidelines
 
-Automated Unit Tests, Integration Tests, System Tests (End to End Tests) for all the features of Telemetry.
+Automated Unit Tests, Integration Tests, System Tests (End to End Tests) for all the features.
 
 It is hard to cover all the corner cases in the IT and E2E Test, which is where UT shines. Can achieve ~100% Branch coverage. Mock can be leveraged here.
-Why Unit testing and the testing pyramid → [Pyramid SmartDev article](https://wiki.cisco.com/display/SMARTDEV/Testing+Pyramid)
+Why Unit testing → see the pyramid.
 - [[Testing Pyramid]]
 - [[Test Driven Dev]]
 

@@ -10,13 +10,13 @@ related: ["[[Ashtadhyayi]]", "[[Niruktha]]", "[[India]]"]
 
 # Panini (पाणिनि)
 
-Panini was an ancient Sanskrit grammarian. His main work, the [[Ashtadhyayi]], describes Sanskrit through a compact system of roughly 4,000 rules.
+Sanskrit grammarian. [[Ashtadhyayi]] = all of Sanskrit in ~4000 sutras (3,959).
 
-Panini's dates and biography are debated. The tradition places him in the northwestern region associated with Salatura and Gandhara, but the exact historical details need separate verification.
-
-The importance of Panini's work is its method. It uses technical terms, ordered rules, markers, and exceptions to generate and analyze valid word forms. Later scholars such as Katyayana and Patanjali extended the tradition.
-
-The same rule-based approach is relevant to formal grammars, parsing, and computational linguistics. [[Niruktha]] complements it by focusing on word meaning and etymology.
+- Dates, life → debated. Tradition: Salatura, Gandhara, northwest. (verify)
+- The method is the genius: technical terms, ordered rules, markers, exceptions → generate and analyze every valid word form.
+- Carried forward by Katyayana and Patanjali.
+- Same idea as formal grammars, parsers, computational linguistics. 2500 years early?
+- [[Niruktha]] = the other side → meaning and etymology of words.
 
 ## References
 

@@ -10,6 +10,4 @@ source: "https://en.wikipedia.org/wiki/Alexander_Cunningham"
 
 # Alexander Cunningham
 
-This note is a placeholder for research about Alexander Cunningham.
-
-Reference: https://en.wikipedia.org/wiki/Alexander_Cunningham
+https://en.wikipedia.org/wiki/Alexander_Cunningham

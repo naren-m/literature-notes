@@ -10,6 +10,6 @@ related: ["[[Denial of Service]]", "[[Availability]]"]
 
 # Denial of Service
 
-A denial-of-service attack prevents legitimate users from accessing a service or data.
+Prevent correct access to data or services. Compromise of [[Availability]].
 
-It compromises [[Availability]] by exhausting resources, blocking traffic, or otherwise stopping the system from serving normal requests.
+How? Exhaust resources, block traffic, stop the system from serving normal requests.

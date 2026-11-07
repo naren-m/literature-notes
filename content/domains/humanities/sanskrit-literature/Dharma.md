@@ -9,15 +9,25 @@ related: ["[[karma]]", "[[Purushartha]]", "[[Moksha]]", "[[Manas]]", "[[speech]]
 ---
 
 # Dharma
+ధార యతి, ఇతి ధర్మ:
+ధ్రియథేవ జనయరితి ధర్మ:
 
-**Dharma** is the principle of conduct, duty, or order that sustains a person, community, or wider reality. Its meaning depends on the text and situation; it is not always equivalent to a single English word such as “religion” or “morality.”
+- [[Manas]], [[karma]], [[Vachana]]
 
-In practical terms, dharma connects intention, speech, and action. [[karma]] describes the consequences of action, while dharma asks which action is appropriate and sustaining.
+One that sustains. What does it sustain? Balance in the creation.
 
-Dharma is one of the traditional [[Purushartha]], or aims of life. It is also discussed in relation to [[Moksha]], because several Indian philosophies treat ethical action as part of preparing for liberation.
+- Rita - Righteousness in thought
+- Satya - Righteousness in [[speech]]
+- Dharma - Righteousness in actions
 
-## Related
+- [[Hanuman Chalisa]]
 
-- [[karma]]
-- [[Purushartha]]
-- [[Moksha]]
+sankata te hanumāna chhudāvai।
+
+mana krama vachana dhyāna jo lāvai॥ 26 ॥
+
+  - Having all 3 in at one moment is Dharma
+
+- [[karma]] = action and its result. Dharma = which action sustains.
+- First of the 4 [[Purushartha]]. Leads toward [[Moksha]].
+- [[NirvanaShatakam]]: na dharmo na chartho na kamo na mokshaha. Even dharma is not the Self.

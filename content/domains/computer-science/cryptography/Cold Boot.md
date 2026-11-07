@@ -10,8 +10,15 @@ related: ["[[side channel attack]]"]
 
 # Cold Boot
 
-A cold boot attack recovers data that remains in memory briefly after a computer is powered off or restarted.
+Imaginative attacks appear every day. Yet another reason for defense in depth.
 
-The attacker needs physical access and may boot the machine from another device to inspect the memory. Cooling the memory can extend the time during which residual data is readable.
+Cold boot = another [[Side Channel Attack]]. Needs physical access.
 
-This is a [[Side Channel Attack]] because it uses physical behavior around the system rather than breaking the cryptographic algorithm directly.
+- Abrupt shutdown → data in DRAM / SRAM persists for seconds, even minutes.
+- Reboot from an OS on a secondary device (usb stick) → dump the memory → pull the secrets.
+- Two forms. In one, "cold" is figurative. In the other it is literal. Brrrr...
+  - Freeze the chips (liquid nitrogen, freeze spray) → memory erodes slower → more time to read it.
+- Doesn't break the crypto algorithm. Goes around it.
+- Mostly an inside job. Disgruntled employees.
+
+In one of the episodes of Burn Notice, the lead character's mom does this. Liquid nitrogen on the chip, reads the data off it.

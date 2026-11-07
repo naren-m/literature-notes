@@ -11,14 +11,14 @@ related: ["[[LOJAX]]", "[[Cryptography]]", "[[Zero-Trust]]"]
 
 # Root of trust
 
-A root of trust is the first component a system relies on to decide whether later components should be trusted.
+First thing the system trusts, so it can decide whether to trust the rest.
 
-In secure boot flows, that root verifies the next stage before handing over control. Each stage then verifies the next one, creating a chain from a small trusted base to the running system. If the root is compromised, the rest of the chain loses meaning.
+- Embedded device's first security goal: confirm the device that booted is the correct device, and its software is not compromised. That's the Root of Trust.
+- Secure boot: root verifies the next stage before handing over control. Each stage verifies the next → chain from a small trusted base to the running system.
+- Root compromised → whole chain means nothing.
+- That's why [[LOJAX]] is scary. It hits the layer the OS stands on but can't inspect from above.
+- [[Cryptography]], [[Zero-Trust]]
 
-This is why firmware attacks such as [[LOJAX]] are serious: they target the layer that the operating system depends on but cannot fully inspect from above.
+## Reference
 
-## Related
-
-- [[LOJAX]]
-- [[Cryptography]]
-- [[Zero-Trust]]
+https://www.highintegritysystems.com/downloads/white_papers/ESM_Security_whitepaper.pdf

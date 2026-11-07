@@ -10,6 +10,6 @@ related: ["[[Spoofing]]", "[[Authentication]]"]
 
 # Spoofing
 
-Spoofing is pretending to be a trusted user, service, device, or source.
+Theft of user credentials. Pretend to be a trusted user, service, device or source.
 
-It compromises [[Authentication]] when the system accepts the false identity as genuine.
+- System accepts the fake identity → compromise of [[Authentication]].

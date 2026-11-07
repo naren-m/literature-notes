@@ -10,6 +10,7 @@ related: ["[[Rowhammer]]", "[[Tampering]]"]
 
 # ECC memory
 
-Error-correcting code (ECC) memory detects some bit errors and can correct some of them before they affect the program.
+Error Correcting Code memory. Detects bit [[Tampering|tampering]] and amazingly corrects the change.
 
-This can reduce the impact of [[Rowhammer]]-induced bit flips, but it is not a complete defense. ECC is useful where silent memory corruption could affect sensitive systems.
+- Supposedly resilient to [[Rowhammer]]. Would seem to be an effective mitigation. Not a complete defense though.
+- Used in sensitive systems, like financial systems and IoT devices, where silent memory corruption is especially troublesome.

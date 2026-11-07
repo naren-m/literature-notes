@@ -8,5 +8,3 @@ status: "draft"
 ---
 
 # Dhatu Manjari
-
-This note is a placeholder for research about Dhātu Mañjarī. No explanation or source has been added yet.

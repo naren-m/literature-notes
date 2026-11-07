@@ -10,14 +10,35 @@ related: ["[[Information Disclosure]]", "[[Cryptography]]"]
 
 # Data Sensitivity
 
-Data sensitivity is the level of harm that could result if data is exposed, changed, or lost. Classification lets a team choose protection based on impact instead of treating every field the same way.
+The most frequent goal of attackers is data:
+- Identity theft
+- Stealing data
+- Modifying data
+- Ransomware
 
-A simple working scheme is:
+→ [[Information Disclosure|Information disclosure]]
 
-- **P1**: highly sensitive data that directly identifies or enables harm to a person, such as government identifiers or payment data;
-- **P2**: data that is less direct but can still identify, profile, or help compromise someone; and
-- **P3**: data with limited personal impact when disclosed.
+Protect data in all states: at rest, in transit, in memory.
 
-The exact labels and examples belong to the organization's policy. A field must not be placed in a lower class merely because it looks harmless in isolation.
+Classify by harm → protect by impact, not every field the same.
 
-Protect sensitive data in all states: at rest, in transit, and in memory. [[Information Disclosure]] is the threat this classification helps prevent; controls may include access limits, encryption, logging, retention rules, and careful redaction.
+#### P1
+Personally identifiable information (PII). Highly sensitive, identifies a specific individual.
+- Government ID
+- Credit card
+- Email address
+- Ocular
+
+Secure with the highest level of security.
+
+#### P2
+Personally anonymous data. Attributes that can identify you, but also others.
+- Hair color
+- Address
+- Mother maiden name
+- Name of High School
+
+Semi sensitive.
+
+#### P3
+No personal significance. Be sure the data is not miscategorized → that has been the source of several attacks.

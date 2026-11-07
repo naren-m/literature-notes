@@ -10,14 +10,24 @@ related: ["[[Elevation of Privilege]]", "[[Security Vulnerabilities]]", "[[STRID
 
 # DLL Preloading Attack
 
-A DLL preloading attack abuses the order Windows uses when resolving a dynamic-link library by name.
+Stephen King wrote, "Sooner or later, everything old is new again."
 
-If an application loads a DLL without a fully qualified path, the operating system searches multiple directories for a matching library. An attacker can place a malicious DLL earlier in that search path so the application loads attacker-controlled code instead of the intended dependency.
+Old Windows threat that made a comeback. Simple to implement.
 
-The important design lesson is that dependency resolution is part of the trust boundary. Applications should load libraries from explicit trusted paths, avoid unsafe current-directory lookup, and treat dependency loading as a possible [[Elevation of Privilege]] path.
+Load a DLL by name, without a fully qualified path → Windows probes for it:
+1. Application directory
+2. System directory
+3. System directory (16-bit)
+4. Windows directory
+5. Current directory
 
-## Related
+First similarly named library wins. Attacker drops a trojan DLL earlier in that order → app loads attacker code.
 
-- [[Elevation of Privilege]]
+- Often the first step of another attack, like [[Elevation of Privilege]].
+- Worked on well-known products, including Internet Explorer (IE7). Story: https://bit.ly/3p5Kt2l
+- Dependency loading is part of the trust boundary. Load from explicit trusted paths. No current-directory lookup.
+
 - [[Security Vulnerabilities]]
 - [[STRIDE]]
+
+Source: © 2022 Innovation In Software Corporation (course material)

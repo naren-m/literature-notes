@@ -10,14 +10,17 @@ related: ["[[Cryptography]]", "[[Cache prefetching]]", "[[Rowhammer]]"]
 
 # Side Channel Attack
 
-A side channel attack extracts secrets from indirect signals instead of from the intended input or output of a system.
+Exploit the unintended information exhaust of an app or device. Often the most creative sort of exploitation.
 
-Examples include timing differences, power use, electromagnetic radiation, sound, cache behavior, and memory disturbance. The attacker is not necessarily breaking the mathematical primitive; they are measuring the implementation or environment around it.
-
-This is why [[Cryptography]] must be implemented with attention to physical and operational behavior. A theoretically secure algorithm can still leak useful information through cache timing, branching, hardware effects, or repeated observable patterns.
-
-## Related
-
-- [[Cryptography]]
-- [[Cache prefetching]]
-- [[Rowhammer]]
+- Usual focus is inputs and outputs. Even for hardware and UEFI.
+- But hardware is physical. Power, time, sound leak → hackers read these side effects → sensitive data, even secrets.
+- Most common:
+  - Timing: time to complete a calculation or algorithm
+  - Power analysis: power consumption per calculation or activity
+  - Electromagnetic: leaked EM radiation (monitor, IC emissions)
+  - Acoustic: sound related to a calculation
+  - cache behaviour → [[Cache prefetching]]
+  - memory disturbance → [[Rowhammer]]
+- Attacker isn't breaking the math. They measure the implementation around it.
+- What protects? [[Cryptography]]! [[Encryption]]. But implemented with care: a secure algorithm can still leak through timing, branching, hardware effects.
+- Tel Aviv University has done significant research here. e.g. https://bit.ly/3xOfuLt

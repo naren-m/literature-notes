@@ -10,12 +10,12 @@ related: ["[[Confidentiality]]", "[[Integrity]]", "[[Availability]]", "[[STRIDE]
 
 # CIA Triad
 
-The **CIA triad** is a simple way to state three security goals:
+[[Confidentiality]] + [[Integrity]] + [[Availability]] = the pillars of security.
 
-- **Confidentiality**: only authorized parties can read the data.
-- **Integrity**: data and actions remain correct and changes are detectable.
-- **Availability**: authorized users can reach the service or data when needed.
+- Confidentiality → only the right people can read it. [[Encryption]] gives this.
+- Integrity → is the data trustworthy? Changes are detectable. [[Hashing]] confirms integrity.
+- Availability → resources and services are there when expected. Threat: [[Denial of Service]], resource exhaustion.
 
-The three goals are related but not interchangeable. Encryption mainly supports confidentiality, authentication and integrity controls help detect unauthorized change, and capacity, redundancy, and recovery controls support availability.
+Related, not interchangeable. Encryption does nothing for availability.
 
-[[STRIDE]] is a threat-modeling framework that helps identify attacks against these properties.
+[[STRIDE]] = threat categories that attack these properties.

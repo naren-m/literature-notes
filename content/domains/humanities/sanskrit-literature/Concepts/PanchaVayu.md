@@ -9,23 +9,33 @@ related: ["[[Vayu]]", "[[Prana]]", "[[NirvanaShatakam]]"]
 ---
 
 # PanchaVayu
+  - ![[Vayu]]
 
-**Pañca vāyu** is the traditional model of five movements or functions of vital energy:
+1. [[Prana]]- [[Vayu]] - inward, upward. Breath, intake.
+2. Apana-Vayu - downward. Elimination.
+3. Samana-Vayu - balancing, assimilation.
+4. Udana-Vayu - upward. Expression, effort.
+5. Vyana-Vayu - spread through the whole body.
 
-**Prāṇa**: inward and upward movement associated with breathing and intake;
+na cha prana sangyo na vai pancha vayuhu → [[NirvanaShatakam]] verse 2. Self is not these.
 
-**Apāna**: downward movement associated with elimination;
-
-**Samāna**: balancing and assimilating movement;
-
-**Udāna**: upward movement associated with expression and effort; and
-
-**Vyāna**: movement distributed through the body.
-
-The model belongs to traditional yoga and Ayurveda. It is a descriptive framework within those systems, not a replacement for medical anatomy or clinical advice.
-
-[[NirvanaShatakam]] mentions the five vital airs while distinguishing the Self from bodily functions.
+## Prana Vayu
+To strengthen Prana-Vayu:
+  - Practicing pranayamas like will quickly strengthen this Vayu
+    - Bhastrika,
+    - Nadi Shodhana and
+    - Ujjayi Pranayama .
+  - Heart-opening yoga poses like below  will activate and strengthen the Prana-Vayu.
+    - bow pose,
+    - camel pose,
+    - cobra pose,
+    - dancer pose, and
+    - bridge pose
+  - To encourage this vital wind to flow upward practice inversions and poses with raised arms like
+    - Warrior I,
+    - Chair pose, and
+    - Mountain pose.
+  - Bringing awareness of Prana-Vayu in any yoga pose creates a focus to lift, lengthen and open the upper body.
 
 ## Reference
-
 - [The Five Vayus](https://www.yogabasics.com/learn/the-five-vayus/)

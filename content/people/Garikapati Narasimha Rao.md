@@ -11,14 +11,6 @@ related: ["[[NirvanaShatakam]]", "[[Manas]]", "[[Buddhi]]", "[[chitta]]", "[[Aha
 
 # Garikapati Narasimha Rao
 
-Garikapati Narasimha Rao is referenced in this vault as an explanatory source for the inner instrument quartet: [[Manas]], [[Buddhi]], [[chitta]], and [[Ahamkara]].
+Explains the antaḥkaraṇa quartet → how the four differ: [[Manas]], [[Buddhi]], [[chitta]], [[Ahamkara]].
 
-The current vault reference is attached to [[NirvanaShatakam]], where his explanation is used to clarify how these four functions differ.
-
-## Related Concepts
-
-- [[NirvanaShatakam]]
-- [[Manas]]
-- [[Buddhi]]
-- [[chitta]]
-- [[Ahamkara]]
+Referenced in [[NirvanaShatakam]].

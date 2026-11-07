@@ -11,15 +11,16 @@ related: ["[[speech]]"]
 
 # eye
 
-This note records proposed Sanskrit word associations for the idea of an **eye**:
+అక్షి - pass throught, penetrate, reach out. Axel, axis.
 
-- **akṣi** is associated here with passing through, reaching, or extending outward;
-- **nayana** and **netra** are associated with leading;
-- **cakṣus** is associated with seeing; and
-**dṛś** and **dṛk** are associated with seeing or an opening.
+నయన నేత్ర --> root word నేత - That which leads us forward
+చక్షు -->  root word చాష్ - To see
+దృష --> దృక్ - An openning
 
-These are working etymological notes, not verified conclusions. Check each derivation against a Sanskrit dictionary and the original grammatical context before treating it as established.
+కామాక్షి, మీనాక్షి , విశాలాక్షి
 
-## Source
+(verify these roots in a dictionary)
 
-- [Source lecture](https://www.youtube.com/watch?v=OfBf-UFXlUg)
+## Resources
+
+https://www.youtube.com/watch?v=OfBf-UFXlUg

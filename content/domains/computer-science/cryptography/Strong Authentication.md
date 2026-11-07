@@ -11,14 +11,13 @@ related: ["[[Authentication]]", "[[Token Authentication]]", "[[Zero-Trust]]"]
 
 # Strong Authentication
 
-Strong authentication verifies identity with evidence that is hard for an attacker to copy, guess, replay, or steal.
+User verification that is robust and can withstand attacks on the system.
 
-The practical pattern is to avoid relying on a bare password. A stronger system may require a challenge-response proof, a device-bound credential, a cryptographic key, or multiple independent factors. The user proves possession of the credential without simply handing over a reusable secret.
+- Not a bare password. Hard to copy, guess, replay or steal.
+- Challenge-response: you don't present the password (or the crypto entity) itself, you prove you possess it. Similar to zero-knowledge proof.
+- Device-bound credential, crypto key, multiple independent factors.
+- Feeds [[Zero-Trust]]: verify each access with strong evidence, not network location.
+- [[Authentication]], [[Token Authentication]]
 
-This supports [[Zero-Trust]] because each access attempt can be verified with stronger evidence instead of assuming that network location is enough.
-
-## Related
-
-- [[Authentication]]
-- [[Token Authentication]]
-- [[Zero-Trust]]
+https://en.wikipedia.org/wiki/Strong_authentication
+https://www.hypr.com/strong-authentication/

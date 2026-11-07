@@ -10,9 +10,7 @@ related: ["[[Brian Kernighan interview]]", "[[Unix philosophy]]", "[[Hello World
 
 # Brian Kernighan
 
-Brian Kernighan is a computer scientist associated with Unix, C, and practical programming style.
-
-## Related Concepts
+Computer scientist. Unix, C, practical programming style.
 
 - [[Brian Kernighan interview]]
 - [[Unix philosophy]]

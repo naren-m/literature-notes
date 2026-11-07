@@ -10,6 +10,4 @@ related: ["[[Aryan Invasion Theory]]"]
 
 # Max Muller
 
-This note records the claim that Max Müller may have been among the people who first used or popularized the [[Aryan Invasion Theory]].
-
-The claim needs verification against his published work and the history of the term.
+Could have first coined [[Aryan Invasion Theory]] (verify)

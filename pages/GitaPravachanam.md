@@ -25,7 +25,7 @@ status: "draft"
         - Samhita
       - Jnyana bhagam
         - Veedanta or Upanishad
-  - [[vedanta|Vedanta]] [[content/domains/humanities/sanskrit-literature/Sutra]]s or [[Brahma Sutra]] (timestamp 78 0)
+  - [[vedanta|Vedanta]] [[Sutra]]s or [[Brahma Sutra]] (timestamp 78 0)
   - Essense of the [[Upanishads|upanishads]] [[Bhagavadgita]]
 - (timestamp 151 3) Gita will be divided into 3 Shatkams
   - Pradhama Shatkam

@@ -57,7 +57,7 @@ This domain contains **50 notes** covering:
 ## 📖 Language & Grammar
 
 - [[Ashtadhyayi]] - [[Panini]]'s Sanskrit grammar
-- [[content/domains/humanities/sanskrit-literature/Sutra]] - Aphoristic style
+- [[Sutra]] - Aphoristic style
 - [[Niruktha]] - Etymology and semantics
 - [[Sulba Sutras]] - Geometric mathematics
 
@@ -124,7 +124,7 @@ Vision and insight
 ### Language Scholar
 1. [[Ashtadhyayi]] - Grammar foundation
 2. [[Niruktha]] - Etymology
-3. [[content/domains/humanities/sanskrit-literature/Sutra]] - Aphoristic style
+3. [[Sutra]] - Aphoristic style
 4. [[Amarakosham]] - Vocabulary
 
 ### Philosophy Student

@@ -33,8 +33,6 @@ Not this, not this. What remains → chidananda rupah shivo'ham.
 - Aims of life: [[Dharma]], [[karma]], [[Purushartha]], [[Moksha]]
 - What remains: [[Vikalpa]] (nirvikalpa), [[Chidananda]], [[shiva]]
 
-Word analysis below: Dhātupāṭha roots + kṛt pratyayas → [[Panini]]'s grammar.
-
 ---
 
 ## Verse 1 (प्रथमः श्लोकः)

@@ -19,6 +19,8 @@ The base should contain many fast unit tests because they isolate small behavior
 
 The pyramid is not saying that higher-level tests are unimportant. It is saying that expensive tests should prove only what cheaper tests cannot. Repeating the same assertion at every layer creates a slow test suite without adding much confidence.
 
+![Comic: a bug caught in a unit test is tiny and cheap, in an integration test it needs a team call, in an end-to-end test it eats the afternoon; clubbing all layers into one giant test makes a melting upside-down pyramid where nobody knows what failed](./assets/testing-pyramid-bug-cost.svg)
+
 ## Related
 
 - [[Testing Principles]]

@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-labelledby="t d" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
+  <title id="t">How bad is a bug at each layer?</title>
+  <desc id="d">A comic. A bug caught by a unit test is tiny and fixed with a coffee. Caught by an integration test it is bigger and needs a team call. Caught by an end-to-end test it is a monster that eats the afternoon. Below, clubbing all layers into one giant test makes a melting ice-cream cone: slow, flaky, and when it fails nobody knows which part broke.</desc>
+  <defs>
+    <g id="bug">
+      <g stroke="#1f2937" stroke-width="3" stroke-linecap="round" fill="none">
+        <path d="M-18 -6 l-16 -10 M-20 6 l-18 0 M-18 16 l-16 10 M18 -6 l16 -10 M20 6 l18 0 M18 16 l16 10"/>
+        <path d="M-8 -26 q-6 -14 -16 -16 M8 -26 q6 -14 16 -16"/>
+      </g>
+      <ellipse cx="0" cy="6" rx="22" ry="26" fill="#7c3aed" stroke="#1f2937" stroke-width="3"/>
+      <line x1="0" y1="-14" x2="0" y2="30" stroke="#1f2937" stroke-width="2"/>
+      <circle cx="0" cy="-22" r="13" fill="#1f2937"/>
+      <circle cx="-5" cy="-24" r="4" fill="#fff"/><circle cx="5" cy="-24" r="4" fill="#fff"/>
+      <circle cx="-4" cy="-23" r="1.8" fill="#1f2937"/><circle cx="6" cy="-23" r="1.8" fill="#1f2937"/>
+    </g>
+  </defs>
+  <rect width="900" height="640" rx="14" fill="#ffffff"/>
+  <text x="450" y="42" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2937">Where did you catch the bug?</text>
+
+  <!-- Panel 1 -->
+  <rect x="30" y="66" width="270" height="270" rx="12" fill="#e3f2df" stroke="#3f8f3a" stroke-width="2.5"/>
+  <text x="165" y="96" text-anchor="middle" font-size="18" font-weight="700" fill="#14532d">Unit test</text>
+  <use href="#bug" transform="translate(165 180) scale(0.55)"/>
+  <rect x="90" y="150" width="150" height="70" fill="none"/>
+  <text x="165" y="245" text-anchor="middle" font-size="14" fill="#14532d" font-style="italic">"oh, an off-by-one"</text>
+  <text x="165" y="280" text-anchor="middle" font-size="13" fill="#374151">Time to fix: 2 minutes</text>
+  <text x="165" y="300" text-anchor="middle" font-size="13" fill="#374151">People involved: you</text>
+  <text x="165" y="320" text-anchor="middle" font-size="13" fill="#374151">Cost: half a coffee ☕</text>
+
+  <!-- Panel 2 -->
+  <rect x="315" y="66" width="270" height="270" rx="12" fill="#fef3d6" stroke="#d9a21b" stroke-width="2.5"/>
+  <text x="450" y="96" text-anchor="middle" font-size="18" font-weight="700" fill="#78350f">Integration test</text>
+  <use href="#bug" transform="translate(450 180) scale(1.05)"/>
+  <text x="450" y="245" text-anchor="middle" font-size="14" fill="#78350f" font-style="italic">"works on my service…"</text>
+  <text x="450" y="280" text-anchor="middle" font-size="13" fill="#374151">Time to fix: half a day</text>
+  <text x="450" y="300" text-anchor="middle" font-size="13" fill="#374151">People involved: 3 teams, 1 call</text>
+  <text x="450" y="320" text-anchor="middle" font-size="13" fill="#374151">Cost: a pizza 🍕</text>
+
+  <!-- Panel 3 -->
+  <rect x="600" y="66" width="270" height="270" rx="12" fill="#fde2e1" stroke="#dc4c43" stroke-width="2.5"/>
+  <text x="735" y="96" text-anchor="middle" font-size="18" font-weight="700" fill="#7f1d1d">End-to-end test</text>
+  <g transform="translate(735 172) scale(1.4)">
+    <use href="#bug"/>
+    <path d="M-8 -14 l4 5 l4 -5 l4 5 l4 -5" stroke="#fff" stroke-width="1.6" fill="none"/>
+  </g>
+  <text x="664" y="128" font-size="13" font-weight="700" fill="#b91c1c" transform="rotate(-12 664 128)">RAWR</text>
+  <text x="735" y="245" text-anchor="middle" font-size="14" fill="#7f1d1d" font-style="italic">"it failed… sometimes?"</text>
+  <text x="735" y="280" text-anchor="middle" font-size="13" fill="#374151">Time to fix: 40-min reruns × ∞</text>
+  <text x="735" y="300" text-anchor="middle" font-size="13" fill="#374151">People involved: everyone</text>
+  <text x="735" y="320" text-anchor="middle" font-size="13" fill="#374151">Cost: your afternoon 🔥</text>
+
+  <!-- Bottom: clubbing it all together -->
+  <rect x="30" y="356" width="840" height="262" rx="12" fill="#f3f4f6" stroke="#9ca3af" stroke-width="2" stroke-dasharray="7 5"/>
+  <text x="450" y="388" text-anchor="middle" font-size="19" font-weight="700" fill="#1f2937">Now club them all into one giant test…</text>
+
+  <!-- Melting ice-cream cone (inverted pyramid) -->
+  <g transform="translate(170 418)">
+    <path d="M-62 70 L0 182 L62 70 Z" fill="#f4c27a" stroke="#a16207" stroke-width="2.5" stroke-linejoin="round"/>
+    <clipPath id="cone"><path d="M-62 70 L0 182 L62 70 Z"/></clipPath>
+    <g clip-path="url(#cone)" stroke="#a16207" stroke-width="1.5"><path d="M-70 80 l120 120 M-40 70 l120 120 M-10 70 l120 120 M-100 90 l120 120 M70 80 l-120 120 M40 70 l-120 120 M10 70 l-120 120 M100 90 l-120 120"/></g>
+    <circle cx="0" cy="12" r="54" fill="#fde2e1" stroke="#dc4c43" stroke-width="2.5"/>
+    <ellipse cx="0" cy="62" rx="64" ry="18" fill="#fef3d6" stroke="#d9a21b" stroke-width="2.5"/>
+    <path d="M-30 70 q0 30 -6 40 q-4 8 -8 0 q-3 -10 0 -38 M28 72 q2 22 6 30 q4 6 7 -1 q1 -12 -2 -29" fill="#fef3d6" stroke="#d9a21b" stroke-width="2"/>
+    <rect x="-12" y="70" width="24" height="10" rx="3" fill="#e3f2df" stroke="#3f8f3a" stroke-width="2"/>
+    <text x="0" y="14" text-anchor="middle" font-size="14" font-weight="700" fill="#7f1d1d">E2E</text>
+    <text x="0" y="66" text-anchor="middle" font-size="11" font-weight="700" fill="#78350f">integration</text>
+    
+  </g>
+  <text x="244" y="500" font-size="12" fill="#6b7280">← tiny unit</text>
+  <text x="232" y="420" font-size="12" fill="#6b7280">← giant E2E top</text>
+  <text x="170" y="612" text-anchor="middle" font-size="12" fill="#6b7280" font-style="italic">the pyramid, upside down (and melting)</text>
+
+  <!-- Failure dialog -->
+  <g transform="translate(330 412)">
+    <rect width="250" height="150" rx="10" fill="#ffffff" stroke="#dc4c43" stroke-width="2.5"/>
+    <rect width="250" height="30" rx="10" fill="#dc4c43"/><rect y="20" width="250" height="10" fill="#dc4c43"/>
+    <text x="14" y="21" font-size="14" font-weight="700" fill="#fff">✖ test_everything FAILED</text>
+    <text x="14" y="56" font-size="13" fill="#374151">Runtime: 47 min</text>
+    <text x="14" y="78" font-size="13" fill="#374151">Assertions: 312</text>
+    <text x="14" y="100" font-size="13" fill="#374151">Which one failed? Yes.</text>
+    <text x="14" y="122" font-size="13" fill="#374151">Passes on retry: 2 of 5</text>
+    <text x="14" y="142" font-size="11" fill="#9ca3af">[ Retry ]   [ Retry harder ]</text>
+  </g>
+
+  <!-- Takeaways -->
+  <g font-size="14" fill="#1f2937">
+    <text x="610" y="430" font-weight="700">What goes wrong</text>
+    <text x="610" y="458">• One red X, many possible causes</text>
+    <text x="610" y="482">• Same check repeated at every</text>
+    <text x="624" y="500">layer = slow suite, no extra trust</text>
+    <text x="610" y="524">• Feedback arrives after lunch</text>
+    <text x="610" y="548">• Flaky top layer hides real bugs</text>
+    <text x="610" y="584" font-weight="700" fill="#15803d">Fix: keep layers separate and</text>
+    <text x="610" y="602" font-weight="700" fill="#15803d">catch bugs as low as you can.</text>
+  </g>
+</svg>

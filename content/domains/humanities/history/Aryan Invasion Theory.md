@@ -10,19 +10,34 @@ related: ["[[Max Muller]]", "[[India]]", "[[Panini]]", "[[Indology]]"]
 
 # Aryan Invasion Theory
 
-The Aryan Invasion Theory is a group of explanations for how Indo-European languages and Vedic culture relate to the history of the Indian subcontinent.
+Big question. How do Indo-European languages and Vedic culture connect to the history of the Indian subcontinent?
 
-The older invasion model proposed a sudden military arrival around 1500 BCE. Later models put more weight on gradual migration, cultural interaction, or indigenous development. These positions should not be treated as the same claim.
+## Not one theory
 
-The evidence is interpreted across several fields:
+People say "Aryan Invasion Theory" like it is one claim. It's not.
 
-- archaeology studies settlement change, material culture, and the decline of Harappan cities;
-- linguistics studies relationships between Sanskrit and other Indo-European languages; and
-- genetics studies population movement and mixture.
+- The old invasion model: a sudden military arrival around 1500 BCE.
+- Later models: gradual migration, cultural interaction, or indigenous development.
 
-The current note records competing models rather than a settled conclusion. Questions remain about the scale and timing of migration, the relationship between Harappan and later cultures, and how language, material culture, and ancestry should be connected.
+These are different claims. Don't mix them up.
 
-Claims about colonial interpretation, genetics, chronology, and named scholars need to be checked against primary archaeological, linguistic, genetic, and historical sources.
+## Three fields, three kinds of evidence
+
+- Archaeology → settlement change, material culture, the decline of Harappan cities.
+- Linguistics → how Sanskrit relates to the other Indo-European languages.
+- Genetics → population movement and mixture.
+
+Each field reads the evidence its own way. The hard part is connecting them.
+
+## Still open
+
+I'm keeping competing models here, not a settled answer.
+
+- How big was the migration, and when?
+- How do Harappan and later cultures relate?
+- How should language, material culture and ancestry be tied together? Same people ≠ same language ≠ same pots.
+
+Claims about colonial interpretation, genetics, chronology and named scholars still need checking against primary archaeological, linguistic, genetic and historical sources.
 
 ## Sources to verify
 
@@ -33,8 +48,6 @@ Claims about colonial interpretation, genetics, chronology, and named scholars n
 - Jonathan Mark Kenoyer, *Ancient Cities of the Indus Valley Civilization* (1998)
 - [Archaeological Survey of India](http://asi.nic.in/)
 - [Harappa.com](http://www.harappa.com/)
-
-## Related
 
 - [[Max Muller]]
 - [[Panini]]

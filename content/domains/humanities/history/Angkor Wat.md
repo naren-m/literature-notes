@@ -10,6 +10,5 @@ related: ["[[Angkor Wat]]"]
 
 # Angkor Wat
 
-This note records a claim attributed to Elemot Malika: repeated circumambulation by devotees may channel energy around Angkor Wat.
-
-The claim and the spelling of the source's name need verification.
+- [[Angkor Wat]] - Elemot Malika, studied movement of energy around the temple. Because of years of Circumambulation by devotees for decades and centuries, Energy gets channelized. and she did find that energy
+- (verify the claim and spelling of the name)

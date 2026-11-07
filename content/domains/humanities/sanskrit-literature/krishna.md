@@ -6,7 +6,7 @@ category: "sanskrit-lit/Deities"
 tags: ["krishna", "vishnu", "devotional", "vedic"]
 status: "incomplete"
 source: "Vishnusahasranamam by Dushyanth Sridhar"
-related: ["[[acharya]]", "[[content/domains/humanities/sanskrit-literature/Sutra]]", "[[literature-notes/VishnuSahasranamamByDusyanthSridhar]]", "[[VishnuSahasranamam]]"]
+related: ["[[acharya]]", "[[Sutra]]", "[[VishnuSahasranamamByDusyanthSridhar]]", "[[VishnuSahasranamam]]"]
 ---
 
 # Krishna
@@ -17,7 +17,7 @@ He whose complexion is dark, Dark-complexioned.
 
 JagathGuru, Jagath[[acharya]]
 
-Aapasthamba[[content/domains/humanities/sanskrit-literature/Sutra]]s: maathethyekee, Matheethyeke
+Aapasthamba[[Sutra]]s: maathethyekee, Matheethyeke
 
 No one else is equivalent to Amma
 
@@ -29,6 +29,6 @@ Srivatsa lakshmam, jalashobhi kousthubham peethambaram.....
 Vyuthpathi - balakam.
 
 ## Reference
-- [[literature-notes/VishnuSahasranamamByDusyanthSridhar]]
+- [[VishnuSahasranamamByDusyanthSridhar]]
 - [[VishnuSahasranamam]]
 - [A brilliant lecture on 'KRISHNAM VANDE JAGADGURUM' in English by Dushyanth Sridhar - MUST WATCH!](https://www.youtube.com/watch?v=UFi-bLF65mA&t=571s)

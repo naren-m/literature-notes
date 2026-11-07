@@ -11,6 +11,8 @@ related: ["[[Testing Principles]]", "[[Test Driven Dev]]", "[[Maintaining code b
 
 # Testing Pyramid
 
+![Testing pyramid: many unit tests at the base, fewer integration tests, fewest end-to-end tests at the top](./assets/testing-pyramid.svg)
+
 The testing pyramid is a rule of thumb for balancing automated tests by cost and feedback speed.
 
 The base should contain many fast unit tests because they isolate small behavior and can run constantly. The middle contains fewer integration tests because they check collaboration between components but cost more to set up and debug. The top contains the smallest number of end-to-end tests because they exercise real workflows but are slower, more brittle, and harder to diagnose.

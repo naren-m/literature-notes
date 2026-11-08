@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Security"
 tags: ["security"]
 status: "draft"
-related: ["[[Cryptography]]", "[[STRIDE]]"]
+related: ["[[Cryptography]]", "[[STRIDE]]", "[[Buffer Overflows]]", "[[DLL Preloading Attack]]", "[[Elevation of Privilege]]", "[[Information Disclosure]]", "[[Initialization Vector]]", "[[LOJAX]]", "[[Zero Day Attack]]"]
 ---
 
 # Security Vulnerabilities

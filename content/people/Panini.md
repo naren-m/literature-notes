@@ -5,7 +5,7 @@ type: "permanent"
 category: "People"
 tags: ["linguistics", "sanskrit", "grammar", "formal-systems"]
 status: "complete"
-related: ["[[Ashtadhyayi]]", "[[Niruktha]]", "[[India]]"]
+related: ["[[Ashtadhyayi]]", "[[Niruktha]]", "[[India]]", "[[Aryan Invasion Theory]]", "[[Indology]]"]
 ---
 
 # Panini (पाणिनि)

@@ -6,7 +6,7 @@ category: "Computer Science/Coding Practices"
 tags: ["programming", "learning"]
 status: "draft"
 source: "https://en.wikipedia.org/wiki/%22Hello,_World!%22_program"
-related: ["[[Brian Kernighan]]", "[[Unix philosophy]]"]
+related: ["[[Brian Kernighan]]", "[[Unix philosophy]]", "[[Brian Kernighan interview]]"]
 ---
 
 # Hello World

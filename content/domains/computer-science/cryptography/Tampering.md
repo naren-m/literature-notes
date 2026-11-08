@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: []
 status: "draft"
-related: ["[[Tampering]]", "[[Integrity]]"]
+related: ["[[Tampering]]", "[[Integrity]]", "[[Digital signatures]]", "[[ECC memory]]", "[[Hashing]]", "[[Rowhammer]]", "[[STRIDE]]"]
 ---
 
 # Tampering

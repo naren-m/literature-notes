@@ -48,6 +48,8 @@ status: "draft"
 
 ## Memory
 
+- Also read: [[Unlimited Memory]], [[Speed Reading]]
+
 ### Sugestions from [[Moonwalking With Einstein]]
 - The Mind of a Mnemonist: A Little Book About a Vast Memory that has become one of the most enduring classics in the literature of abnormal psychology
 - Shakuntala, D. (1977). Figuring: the joy of numbers. New York: Harper & Row. (Location 4111)

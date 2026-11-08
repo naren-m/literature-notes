@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: []
 status: "draft"
-related: ["[[Rowhammer]]", "[[Tampering]]"]
+related: ["[[Rowhammer]]", "[[Tampering]]", "[[Cryptography]]"]
 ---
 
 # ECC memory

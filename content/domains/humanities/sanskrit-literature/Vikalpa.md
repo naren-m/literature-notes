@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["yoga", "sanskrit", "language", "mind"]
 status: "complete"
-related: ["[[YogaSutras]]", "[[Pramana]]", "[[Viparyaya]]", "[[NirvanaShatakam]]"]
+related: ["[[YogaSutras]]", "[[Pramana]]", "[[Viparyaya]]", "[[NirvanaShatakam]]", "[[Chidananda]]", "[[Moksha]]"]
 ---
 
 # Vikalpa

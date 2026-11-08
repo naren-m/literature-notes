@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: ["cryptography", "authentication", "hashing"]
 status: "draft"
-related: ["[[Message Authentication Code]]", "[[Hashing]]", "[[Authentication]]"]
+related: ["[[Message Authentication Code]]", "[[Hashing]]", "[[Authentication]]", "[[Cryptography]]"]
 ---
 
 # HMAC

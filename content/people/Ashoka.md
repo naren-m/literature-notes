@@ -6,7 +6,7 @@ category: "People"
 tags: ["Ashoka", "India", "History"]
 status: "draft"
 source: "https://www.youtube.com/watch?v=HvTdiKzQEKE&t=136"
-related: ["[[India]]"]
+related: ["[[India]]", "[[Indology]]"]
 ---
 
 # Ashoka

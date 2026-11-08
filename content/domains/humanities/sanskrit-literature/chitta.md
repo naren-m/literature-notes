@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: []
 status: "draft"
-related: ["[[YogaSutras]]", "[[karma]]", "[[Dharma]]", "[[Apsaras]]", "[[Dharmanatha_Sloka]]", "[[Nada]]", "[[Manas]]", "[[Buddhi]]", "[[Ahamkara]]", "[[NirvanaShatakam]]"]
+related: ["[[YogaSutras]]", "[[karma]]", "[[Dharma]]", "[[Apsaras]]", "[[Dharmanatha_Sloka]]", "[[Nada]]", "[[Manas]]", "[[Buddhi]]", "[[Ahamkara]]", "[[NirvanaShatakam]]", "[[Garikapati Narasimha Rao]]"]
 ---
 
 # chitta

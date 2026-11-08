@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["sanskrit", "grammar", "linguistics"]
 status: "complete"
-related: ["[[Panini]]", "[[SivaSurta]]", "[[Niruktha]]"]
+related: ["[[Panini]]", "[[SivaSurta]]", "[[Niruktha]]", "[[Amarakosham]]"]
 ---
 
 # Ashtadhyayi

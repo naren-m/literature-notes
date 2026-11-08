@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: []
 status: "draft"
-related: ["[[Nada]]", "[[Agni]]", "[[Vayu]]", "[[PanchaVayu]]", "[[PanchaKosha]]", "[[SaptaDhatu]]", "[[NirvanaShatakam]]"]
+related: ["[[Nada]]", "[[Agni]]", "[[Vayu]]", "[[PanchaVayu]]", "[[PanchaKosha]]", "[[SaptaDhatu]]", "[[NirvanaShatakam]]", "[[Ayurvedam]]", "[[Sangitaratnakaram]]", "[[Upanishads]]", "[[VishnuSahasranamam]]"]
 ---
 
 # Prana

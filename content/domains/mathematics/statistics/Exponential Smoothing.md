@@ -5,7 +5,7 @@ type: "permanent"
 category: "Mathematics/Statistics"
 tags: []
 status: "draft"
-related: ["[[Time series]]", "[[ARIMA]]"]
+related: ["[[Time series]]", "[[ARIMA]]", "[[Prophet]]"]
 ---
 
 # Exponential Smoothing

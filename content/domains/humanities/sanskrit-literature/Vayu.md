@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["sanskrit", "yoga", "ayurveda", "vitality"]
 status: "complete"
-related: ["[[PanchaVayu]]", "[[Prana]]", "[[NirvanaShatakam]]"]
+related: ["[[PanchaVayu]]", "[[Prana]]", "[[NirvanaShatakam]]", "[[Ayurvedam]]"]
 ---
 
 # Vayu

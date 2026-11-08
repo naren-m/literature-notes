@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: ["security", "confidentiality", "integrity", "availability"]
 status: "complete"
-related: ["[[Confidentiality]]", "[[Integrity]]", "[[Availability]]", "[[STRIDE]]"]
+related: ["[[Confidentiality]]", "[[Integrity]]", "[[Availability]]", "[[STRIDE]]", "[[Cryptography]]"]
 ---
 
 # CIA Triad

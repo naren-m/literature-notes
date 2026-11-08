@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: []
 status: "draft"
-related: ["[[Spoofing]]", "[[Authentication]]"]
+related: ["[[Spoofing]]", "[[Authentication]]", "[[Digital signatures]]", "[[STRIDE]]"]
 ---
 
 # Spoofing

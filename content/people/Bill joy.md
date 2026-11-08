@@ -5,7 +5,7 @@ type: "permanent"
 category: "People"
 tags: []
 status: "draft"
-related: ["[[Outliers]]", "[[Bill Joy]]"]
+related: ["[[Outliers]]", "[[Bill Joy]]", "[[Brian Kernighan interview]]"]
 ---
 
 # Bill joy

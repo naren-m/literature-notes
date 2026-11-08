@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["sanskrit", "literature", "philosophy"]
 status: "complete"
-related: ["[[SivaSurta]]", "[[YogaSutras]]", "[[VaishshikaSutra]]", "[[NyayaSutra]]", "[[Sulba Sutras]]"]
+related: ["[[SivaSurta]]", "[[YogaSutras]]", "[[VaishshikaSutra]]", "[[NyayaSutra]]", "[[Sulba Sutras]]", "[[HowToSpeakLikeHanuma]]", "[[krishna]]"]
 ---
 
 # Sutra

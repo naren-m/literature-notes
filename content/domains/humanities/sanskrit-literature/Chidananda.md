@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["vedanta", "consciousness", "sanskrit"]
 status: "draft"
-related: ["[[NirvanaShatakam]]", "[[shiva]]", "[[Moksha]]", "[[Vikalpa]]"]
+related: ["[[NirvanaShatakam]]", "[[shiva]]", "[[Moksha]]", "[[Vikalpa]]", "[[PanchaKosha]]"]
 ---
 
 # Chidananda

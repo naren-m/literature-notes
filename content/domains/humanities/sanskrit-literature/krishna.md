@@ -6,7 +6,7 @@ category: "sanskrit-lit/Deities"
 tags: ["krishna", "vishnu", "devotional", "vedic"]
 status: "incomplete"
 source: "Vishnusahasranamam by Dushyanth Sridhar"
-related: ["[[acharya]]", "[[Sutra]]", "[[VishnuSahasranamamByDusyanthSridhar]]", "[[VishnuSahasranamam]]"]
+related: ["[[acharya]]", "[[Sutra]]", "[[VishnuSahasranamamByDusyanthSridhar]]", "[[VishnuSahasranamam]]", "[[tithi]]"]
 ---
 
 # Krishna

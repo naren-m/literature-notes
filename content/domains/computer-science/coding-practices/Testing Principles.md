@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Coding Practices"
 tags: ["testing", "quality", "maintainability"]
 status: "complete"
-related: ["[[Testing Pyramid]]", "[[Test Driven Dev]]", "[[State Coverage]]"]
+related: ["[[Testing Pyramid]]", "[[Test Driven Dev]]", "[[State Coverage]]", "[[Idempotence]]", "[[Maintaining code base]]"]
 ---
 
 # Testing Principles
@@ -19,7 +19,7 @@ related: ["[[Testing Pyramid]]", "[[Test Driven Dev]]", "[[State Coverage]]"]
         1. is it more readable
         2. can you make it more readable and maintainable
 4. ALWAYS Document the process
-    1. [[Readme]]
+    1. Readme
     2. Meaning full Commit messages
 5. Quality metrics are just side effect of a "Good Code-base"
 

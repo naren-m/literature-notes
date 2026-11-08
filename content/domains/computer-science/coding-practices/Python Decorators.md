@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Coding Practices"
 tags: ["python", "programming", "functions"]
 status: "draft"
-related: ["[[Decorator Pattern]]", "[[Python]]", "[[API Design]]"]
+related: ["[[Decorator Pattern]]", "[[Python]]", "[[API Design]]", "[[design_patterns]]"]
 ---
 
 # Python Decorators

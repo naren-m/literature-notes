@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: []
 status: "draft"
-related: ["[[Cryptography]]", "[[Encryption]]", "[[CIA Triad]]", "[[STRIDE]]", "[[Information Disclosure]]"]
+related: ["[[Cryptography]]", "[[Encryption]]", "[[CIA Triad]]", "[[STRIDE]]", "[[Information Disclosure]]", "[[Digital signatures]]", "[[Harvest now decrypt later makes key exchange urgent]]", "[[Initialization Vector]]", "[[Message Authentication Code]]"]
 ---
 
 # Confidentiality

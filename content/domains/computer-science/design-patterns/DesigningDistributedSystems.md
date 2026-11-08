@@ -5,7 +5,7 @@ type: "research"
 category: "Computer Science/Design Patterns"
 tags: ["programming", "learning", "investigate"]
 status: "draft"
-related: ["[[DesigningDistributedSystems.pdf]]"]
+related: ["[[DesigningDistributedSystems.pdf]]", "[[Idempotence]]"]
 ---
 
 # DesigningDistributedSystems

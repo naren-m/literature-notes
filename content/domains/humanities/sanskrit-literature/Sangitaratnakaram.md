@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["music", "carnatic", "treatise", "classical-text", "theory"]
 status: "draft"
-related: ["[[Carnatic music]]", "[[Nada]]", "[[Prana]]", "[[Brihadesi]]", "[[Katapayadi_Melakarta_Guide]]", "[[Agni]]"]
+related: ["[[Carnatic music]]", "[[Nada]]", "[[Prana]]", "[[Brihadesi]]", "[[Katapayadi_Melakarta_Guide]]", "[[Agni]]", "[[Music Theory]]"]
 ---
 
 # Sangitaratnakaram

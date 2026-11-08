@@ -6,7 +6,7 @@ category: "Humanities/Sanskrit Literature"
 tags: []
 status: "incomplete"
 source: "https://www.wisdomlib.org/hinduism/book/vaisheshika-sutra-commentary"
-related: ["[[sutra]]", "[[karma]]"]
+related: ["[[sutra]]", "[[karma]]", "[[Vaiseshika Darshanam]]"]
 ---
 
 # VaishshikaSutra

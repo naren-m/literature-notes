@@ -6,7 +6,7 @@ category: "Computer Science/Coding Practices"
 tags: ["software-design", "unix", "tools"]
 status: "draft"
 source: "https://en.wikipedia.org/wiki/Unix_philosophy"
-related: ["[[Maintaining code base]]", "[[Persistent LLM wikis make synthesis compounding]]", "[[Decorator Pattern]]"]
+related: ["[[Maintaining code base]]", "[[Persistent LLM wikis make synthesis compounding]]", "[[Decorator Pattern]]", "[[Brian Kernighan]]", "[[Brian Kernighan interview]]", "[[Hello World]]"]
 ---
 
 # Unix philosophy

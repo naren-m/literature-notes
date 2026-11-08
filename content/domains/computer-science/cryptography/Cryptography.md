@@ -5,7 +5,7 @@ type: "permanent"
 category: "CSE/Cryptography"
 tags: ["cryptography", "security", "encryption", "hashing"]
 status: "complete"
-related: ["[[CIA Triad]]", "[[Confidentiality]]", "[[Integrity]]", "[[Availability]]", "[[Encryption]]", "[[Hashing]]", "[[Digital signatures]]", "[[Fingerprint]]", "[[Multifernet]]"]
+related: ["[[CIA Triad]]", "[[Confidentiality]]", "[[Integrity]]", "[[Availability]]", "[[Encryption]]", "[[Hashing]]", "[[Digital signatures]]", "[[Fingerprint]]", "[[Multifernet]]", "[[Authentication]]", "[[Cache prefetching]]", "[[JSON]]", "[[Security Vulnerabilities]]"]
 ---
 
 # Cryptography

@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: ["cryptography", "post-quantum-cryptography", "encryption"]
 status: "complete"
-related: ["[[Encryption]]", "[[Public Key]]", "[[Key exchange]]"]
+related: ["[[Encryption]]", "[[Public Key]]", "[[Key exchange]]", "[[Harvest now decrypt later makes key exchange urgent]]", "[[Post-quantum signature migration is an ecosystem problem]]", "[[Quantum attacks depend on exploitable mathematical structure]]"]
 ---
 
 # Lattice-based encryption

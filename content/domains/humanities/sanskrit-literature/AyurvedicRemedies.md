@@ -6,7 +6,7 @@ category: "Humanities/Sanskrit Literature"
 tags: ["ayurveda", "remedies"]
 status: "draft"
 source: ""
-related: ["[[curd]]", "[[dadhi]]"]
+related: ["[[curd]]", "[[dadhi]]", "[[Ayurvedam]]"]
 ---
 
 # AyurvedicRemedies

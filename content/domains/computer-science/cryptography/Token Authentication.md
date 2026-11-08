@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: []
 status: "draft"
-related: ["[[Digital signatures]]", "[[Cryptography]]"]
+related: ["[[Digital signatures]]", "[[Cryptography]]", "[[Authentication]]", "[[JSON]]", "[[Strong Authentication]]"]
 ---
 
 # Token Authentication

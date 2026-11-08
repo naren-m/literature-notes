@@ -6,7 +6,7 @@ category: "Humanities/Sanskrit Literature/Yoga Sutras"
 tags: []
 status: "incomplete"
 source: "https://docs.google.com/document/d/1hk-x7aeTDUctepJ4j9_pJQNf8vJNS5GQhbhZySFA-dc/edit"
-related: ["[[chitta]]", "[[dRShTi]]", "[[Pramana]]", "[[Viparyaya]]", "[[Vikalpa]]", "[[nidra]]", "[[smrthi]]", "[[sleep]]"]
+related: ["[[chitta]]", "[[dRShTi]]", "[[Pramana]]", "[[Viparyaya]]", "[[Vikalpa]]", "[[nidra]]", "[[smrthi]]", "[[sleep]]", "[[Sutra]]", "[[karma]]"]
 ---
 
 # YogaSutras

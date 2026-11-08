@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: []
 status: "draft"
-related: ["[[Denial of Service]]", "[[Availability]]"]
+related: ["[[Denial of Service]]", "[[Availability]]", "[[CIA Triad]]", "[[STRIDE]]"]
 ---
 
 # Denial of Service

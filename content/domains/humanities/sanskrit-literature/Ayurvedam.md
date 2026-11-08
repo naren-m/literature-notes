@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["ayurveda", "traditional-medicine", "health"]
 status: "complete"
-related: ["[[charaka_samhitha]]", "[[AyurvedicRemedies]]", "[[Prana]]", "[[Vayu]]"]
+related: ["[[charaka_samhitha]]", "[[AyurvedicRemedies]]", "[[Prana]]", "[[Vayu]]", "[[SaptaDhatu]]"]
 ---
 
 # Ayurvedam

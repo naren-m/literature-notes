@@ -6,7 +6,7 @@ category: "Humanities/Sanskrit Literature"
 tags: []
 status: "incomplete"
 source: "https://ashtadhyayi.com/shivasutra"
-related: ["[[Ashtadhyayi]]"]
+related: ["[[Ashtadhyayi]]", "[[Sutra]]"]
 ---
 
 # SivaSurta

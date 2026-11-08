@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Security"
 tags: ["security", "threat-modeling", "stride"]
 status: "draft"
-related: ["[[STRIDE]]", "[[Authorization]]", "[[Security Vulnerabilities]]"]
+related: ["[[STRIDE]]", "[[Authorization]]", "[[Security Vulnerabilities]]", "[[DLL Preloading Attack]]"]
 ---
 
 # Elevation of Privilege

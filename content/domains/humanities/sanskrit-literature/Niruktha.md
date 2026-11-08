@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["sanskrit", "etymology", "linguistics", "vedanga"]
 status: "complete"
-related: ["[[Ashtadhyayi]]", "[[Amarakosham]]", "[[Dharma]]"]
+related: ["[[Ashtadhyayi]]", "[[Amarakosham]]", "[[Dharma]]", "[[Panini]]"]
 ---
 
 # Niruktha

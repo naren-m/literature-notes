@@ -5,6 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: []
 status: "draft"
+related: ["[[Cryptography]]", "[[Encryption]]"]
 ---
 
 # Multifernet

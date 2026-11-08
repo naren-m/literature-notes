@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Security"
 tags: ["security", "windows", "vulnerabilities"]
 status: "draft"
-related: ["[[Elevation of Privilege]]", "[[Security Vulnerabilities]]", "[[STRIDE]]"]
+related: ["[[Elevation of Privilege]]", "[[Security Vulnerabilities]]", "[[STRIDE]]", "[[Cryptography]]"]
 ---
 
 # DLL Preloading Attack

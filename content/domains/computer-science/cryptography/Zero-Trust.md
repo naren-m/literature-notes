@@ -6,7 +6,7 @@ category: "Computer Science/Security"
 tags: ["security", "authentication", "architecture"]
 status: "draft"
 source: "https://www.paloaltonetworks.com/cyberpedia/what-is-a-zero-trust-architecture"
-related: ["[[Authentication]]", "[[Strong Authentication]]", "[[Data Sensitivity]]"]
+related: ["[[Authentication]]", "[[Strong Authentication]]", "[[Data Sensitivity]]", "[[LOJAX]]", "[[Root of trust]]"]
 ---
 
 # Zero-Trust

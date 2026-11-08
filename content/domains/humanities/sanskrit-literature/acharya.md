@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["DushyanthSridar"]
 status: "draft"
-related: ["[[krishna]]"]
+related: ["[[krishna]]", "[[VishnuSahasranamamByDusyanthSridhar]]"]
 ---
 
 # acharya

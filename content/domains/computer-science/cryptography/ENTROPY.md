@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: ["cryptography", "information-theory", "randomness"]
 status: "complete"
-related: ["[[Cryptography]]", "[[Hashing]]", "[[Block Cipher]]", "[[Digital signatures]]", "[[Vikalpa]]"]
+related: ["[[Cryptography]]", "[[Hashing]]", "[[Block Cipher]]", "[[Digital signatures]]", "[[Vikalpa]]", "[[Grover's algorithm weakens symmetric security quadratically]]"]
 ---
 
 # Entropy

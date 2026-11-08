@@ -5,7 +5,7 @@ type: "research"
 category: "Humanities/History"
 tags: ["india", "archaeology", "linguistics", "genetics", "history", "indology", "migration", "harappan", "vedic"]
 status: "draft"
-related: ["[[Max Muller]]", "[[India]]", "[[Panini]]", "[[Indology]]"]
+related: ["[[Max Muller]]", "[[India]]", "[[Panini]]", "[[Indology]]", "[[J Sai Deepak]]"]
 ---
 
 # Aryan Invasion Theory

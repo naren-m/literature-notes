@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: ["cryptography", "confidentiality", "security"]
 status: "complete"
-related: ["[[Cryptography]]", "[[Confidentiality]]", "[[Key exchange]]", "[[Public Key]]"]
+related: ["[[Cryptography]]", "[[Confidentiality]]", "[[Key exchange]]", "[[Public Key]]", "[[Block Cipher]]", "[[CIA Triad]]", "[[Grover's algorithm weakens symmetric security quadratically]]", "[[Initialization Vector]]", "[[Lattice-based encryption]]", "[[Quantum attacks depend on exploitable mathematical structure]]", "[[Side Channel Attack]]", "[[Zero Day Attack]]"]
 ---
 
 # Encryption

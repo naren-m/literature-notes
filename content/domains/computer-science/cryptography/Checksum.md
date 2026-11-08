@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: []
 status: "draft"
-related: ["[[Integrity]]", "[[Hashing]]"]
+related: ["[[Integrity]]", "[[Hashing]]", "[[Cryptography]]", "[[Hash Algorithms]]"]
 ---
 
 # Checksum

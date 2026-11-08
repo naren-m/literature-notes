@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: ["security", "data-classification", "privacy"]
 status: "complete"
-related: ["[[Information Disclosure]]", "[[Cryptography]]"]
+related: ["[[Information Disclosure]]", "[[Cryptography]]", "[[Harvest now decrypt later makes key exchange urgent]]", "[[Zero-Trust]]"]
 ---
 
 # Data Sensitivity

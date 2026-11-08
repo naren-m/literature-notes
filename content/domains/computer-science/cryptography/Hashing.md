@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: ["cryptography", "hashing", "integrity"]
 status: "complete"
-related: ["[[Hash Algorithms]]", "[[Integrity]]", "[[Tampering]]", "[[Checksum]]"]
+related: ["[[Hash Algorithms]]", "[[Integrity]]", "[[Tampering]]", "[[Checksum]]", "[[Block Cipher]]", "[[CIA Triad]]", "[[Cryptography]]", "[[ENTROPY]]", "[[HMAC]]"]
 ---
 
 # Hashing

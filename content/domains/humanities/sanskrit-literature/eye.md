@@ -6,7 +6,7 @@ category: "Humanities/Sanskrit Literature"
 tags: ["sanskrit", "etymology", "language"]
 status: "draft"
 source: "https://www.youtube.com/watch?v=OfBf-UFXlUg"
-related: ["[[speech]]"]
+related: ["[[speech]]", "[[NirvanaShatakam]]", "[[VishnuSahasranamam]]"]
 ---
 
 # eye

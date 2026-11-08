@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Security"
 tags: ["security", "threat-modeling", "stride", "confidentiality"]
 status: "draft"
-related: ["[[STRIDE]]", "[[Data Sensitivity]]", "[[Security Vulnerabilities]]"]
+related: ["[[STRIDE]]", "[[Data Sensitivity]]", "[[Security Vulnerabilities]]", "[[Digital signatures]]", "[[Encryption]]"]
 ---
 
 # Information Disclosure

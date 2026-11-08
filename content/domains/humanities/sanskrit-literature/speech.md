@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["speech", "language", "music", "sanskrit"]
 status: "complete"
-related: ["[[Nada]]", "[[HowToSpeakLikeHanuma]]", "[[tyagaraja swamy]]"]
+related: ["[[Nada]]", "[[HowToSpeakLikeHanuma]]", "[[tyagaraja swamy]]", "[[Dharma]]", "[[NirvanaShatakam]]", "[[VishnuSahasranamam]]", "[[eye]]", "[[kavi]]"]
 ---
 
 # speech

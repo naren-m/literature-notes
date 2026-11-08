@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["sanskrit", "vedanta", "self"]
 status: "draft"
-related: ["[[Manas]]", "[[Buddhi]]", "[[chitta]]", "[[NirvanaShatakam]]"]
+related: ["[[Manas]]", "[[Buddhi]]", "[[chitta]]", "[[NirvanaShatakam]]", "[[Garikapati Narasimha Rao]]"]
 ---
 
 # Ahamkara

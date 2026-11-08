@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: []
 status: "draft"
-related: ["[[Buddhi]]", "[[Ahamkara]]", "[[chitta]]", "[[NirvanaShatakam]]", "[[HanumaStuthi]]", "[[Hanuman Chalisa]]"]
+related: ["[[Buddhi]]", "[[Ahamkara]]", "[[chitta]]", "[[NirvanaShatakam]]", "[[HanumaStuthi]]", "[[Hanuman Chalisa]]", "[[Dharma]]", "[[Garikapati Narasimha Rao]]", "[[PanchaKosha]]"]
 ---
 
 # Manas

@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: ["cryptography", "encryption", "authentication"]
 status: "draft"
-related: ["[[Encryption]]", "[[Public Key]]", "[[Cryptography]]", "[[Harvest now decrypt later makes key exchange urgent]]", "[[Quantum attacks depend on exploitable mathematical structure]]"]
+related: ["[[Encryption]]", "[[Public Key]]", "[[Cryptography]]", "[[Harvest now decrypt later makes key exchange urgent]]", "[[Quantum attacks depend on exploitable mathematical structure]]", "[[Lattice-based encryption]]", "[[Post-quantum signature migration is an ecosystem problem]]"]
 ---
 
 # Key exchange

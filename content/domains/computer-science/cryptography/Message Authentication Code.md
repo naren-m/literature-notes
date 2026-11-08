@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: ["cryptography", "authentication", "integrity"]
 status: "draft"
-related: ["[[HMAC]]", "[[Integrity]]", "[[Authentication]]"]
+related: ["[[HMAC]]", "[[Integrity]]", "[[Authentication]]", "[[Checksum]]", "[[Hashing]]"]
 ---
 
 # Message Authentication Code (MAC)

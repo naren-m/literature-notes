@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["music", "sound", "nada", "carnatic", "philosophy"]
 status: "complete"
-related: ["[[Sangitaratnakaram]]", "[[Brihadesi]]", "[[speech]]", "[[Prana]]", "[[Agni]]"]
+related: ["[[Sangitaratnakaram]]", "[[Brihadesi]]", "[[speech]]", "[[Prana]]", "[[Agni]]", "[[chitta]]"]
 ---
 
 # Nada

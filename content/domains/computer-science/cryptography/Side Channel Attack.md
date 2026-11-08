@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Security"
 tags: ["security", "cryptography", "hardware"]
 status: "draft"
-related: ["[[Cryptography]]", "[[Cache prefetching]]", "[[Rowhammer]]"]
+related: ["[[Cryptography]]", "[[Cache prefetching]]", "[[Rowhammer]]", "[[Buffer Overflows]]", "[[Cold Boot]]"]
 ---
 
 # Side Channel Attack

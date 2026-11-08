@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["vedic", "yoga", "philosophy", "sanskrit", "upanishads", "sutras", "ayurveda", "devotional", "grammar", "music"]
 status: "draft"
-related: ["[[yoga_sutras]]", "[[Yogasutras]]", "[[NirvanaShatakam]]", "[[HanumaStuthi]]", "[[Hanuman Chalisa]]", "[[Upanishads]]", "[[Vaiseshika Darshanam]]", "[[VaishshikaSutra]]"]
+related: ["[[YogaSutras]]", "[[Yogasutras]]", "[[NirvanaShatakam]]", "[[HanumaStuthi]]", "[[Hanuman Chalisa]]", "[[Upanishads]]", "[[Vaiseshika Darshanam]]", "[[VaishshikaSutra]]"]
 ---
 
 # Sanskrit Literature & Philosophy
@@ -24,7 +24,7 @@ This domain contains **50 notes** covering:
 ## 🕉️ Core Texts
 
 ### Yoga & Meditation
-- [[yoga_sutras]] - Patanjali's foundational text
+- [[YogaSutras]] - Patanjali's foundational text
 - [[Yogasutras]] - Detailed sutras and commentary
 - [[NirvanaShatakam]] - Adi Shankaracharya's composition
 - [[HanumaStuthi]] - Devotional hymns
@@ -60,6 +60,7 @@ This domain contains **50 notes** covering:
 - [[Sutra]] - Aphoristic style
 - [[Niruktha]] - Etymology and semantics
 - [[Sulba Sutras]] - Geometric mathematics
+- [[fibbonacci numbers]] - Pingala and Hemachandra, long before Fibonacci
 
 ## 🌿 Ayurveda & Wellness
 
@@ -79,6 +80,9 @@ This domain contains **50 notes** covering:
 - [[Moksha]] - Liberation
 - [[Purushartha]] - Aims of human life
 - [[Chidananda]] - Consciousness-bliss
+- [[Purusha]] - Awareness in the city of the body
+- [[Saamkhya]] - To realize truth
+- [[kavi]] - The seer-poet
 
 ### Elements & Energy
 - [[Agni]] - Fire element
@@ -116,7 +120,7 @@ Vision and insight
 4. Study [[Upanishads]] for deeper philosophy
 
 ### Yoga Practitioner
-1. [[yoga_sutras]] - Foundation
+1. [[YogaSutras]] - Foundation
 2. [[chitta]] - Understanding mind
 3. [[Prana]] and [[Concepts/PanchaVayu]] - Energy systems
 4. [[NirvanaShatakam]] - Non-dual realization

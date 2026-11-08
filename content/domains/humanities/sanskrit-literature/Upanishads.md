@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["philosophy", "consciousness", "vedanta", "brahman", "atman", "moksha"]
 status: "complete"
-related: ["[[vedanta]]", "[[Moksha]]", "[[Prana]]", "[[Rudra]]", "[[India]]"]
+related: ["[[vedanta]]", "[[Moksha]]", "[[Prana]]", "[[Rudra]]", "[[India]]", "[[PanchaKosha]]", "[[Brahma Sutra Bhasya]]"]
 ---
 
 # Upanishads

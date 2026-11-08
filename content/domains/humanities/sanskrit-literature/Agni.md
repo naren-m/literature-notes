@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["word", "definition", "vedic", "fire", "energy"]
 status: "complete"
-related: ["[[Sulba Sutras]]", "[[Nada]]", "[[Prana]]"]
+related: ["[[Sulba Sutras]]", "[[Nada]]", "[[Prana]]", "[[NirvanaShatakam]]", "[[VishnuSahasranamam]]", "[[VishnuSahasranamamByDusyanthSridhar]]"]
 ---
 
 # Agni

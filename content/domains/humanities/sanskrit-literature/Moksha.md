@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["vedanta", "liberation", "sanskrit"]
 status: "draft"
-related: ["[[Dharma]]", "[[karma]]", "[[Purushartha]]", "[[NirvanaShatakam]]", "[[Vikalpa]]"]
+related: ["[[Dharma]]", "[[karma]]", "[[Purushartha]]", "[[NirvanaShatakam]]", "[[Vikalpa]]", "[[Chidananda]]", "[[Upanishads]]"]
 ---
 
 # Moksha

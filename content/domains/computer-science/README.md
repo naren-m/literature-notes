@@ -68,15 +68,17 @@ This domain contains **55 notes** across three main areas:
 ## 💻 Coding & Algorithms
 
 - [[coding/Coding]] - Programming fundamentals
-- [[coding/Dynamic Programming]] - Optimization technique
+- [[Dynamic Programming]] - Optimization technique
+
+- [[Key-value Cache]] - LLM inference cache
 
 Additional algorithm notes
 
 ## 🏗️ Design Patterns
 
-- [[design_patterns/Design Patterns]] - Software architecture
-- [[design_patterns/Leaky abstraction]] - Abstraction failures
-- [[design_patterns/Designing Distributed Systems]] - Scalability patterns
+- [[design_patterns|Design Patterns]] - Software architecture
+- [[Leaky abstraction]] - Abstraction failures
+- [[DesigningDistributedSystems|Designing Distributed Systems]] - Scalability patterns
 
 ## 🎯 Learning Paths
 

@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: []
 status: "draft"
-related: ["[[CIA Triad]]", "[[STRIDE]]", "[[Tampering]]", "[[Hashing]]", "[[Message Authentication Code]]", "[[Digital signatures]]"]
+related: ["[[CIA Triad]]", "[[STRIDE]]", "[[Tampering]]", "[[Hashing]]", "[[Message Authentication Code]]", "[[Digital signatures]]", "[[Checksum]]", "[[Cryptography]]", "[[Encryption]]", "[[HMAC]]", "[[Hash Algorithms]]"]
 ---
 
 # Integrity

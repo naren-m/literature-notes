@@ -5,6 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: []
 status: "draft"
+related: ["[[Upanishads]]"]
 ---
 
 # Rudra

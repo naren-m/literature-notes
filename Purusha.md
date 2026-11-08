@@ -5,6 +5,7 @@ type: "research"
 category: "Legacy"
 tags: []
 status: "draft"
+related: ["[[Saamkhya]]"]
 ---
 
 # Purusha

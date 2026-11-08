@@ -12,3 +12,4 @@ status: "draft"
 - https://www.youtube.com/watch?v=udNCevZS5QM
 
 - Talked about [[Ahimsa]], [[Maana]] from [[Bhagavadgita]], [[Upaasana]], [[Upanishads]], [[advaita]]
+- [[maaya]]

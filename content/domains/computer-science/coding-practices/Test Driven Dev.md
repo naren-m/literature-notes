@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Coding Practices"
 tags: []
 status: "draft"
-related: ["[[Kent Beck]]"]
+related: ["[[Kent Beck]]", "[[Idempotence]]", "[[Testing Principles]]", "[[Testing Pyramid]]"]
 ---
 
 # Test Driven Dev

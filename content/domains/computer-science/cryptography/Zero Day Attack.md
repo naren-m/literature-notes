@@ -6,7 +6,7 @@ category: "Computer Science/Security"
 tags: ["security", "vulnerabilities"]
 status: "draft"
 source: "https://www.trellix.com/en-us/security-awareness/cybersecurity/what-is-a-zero-day-exploit.html"
-related: ["[[Security Vulnerabilities]]", "[[Buffer Overflows]]", "[[STRIDE]]"]
+related: ["[[Security Vulnerabilities]]", "[[Buffer Overflows]]", "[[STRIDE]]", "[[Cryptography]]"]
 ---
 
 # Zero Day Attack

@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: []
 status: "draft"
-related: ["[[Awadhi]]", "[[Tulsidas]]", "[[Shri Ram Charit Manas]]", "[[grit]]", "[[Manas]]", "[[Buddhi]]"]
+related: ["[[Awadhi]]", "[[Tulsidas]]", "[[Shri Ram Charit Manas]]", "[[grit]]", "[[Manas]]", "[[Buddhi]]", "[[Dharma]]"]
 ---
 
 # Hanuman Chalisa

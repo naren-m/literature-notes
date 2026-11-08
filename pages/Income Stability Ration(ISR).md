@@ -5,6 +5,7 @@ type: "research"
 category: "Legacy/Pages"
 tags: []
 status: "draft"
+related: ["[[three_bucket_investment_strategy]]"]
 ---
 
 # Income Stability Ration(ISR)

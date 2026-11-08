@@ -11,3 +11,4 @@ status: "draft"
 
 - [[NirvanaShatakam]]
 - [[VivekaChudamani]]
+- [[bhaja govindam]]

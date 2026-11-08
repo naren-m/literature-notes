@@ -6,7 +6,7 @@ category: "Computer Science/Security"
 tags: ["security", "firmware", "rootkit", "uefi"]
 status: "draft"
 source: "https://attack.mitre.org/groups/G0007/"
-related: ["[[Root of trust]]", "[[Zero-Trust]]", "[[Security Vulnerabilities]]"]
+related: ["[[Root of trust]]", "[[Zero-Trust]]", "[[Security Vulnerabilities]]", "[[Cryptography]]"]
 ---
 
 # LoJax

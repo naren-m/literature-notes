@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Coding Practices"
 tags: []
 status: "draft"
-related: ["[[Friday cleaning]]", "[[aggregation of marginal gains]]", "[[One percent rule]]", "[[Testing Principles]]"]
+related: ["[[Friday cleaning]]", "[[aggregation of marginal gains]]", "[[One percent rule]]", "[[Testing Principles]]", "[[Persistent LLM wikis make synthesis compounding]]", "[[Testing Pyramid]]", "[[Unix philosophy]]"]
 ---
 
 # Maintaining code base

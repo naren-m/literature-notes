@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: []
 status: "draft"
-related: ["[[Cryptography]]", "[[Digital signatures]]", "[[Encryption]]"]
+related: ["[[Cryptography]]", "[[Digital signatures]]", "[[Encryption]]", "[[Fingerprint]]", "[[JSON]]", "[[Key exchange]]", "[[Lattice-based encryption]]", "[[Quantum attacks depend on exploitable mathematical structure]]"]
 ---
 
 # Public Key

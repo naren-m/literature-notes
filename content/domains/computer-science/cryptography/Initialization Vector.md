@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: ["cryptography", "encryption"]
 status: "complete"
-related: ["[[Encryption]]", "[[Block Cipher]]", "[[Confidentiality]]"]
+related: ["[[Encryption]]", "[[Block Cipher]]", "[[Confidentiality]]", "[[Cryptography]]"]
 ---
 
 # Initialization Vector

@@ -5,7 +5,7 @@ type: "permanent"
 category: "Mathematics/General"
 tags: ["math"]
 status: "draft"
-related: ["[[Bhuja koti karani nyayam]]"]
+related: ["[[Bhuja koti karani nyayam]]", "[[Sulba Sutras]]"]
 ---
 
 # Pythagorean Theorem

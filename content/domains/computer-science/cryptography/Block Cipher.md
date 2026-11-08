@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: []
 status: "draft"
-related: ["[[Encryption]]", "[[Cryptography]]", "[[Hashing]]", "[[Initialization Vector]]"]
+related: ["[[Encryption]]", "[[Cryptography]]", "[[Hashing]]", "[[Initialization Vector]]", "[[ENTROPY]]", "[[Grover's algorithm weakens symmetric security quadratically]]", "[[Hash Algorithms]]"]
 ---
 
 # Block Cipher

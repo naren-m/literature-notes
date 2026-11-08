@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["sanskrit", "vedanta", "mind"]
 status: "draft"
-related: ["[[Manas]]", "[[Ahamkara]]", "[[chitta]]", "[[NirvanaShatakam]]", "[[HanumaStuthi]]", "[[Hanuman Chalisa]]"]
+related: ["[[Manas]]", "[[Ahamkara]]", "[[chitta]]", "[[NirvanaShatakam]]", "[[HanumaStuthi]]", "[[Hanuman Chalisa]]", "[[Garikapati Narasimha Rao]]", "[[PanchaKosha]]"]
 ---
 
 # Buddhi

@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["sanskrit", "philosophy", "action", "ethics"]
 status: "complete"
-related: ["[[Dharma]]", "[[Bhagavadgita]]", "[[Moksha]]", "[[YogaSutras]]"]
+related: ["[[Dharma]]", "[[Bhagavadgita]]", "[[Moksha]]", "[[YogaSutras]]", "[[Purushartha]]", "[[VaishshikaSutra]]", "[[VishnuSahasranamamByDusyanthSridhar]]"]
 ---
 
 # karma

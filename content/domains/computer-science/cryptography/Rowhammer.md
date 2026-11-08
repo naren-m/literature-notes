@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Security"
 tags: ["security", "hardware", "memory"]
 status: "draft"
-related: ["[[Side Channel Attack]]", "[[ECC memory]]", "[[Tampering]]"]
+related: ["[[Side Channel Attack]]", "[[ECC memory]]", "[[Tampering]]", "[[Cache prefetching]]", "[[Cryptography]]"]
 ---
 
 # Rowhammer

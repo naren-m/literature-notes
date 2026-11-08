@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: []
 status: "draft"
-related: ["[[side channel attack]]"]
+related: ["[[side channel attack]]", "[[Cryptography]]"]
 ---
 
 # Cold Boot

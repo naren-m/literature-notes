@@ -5,6 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["word", "definition"]
 status: "draft"
+related: ["[[VishnuSahasranamam]]"]
 ---
 
 # Akshara

@@ -5,7 +5,7 @@ type: "permanent"
 category: "People"
 tags: ["india", "history", "people"]
 status: "draft"
-related: ["[[India]]"]
+related: ["[[India]]", "[[Indology]]"]
 ---
 
 # Marthanda Varma

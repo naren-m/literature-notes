@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["geometry", "mathematics", "vedic", "ritual"]
 status: "complete"
-related: ["[[Pythagorean Theorem]]", "[[Agni]]", "[[Sutra]]"]
+related: ["[[Pythagorean Theorem]]", "[[Agni]]", "[[Sutra]]", "[[Bhuja koti karani nyayam]]"]
 ---
 
 # Sulba Sutras

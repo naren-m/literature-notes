@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: []
 status: "draft"
-related: ["[[digital signatures]]", "[[public key]]", "[[Authentication]]"]
+related: ["[[digital signatures]]", "[[public key]]", "[[Authentication]]", "[[Cryptography]]"]
 ---
 
 # Fingerprint

@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Cryptography"
 tags: ["security", "threat-modeling"]
 status: "complete"
-related: ["[[Spoofing]]", "[[Tampering]]", "[[Repudiation]]", "[[Information Disclosure]]", "[[Denial of Service]]", "[[Elevation of Privilege]]", "[[CIA Triad]]"]
+related: ["[[Spoofing]]", "[[Tampering]]", "[[Repudiation]]", "[[Information Disclosure]]", "[[Denial of Service]]", "[[Elevation of Privilege]]", "[[CIA Triad]]", "[[DLL Preloading Attack]]", "[[Digital signatures]]", "[[Zero Day Attack]]"]
 ---
 
 # STRIDE

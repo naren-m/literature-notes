@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["ethics", "sanskrit", "philosophy", "duty"]
 status: "complete"
-related: ["[[karma]]", "[[Purushartha]]", "[[Moksha]]", "[[Manas]]", "[[speech]]"]
+related: ["[[karma]]", "[[Purushartha]]", "[[Moksha]]", "[[Manas]]", "[[speech]]", "[[Niruktha]]", "[[Sutra]]", "[[Vaiseshika Darshanam]]", "[[VishnuSahasranamam]]", "[[VishnuSahasranamamByDusyanthSridhar]]", "[[chitta]]"]
 ---
 
 # Dharma

@@ -5,7 +5,7 @@ type: "research"
 category: "Research/Entropy Vikalpa"
 tags: ["information-theory", "consciousness", "yoga", "research"]
 status: "draft"
-related: ["[[ENTROPY]]", "[[Vikalpa]]", "[[YogaSutras]]"]
+related: ["[[ENTROPY]]", "[[Vikalpa]]", "[[YogaSutras]]", "[[Entropy_Vikalpa_Research_Abstract]]"]
 ---
 
 # Shannon Entropy and Vikalpa

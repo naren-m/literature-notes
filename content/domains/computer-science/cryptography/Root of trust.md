@@ -6,7 +6,7 @@ category: "Computer Science/Security"
 tags: ["security", "firmware", "trust"]
 status: "draft"
 source: "https://www.highintegritysystems.com/downloads/white_papers/ESM_Security_whitepaper.pdf"
-related: ["[[LOJAX]]", "[[Cryptography]]", "[[Zero-Trust]]"]
+related: ["[[LOJAX]]", "[[Cryptography]]", "[[Zero-Trust]]", "[[Encryption]]"]
 ---
 
 # Root of trust

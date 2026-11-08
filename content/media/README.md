@@ -19,19 +19,71 @@ This domain contains **36 highlights** organized by source type:
 
 ## 📖 Book Highlights
 
-### Self-Improvement
-- [[Books/Atomic Habits]] - James Clear on habit formation
-- [[One percent rule]] and [[aggregation of marginal gains]]
+### Highlights
+- [[12 Rules for Life]]
+- [[150 Screen-Free Activities for Kids]]
+- [[A Promised Land]]
+- [[A Short History of Nearly Everything]]
+- [[Astrophysics for People in a Hurry]]
+- [[Atomic Habits]]
+- [[Benjamin Franklin]]
+- [[Brahma Sutra Bhasya]]
+- [[Elon Musk]]
+- [[Essential Calculus Skills Practice Workbook With Full Solutions]]
+- [[Grit]]
+- [[India]]
+- [[Introducing Game Theory]]
+- [[Make Your Bed]]
+- [[Moonwalking With Einstein]]
+- [[Music Theory]]
+- [[No Rules Rules]]
+- [[Norse Mythology]]
+- [[Outliers]]
+- [[Shoe Dog]]
+- [[Speed Reading]]
+- [[The 4-Hour Workweek]]
+- [[The 7 Habits of Highly Effective People]]
+- [[The Book of Joy]]
+- [[The Code of the Extraordinary Mind]]
+- [[The Ride of a Lifetime]]
+- [[The Silk Roads]]
+- [[The Subtle Art of Not Giving a Fck]]
+- [[Unlimited Memory]]
+- [[What If]]
+- [[Why We Sleep]]
 
-### Biography
-- [[Books/Elon Musk]] - Ashlee Vance biography (if present)
+## 📚 Book Notes
 
-### Additional Books
-Browse `Books/` directory for complete collection.
+### Books
+- [[AshtangaHrydayam]]
+- [[Books]]
+- [[Early Indians]]
+- [[Maharana Bappa Rawal]]
+- [[Navneetakam]]
+- [[RanveerShow-Indain Archaeologist]]
+- [[Suthrasthana]]
 
-## 📰 Article Highlights
+## 📰 Articles
 
-Browse `Articles/` directory for curated article summaries.
+### Articles
+- [[How Quantum Computers Break Encryption First Principles]]
+- [[How to Publish Your Own Python Package on PyPi]]
+- [[LLM Wiki]]
+- [[Machine Learning Is Fun Part 4 Modern Face Recognition With Deep Learning]]
+- [[RFC 7950 - The YANG 1.1 Data Modeling Language]]
+- [[Rfc1831]]
+- [[Rfc793]]
+
+## 🎧 Podcasts & Videos
+
+### Podcasts
+- [[India Before Invasions - Explained By Sandeep Balakrishna]]
+- [[jyothisha_rajvedam_beerbiceps]]
+
+### Videos
+- [[sangam_history_of_indian_science]]
+
+See also: [[One percent rule]], [[aggregation of marginal gains]]
 
 ## 🎯 How to Use
 

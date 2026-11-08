@@ -11,3 +11,4 @@ status: "draft"
 
 - Sitamma,
   - [Sitamma from Shakta perspective](https://youtu.be/EdLR99n4lpk)
+- [[JanakaKanyadanamSita]]

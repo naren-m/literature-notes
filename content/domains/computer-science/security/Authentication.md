@@ -5,7 +5,7 @@ type: "permanent"
 category: "Computer Science/Security"
 tags: []
 status: "draft"
-related: ["[[Spoofing]]", "[[STRIDE]]", "[[Strong Authentication]]", "[[Token Authentication]]", "[[Cryptography]]"]
+related: ["[[Spoofing]]", "[[STRIDE]]", "[[Strong Authentication]]", "[[Token Authentication]]", "[[Cryptography]]", "[[Fingerprint]]", "[[HMAC]]", "[[Message Authentication Code]]", "[[Post-quantum signature migration is an ecosystem problem]]", "[[Repudiation]]", "[[Zero-Trust]]"]
 ---
 
 # Authentication

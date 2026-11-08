@@ -45,16 +45,6 @@ Dhātupāṭha **04.0002 — शिवु~ (śivu~) — तन्तुसन्
 
 Auspicious = unbroken. What keeps the fabric of life going is शिव.
 
-## Path 3: √शो (śo) — to make thin
-
-Dhātupāṭha **04.0040 — शो (śo) — तनूकरणे**.
-
-शो + इव → शिव (vowel change; some Nairuktas — is this right ?)
-
-```text
-शो (reduce) → पापक्षय (sin wears away) → पवित्र → शिव (the purifier)
-```
-
 ## Same pattern elsewhere
 
 Cessation of disturbance = auspiciousness.
@@ -98,13 +88,12 @@ Nirvāṇa Ṣaṭkam. **चिदानन्दरूपः शिवोऽह
 
 Not a claim of divinity. Pure consciousness is शिव by nature.
 
-## Three roots, one answer
+## Two roots, one answer
 
 | Derivation | Root  | Root meaning | Bridge                        |
 | ---------- | ----- | ------------ | ----------------------------- |
 | शी + व     | √शी   | to rest      | Rest → Peace → Auspicious     |
 | शिव् + अ   | √शिव् | to weave     | Continuity → Whole → Auspicious |
-| शो + इव    | √शो   | to reduce    | Purification → Pure → Auspicious |
 
 Nirukta lets derivations coexist. Each shows a different face of the word.
 

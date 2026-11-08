@@ -9,6 +9,9 @@ status: "draft"
 
 # One percent rule
 
-The one percent rule is a method of improvement: divide a large result into smaller parts, then improve each part by a small amount.
-
-The separate gains can become significant when combined. This note connects the idea to *Atomic Habits*, [[aggregation of marginal gains]], and Brailsford's cycling work.
+- From [[Atomic Habits]]
+- the [[aggregation of marginal gains]]
+- #Brailsford
+- Divide and improve
+  - Make everything as small as possible and improve that stupidly small thing.
+  - [[Aggregational marginal change]]

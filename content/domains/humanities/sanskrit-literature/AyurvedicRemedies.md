@@ -5,7 +5,7 @@ type: "research"
 category: "Humanities/Sanskrit Literature"
 tags: ["ayurveda", "remedies"]
 status: "draft"
-source: "Unknown; the original note did not record a source"
+source: ""
 related: ["[[curd]]", "[[dadhi]]"]
 ---
 

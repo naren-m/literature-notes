@@ -9,36 +9,15 @@ status: "draft"
 
 # The Katapayadi-Melakarta System
 
-*A complete guide to how rāga names, melakarta numbers, and chakras encode Carnatic scales*
+Rāga name → number → scale.
+72 melakartas of [[Carnatic music]]. 12 chakras × 6 rāgas.
+Name encodes the number through [[Katapayadi]]. Number encodes the scale.
+Nothing to memorize except the rules.
 
----
+Oral tradition problem: words are easy to remember, digits are not. So encode digits as words.
+Same habit of precision as [[Sulba Sutras]] and [[Vaiseshika Darshanam]].
 
-## Core Idea
-
-The Katapayadi-Melakarta system turns the 72 parent scales of [[Carnatic music]] into a calculable information system:
-
-1. Musical constraints produce exactly 72 valid complete scales.
-2. The 72 scales are grouped into 12 chakras of 6 rāgas each.
-3. The first consonants of each rāga name encode its melakarta number through [[Katapayadi]].
-4. The melakarta number determines the rāga's full scale.
-
-The result is a compact, culturally meaningful system where the name itself can function as an index into the complete scale structure.
-
----
-
-## The Memory Problem
-
-Ancient Indian scholars faced a practical challenge: how do you transmit long numerical sequences across generations in an oral tradition?
-
-Humans remember meaningful words far better than arbitrary digit strings. The Katapayadi system maps Sanskrit consonants to digits, allowing numbers to be encoded as pronounceable words or phrases.
-
-In Carnatic music, this becomes a naming system for melakarta rāgas: the rāga name encodes the number, and the number encodes the scale. This style of systematic encoding connects to broader traditions of mathematical precision in Indian knowledge systems, including the geometric methods in [[Sulba Sutras]] and the categorical analysis in [[Vaiseshika Darshanam]].
-
----
-
-## The Katapayadi Mapping
-
-Sanskrit consonants are grouped into rows beginning with ka, ṭa, pa, and ya. Each position maps to a digit:
+## Katapayadi mapping
 
 | Position | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 |
 |----------|---|---|---|---|---|---|---|---|---|---|
@@ -47,22 +26,17 @@ Sanskrit consonants are grouped into rows beginning with ka, ṭa, pa, and ya. E
 | pa-row | pa | pha | ba | bha | ma | - | - | - | - | - |
 | ya-row | ya | ra | la | va | śa | sha | sa | ha | - | - |
 
-Multiple consonants map to the same digit. That gives enough flexibility to construct meaningful Sanskrit names while still encoding a target number.
+Many letters → same digit. That is the freedom to make a meaningful name.
 
-Key decoding rules:
+Decoding:
+- Take the first two consonants of the name.
+- Only consonants attached to vowels count. Conjunct → usually take the last one.
+- Map each to a digit.
+- Reverse the two digits (least significant first, Indian convention) = melakarta number.
 
-1. Take the first two relevant consonants of the rāga name.
-2. Map each consonant to its digit.
-3. Reverse the two digits, following the Indian convention of least significant digit first.
-4. The result is the rāga's melakarta number.
+## Why exactly 72
 
----
-
-## Musical Building Blocks
-
-An octave contains 12 semitones. A *sampūrṇa* rāga is complete: it contains exactly 7 notes, one from each note-family, in strictly ascending pitch order.
-
-The concept of [[Nada]] as described in [[Sangitaratnakaram]] and [[Brihadesi]] provides the theoretical foundation for understanding these musical building blocks.
+Sampūrṇa rāga = 7 notes, one from each family, strictly ascending. Octave = 12 semitones. [[Nada]] as in [[Sangitaratnakaram]] and [[Brihadesi]] is the ground.
 
 | Note | Variants | Semitone Positions |
 |------|----------|-------------------|
@@ -74,86 +48,46 @@ The concept of [[Nada]] as described in [[Sangitaratnakaram]] and [[Brihadesi]] 
 | **D** (dhaivata) | D1, D2, D3 | 8, 9, 10 |
 | **N** (niṣāda) | N1, N2, N3 | 9, 10, 11 |
 
-The overlap matters. R2 and G1 occupy the same semitone. So do R3/G2, D2/N1, and D3/N2. Since the scale must ascend strictly, combinations like R3-G1 and R2-G1 are invalid.
+R2 = G1 in pitch. Same for R3/G2, D2/N1, D3/N2.
+Must ascend → R3-G1, R2-G1 invalid.
 
-Valid R-G combinations:
-
-1. R1-G1
-2. R1-G2
-3. R1-G3
-4. R2-G2
-5. R2-G3
-6. R3-G3
-
-Valid D-N combinations:
-
-1. D1-N1
-2. D1-N2
-3. D1-N3
-4. D2-N2
-5. D2-N3
-6. D3-N3
-
-The count follows directly:
+Valid R-G: R1-G1, R1-G2, R1-G3, R2-G2, R2-G3, R3-G3.
+Valid D-N: D1-N1, D1-N2, D1-N3, D2-N2, D2-N3, D3-N3.
 
 > **S (1) x R-G (6) x M (2) x P (1) x D-N (6) = 72 rāgas**
 
-The 72 melakarta rāgas are therefore not arbitrary; they are the complete set allowed by these constraints.
+Not arbitrary. 72 is every scale the constraints allow.
 
----
+## Ordering
 
-## The Systematic Ordering
+- 1-36 → M1 (Śuddha Madhyama). 37-72 → M2 (Prati Madhyama).
+- Inside each half, R-G changes slowly; D-N cycles every 6.
+- 1-6 = R1-G1 + six D-N. 7-12 = R1-G2 + six D-N. 13-18 = R1-G3 ... then repeat with M2.
 
-The 72 melakarta rāgas are arranged in a fixed pattern.
+## Chakras
 
-By madhyama:
-
-- Rāgas 1-36 use M1, Śuddha Madhyama.
-- Rāgas 37-72 use M2, Prati Madhyama.
-
-Within each half, the R-G combination changes slowly and the D-N combination cycles every six rāgas:
-
-- Rāgas 1-6: R1-G1 paired with the six D-N combinations.
-- Rāgas 7-12: R1-G2 paired with the same D-N cycle.
-- Rāgas 13-18: R1-G3 paired with the same D-N cycle.
-- The pattern continues through all six R-G combinations, then repeats with M2.
-
-This arrangement means the scale can be calculated from the number.
-
----
-
-## The Chakra Layer
-
-A chakra is a group of 6 rāgas that share the same S, R, G, M, and P. Only D and N vary inside the chakra.
-
-> **72 rāgas / 6 rāgas per chakra = 12 chakras**
-
-The chakra names use **Bhūta Saṅkhyā**, an object-number system where a word evokes a quantity. The name is therefore a mnemonic for the number.
+Chakra = 6 rāgas sharing S R G M P. Only D, N change.
+72 / 6 = 12 chakras.
+Names use **Bhūta Saṅkhyā**: an object stands for a count.
 
 | Chakra | Name | Meaning | Why This Number? |
 |--------|------|---------|------------------|
-| 1 | **Indu** | Moon | We have one moon |
-| 2 | **Netra** | Eyes | We have two eyes |
+| 1 | **Indu** | Moon | One moon |
+| 2 | **Netra** | Eyes | Two eyes |
 | 3 | **[[Agni]]** | Fire | Three sacred fires: Āhavanīya, Dakṣiṇa, Gārhapatya |
 | 4 | **Veda** | Scripture | Four Vedas |
 | 5 | **Bāṇa** | Arrow | Five arrows of Manmatha |
-| 6 | **Ṛtu** | Season | Six seasons in the Hindu calendar |
+| 6 | **Ṛtu** | Season | Six seasons |
 | 7 | **Ṛṣi** | Sage | Seven great sages |
 | 8 | **Vasu** | Deity | Eight Vasus |
 | 9 | **Brahma** | Creator | Nine Brahmas or Prajāpatis |
-| 10 | **Diśi** | Direction | Ten directions: eight compass points, up, and down |
+| 10 | **Diśi** | Direction | Ten directions: eight compass points, up, down |
 | 11 | **[[Rudra]]** | [[shiva|Shiva]] | Eleven Rudras |
 | 12 | **Āditya** | Sun | Twelve Ādityas or solar months |
 
-The [[Agni]] chakra also reflects the same ritual and mathematical tradition as the fire altar constructions described in [[Sulba Sutras]].
+Agni chakra → same fire-altar tradition as [[Sulba Sutras]].
 
----
-
-## Chakra-To-Notes Mapping
-
-Chakras 1-6 use M1. Chakras 7-12 use M2.
-
-The chakra's position inside its M half determines the R-G combination:
+Chakras 1-6 = M1, 7-12 = M2. Position inside the half → R-G:
 
 | Position in Half | R-G Combination |
 |------------------|-----------------|
@@ -164,131 +98,9 @@ The chakra's position inside its M half determines the R-G combination:
 | 5 | R2-G3 |
 | 6 | R3-G3 |
 
-Examples:
-
-- All rāgas in Agni chakra, the 3rd chakra, use R1-G3-M1.
-- All rāgas in Brahma chakra, the 9th chakra, use R1-G3-M2.
-- All rāgas in Diśi chakra, the 10th chakra, use R2-G2-M2.
-
----
-
-## Number To Scale Algorithm
-
-Given a melakarta number from 1 to 72:
-
-1. Determine the chakra:
-  - `chakra = ceil(number / 6)`
-2. Determine M:
-  - Chakras 1-6 use M1.
-  - Chakras 7-12 use M2.
-3. Determine R-G:
-  - `position_in_half = ((chakra - 1) mod 6) + 1`
-  - Look up that position in the R-G table.
-4. Determine D-N:
-  - `position_in_chakra = ((number - 1) mod 6) + 1`
-  - Look up that position in the D-N table.
-
-| Position in Chakra | D-N Combination |
-|--------------------|-----------------|
-| 1 | D1-N1 |
-| 2 | D1-N2 |
-| 3 | D1-N3 |
-| 4 | D2-N2 |
-| 5 | D2-N3 |
-| 6 | D3-N3 |
-
-The full scale is:
-
-> **S R G M P D N S**
-
-with R, G, M, D, and N supplied by the algorithm.
-
----
-
-## Name To Scale Algorithm
-
-The complete decoding path is:
-
-> **RĀGA NAME -> KATAPAYADI -> MELAKARTA NUMBER -> CHAKRA -> FULL SCALE**
-
-Step by step:
-
-1. Take the first two relevant consonants of the rāga name.
-2. Convert them to Katapayadi digits.
-3. Reverse the digits to get the melakarta number.
-4. Use the number-to-scale algorithm to derive the notes.
-
-This is why the system is self-documenting. The name gives the number; the number gives the scale.
-
----
-
-## Worked Example: Shanmukhapriya
-
-Name to number:
-
-- First consonant: **sha** = 6.
-- Second relevant consonant: **mu** (ma-group) = 5.
-- Digits: 6, 5.
-- Reversed: **56**.
-
-Number to scale:
-
-- 56 belongs to chakra 10, Diśi.
-- Chakra 10 is in the M2 half.
-- Position in M2 half: 4, so R-G = R2-G2.
-- Position in chakra: `((56 - 1) mod 6) + 1 = 2`, so D-N = D1-N2.
-
-Final scale:
-
-> **Shanmukhapriya: S R2 G2 M2 P D1 N2 S**
-
----
-
-## Worked Example: Mayamalavagaula
-
-Name to number:
-
-- First consonant: **ma** = 5.
-- Second consonant: **ya** = 1.
-- Digits: 5, 1.
-- Reversed: **15**.
-
-Number to scale:
-
-- 15 belongs to chakra 3, Agni.
-- Chakra 3 is in the M1 half.
-- Position in M1 half: 3, so R-G = R1-G3.
-- Position in chakra: `((15 - 1) mod 6) + 1 = 3`, so D-N = D1-N3.
-
-Final scale:
-
-> **Mayamalavagaula: S R1 G3 M1 P D1 N3 S**
-
----
-
-## Worked Example: Kharaharapriya
-
-Name to number:
-
-- First consonant: **kha** = 2.
-- Second consonant: **ra** = 2.
-- Digits: 2, 2.
-- Reversed: **22**.
-
-Number to scale:
-
-- 22 belongs to chakra 4, Veda.
-- Chakra 4 is in the M1 half.
-- Position in M1 half: 4, so R-G = R2-G2.
-- Position in chakra: `((22 - 1) mod 6) + 1 = 4`, so D-N = D2-N2.
-
-Final scale:
-
-> **Kharaharapriya: S R2 G2 M1 P D2 N2 S**
-
----
-
-## The 12 Chakras
+- Agni (3rd) → R1-G3-M1.
+- Brahma (9th) → R1-G3-M2.
+- Diśi (10th) → R2-G2-M2.
 
 ### M1 Chakras: Śuddha Madhyama
 
@@ -312,11 +124,7 @@ Final scale:
 | 11 | Rudra | 61-66 | R2-G3 | D1N1, D1N2, D1N3, D2N2, D2N3, D3N3 |
 | 12 | Āditya | 67-72 | R3-G3 | D1N1, D1N2, D1N3, D2N2, D2N3, D3N3 |
 
----
-
-## Position Mnemonics Inside A Chakra
-
-Some traditions also use shorthand syllables for the six positions inside a chakra:
+### Position inside a chakra
 
 | Position | Syllable | Katapayadi Value |
 |----------|----------|------------------|
@@ -327,14 +135,50 @@ Some traditions also use shorthand syllables for the six positions inside a chak
 | 5th | ma | 5 |
 | 6th | sha | 6 |
 
-Examples:
+- "Agni-go" = 3rd in Agni = rāga 15, Mayamalavagaula.
+- "Bāṇa-bhu" = 4th in Bāṇa = rāga 28, Harikambhoji.
 
-- "Agni-go" means the 3rd rāga in Agni chakra, rāga 15, Mayamalavagaula.
-- "Bāṇa-bhu" means the 4th rāga in Bāṇa chakra, rāga 28, Harikambhoji.
+## Number → scale
 
----
+1. `chakra = ceil(number / 6)`
+2. Chakra 1-6 → M1. 7-12 → M2.
+3. `position_in_half = ((chakra - 1) mod 6) + 1` → R-G table.
+4. `position_in_chakra = ((number - 1) mod 6) + 1` → D-N table.
 
-## Information Architecture
+| Position in Chakra | D-N Combination |
+|--------------------|-----------------|
+| 1 | D1-N1 |
+| 2 | D1-N2 |
+| 3 | D1-N3 |
+| 4 | D2-N2 |
+| 5 | D2-N3 |
+| 6 | D3-N3 |
+
+> **S R G M P D N S**
+
+> **RĀGA NAME -> KATAPAYADI -> MELAKARTA NUMBER -> CHAKRA -> FULL SCALE**
+
+## Worked examples
+
+**Shanmukhapriya**
+- sha = 6, mu (ma) = 5 → 6, 5 → reversed **56**.
+- Chakra 10, Diśi. M2. Position in half 4 → R2-G2.
+- `((56 - 1) mod 6) + 1 = 2` → D1-N2.
+- **S R2 G2 M2 P D1 N2 S**
+
+**Mayamalavagaula**
+- ma = 5, ya = 1 → reversed **15**.
+- Chakra 3, Agni. M1. Position 3 → R1-G3.
+- `((15 - 1) mod 6) + 1 = 3` → D1-N3.
+- **S R1 G3 M1 P D1 N3 S**
+
+**Kharaharapriya**
+- kha = 2, ra = 2 → **22**.
+- Chakra 4, Veda. M1. Position 4 → R2-G2.
+- `((22 - 1) mod 6) + 1 = 4` → D2-N2.
+- **S R2 G2 M1 P D2 N2 S**
+
+## Structure
 
 ```text
                     72 MELAKARTA RĀGAS
@@ -356,59 +200,30 @@ Examples:
     +-- 6: Tānarūpi (D3N3)         +-- 42: Raghupriya (D3N3)
 ```
 
-The system has three layers of self-documentation:
-
 | Layer | What It Encodes | Encoding System |
 |-------|-----------------|-----------------|
 | Chakra name | Group number, hence M type and R-G | Bhūta Saṅkhyā |
 | Rāga name | Exact position from 1-72 | Katapayadi consonant-digit mapping |
 | Position in chakra | D-N pair | Six-position cycle |
 
----
+- Name = index. Two consonants + rules → full 7-note scale.
+- Chakra and number cross-check each other. Built-in redundancy, like a checksum.
+- Compression + redundancy = [[ENTROPY]] / information theory.
+- Venkatamakhi turned memorization into an algorithm.
 
-## Why This System Is Elegant
+## Related
 
-| Property | Benefit |
-|----------|---------|
-| **Self-documenting** | The name can be decoded into the number. |
-| **Calculable** | One algorithm replaces brute-force memorization of 72 scales. |
-| **Hierarchical** | The chakra gives the broad family; the rāga number gives the exact scale. |
-| **Error-resistant** | The chakra and rāga number can cross-check each other. |
-| **Compact** | A 7-note scale is recoverable from two name consonants plus the ordering rules. |
-| **Culturally embedded** | Sanskrit names carry semantic and numeric content at once. |
-
-This approach parallels modern ideas in [[ENTROPY]] and information theory: structured information is compressed into a compact key, while redundancy in the chakra layer helps with validation.
-
----
-
-## Summary
-
-The Katapayadi-Melakarta system transforms a memorization problem into an algorithmic one:
-
-1. Count the constraints to get 72 possible complete scales.
-2. Group the scales into 12 chakras using shared R-G-M structure.
-3. Encode each rāga number directly into its name using Katapayadi.
-4. Decode the name to recover the full scale.
-
-Venkatamakhi's system is therefore more than a music catalog. It is a knowledge organization system with hierarchical indexing, self-documenting keys, and culturally meaningful redundancy.
-
----
-
-## Related Concepts
-
-- [[Carnatic music]] - The classical music tradition using this system
-- [[Katapayadi]] - The consonant-to-digit mapping used for rāga names
-- [[Nada]] - The concept of sound in Indian music theory
-- [[Sangitaratnakaram]] - Classical text defining musical concepts
-- [[Brihadesi]] - Early treatise on Indian music
-- [[Agni]] - The namesake of the 3rd chakra
-- [[Rudra]] - The namesake of the 11th chakra
-- [[shiva]] - The deity associated with the Rudras
-- [[Sulba Sutras]] - Ancient mathematical precision in fire altar construction
-- [[Vaiseshika Darshanam]] - Systematic categorical analysis in Indian philosophy
-- [[ENTROPY]] - Information theory and encoding systems
-
----
+- [[Carnatic music]]
+- [[Katapayadi]]
+- [[Nada]]
+- [[Sangitaratnakaram]]
+- [[Brihadesi]]
+- [[Agni]]
+- [[Rudra]]
+- [[shiva]]
+- [[Sulba Sutras]]
+- [[Vaiseshika Darshanam]]
+- [[ENTROPY]]
 
 ## Tags
 

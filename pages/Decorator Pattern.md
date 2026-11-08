@@ -10,11 +10,10 @@ related: ["[[Design Patterns]]", "[[Unix philosophy]]", "[[Leaky abstraction]]"]
 
 # Decorator Pattern
 
-The decorator pattern adds behavior by wrapping an object instead of changing the object's class or editing the original implementation.
-
-The wrapper exposes the same interface as the wrapped object, delegates the base behavior, and adds work before or after delegation. This keeps extension separate from the core object and lets multiple behaviors be composed in layers.
-
-The tradeoff is indirection. Decorators can keep a design open to extension, but too many wrappers can hide where behavior actually comes from and create a [[Leaky abstraction]].
+- Wrap, don't edit.
+- Same interface as the wrapped object. Delegate, then add work before or after.
+- Behaviors stack in layers. Core object stays untouched.
+- Cost = indirection. Too many wrappers and you can't tell where behavior comes from → [[Leaky abstraction]].
 
 ## Related
 - [[Design Patterns]]

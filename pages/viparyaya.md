@@ -9,6 +9,6 @@ status: "draft"
 
 # Viparyaya
 
-This note records **viparyaya** as mistaken knowledge: knowledge that is based on a false form or appearance.
-
-It connects the idea to [[Mithya]] and [[Gnanam]]. The Sanskrit wording in the source note needs verification.
+- Viparyaya = [[Mithya]] [[Gnanam]] ata drUpa pratiShTham
+  - Wrong knowledge. Rests on a form that is not the thing's own.
+  - (sanskrit wording to verify)

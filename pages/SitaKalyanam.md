@@ -9,6 +9,5 @@ status: "draft"
 
 # SitaKalyanam
 
-This note records a Shakta perspective on Sītā:
-
-[Sitamma from Shakta perspective](https://youtu.be/EdLR99n4lpk)
+- Sitamma,
+  - [Sitamma from Shakta perspective](https://youtu.be/EdLR99n4lpk)

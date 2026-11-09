@@ -3,7 +3,7 @@ title: "SivaSurta"
 date: "2026-05-05"
 type: "literature"
 category: "Humanities/Sanskrit Literature"
-tags: []
+tags: ["sanskrit", "grammar", "panini"]
 status: "incomplete"
 source: "https://ashtadhyayi.com/shivasutra"
 related: ["[[Ashtadhyayi]]", "[[Sutra]]"]

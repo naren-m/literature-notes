@@ -3,7 +3,7 @@ title: "Cold Boot"
 date: "2026-05-05"
 type: "permanent"
 category: "Computer Science/Cryptography"
-tags: []
+tags: ["security", "attacks", "memory"]
 status: "draft"
 related: ["[[side channel attack]]", "[[Cryptography]]"]
 ---

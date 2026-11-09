@@ -4,11 +4,14 @@ HOOKS_DIR := .git/hooks
 PRE_COMMIT_HOOK := $(HOOKS_DIR)/pre-commit
 PRE_COMMIT_SOURCE := tools/hooks/pre-commit
 
-.PHONY: help setup_formatting format backlink-check backlink-report pre-commit-check wiki-check check install-hooks uninstall-hooks
+.PHONY: help setup_formatting format index index-check search backlink-check backlink-report pre-commit-check wiki-check check install-hooks uninstall-hooks
 
 help:
 	@echo "Available targets:"
 	@echo "  make format            Format markdown files with mdformat"
+	@echo "  make index            Rebuild INDEX.md"
+	@echo "  make index-check      Fail if INDEX.md is stale"
+	@echo "  make search q=WORDS   Search notes"
 	@echo "  make backlink-check    Run strict backlink checks across permanent notes"
 	@echo "  make backlink-report   Write a full backlink lint report"
 	@echo "  make pre-commit-check  Run strict backlink checks for staged markdown files"
@@ -25,6 +28,15 @@ setup_formatting:
 format:
 	@mdformat .
 
+index:
+	$(PYTHON) tools/build_index.py
+
+index-check:
+	$(PYTHON) tools/build_index.py --check
+
+search:
+	$(PYTHON) tools/search_notes.py $(q)
+
 backlink-check:
 	$(PYTHON) tools/check_backlinks.py --strict --summary
 
@@ -36,7 +48,7 @@ pre-commit-check:
 
 wiki-check: backlink-check
 
-check: wiki-check
+check: wiki-check index-check
 
 install-hooks:
 	@mkdir -p "$(HOOKS_DIR)"

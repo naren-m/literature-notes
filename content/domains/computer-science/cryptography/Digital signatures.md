@@ -3,7 +3,7 @@ title: "Digital signatures"
 date: "2026-05-05"
 type: "permanent"
 category: "Computer Science/Cryptography"
-tags: []
+tags: ["cryptography", "signatures", "public-key"]
 status: "draft"
 related: ["[[Hashing]]", "[[Encryption]]", "[[Public Key]]", "[[Confidentiality]]", "[[Integrity]]", "[[STRIDE]]", "[[Spoofing]]", "[[Tampering]]", "[[Cryptography]]", "[[ENTROPY]]", "[[Fingerprint]]", "[[Post-quantum signature migration is an ecosystem problem]]", "[[Token Authentication]]"]
 ---

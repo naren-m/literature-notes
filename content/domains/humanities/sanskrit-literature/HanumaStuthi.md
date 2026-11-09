@@ -3,7 +3,7 @@ title: "HanumaStuthi"
 date: "2026-05-05"
 type: "permanent"
 category: "Humanities/Sanskrit Literature"
-tags: []
+tags: ["sanskrit", "devotional", "hanuma"]
 status: "draft"
 related: ["[[hanuma]]", "[[Buddhi]]", "[[Manas]]"]
 ---

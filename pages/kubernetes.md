@@ -3,7 +3,7 @@ title: "kubernetes"
 date: "2026-05-05"
 type: "research"
 category: "Legacy/Pages"
-tags: []
+tags: ["devops", "kubernetes"]
 status: "draft"
 ---
 

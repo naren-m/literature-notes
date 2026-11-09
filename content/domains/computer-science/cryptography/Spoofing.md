@@ -3,7 +3,7 @@ title: "Spoofing"
 date: "2026-05-05"
 type: "permanent"
 category: "Computer Science/Cryptography"
-tags: []
+tags: ["security", "stride", "attacks"]
 status: "draft"
 related: ["[[Spoofing]]", "[[Authentication]]", "[[Digital signatures]]", "[[STRIDE]]"]
 ---

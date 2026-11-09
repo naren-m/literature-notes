@@ -3,7 +3,7 @@ title: "Leaky abstraction"
 date: "2026-05-05"
 type: "research"
 category: "Legacy/Pages"
-tags: []
+tags: ["programming", "design"]
 status: "draft"
 ---
 

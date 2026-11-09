@@ -3,7 +3,7 @@ title: "mathsya purana"
 date: "2026-05-05"
 type: "permanent"
 category: "Humanities/Sanskrit Literature"
-tags: []
+tags: ["sanskrit", "puranas"]
 status: "draft"
 related: ["[[jyothisha]]", "[[Uthrayana]]", "[[Dakshinayana]]", "[[jyothisha_rajvedam_beerbiceps]]"]
 ---

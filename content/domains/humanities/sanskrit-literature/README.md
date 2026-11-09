@@ -3,160 +3,78 @@ title: "Sanskrit Literature & Philosophy"
 date: "2026-05-05"
 type: "permanent"
 category: "Humanities/Sanskrit Literature"
-tags: ["vedic", "yoga", "philosophy", "sanskrit", "upanishads", "sutras", "ayurveda", "devotional", "grammar", "music"]
-status: "draft"
-related: ["[[YogaSutras]]", "[[Yogasutras]]", "[[NirvanaShatakam]]", "[[HanumaStuthi]]", "[[Hanuman Chalisa]]", "[[Upanishads]]", "[[Vaiseshika Darshanam]]", "[[VaishshikaSutra]]"]
+tags: ["map", "sanskrit", "philosophy", "yoga", "grammar", "music", "devotional"]
+status: "complete"
+related: ["[[NirvanaShatakam]]", "[[YogaSutras]]", "[[Upanishads]]", "[[Dharma]]", "[[Ashtadhyayi]]", "[[Nada]]"]
 ---
 
 # Sanskrit Literature & Philosophy
 
-> Vedic texts, yoga philosophy, Sanskrit language, and ancient Indian wisdom traditions.
+Map. Word → meaning → experience.
 
-## 📚 Overview
+## Start here
 
-This domain contains **50 notes** covering:
-- **Vedic Texts** - Vedas, Upanishads, Puranas
-- **Yoga Philosophy** - Sutras, practices, concepts
-- **Sanskrit Language** - Grammar, phonetics, literature
-- **Concepts** - Philosophical and spiritual principles
-- **Deities & Figures** - Krishna, Rudra, Agni, Hanuman
+1. [[NirvanaShatakam]] → चिदानन्दरूपः शिवोऽहम्. Six verses, the whole inner map.
+2. [[Sutra]] → how the texts are written.
+3. [[Dharma]] → one that sustains.
+4. [[YogaSutras]] → how the mind works, and stops.
 
-## 🕉️ Core Texts
+## Inner instrument (अन्तःकरण)
 
-### Yoga & Meditation
-- [[YogaSutras]] - Patanjali's foundational text
-- [[Yogasutras]] - Detailed sutras and commentary
-- [[NirvanaShatakam]] - Adi Shankaracharya's composition
-- [[HanumaStuthi]] - Devotional hymns
-- [[Hanuman Chalisa]] - Popular devotional text
+[[Manas]] considers → [[Buddhi]] decides → [[chitta]] stores → [[Ahamkara]] claims.
 
-### Upanishads & Philosophy
-- [[Upanishads]] - Vedantic philosophy
-- [[Vaiseshika Darshanam]] - Atomic theory school
-- [[VaishshikaSutra]] - Foundational sutras
-- [[NyayaSutra]] - Logic and epistemology
+- Mind's moves: [[Vikalpa]], [[viparyaya]], [[dRShTi]], [[eye]]
+- Who is aware: [[Purusha]], [[Chidananda]], [[Gnanam]]
+- Layers: [[PanchaKosha]], [[Prana]], [[PanchaVayu]], [[Vayu]], [[SaptaDhatu]]
 
-### Vedas & Brahmanas
-- [[Atharvanaveda]] - Fourth Veda
-- [[Itheriya brahmana]] - Ritual commentary
+## Aims & action
 
-### Puranas
-- [[mathsya purana]] - Fish incarnation mythology
+- [[Purushartha]] = [[Dharma]] · artha · [[kaama]] · [[Moksha]]
+- [[karma]], [[mada]], [[Cause (కారణం)]]
 
-### Devotional Literature
-- [[VishnuSahasranamam]] - Thousand names of Vishnu
-- [[VishnuSahasranamamByDusyanthSridhar]] - Commentary by Dushyanth Sridhar
-- [[SivaSurta]] - [[shiva|Shiva]] compositions
+## Darśanas
 
-## 🎵 Music & Arts
+- [[Saamkhya]] → to realize truth
+- [[NyayaSutra]] → logic; [[Debate]]
+- [[Vaiseshika Darshanam]], [[VaishshikaSutra]] → categories of reality
+- Vedānta: [[Upanishads]], [[vedanta]], [[maaya]], [[Brahma Sutra Bhasya]], [[VivekaChudamani]], [[AdiShankaraCharya]], [[bhaja govindam]]
+- [[Bhagavadgita]] → [[GitaPravachanam]]
 
-- [[Sangitaratnakaram]] - Classical music treatise
-- [[Amarakosham]] - Sanskrit thesaurus
-- [[Brihadesi]] - Music theory
+## Language & grammar
 
-## 📖 Language & Grammar
+- [[Akshara]] → the imperishable sound unit
+- [[Ashtadhyayi]] by [[Panini]], [[SivaSurta]]
+- [[Niruktha]] → etymology; [[Amarakosham]] → thesaurus; [[Dhatu Manjari]]
+- Word powers: [[Sabda]], [[sabda-vrittis]], [[vyañjanā]]
+- Speech: [[speech]], [[kavi]], [[HowToSpeakLikeHanuma]]
+- Etymology workbench: [[shiva]], [[Apsaras]], [[Rambha]], [[Dharmanatha_Sloka]], [[dhRti-dRShTi-mati-dAKShyam sloka]]
 
-- [[Ashtadhyayi]] - [[Panini]]'s Sanskrit grammar
-- [[Sutra]] - Aphoristic style
-- [[Niruktha]] - Etymology and semantics
-- [[Sulba Sutras]] - Geometric mathematics
-- [[fibbonacci numbers]] - Pingala and Hemachandra, long before Fibonacci
+## Deities & stories
 
-## 🌿 Ayurveda & Wellness
+- [[Agni]], [[Rudra]], [[indra]], [[krishna]], [[hanuma]], [[Mahakali charitram]]
+- [[ramayanam]] → [[SitaKalyanam]] → [[JanakaKanyadanamSita]]
+- Hymns: [[Hanuman Chalisa]], [[HanumaStuthi]], [[VishnuSahasranamam]], [[VishnuSahasranamamByDusyanthSridhar]]
+- Vedas & purāṇas: [[Atharvanaveda]], [[Itheriya brahmana]], [[mathsya purana]]
 
-- [[Ayurvedam]] - Traditional medicine
-- [[AyurvedicRemedies]] - Healing practices
+## Music (नाद)
 
-## 🔑 Key Concepts
+- [[Nada]] = [[Prana]] + [[Agni]]
+- Texts: [[Sangitaratnakaram]], [[Brihadesi]]
+- [[tyagaraja swamy]] → [[Bantu reethi Kolu]], [[Bantu reethi koluvu]], [[jagadaananda kaararaka]]
+- Rāga system: [[Katapayadi]], [[Katapayadi_Melakarta_Guide]]
 
-### Philosophical Principles
-- [[Dharma]] - Universal law and duty
-- [[Karma]] - Action and consequence
-- [[Manas]] - Mind and consciousness
-- [[Buddhi]] - Determinative intellect
-- [[Ahamkara]] - Ego-sense and ownership
-- [[chitta]] - Mental modifications
-- [[Vikalpa]] - Conceptual thought
-- [[Moksha]] - Liberation
-- [[Purushartha]] - Aims of human life
-- [[Chidananda]] - Consciousness-bliss
-- [[Purusha]] - Awareness in the city of the body
-- [[Saamkhya]] - To realize truth
-- [[kavi]] - The seer-poet
+## Time & mathematics
 
-### Elements & Energy
-- [[Agni]] - Fire element
-- [[Vayu]] - Air/wind element
-- [[Prana]] - Life force
-- [[Concepts/PanchaVayu]] - Five vital airs
-- [[Concepts/PanchaKosha]] - Five sheaths
-- [[Concepts/SaptaDhatu]] - Seven bodily constituents
-- [[Nada]] - Cosmic sound
+- [[tithi]], [[Panchangam]], [[UNDERSTANDING_PANCHANGAM]], [[SuryaSidhantam]]
+- [[Sulba Sutras]] → [[Bhuja koti karani nyayam]]
+- [[fibbonacci numbers]] ← [[Pingala]]
 
-### Language & Expression
-- [[Akshara]] - Imperishable syllable
-- [[kavi]] - Poet, seer
-- [[speech]] - Power of sound
-- [[acharya]] - Spiritual teacher
+## Ayurveda
 
-### Deities & Divine Forms
-- [[krishna]] - Jagath Guru, dark-complexioned
-- [[Rudra]] - Fierce form of Shiva
+- [[Ayurvedam]], [[AyurvedicRemedies]], [[AshtangaHrydayam]], [[Suthrasthana]], [[Navneetakam]]
 
-### Perception & Knowledge
-- [[eye]] - Organ of perception
+## People
 
-Vision and insight
+- [[Panini]], [[acharya]], [[Garikapati Narasimha Rao]], [[Max Muller]]
 
-### Time & Astronomy
-- [[tithi]] - Lunar day
-
-## 🎯 Reading Paths
-
-### Beginner's Journey
-1. Start with [[Yogasutras]] for practical philosophy
-2. Read [[Dharma]] and [[Karma]] for ethical foundations
-3. Explore [[krishna]] and [[VishnuSahasranamam]] for devotional context
-4. Study [[Upanishads]] for deeper philosophy
-
-### Yoga Practitioner
-1. [[YogaSutras]] - Foundation
-2. [[chitta]] - Understanding mind
-3. [[Prana]] and [[Concepts/PanchaVayu]] - Energy systems
-4. [[NirvanaShatakam]] - Non-dual realization
-
-### Language Scholar
-1. [[Ashtadhyayi]] - Grammar foundation
-2. [[Niruktha]] - Etymology
-3. [[Sutra]] - Aphoristic style
-4. [[Amarakosham]] - Vocabulary
-
-### Philosophy Student
-1. [[Upanishads]] - Vedantic foundation
-2. [[NyayaSutra]] - Logic and reasoning
-3. [[Vaiseshika Darshanam]] - Atomic theory
-4. [[Dharma]] and [[Karma]] - Ethical philosophy
-
-## 🔗 Cross-Domain Connections
-
-- **[[ENTROPY|Entropy]] & Vikalpa** - Information theory meets conceptual thought (see [[../research/entropy-vikalpa]])
-- **[[Cryptography]] & Sutras** - Conciseness and precision across domains
-- **Design Patterns & Dharma** - Universal patterns in code and cosmos
-
-## 🏷️ Common Tags
-
-`#vedic` `#yoga` `#philosophy` `#sanskrit` `#upanishads` `#sutras` `#ayurveda` `#devotional` `#grammar` `#music`
-
-## 📊 Statistics
-
-**Total Notes**: 43
-
-**Last Updated**: 2025-12-11
-
-## 🔄 Maintenance
-
-This README is auto-generated. To update counts: `python ../generate_readmes.py`
-
----
-
-[← Back to Main Index](../INDEX.md)
+All notes, one line each → [INDEX](../../../../INDEX.md)

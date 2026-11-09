@@ -3,7 +3,7 @@ title: "Public Key"
 date: "2026-05-05"
 type: "permanent"
 category: "Computer Science/Cryptography"
-tags: []
+tags: ["cryptography", "public-key", "encryption"]
 status: "draft"
 related: ["[[Cryptography]]", "[[Digital signatures]]", "[[Encryption]]", "[[Fingerprint]]", "[[JSON]]", "[[Key exchange]]", "[[Lattice-based encryption]]", "[[Quantum attacks depend on exploitable mathematical structure]]"]
 ---

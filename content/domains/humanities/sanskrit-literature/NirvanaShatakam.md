@@ -3,7 +3,7 @@ title: "निर्वाणषट्कम् (Nirvāṇa Ṣaṭkam) — Word
 date: "2026-05-05"
 type: "literature"
 category: "Humanities/Sanskrit Literature"
-tags: []
+tags: ["sanskrit", "vedanta", "shankara"]
 status: "incomplete"
 source: "https://youtu.be/C9XlxIzbvZ4"
 related: ["[[AdiShankaraCharya]]", "[[Manas]]", "[[Buddhi]]", "[[Ahamkara]]", "[[chitta]]", "[[Prana]]", "[[Vayu]]", "[[PanchaVayu]]", "[[PanchaKosha]]", "[[SaptaDhatu]]", "[[Purushartha]]", "[[Moksha]]", "[[Vikalpa]]", "[[Chidananda]]", "[[Agni]]", "[[speech]]", "[[Dharma]]", "[[karma]]", "[[shiva]]"]

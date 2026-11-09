@@ -3,19 +3,22 @@ title: "Book & Article Highlights"
 date: "2026-05-05"
 type: "literature"
 category: "Media"
-tags: []
+tags: ["map", "books", "highlights", "articles"]
 status: "draft"
 ---
 
 # Book & Article Highlights
 
-> Curated highlights and summaries from books, articles, and other reading materials.
+Map. Source-bound notes: quotes, highlights, transcripts. Distilled ideas live in the domain notes they link to.
 
-## 📚 Overview
+## Start here
 
-This domain contains **36 highlights** organized by source type:
-- **Books/** - Book highlights and key takeaways
-- **Articles/** - Article summaries and insights
+- Habits → [[Atomic Habits]] → [[One percent rule]], [[aggregation of marginal gains]]
+- Memory → [[Moonwalking With Einstein]], [[Unlimited Memory]], [[Speed Reading]]
+- Sleep & health → [[Why We Sleep]] → [[Health routines turn advice into repeatable behavior]]
+- India → [[India]], [[Early Indians]], [[sangam_history_of_indian_science]]
+- Second brain → [[LLM Wiki]] → [[Persistent LLM wikis make synthesis compounding]]
+- Reading list → [[Books]]
 
 ## 📖 Book Highlights
 
@@ -83,31 +86,4 @@ This domain contains **36 highlights** organized by source type:
 ### Videos
 - [[sangam_history_of_indian_science]]
 
-See also: [[One percent rule]], [[aggregation of marginal gains]]
-
-## 🎯 How to Use
-
-1. **Quick Reference** - Find key insights from books you've read
-2. **Discovery** - Browse highlights to find books worth reading
-3. **Connection** - See wikilinks to related concepts across domains
-4. **Review** - Revisit key ideas and refresh memory
-
-## 🔗 Cross-Domain Connections
-
-Book highlights often connect to:
-- **CSE** - Technical concepts and algorithms
-- **Sanskrit-lit** - Philosophy and wisdom traditions
-- **pages/** - Concept notes derived from reading
-
-## 📊 Statistics
-
-- **Total Highlights**: 36
-- **Last Updated**: 2025-12-11
-
-## 🔄 Maintenance
-
-This README is auto-generated. To update counts: `python ../generate_readmes.py`
-
----
-
-[← Back to Main Index](../INDEX.md)
+All notes, one line each → [INDEX](../../INDEX.md)

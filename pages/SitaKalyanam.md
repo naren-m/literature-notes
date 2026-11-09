@@ -3,7 +3,7 @@ title: "SitaKalyanam"
 date: "2026-05-05"
 type: "research"
 category: "Legacy/Pages"
-tags: []
+tags: ["ramayanam", "sita"]
 status: "draft"
 ---
 

@@ -3,7 +3,7 @@ title: "12 Rules for Life"
 date: "2026-05-05"
 type: "literature"
 category: "Media/Books/Highlights"
-tags: []
+tags: ["book", "highlights", "self-improvement"]
 status: "draft"
 ---
 

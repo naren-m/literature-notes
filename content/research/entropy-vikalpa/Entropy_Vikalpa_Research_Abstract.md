@@ -3,7 +3,7 @@ title: "Research Abstract: Information Entropy and Vikalpa - A Mathematical Brid
 date: "2026-05-05"
 type: "research"
 category: "Research/Entropy Vikalpa"
-tags: []
+tags: ["research", "entropy", "vikalpa"]
 status: "draft"
 ---
 

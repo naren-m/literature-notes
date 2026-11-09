@@ -3,7 +3,7 @@ title: "LSTM"
 date: "2026-05-05"
 type: "permanent"
 category: "Computer Science/Cryptography"
-tags: []
+tags: ["machine-learning", "rnn"]
 status: "draft"
 related: ["[[RNN]]", "[[Time series]]"]
 ---

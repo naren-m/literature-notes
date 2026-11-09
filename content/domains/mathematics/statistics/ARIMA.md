@@ -3,7 +3,7 @@ title: "ARIMA"
 date: "2026-05-05"
 type: "permanent"
 category: "Mathematics/Statistics"
-tags: []
+tags: ["statistics", "time-series", "forecasting"]
 status: "draft"
 related: ["[[Time series]]", "[[Exponential Smoothing]]", "[[Prophet]]"]
 ---

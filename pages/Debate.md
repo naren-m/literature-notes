@@ -3,7 +3,7 @@ title: "Debate"
 date: "2026-05-05"
 type: "research"
 category: "Legacy/Pages"
-tags: []
+tags: ["philosophy", "nyaya", "debate"]
 status: "draft"
 ---
 

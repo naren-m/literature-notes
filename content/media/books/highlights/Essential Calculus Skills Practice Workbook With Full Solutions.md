@@ -3,7 +3,7 @@ title: "Essential Calculus Skills Practice Workbook With Full Solutions"
 date: "2026-05-05"
 type: "literature"
 category: "Media/Books/Highlights"
-tags: []
+tags: ["book", "highlights", "mathematics"]
 status: "draft"
 ---
 

@@ -3,7 +3,7 @@ title: "Max Muller"
 date: "2026-05-05"
 type: "research"
 category: "People"
-tags: []
+tags: ["people", "indology"]
 status: "draft"
 related: ["[[Aryan Invasion Theory]]"]
 ---

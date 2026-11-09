@@ -3,7 +3,7 @@ title: "Exponential Smoothing"
 date: "2026-05-05"
 type: "permanent"
 category: "Mathematics/Statistics"
-tags: []
+tags: ["statistics", "time-series", "forecasting"]
 status: "draft"
 related: ["[[Time series]]", "[[ARIMA]]", "[[Prophet]]"]
 ---

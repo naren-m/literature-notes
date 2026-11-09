@@ -3,7 +3,7 @@ title: "Fingerprint"
 date: "2026-05-05"
 type: "permanent"
 category: "Computer Science/Cryptography"
-tags: []
+tags: ["cryptography", "hashing"]
 status: "draft"
 related: ["[[digital signatures]]", "[[public key]]", "[[Authentication]]", "[[Cryptography]]"]
 ---

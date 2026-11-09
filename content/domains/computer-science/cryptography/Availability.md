@@ -3,7 +3,7 @@ title: "Availability"
 date: "2026-05-05"
 type: "permanent"
 category: "Computer Science/Cryptography"
-tags: []
+tags: ["security", "cia-triad"]
 status: "draft"
 related: ["[[CIA Triad]]", "[[STRIDE]]", "[[Denial of Service]]", "[[Cryptography]]"]
 ---

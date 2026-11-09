@@ -3,7 +3,7 @@ title: "Bill joy"
 date: "2026-05-05"
 type: "permanent"
 category: "People"
-tags: []
+tags: ["people", "computer-science", "unix"]
 status: "draft"
 related: ["[[Outliers]]", "[[Bill Joy]]", "[[Brian Kernighan interview]]"]
 ---

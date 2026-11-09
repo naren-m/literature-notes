@@ -3,7 +3,7 @@ title: "Authentication"
 date: "2026-05-05"
 type: "permanent"
 category: "Computer Science/Security"
-tags: []
+tags: ["security", "authentication"]
 status: "draft"
 related: ["[[Spoofing]]", "[[STRIDE]]", "[[Strong Authentication]]", "[[Token Authentication]]", "[[Cryptography]]", "[[Fingerprint]]", "[[HMAC]]", "[[Message Authentication Code]]", "[[Post-quantum signature migration is an ecosystem problem]]", "[[Repudiation]]", "[[Zero-Trust]]"]
 ---

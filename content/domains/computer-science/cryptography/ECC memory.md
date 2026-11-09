@@ -3,7 +3,7 @@ title: "ECC memory"
 date: "2026-05-05"
 type: "permanent"
 category: "Computer Science/Cryptography"
-tags: []
+tags: ["security", "memory", "hardware"]
 status: "draft"
 related: ["[[Rowhammer]]", "[[Tampering]]", "[[Cryptography]]"]
 ---

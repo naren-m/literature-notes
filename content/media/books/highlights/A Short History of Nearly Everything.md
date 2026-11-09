@@ -3,7 +3,7 @@ title: "A Short History of Nearly Everything"
 date: "2026-05-05"
 type: "literature"
 category: "Media/Books/Highlights"
-tags: []
+tags: ["book", "highlights", "science"]
 status: "draft"
 ---
 

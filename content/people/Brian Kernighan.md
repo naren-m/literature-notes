@@ -3,7 +3,7 @@ title: "Brian Kernighan"
 date: "2026-05-05"
 type: "permanent"
 category: "People"
-tags: []
+tags: ["people", "computer-science", "unix"]
 status: "draft"
 related: ["[[Brian Kernighan interview]]", "[[Unix philosophy]]", "[[Hello World]]"]
 ---

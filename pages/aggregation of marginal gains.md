@@ -3,7 +3,7 @@ title: "aggregation of marginal gains"
 date: "2026-05-05"
 type: "research"
 category: "Legacy/Pages"
-tags: []
+tags: ["habits", "improvement"]
 status: "draft"
 ---
 

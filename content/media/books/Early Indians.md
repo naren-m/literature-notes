@@ -3,7 +3,7 @@ title: "Early Indians"
 date: "2026-05-05"
 type: "literature"
 category: "Media/Books"
-tags: []
+tags: ["book", "history", "india"]
 status: "draft"
 ---
 

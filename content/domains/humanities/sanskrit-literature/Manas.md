@@ -3,7 +3,7 @@ title: "Manas"
 date: "2026-05-05"
 type: "permanent"
 category: "Humanities/Sanskrit Literature"
-tags: []
+tags: ["sanskrit", "philosophy", "mind"]
 status: "draft"
 related: ["[[Buddhi]]", "[[Ahamkara]]", "[[chitta]]", "[[NirvanaShatakam]]", "[[HanumaStuthi]]", "[[Hanuman Chalisa]]", "[[Dharma]]", "[[Garikapati Narasimha Rao]]", "[[PanchaKosha]]"]
 ---

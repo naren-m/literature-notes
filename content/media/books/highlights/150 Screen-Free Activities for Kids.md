@@ -3,7 +3,7 @@ title: "150+ Screen-Free Activities for Kids"
 date: "2026-05-05"
 type: "literature"
 category: "Media/Books/Highlights"
-tags: []
+tags: ["book", "highlights", "parenting"]
 status: "draft"
 ---
 

@@ -3,7 +3,7 @@ title: "Indology"
 date: "2026-05-05"
 type: "permanent"
 category: "Humanities/History"
-tags: []
+tags: ["history", "india", "indology"]
 status: "draft"
 related: ["[[Aryan Invasion Theory]]", "[[Panini]]", "[[Ashoka]]", "[[Marthanda Varma]]", "[[J Sai Deepak]]"]
 ---

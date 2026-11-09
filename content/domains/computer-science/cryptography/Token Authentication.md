@@ -3,7 +3,7 @@ title: "Token Authentication"
 date: "2026-05-05"
 type: "permanent"
 category: "Computer Science/Cryptography"
-tags: []
+tags: ["security", "authentication"]
 status: "draft"
 related: ["[[Digital signatures]]", "[[Cryptography]]", "[[Authentication]]", "[[JSON]]", "[[Strong Authentication]]"]
 ---

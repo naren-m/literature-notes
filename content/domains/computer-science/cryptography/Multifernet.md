@@ -3,7 +3,7 @@ title: "Multifernet"
 date: "2026-05-05"
 type: "permanent"
 category: "Computer Science/Cryptography"
-tags: []
+tags: ["cryptography", "python", "keys"]
 status: "draft"
 related: ["[[Cryptography]]", "[[Encryption]]"]
 ---

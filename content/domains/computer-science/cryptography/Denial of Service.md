@@ -3,7 +3,7 @@ title: "Denial of Service"
 date: "2026-05-05"
 type: "permanent"
 category: "Computer Science/Cryptography"
-tags: []
+tags: ["security", "stride", "attacks"]
 status: "draft"
 related: ["[[Denial of Service]]", "[[Availability]]", "[[CIA Triad]]", "[[STRIDE]]"]
 ---

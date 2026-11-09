@@ -3,7 +3,7 @@ title: "Mahakali charitram"
 date: "2026-05-05"
 type: "research"
 category: "Legacy/Pages"
-tags: []
+tags: ["devotional", "deities"]
 status: "draft"
 ---
 

@@ -53,7 +53,7 @@ WIKI_LINK_RE = re.compile(r"!?\[\[([^\]\n]+)\]\]")
 MARKDOWN_LINK_RE = re.compile(r"(?<!!)\[[^\]\n]+\]\(([^)\n]+)\)")
 FRONTMATTER_RE = re.compile(r"\A---\s*\n(.*?)\n---\s*", re.DOTALL)
 TITLE_RE = re.compile(r"(?m)^title:\s*[\"']?([^\"'\n]+)[\"']?\s*$")
-TYPE_RE = re.compile(r"(?m)^type:\s*([A-Za-z_-]+)\s*$")
+TYPE_RE = re.compile(r"(?m)^type:\s*[\"']?([A-Za-z_-]+)[\"']?\s*$")
 HEADING_RE = re.compile(r"(?m)^#\s+(.+?)\s*$")
 
 

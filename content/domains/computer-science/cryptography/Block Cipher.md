@@ -3,7 +3,7 @@ title: "Block Cipher"
 date: "2026-05-05"
 type: "permanent"
 category: "Computer Science/Cryptography"
-tags: []
+tags: ["cryptography", "encryption"]
 status: "draft"
 related: ["[[Encryption]]", "[[Cryptography]]", "[[Hashing]]", "[[Initialization Vector]]", "[[ENTROPY]]", "[[Grover's algorithm weakens symmetric security quadratically]]", "[[Hash Algorithms]]"]
 ---

@@ -3,7 +3,7 @@ title: "VaishshikaSutra"
 date: "2026-05-05"
 type: "literature"
 category: "Humanities/Sanskrit Literature"
-tags: []
+tags: ["sanskrit", "philosophy", "vaiseshika"]
 status: "incomplete"
 source: "https://www.wisdomlib.org/hinduism/book/vaisheshika-sutra-commentary"
 related: ["[[sutra]]", "[[karma]]", "[[Vaiseshika Darshanam]]"]

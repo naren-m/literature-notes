@@ -3,7 +3,7 @@ title: "Books"
 date: "2026-05-05"
 type: "literature"
 category: "Media/Books"
-tags: []
+tags: ["books", "reading-list"]
 status: "draft"
 ---
 

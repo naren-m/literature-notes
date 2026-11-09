@@ -3,7 +3,7 @@ title: "Skills for high Performer"
 date: "2026-05-05"
 type: "research"
 category: "Legacy/Pages"
-tags: []
+tags: ["confidence", "transcript", "self-improvement"]
 status: "draft"
 ---
 

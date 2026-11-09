@@ -3,7 +3,7 @@ title: "fibbonacci numbers"
 date: "2026-08-31"
 type: "research"
 category: "Legacy"
-tags: []
+tags: ["mathematics", "sanskrit", "pingala"]
 status: "draft"
 related: ["[[Pingala]]"]
 ---

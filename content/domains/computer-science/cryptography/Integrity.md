@@ -3,7 +3,7 @@ title: "Integrity"
 date: "2026-05-05"
 type: "permanent"
 category: "Computer Science/Cryptography"
-tags: []
+tags: ["security", "cia-triad", "hashing"]
 status: "draft"
 related: ["[[CIA Triad]]", "[[STRIDE]]", "[[Tampering]]", "[[Hashing]]", "[[Message Authentication Code]]", "[[Digital signatures]]", "[[Checksum]]", "[[Cryptography]]", "[[Encryption]]", "[[HMAC]]", "[[Hash Algorithms]]"]
 ---

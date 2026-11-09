@@ -3,7 +3,7 @@ title: "Hanuman Chalisa"
 date: "2026-05-05"
 type: "permanent"
 category: "Humanities/Sanskrit Literature"
-tags: []
+tags: ["devotional", "hanuma"]
 status: "draft"
 related: ["[[Awadhi]]", "[[Tulsidas]]", "[[Shri Ram Charit Manas]]", "[[grit]]", "[[Manas]]", "[[Buddhi]]", "[[Dharma]]"]
 ---

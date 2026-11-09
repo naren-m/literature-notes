@@ -3,7 +3,7 @@ title: "chitta"
 date: "2026-05-05"
 type: "permanent"
 category: "Humanities/Sanskrit Literature"
-tags: []
+tags: ["sanskrit", "philosophy", "mind"]
 status: "draft"
 related: ["[[YogaSutras]]", "[[karma]]", "[[Dharma]]", "[[Apsaras]]", "[[Dharmanatha_Sloka]]", "[[Nada]]", "[[Manas]]", "[[Buddhi]]", "[[Ahamkara]]", "[[NirvanaShatakam]]", "[[Garikapati Narasimha Rao]]"]
 ---

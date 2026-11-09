@@ -3,7 +3,7 @@ title: "dhRti-dRShTi-mati-dAKShyam sloka"
 date: "2026-05-05"
 type: "research"
 category: "Legacy/Pages"
-tags: []
+tags: ["sanskrit", "sloka", "ramayanam"]
 status: "draft"
 ---
 

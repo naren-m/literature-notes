@@ -3,126 +3,75 @@ title: "Computer Science & Engineering"
 date: "2026-05-05"
 type: "permanent"
 category: "Computer Science"
-tags: ["security", "cryptography", "hashing", "encryption", "authentication", "vulnerabilities", "algorithms", "design-patterns"]
-status: "draft"
-related: ["[[Encryption]]", "[[Cryptography/Cryptography]]", "[[Cryptography/Hashing]]", "[[Cryptography/Block Cipher]]", "[[Cryptography/Public Key]]", "[[Cryptography/Digital signatures]]", "[[Authentication]]", "[[Cryptography/CIA Triad]]"]
+tags: ["map", "security", "cryptography", "coding-practices", "design-patterns"]
+status: "complete"
+related: ["[[Cryptography]]", "[[CIA Triad]]", "[[STRIDE]]", "[[Testing Principles]]", "[[Unix philosophy]]"]
 ---
 
 # Computer Science & Engineering
 
-> Technical notes covering cryptography, security, algorithms, design patterns, and software engineering concepts.
+Map. Start at the top of a section, follow the arrows.
 
-## 📚 Overview
+## Start here
 
-This domain contains **55 notes** across three main areas:
+1. [[Cryptography]] → the hub.
+2. [[CIA Triad]] → what we protect.
+3. [[STRIDE]] → how it gets attacked.
+4. [[Testing Principles]] → how we keep code honest.
 
-- **Cryptography** - Security, [[Encryption|encryption]], hashing (~45 notes)
-- **Coding** - Algorithms and programming concepts
-- **Design Patterns** - Software architecture patterns
+## Cryptography
 
-## 🔐 Cryptography
+Protect → [[Confidentiality]] · [[Integrity]] · [[Availability]] ([[CIA Triad]])
 
-### Core Concepts
+- Hide: [[Encryption]], [[Block Cipher]], [[Initialization Vector]], [[Public Key]], [[Key exchange]], [[Multifernet]]
+- Prove nothing changed: [[Hashing]], [[Hash Algorithms]], [[Checksum]], [[Fingerprint]]
+- Prove who sent it: [[Message Authentication Code]], [[HMAC]], [[Digital signatures]]
+- Randomness: [[ENTROPY]]
+- Trust: [[Root of trust]], [[Data Sensitivity]], [[Zero-Trust]]
+- Formats: [[JSON]]
 
-- [[Cryptography/Cryptography]] - Overview and fundamentals
-- [[Cryptography/Hashing]] - Hash functions and algorithms
-- [[Cryptography/Block Cipher]] - Block cipher encryption
-- [[Cryptography/Public Key]] - Asymmetric cryptography
-- [[Cryptography/Digital signatures]] - [[Authentication]] and integrity
+### Post-quantum
 
-### Security Principles
+- [[Quantum attacks depend on exploitable mathematical structure]]
+- [[Harvest now decrypt later makes key exchange urgent]]
+- [[Grover's algorithm weakens symmetric security quadratically]]
+- [[Post-quantum signature migration is an ecosystem problem]]
+- [[Lattice-based encryption]]
+- Source: [[How Quantum Computers Break Encryption First Principles]]
 
-- [[Cryptography/CIA Triad]] - Confidentiality, Integrity, Availability
-  - [[Cryptography/Confidentiality]] - Keeping secrets
-  - [[Cryptography/Integrity]] - Data trustworthiness
-  - [[Cryptography/Availability]] - Resource accessibility
+## Threats & attacks
 
-### Threat Models & Attacks
+[[STRIDE]] = [[Spoofing]] · [[Tampering]] · [[Repudiation]] · [[Information Disclosure]] · [[Denial of Service]] · [[Elevation of Privilege]]
 
-- [[Cryptography/STRIDE]] - Threat categorization framework
-  - [[Spoofing]], [[Tampering]], [[Repudiation]], [[Information Disclosure]], [[Denial of Service]], [[Elevation of Privilege]]
-- [[Cryptography/Zero Day Attack]] - Unknown vulnerabilities
-- [[Cryptography/Side Channel Attack]] - Non-traditional attack vectors
-- [[Cryptography/Buffer Overflows]] - Memory exploitation
-- [[Cryptography/Cold Boot]] - RAM-based attacks
-- [[Cryptography/DLL Preloading Attack]] - Library hijacking
+- Memory: [[Buffer Overflows]], [[Rowhammer]], [[Cold Boot]], [[ECC memory]]
+- Side channels: [[Side Channel Attack]], [[Cache prefetching]]
+- Supply chain / firmware: [[DLL Preloading Attack]], [[LOJAX]]
+- Unknown unknowns: [[Zero Day Attack]], [[Security Vulnerabilities]]
 
-### Algorithms & Methods
+## Who are you?
 
-- [[Cryptography/Hash Algorithms]] - SHA, MD5, etc.
-- [[Cryptography/Checksum]] - Data integrity verification
-- [[Cryptography/ENTROPY]] - Randomness and information theory
-- [[Cryptography/Cache prefetching]] - Performance optimization
+[[Authentication]] → [[Strong Authentication]], [[Token Authentication]]
 
-### Authentication & Authorization
+## Coding practices
 
-- [[Cryptography/Token Authentication]] - Session management
-- [[Cryptography/Zero-Trust]] - Security architecture
-- [[Cryptography/Data Sensitivity]] - Classification and handling
+- Tests: [[Testing Principles]], [[Testing Pyramid]], [[Test Driven Dev]]
+- Keep it healthy: [[Maintaining code base]], [[Friday cleaning]], [[One percent rule]], [[aggregation of marginal gains]]
+- Ideas: [[Unix philosophy]], [[Idempotence]], [[Leaky abstraction]]
+- Python: [[Python Decorators]], [[Decorator Pattern]], [[Hello World]]
+- Algorithms: [[Dynamic Programming]] → [[DP Practice]]
 
-### Standards & Formats
+## Design & systems
 
-- [[Cryptography/JSON]] - Data interchange format
-- [[Cryptography/ECC memory]] - Error-correcting code
+- [[design_patterns|Design patterns]], [[DesigningDistributedSystems]]
+- Inbox: [[systemdesign inbox]], [[kubernetes]]
 
-## 💻 Coding & Algorithms
+## Machine learning & LLMs
 
-- [[coding/Coding]] - Programming fundamentals
-- [[Dynamic Programming]] - Optimization technique
+- Sequences: [[RNN]] → [[LSTM]]
+- LLMs: [[Key-value Cache]], [[Persistent LLM wikis make synthesis compounding]] ← [[LLM Wiki]]
 
-- [[Key-value Cache]] - LLM inference cache
+## Across domains
 
-Additional algorithm notes
+- [[ENTROPY]] ↔ [[Vikalpa]] → [[Comprehensive_Shannon_Entropy_Vikalpa_Research]]
 
-## 🏗️ Design Patterns
-
-- [[design_patterns|Design Patterns]] - Software architecture
-- [[Leaky abstraction]] - Abstraction failures
-- [[DesigningDistributedSystems|Designing Distributed Systems]] - Scalability patterns
-
-## 🎯 Learning Paths
-
-### Beginner → Intermediate
-
-1. Start with [[Cryptography/Cryptography]] for overview
-2. Understand [[Cryptography/CIA Triad]] security principles
-3. Learn [[Cryptography/Hashing]] basics
-4. Explore [[Cryptography/Token Authentication]]
-
-### Intermediate → Advanced
-
-1. Study [[Cryptography/STRIDE]] threat modeling
-2. Understand [[Cryptography/Side Channel Attack]]
-3. Deep dive into [[Cryptography/ENTROPY]]
-4. Research [[Cryptography/Zero-Trust]] architecture
-
-### Security Focus
-
-1. [[Cryptography/STRIDE]] - Threat categorization
-2. [[Cryptography/Zero Day Attack]] - Vulnerability research
-3. [[Cryptography/Buffer Overflows]] - Exploitation techniques
-4. [[Cryptography/Cold Boot]] - Physical security
-
-## 🔗 Cross-Domain Connections
-
-- **Entropy & [[Vikalpa]]** - Information theory meets Vedic philosophy (see [[../research/entropy-vikalpa]])
-- **Security & Trust** - Technical and philosophical dimensions
-- **Design Patterns & [[Dharma]]** - Universal patterns across domains
-
-## 🏷️ Common Tags
-
-`#security` `#cryptography` `#hashing` `#encryption` `#authentication` `#vulnerabilities` `#algorithms` `#design-patterns`
-
-## 📊 Statistics
-
-**Total Notes**: 55
-
-**Last Updated**: 2025-12-11
-
-## 🔄 Maintenance
-
-This README is auto-generated. To update counts: `python ../generate_readmes.py`
-
----
-
-[← Back to Main Index](../INDEX.md)
+All notes, one line each → [INDEX](../../../INDEX.md)

@@ -3,7 +3,7 @@ title: "Prana"
 date: "2026-05-05"
 type: "permanent"
 category: "Humanities/Sanskrit Literature"
-tags: []
+tags: ["sanskrit", "yoga", "prana"]
 status: "draft"
 related: ["[[Nada]]", "[[Agni]]", "[[Vayu]]", "[[PanchaVayu]]", "[[PanchaKosha]]", "[[SaptaDhatu]]", "[[NirvanaShatakam]]", "[[Ayurvedam]]", "[[Sangitaratnakaram]]", "[[Upanishads]]", "[[VishnuSahasranamam]]"]
 ---

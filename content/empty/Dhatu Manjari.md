@@ -3,7 +3,7 @@ title: "Dhatu Manjari"
 date: "2026-05-05"
 type: "research"
 category: "Content/Empty"
-tags: []
+tags: ["sanskrit", "grammar", "stub"]
 status: "draft"
 ---
 

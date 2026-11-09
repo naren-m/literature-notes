@@ -3,7 +3,7 @@ title: "YogaSutras"
 date: "2026-05-05"
 type: "literature"
 category: "Humanities/Sanskrit Literature/Yoga Sutras"
-tags: []
+tags: ["sanskrit", "yoga", "patanjali"]
 status: "incomplete"
 source: "https://docs.google.com/document/d/1hk-x7aeTDUctepJ4j9_pJQNf8vJNS5GQhbhZySFA-dc/edit"
 related: ["[[chitta]]", "[[dRShTi]]", "[[Pramana]]", "[[Viparyaya]]", "[[Vikalpa]]", "[[nidra]]", "[[smrthi]]", "[[sleep]]", "[[Sutra]]", "[[karma]]"]

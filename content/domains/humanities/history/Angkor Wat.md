@@ -3,7 +3,7 @@ title: "Angkor Wat"
 date: "2026-05-05"
 type: "permanent"
 category: "Humanities/History"
-tags: []
+tags: ["history", "temples"]
 status: "draft"
 related: ["[[Angkor Wat]]"]
 ---

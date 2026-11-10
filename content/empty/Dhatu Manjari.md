@@ -5,6 +5,7 @@ type: "research"
 category: "Content/Empty"
 tags: ["sanskrit", "grammar", "stub"]
 status: "draft"
+related: ["[[Dhatupatha]]"]
 ---
 
 # Dhatu Manjari

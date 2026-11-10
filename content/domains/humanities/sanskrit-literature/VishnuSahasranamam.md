@@ -6,7 +6,7 @@ category: "Humanities/Sanskrit Literature"
 tags: ["Pravachanam"]
 status: "incomplete"
 source: "https://www.templepurohit.com/vishnu-sahasranamam-1008-names-of-lord-vishnu/"
-related: ["[[VishnuSahasranamamByDusyanthSridhar]]", "[[Shatprashni]]", "[[Akshara]]", "[[krishna]]", "[[dharma]]", "[[indra]]", "[[speech]]", "[[Prana]]"]
+related: ["[[VishnuSahasranamamByDusyanthSridhar]]", "[[Shatprashni]]", "[[Akshara]]", "[[krishna]]", "[[dharma]]", "[[indra]]", "[[speech]]", "[[Prana]]", "[[Agastya]]"]
 ---
 
 # VishnuSahasranamam

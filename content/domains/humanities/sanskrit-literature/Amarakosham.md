@@ -5,7 +5,7 @@ type: "permanent"
 category: "Humanities/Sanskrit Literature"
 tags: ["sanskrit", "dictionary", "lexicon"]
 status: "complete"
-related: ["[[Ashtadhyayi]]", "[[Niruktha]]"]
+related: ["[[Ashtadhyayi]]", "[[Niruktha]]", "[[Agastya]]"]
 ---
 
 # Amarakosham

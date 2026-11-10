@@ -182,6 +182,10 @@ When promoting, create a new permanent note rather than silently rebranding the 
 
 Notes are written in Naren's voice, not in generic LLM prose.
 
+- Use the repo skills: `.claude/skills/sutra-writing` for notes and documents, `.claude/skills/talk-like-naren` for replies. Synced from `naren-m/skills`.
+- Prerequisites first: if a statement depends on an idea the vault has no note for, write that note first, then link to it. Build understanding bottom-up, from first principles.
+- No ambiguity. A reader should never have to read a paragraph to get one simple point.
+
 - Concept notes are sutra-style: the fewest words that carry the idea, one line per idea, each line worth remembering. Lead with the essence (`Nāda = Prāṇa + Agni.`, `One that sustains. What does it sustain? Balance in the creation.`), not a hedged dictionary definition.
 - Article-style notes stay articles, but read like an engineer talking to a friend: short sentences, direct opinions, concrete examples, no filler.
 - Keep Telugu/Sanskrit verses, verse references, open questions and TODOs verbatim.

@@ -40,6 +40,7 @@ The goal is compounding knowledge: each ingest or query should leave the vault b
 ## Inbox
 
 - Inbox = open GitHub issues on `naren-m/literature-notes`. One issue = one capture: a URL, pasted text, or both.
+- "Add to inbox: <url or text>" in any session = open one such issue. Title: a few words or the URL. Body: the URL and/or text, verbatim. Don't ingest it then; the daily compile does that.
 - The daily compile (2:42 am Pacific) ingests each open issue with the Ingest workflow below, then opens one PR whose body has `Closes #N` for each issue, so issues close on merge.
 - Can't fetch a URL (network policy, login wall, video with no transcript)? Comment on the issue with the reason and leave it open. Don't invent content.
 

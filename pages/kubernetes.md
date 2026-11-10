@@ -5,6 +5,7 @@ type: "research"
 category: "Legacy/Pages"
 tags: ["devops", "kubernetes"]
 status: "draft"
+related: ["[[Naren]]"]
 ---
 
 # kubernetes

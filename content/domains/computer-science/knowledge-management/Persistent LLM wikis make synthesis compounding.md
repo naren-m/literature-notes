@@ -6,7 +6,7 @@ category: "Computer Science/Knowledge Management"
 tags: ["llm", "knowledge-management", "zettelkasten", "rag"]
 status: "draft"
 source: "[[LLM Wiki]]"
-related: ["[[LLM Wiki]]", "[[Unix philosophy]]", "[[Maintaining code base]]"]
+related: ["[[LLM Wiki]]", "[[Unix philosophy]]", "[[Maintaining code base]]", "[[Naren]]"]
 ---
 
 # Persistent LLM wikis make synthesis compounding

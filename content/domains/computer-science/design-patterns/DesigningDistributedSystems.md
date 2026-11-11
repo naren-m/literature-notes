@@ -5,11 +5,11 @@ type: "research"
 category: "Computer Science/Design Patterns"
 tags: ["programming", "learning", "investigate"]
 status: "draft"
-related: ["[[DesigningDistributedSystems.pdf]]", "[[Idempotence]]"]
+related: ["[[Idempotence]]"]
 ---
 
 # DesigningDistributedSystems
 
-[[DesigningDistributedSystems.pdf]]
+[DesigningDistributedSystems.pdf](https://github.com/naren-m/literature-notes/blob/main/content/domains/computer-science/design-patterns/DesigningDistributedSystems.pdf)
 
 - TODO: distill.

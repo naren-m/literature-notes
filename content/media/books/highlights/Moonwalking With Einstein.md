@@ -18,7 +18,7 @@ status: "draft"
 
 ### Highlights
 
-[[memory]] [[practice]] [[quotes]]
+memory practice quotes
 - “Indeed, one would be hard put to say which was more real for him: the world of imagination in which he lived, or the world of reality in which he was but a temporary guest,” (Location 469)
 - The brain makes sense up close and from far away. It’s the in-between—the stuff of thought and memory, the language of the brain—that remains a profound mystery. (Location 500)
 - S kept his memories rigidly organized by mapping them onto structures and places he already knew well. (Location 514)

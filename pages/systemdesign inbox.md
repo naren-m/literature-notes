@@ -18,7 +18,7 @@ status: "draft"
 - {{video https://www.youtube.com/watch?v=adOkTjIIDnk}}
 
 - [Stop Reading Theory. These 18 Real Systems Explain 90% of Software Engineering](https://www.youtube.com/watch?v=7AQHB0lYaH8)
-  - [[Clip]] [(791) Stop Reading Theory. These 18 Real Systems Explain 90% of Software Engineering. - YouTube](https://www.youtube.com/watch?v=7AQHB0lYaH8)
+  - Clip [(791) Stop Reading Theory. These 18 Real Systems Explain 90% of Software Engineering. - YouTube](https://www.youtube.com/watch?v=7AQHB0lYaH8)
     By _Pascal Esc_. Stop reading only theory. Textbooks are fine (1:35); seeing the concept inside a real product is what sticks (1:40).
 
     **18 real systems** (3:02):

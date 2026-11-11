@@ -6,7 +6,7 @@ category: "Humanities/Sanskrit Literature"
 tags: ["ayurveda", "remedies"]
 status: "draft"
 source: ""
-related: ["[[curd]]", "[[dadhi]]", "[[Ayurvedam]]"]
+related: ["[[Ayurvedam]]"]
 ---
 
 # AyurvedicRemedies
@@ -27,7 +27,7 @@ Add honey mix and take
 
 ## Consumption of curd
 
-- Do not eat [[curd]] ([[dadhi]]) after sunset
+- Do not eat curd (dadhi) after sunset
 - Do not cook curd
 - Do not mix curd and Cucumber
 

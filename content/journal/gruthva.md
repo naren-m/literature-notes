@@ -37,4 +37,4 @@ kārya-virodhi—whereof the effect is the opposite or contradictory; karma—ac
 
 ### References
 
-[[VaishshikaSutra]] [[gravity]]
+[[VaishshikaSutra]] gravity

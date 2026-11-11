@@ -5,7 +5,7 @@ type: permanent
 category: "People"
 tags: ["people", "sanskrit", "vaiseshika"]
 status: draft
-related: ["[[Vaiseshika Darshanam]]", "[[VaishshikaSutra]]", "[[Books]]"]
+related: ["[[Vaiseshika Darshanam]]", "[[VaishshikaSutra]]", "[[Books]]", "[[gruthva]]"]
 ---
 # Kanaada (कणाद)
 

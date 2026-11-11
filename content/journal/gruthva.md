@@ -3,11 +3,14 @@ title: "gruthva"
 date: "2026-05-05"
 type: "journal"
 category: "Journal"
-tags: []
+tags: ["vaiseshika", "sanskrit", "gravity", "physics"]
 status: "draft"
+related: ["[[VaishshikaSutra]]", "[[Kanaada]]", "[[karma]]"]
 ---
 
 # gruthva
+
+Vaiśeṣika on motion: no contact → it falls, from gurutva (heaviness). An arrow moves first by impulse, then by the saṃskāra that impulse left.
 
 संयोगाभावे गुरुत्वात् पतनम् ॥ ५.१.७ ॥
 saṃyogābhāve gurutvāt patanam || 5.1.7 ||

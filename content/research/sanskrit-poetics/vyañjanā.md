@@ -2,7 +2,7 @@
 title: "vyañjanā"
 date: "2026-05-05"
 type: "research"
-category: "Legacy"
+category: "Research/Sanskrit Poetics"
 tags: ["sanskrit", "grammar", "poetics"]
 status: "draft"
 ---

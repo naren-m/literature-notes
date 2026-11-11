@@ -2,7 +2,7 @@
 title: "Key-value Cache"
 date: "2026-08-31"
 type: "research"
-category: "Legacy"
+category: "Research/LLM"
 tags: ["agents", "llm", "cache"]
 status: "draft"
 ---

@@ -12,7 +12,7 @@ status: "draft"
 - #pravachanam #DusyanthSridhar
 
 ## King among secrets #gita
-- ``{{video https://www.youtube.com/watch?v=Cs7_AUG5CO`I}}`
+- {{video https://www.youtube.com/watch?v=Cs7_AUG5COI}}
 - (timestamp 105 1)
 - Kaivalyam (timestamp 42 5) - Kevala gyanama ithi kaivalyam #vyuthpathi
 - Maslos hieroricy (timestamp 53 1)

@@ -24,6 +24,8 @@ First chapter of [[AshtangaHrydayam]] talks about [[Ayurvedam]]
   - Each one of them wrote a treatise and presented [[Atreya]]
   - Best of them was [[Agnivesa]] and it became popular in the work.
 - Atreya wrote [[charaka_samhitha]]
+  - Correction: [[Atreya]] taught it; [[Agnivesa]] wrote it (see the line below). More in [[Atreya]].
+  - Q: Did Atreya write any text himself, or does his teaching survive only through Agnivesa's work?
 - Atreya dealt #kayachikitsa
 - Original text written by Agnivesa is [[charaka_samhitha]] and it is not in the original form. It has been redacted(re-edited) by [[Charaka]] muni. And went a second edition by Drodhbala.  (ద్రోద్భల)
 

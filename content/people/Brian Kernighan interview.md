@@ -6,7 +6,7 @@ category: "People"
 tags: ["book", "programming", "theory", "cse"]
 status: "incomplete"
 source: "https://www.youtube.com/watch?v=O9upVbGSBFo"
-related: ["[[Brian Kernighan]]", "[[CTSS]]", "[[Multics]]", "[[AMPL]]", "[[Unix philosophy]]", "[[Hello World]]", "[[GraphTheory]]", "[[Jeff Dean]]"]
+related: ["[[Brian Kernighan]]", "[[Unix philosophy]]", "[[Hello World]]"]
 ---
 
 # Brian Kernighan interview
@@ -26,9 +26,9 @@ Guest       : [[Brian Kernighan]]
 Guest creds :
 
 ## Notes
-- [[CTSS]] Time sharing system
-- [[Multics]] build on top of CTSS to make it better
-- [[AMPL]]
+- CTSS Time sharing system
+- Multics build on top of CTSS to make it better
+- AMPL
 Kernighan coined the term "Unix" and helped popularize Thompson's [[Unix philosophy]].[17] Kernighan is also known as a coiner of the expression "What You See Is All You Get" (WYSIAYG), which is a sarcastic variant of the original "What You See Is What You Get" (WYSIWYG).[18] Kernighan's term is used to indicate that WYSIWYG systems might throw away information in a document that could be useful in other contexts.
 
 In 1972, Kernighan described memory management in strings using "hello" and "world", in the B programming language,[19] which became the iconic example we know today. Kernighan's original 1978 implementation of [[Hello World]] was sold at The Algorithm Auction, the world's first auction of computer algorithms.
@@ -39,29 +39,29 @@ In 1972, Kernighan described memory management in strings using "hello" and "wor
   - Fortran done by IBM Formula Translation
   - Cobal for bussiness
   - Algol
-- [[AMPL]]
+- AMPL
   - Mathematical expressions
   - Specification of models, in human readable program.
   - The AMPL Book. #book #programming
-- He also worked on [[GraphTheory]]
+- He also worked on GraphTheory
   - Under what conditions P=NP ? https://youtu.be/O9upVbGSBFo?t=4716
-    - [[Jeff Dean]] either P is or or N is 1.
-- What is [[Computational complexity Theory]]
+    - Jeff Dean either P is or or N is 1.
+- What is Computational complexity Theory
   - Tags: #theory #cse
-His thesis is on [[GraphTheory]] Graph partition.
-- Book on AI thought process around 1960s [[Computers and Thought]] #book
+His thesis is on GraphTheory Graph partition.
+- Book on AI thought process around 1960s Computers and Thought #book
 
 ## Unix was not open source
 
 I think that's a mischaracterization in the sense it absolutely was not open source it was very definitely proprietary licensed but it was licensed freely to universities in source code form for many years and because of that generations of university students and their faculty people grew up knowing about Unix and there was enough expertise in the community that it then became possible for people to kind of go off in their own direction and build something that looked unix like the berkeley version of unix started with that licensed code and gradually picked up enough of its own code contributions notably from people like [[Bill joy]] that eventually it was able to become completely free of any TMT code now there was an enormous amount of legal jockeying around this that in the late early to late 80s Early 90s something like that and then not
 
-## Transcript of the video extracted by [[YoutubeTrascript]]
+## Transcript of the video extracted by YoutubeTrascript
 
 the following is a conversation with
 [[Brian Kernighan]] a professor of computer
 science at Princeton University he was a
 key figure in the computer science
-community in the early [[UNIX]] days
+community in the early [[Unix philosophy|UNIX]] days
 alongside UNIX creators Ken Thompson and
 [[Dennis Ritchie]] he co-authored the C
 programming language with [[Dennis Ritchie]]
@@ -70,9 +70,9 @@ of books on programming computers and
 life including the practice of
 programming the goal programming
 language and his latest UNIX a history
-and a memoir he co-created [[awk]]  the text
+and a memoir he co-created awk  the text
 processing language used by Linux folks
-like myself he Co designed [[AMPL]] an
+like myself he Co designed AMPL an
 algebraic modeling language that I
 personally love and have used a lot in
 my life for large scale optimization I
@@ -462,7 +462,7 @@ it in assembly pdp-7 assembler that Ken created these things were assembly langu
 in some sense more manageable I mean
 then realistically there's an enormous
 variation in the capabilities of
-programmers and [[Ken Thompson]] who did
+programmers and Ken Thompson who did
 that first one is kind of the
 singularity in my experience of
 programmers with no disrespect to you or
@@ -489,7 +489,7 @@ kind of zoom from the alien perspective
 if you're just observing earth that all
 sudden these computers took over the
 world and they started from this little
-initial seed of [[Unix]]
+initial seed of [[Unix philosophy|Unix]]
 how does that make you feel it's quite
 surprising and and and you asked earlier
 but predictions the answer is no there's
@@ -1049,7 +1049,7 @@ need a big screen but otherwise none
 tends not to be used as much editor I
 
 use mostly Sam which is an editor that
-[[Rob Pike]] wrote long ago at Bell Labs his
+Rob Pike wrote long ago at Bell Labs his
 did that sorry to interrupt it does that
 precede VI posts it post dates both VI
 and Emacs it is derived from Rob's

@@ -14,7 +14,7 @@ status: "draft"
 
 - *Karmasu Na Sidanti* ("They don't fail in tasks")
 - The Four Pillars of Siddhi  - Chatvāri Lakṣaṇāni* (The Four Traits)
-  - ** [[dhRti]] ** (धृति) - Steadfast resolve
+  - ** dhRti ** (धृति) - Steadfast resolve
   - **[[dRShTi]]** (दृष्टि) - Clear vision
   - **mati** (मति) - Intelligence/discernment
   - **dAKShyam** (दाक्ष्यं) - Skill to execute

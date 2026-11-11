@@ -12,7 +12,7 @@ related: ["[[Testing Pyramid]]", "[[Test Driven Dev]]", "[[State Coverage]]", "[
 
 ## Code writing Principles
 
-1. ALWAYS write code that you can [[test]].
+1. ALWAYS write code that you can test.
 2. Prioritize Readability over clever or concise code
 3. ALWAYS prioritize writing "Clean Code" over completing the task FAST
     1. Ask yourself
@@ -33,7 +33,7 @@ related: ["[[Testing Pyramid]]", "[[Test Driven Dev]]", "[[State Coverage]]", "[
     5. Testable (UT/IT)
 2. Operational state
     1. Bug turn around time is less
-    2. Any change could be tested by Automated [[Test]] suites (including Unit and Module testing)
+    2. Any change could be tested by Automated Test suites (including Unit and Module testing)
     3. Team can spend more time in building New Features
     4. Most of the Bugs are caught in Automation runs (pre-commit, nightly)
 3. Achieve 100% "State Coverage"
@@ -62,7 +62,7 @@ related: ["[[Testing Pyramid]]", "[[Test Driven Dev]]", "[[State Coverage]]", "[
 ### Testing Guidelines
 
 - Automated Unit Tests, Integration Tests, System Tests (End to End Tests) for all the features
-- It is hard to to cover all the corner cases in the IT and E2E [[Test]], which is where UT shines. Can achieve ~100% Branch coverage. Mock can be leveraged here.
+- It is hard to to cover all the corner cases in the IT and E2E Test, which is where UT shines. Can achieve ~100% Branch coverage. Mock can be leveraged here.
 - Why Unit testing matters is covered in [[Testing Pyramid]]
 
 #### Behavior testing to improve [[State Coverage]]

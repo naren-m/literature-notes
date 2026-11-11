@@ -25,13 +25,13 @@ status: "draft"
         - Samhita
       - Jnyana bhagam
         - Veedanta or Upanishad
-  - [[vedanta|Vedanta]] [[Sutra]]s or [[Brahma Sutra]] (timestamp 78 0)
+  - [[vedanta|Vedanta]] [[Sutra]]s or [[Brahma Sutra Bhasya|Brahma Sutra]] (timestamp 78 0)
   - Essense of the [[Upanishads|upanishads]] [[Bhagavadgita]]
 - (timestamp 151 3) Gita will be divided into 3 Shatkams
   - Pradhama Shatkam
     - karma, jnyana yogam
   - 2nd Shatkam
-    - Bhakthi Yogam [[Oct 7th, 2024]] 15:28
+    - Bhakthi Yogam Oct 7th, 2024 15:28
       - Upasana, Upasaka bhedha nibandhanath viseshapa pratipaditha (timestamp 213 6)
       - 4 Key words to understand (timestamp 217 0)
         - Prama: Quintessential knowledge

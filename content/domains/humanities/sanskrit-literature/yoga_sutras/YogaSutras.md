@@ -6,7 +6,7 @@ category: "Humanities/Sanskrit Literature/Yoga Sutras"
 tags: ["sanskrit", "yoga", "patanjali"]
 status: "incomplete"
 source: "https://docs.google.com/document/d/1hk-x7aeTDUctepJ4j9_pJQNf8vJNS5GQhbhZySFA-dc/edit"
-related: ["[[chitta]]", "[[dRShTi]]", "[[Pramana]]", "[[Viparyaya]]", "[[Vikalpa]]", "[[nidra]]", "[[smrthi]]", "[[sleep]]", "[[Sutra]]", "[[karma]]"]
+related: ["[[chitta]]", "[[dRShTi]]", "[[Pramana]]", "[[Viparyaya]]", "[[Vikalpa]]", "[[nidra]]", "[[smrthi]]", "[[Sutra]]", "[[karma]]"]
 ---
 
 # YogaSutras
@@ -58,7 +58,7 @@ These cyclical actions are of five kinds, some complex and some simple.
 pramANaviparyayavikalpanidrAsmRtayaH 1.6
 
 - [[Pramana]] [[Viparyaya]] [[Vikalpa]] [[nidra]] [[smrthi]](a)ya
-  - [[sleep]] - [[Why We Sleep]]
+  - sleep - [[Why We Sleep]]
 These five, are pramANa=judgement, viparyaya=misjudgement,  vikalpa=imagination, nidrA=sleep, and smRti=remembrance.
 
 ## प्रत्यक्षानुमानागमाः प्रमािाचन ॥ १.७॥

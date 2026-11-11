@@ -47,7 +47,8 @@ Map. Word → meaning → experience.
 - [[Niruktha]] → etymology; [[Amarakosham]] → thesaurus; [[Dhatu Manjari]]
 - Word powers: [[Sabda]], [[sabda-vrittis]], [[vyañjanā]]
 - Speech: [[speech]], [[kavi]], [[HowToSpeakLikeHanuma]]
-- Etymology workbench: [[shiva]], [[Apsaras]], [[Rambha]], [[Dharmanatha_Sloka]], [[dhRti-dRShTi-mati-dAKShyam sloka]]
+- Grammar basics: [[Dhatupatha]] → [[Krt pratyaya]] → [[Upapada samasa]], [[Nan samasa]]
+- Etymology workbench: [[Agastya]], [[shiva]], [[Apsaras]], [[Rambha]], [[Dharmanatha_Sloka]], [[dhRti-dRShTi-mati-dAKShyam sloka]]
 
 ## Deities & stories
 

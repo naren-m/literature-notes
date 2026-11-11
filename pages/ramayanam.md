@@ -5,6 +5,7 @@ type: "research"
 category: "Legacy/Pages"
 tags: ["ramayanam"]
 status: "draft"
+related: ["[[Naren]]", "[[Agastya]]"]
 ---
 
 # ramayanam

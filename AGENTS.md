@@ -8,6 +8,10 @@ A
 	b
 		q
 		
+## Owner
+
+Read `content/people/Naren.md` before answering or writing. It says who Naren is, what he is learning, and how he wants answers.
+
 ## Mission
 
 - Default to evergreen, permanent notes for stable ideas that can stand on their own.
@@ -32,6 +36,13 @@ The goal is compounding knowledge: each ingest or query should leave the vault b
 - Literature/source notes belong in `content/media/books/`, `content/media/books/highlights/`, `content/media/articles/`, `content/media/podcasts/`, or `content/media/videos/`.
 - Research notes belong in `content/research/...`.
 - Fleeting or daily capture belongs in `content/journal/`.
+
+## Inbox
+
+- Inbox = open GitHub issues on `naren-m/literature-notes`. One issue = one capture: a URL, pasted text, or both.
+- "Add to inbox: <url or text>" in any session = open one such issue. Title: a few words or the URL. Body: the URL and/or text, verbatim. Don't ingest it then; the daily compile does that.
+- The daily compile (2:42 am Pacific) ingests each open issue with the Ingest workflow below, then opens one PR whose body has `Closes #N` for each issue, so issues close on merge.
+- Can't fetch a URL (network policy, login wall, video with no transcript)? Comment on the issue with the reason and leave it open. Don't invent content.
 
 ## Core Workflows
 
@@ -181,6 +192,10 @@ When promoting, create a new permanent note rather than silently rebranding the 
 ## Writing Voice
 
 Notes are written in Naren's voice, not in generic LLM prose.
+
+- Use the repo skills: `.claude/skills/sutra-writing` for notes and documents, `.claude/skills/talk-like-naren` for replies. Synced from `naren-m/skills`.
+- Prerequisites first: if a statement depends on an idea the vault has no note for, write that note first, then link to it. Build understanding bottom-up, from first principles.
+- No ambiguity. A reader should never have to read a paragraph to get one simple point.
 
 - Concept notes are sutra-style: the fewest words that carry the idea, one line per idea, each line worth remembering. Lead with the essence (`Nāda = Prāṇa + Agni.`, `One that sustains. What does it sustain? Balance in the creation.`), not a hedged dictionary definition.
 - Article-style notes stay articles, but read like an engineer talking to a friend: short sentences, direct opinions, concrete examples, no filler.

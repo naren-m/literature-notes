@@ -17,6 +17,7 @@ ROOT = Path(__file__).resolve().parents[1]
 INDEX = ROOT / "INDEX.md"
 
 SKIP_DIRS = {
+    ".claude",
     ".codex",
     ".git",
     ".mypy_cache",

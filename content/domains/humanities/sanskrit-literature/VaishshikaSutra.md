@@ -6,7 +6,7 @@ category: "Humanities/Sanskrit Literature"
 tags: ["sanskrit", "philosophy", "vaiseshika"]
 status: "incomplete"
 source: "https://www.wisdomlib.org/hinduism/book/vaisheshika-sutra-commentary"
-related: ["[[sutra]]", "[[karma]]", "[[Vaiseshika Darshanam]]"]
+related: ["[[sutra]]", "[[karma]]", "[[Vaiseshika Darshanam]]", "[[Kanaada]]", "[[gruthva]]"]
 ---
 
 # VaishshikaSutra

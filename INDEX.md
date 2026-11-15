@@ -289,7 +289,7 @@ Areas: [Maps](#maps) · [Computer science · Cryptography](#computer-science-cry
 ## Podcasts & videos
 
 - [[India Before Invasions - Explained By Sandeep Balakrishna]] — Podcast : https://www.youtube.com/watch?v=A8nhnKAKong
-- [[jyothisha_rajvedam_beerbiceps]] — Podcast : BeerBiceps
+- [[jyothisha_rajvedam_beerbiceps]] — Raj Vedam on BeerBiceps (TRS 372): astronomy inside Indian texts — 27 nakshatras, ayanas,…
 - [[sangam_history_of_indian_science]] — Topic : Sangam Series | History of Indian Science
 
 ## Music

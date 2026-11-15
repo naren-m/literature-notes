@@ -3,11 +3,15 @@ title: "jyothisha_rajvedam_beerbiceps"
 date: "2026-05-05"
 type: "literature"
 category: "Media/Podcasts"
-tags: ["BeerBiceps"]
+tags: ["BeerBiceps", "podcast", "jyothisha", "history", "raj-vedam"]
 status: "draft"
+source: "https://www.youtube.com/watch?v=bQ4LnEPklSY"
+related: ["[[jyothisha]]", "[[Uthrayana]]", "[[Dakshinayana]]", "[[Rigveda]]"]
 ---
 
 # jyothisha_rajvedam_beerbiceps
+
+Raj Vedam on BeerBiceps (TRS 372): astronomy inside Indian texts — 27 nakshatras, ayanas, adhika maasa, an eclipse in the Rigveda.
 
 ## Details
 - Podcast : #BeerBiceps

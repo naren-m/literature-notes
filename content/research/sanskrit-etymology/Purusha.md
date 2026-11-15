@@ -2,7 +2,7 @@
 title: "Purusha"
 date: "2026-08-31"
 type: "research"
-category: "Legacy"
+category: "Research/Sanskrit Etymology"
 tags: ["sanskrit", "philosophy", "saamkhya", "vyuthpathi"]
 status: "draft"
 related: ["[[Saamkhya]]"]

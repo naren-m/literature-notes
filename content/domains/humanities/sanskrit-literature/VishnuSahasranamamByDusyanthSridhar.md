@@ -28,7 +28,7 @@ Pravachanam
 
 [[VishnuSahasranamam]]
 
-``{{video https://www.youtube.com/watch?v=C49xUHEHrH`k}}`
+{{video https://www.youtube.com/watch?v=C49xUHEHrHk}}
 
 ### Transcript 7th part out of 8
 

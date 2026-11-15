@@ -2,7 +2,7 @@
 title: "Bantu reethi Kolu"
 date: "2026-05-05"
 type: "research"
-category: "Legacy"
+category: "Research/Music"
 tags: ["music", "tyagaraja", "telugu"]
 status: "draft"
 ---

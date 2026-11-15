@@ -2,7 +2,7 @@
 title: "fibbonacci numbers"
 date: "2026-08-31"
 type: "research"
-category: "Legacy"
+category: "Research/Mathematics"
 tags: ["mathematics", "sanskrit", "pingala"]
 status: "draft"
 related: ["[[Pingala]]"]
@@ -21,4 +21,4 @@ Written in Liber Abaci, 1202 CE, defined as growth in number of rabbits
 - much before him by Pingala numbers by [[Pingala]]
 - Source https://www.youtube.com/shorts/gB9WENCKw5Q
 
-![[Screenshot 2026-05-21 at 12.35.26 AM.png]]
+![Hemachandra numbers](https://raw.githubusercontent.com/naren-m/literature-notes/main/assets/Screenshot%202026-05-21%20at%2012.35.26%20AM.png)

@@ -122,7 +122,7 @@ Areas: [Maps](#maps) · [Computer science · Cryptography](#computer-science-cry
 - [[Brihadesi]] — Wiki: https://en.wikipedia.org/wiki/Brihaddeshi
 - [[Buddhi]] — Sankalpathmika Manas, Nischayathmika Buddhi (నిశ్చయాత్మక బుద్ధి) - one that decides.
 - [[Carnatic music]] — South Indian classical music. Rāga (melody) + tāla (rhythm cycle).
-- [[charaka_samhitha]] — Main text of Ayurvedam. Internal medicine.
+- [[charaka_samhitha]] — Main text of Ayurvedam. Internal medicine (kāyacikitsā).
 - [[Chidananda]] — Chit + Ānanda = consciousness + bliss.
 - [[chitta]] — చేసిన పనిని గుర్తు పెట్టుకునేది చిత్తం - that which remembers deeds done.
 - [[Dakshinayana]] — Six months when the sun moves south.

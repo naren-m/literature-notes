@@ -5,7 +5,7 @@ type: permanent
 category: "Humanities/Sanskrit Literature"
 tags: ["sanskrit", "grammar", "panini", "dhatu"]
 status: draft
-related: ["[[Ashtadhyayi]]", "[[Panini]]", "[[Dhatu Manjari]]", "[[Krt pratyaya]]"]
+related: ["[[Ashtadhyayi]]", "[[Panini]]", "[[Dhatu Manjari]]", "[[Krt pratyaya]]", "[[Shri_Six_Derivations]]"]
 ---
 
 # Dhatupatha (धातुपाठ)
